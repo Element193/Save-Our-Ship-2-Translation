@@ -15,7 +15,7 @@
 	<SoS.LeaveGraveyardDesc>Оставить обломки на произвол судьбы.</SoS.LeaveGraveyardDesc>
 	<SoS.ForceExitAndRemoveMapCountdown>Вход в атмосферу через {0}.</SoS.ForceExitAndRemoveMapCountdown>
 	<SoS.BurnUpPlayer>Нестабильная орбита!</SoS.BurnUpPlayer>
-	<SoS.BurnUpPlayerDesc>Системы управления выведены из строя, этот корабль больше не может поддерживать стабильную орбиту; через {0} дней он войдет в атмосферу! Все находящееся на нем будет уничтожено!</SoS.BurnUpPlayerDesc>
+	<SoS.BurnUpPlayerDesc>Системы управления выведены из строя, этот корабль больше не может поддерживать стабильную орбиту; через {0} он войдет в атмосферу! Все находящееся на нем будет уничтожено!</SoS.BurnUpPlayerDesc>
 	<SoS.BurnUpPlayerPrevented>Восстановление корабельного мостика позволило стабилизировать орбиту корабля.</SoS.BurnUpPlayerPrevented>
 	<SoS.BurnUpCountdown>Вход в атмосферу через {0}!</SoS.BurnUpCountdown>
 	<SoS.BurnUpCountdownTip>Этот корабль войдет в атмосферу через {0}. Все находящееся на нем будет уничтожено.</SoS.BurnUpCountdownTip>
