@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: imperial laborer -->
+  <Empire_Space_Laborer.label>чернорабочий империи</Empire_Space_Laborer.label>
+  <!-- EN: space marine -->
+  <Empire_Fighter_Marine_Space.label>космический пехотинец</Empire_Fighter_Marine_Space.label>
+  <!-- EN: space cataphract -->
+  <Empire_Fighter_Cataphract_Space.label>космический катафракт</Empire_Fighter_Cataphract_Space.label>
+</LanguageData>

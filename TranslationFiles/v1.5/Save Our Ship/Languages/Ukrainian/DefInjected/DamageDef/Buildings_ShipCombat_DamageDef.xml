@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipCombat.xml-->
+	
+	<BombACI.label>Відірвано</BombACI.label>
+	<BombACI.deathMessage>{0} Знищено вибухом.</BombACI.deathMessage>
+	
+	<BombACII.label>Відірвано</BombACII.label>
+	<BombACII.deathMessage>{0} Знищено вибухом.</BombACII.deathMessage>
+	
+	<BombACIII.label>Відірвано</BombACIII.label>
+	<BombACIII.deathMessage>{0} Знищено вибухом.</BombACIII.deathMessage>
+	
+	<ShipLaserSmall.label>Лазер</ShipLaserSmall.label>
+	<ShipLaserSmall.deathMessage>{0} Спалено лазерним променем.</ShipLaserSmall.deathMessage>
+	
+	<ShipLaserTwo.label>Лазер</ShipLaserTwo.label>
+	<ShipLaserTwo.deathMessage>{0} Спалено лазерним променем.</ShipLaserTwo.deathMessage>
+	
+	<ShipPlasmaSmall.label>Плазма</ShipPlasmaSmall.label>
+	<ShipPlasmaSmall.deathMessage>{0} Спалено снарядом плазмової турелі.</ShipPlasmaSmall.deathMessage>
+	
+	<ShipPlasmaLarge.label>Плазма</ShipPlasmaLarge.label>
+	<ShipPlasmaLarge.deathMessage>{0} Спалено снарядом великої плазмової турелі.</ShipPlasmaLarge.deathMessage>
+	
+	<BombKinetic.label>Снаряд</BombKinetic.label>
+	<BombKinetic.deathMessage>{0} Розірвано снарядом рельсотрону.</BombKinetic.deathMessage>
+	
+	<BombKineticLarge.label>Снаряд</BombKineticLarge.label>
+	<BombKineticLarge.deathMessage>{0} Розірвано снарядом рельсотрону.</BombKineticLarge.deathMessage>
+	
+	<BombShipDebris.label>Відірвано</BombShipDebris.label>
+	<BombShipDebris.deathMessage>{0} Помер при зіткненні з уламком.</BombShipDebris.deathMessage>
+	
+	<BombShipDebrisLarge.label>Відірвано</BombShipDebrisLarge.label>
+	<BombShipDebrisLarge.deathMessage>{0} Помер при зіткненні з великим уламком.</BombShipDebrisLarge.deathMessage>
+	
+	<ShieldExplosion.label>Щит</ShieldExplosion.label>
+	<ShieldExplosion.deathMessage>Збій щита призвів до смерті {0}.</ShieldExplosion.deathMessage>
+	
+
+	<!-- Хэллоу! что ты тут делаешь? -->
+</LanguageData>

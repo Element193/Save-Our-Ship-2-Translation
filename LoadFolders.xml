@@ -1,0 +1,24 @@
+﻿<loadFolders>
+
+	<!-- RimWorld 1.3 -->
+	<v1.3>
+		<li>TranslationFiles/v1.4/Save Our Ship</li>
+		<li>TextureFiles</li>
+	</v1.3>
+
+	<!-- RimWorld 1.4 -->
+	<v1.4>
+		<li>TranslationFiles/v1.4/Save Our Ship</li>
+		<li>TextureFiles</li>
+	</v1.4>
+
+	<!-- RimWorld 1.5 -->
+	<v1.5>
+		<li>TranslationFiles/v1.5/Save Our Ship</li>
+		<li>TextureFiles</li>
+		<li IfModActive="Ludeon.RimWorld.Royalty">TranslationFiles/v1.5/Royalty</li> <!-- Full RU|UA -->
+		<li IfModActive="Ludeon.RimWorld.Anomaly">TranslationFiles/v1.5/Anomaly</li> <!-- Full RU|UA -->
+	</v1.5>
+
+
+</loadFolders>

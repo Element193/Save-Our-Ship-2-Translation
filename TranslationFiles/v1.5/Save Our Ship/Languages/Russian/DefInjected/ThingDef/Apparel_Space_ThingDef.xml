@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--1.5\Defs\ThingDefs_Misc\Apparel_Space.xml-->
+	<Apparel_SpaceSuitBody.label>Скафандр</Apparel_SpaceSuitBody.label>
+	<Apparel_SpaceSuitBody.description>Костюм с автономными системами жизнеобеспечения, обеспечивающий выживаемость и подвижность в вакууме.</Apparel_SpaceSuitBody.description>
+
+	<Apparel_SpaceSuitBodyChild.label>Детский скафандр</Apparel_SpaceSuitBodyChild.label>
+	<Apparel_SpaceSuitBodyChild.description>Детский костюм с автономными системами жизнеобеспечения, обеспечивающий выживаемость и подвижность в вакууме.</Apparel_SpaceSuitBodyChild.description>
+	
+	<Apparel_SpaceSuitHelmet.label>Шлем скафандра</Apparel_SpaceSuitHelmet.label>
+	<Apparel_SpaceSuitHelmet.description>Шлем с автономными системами жизнеобеспечения, обеспечивающий выживаемость в вакууме. Перерабатывает кислород и обеспечивает устойчивость к токсинам.</Apparel_SpaceSuitHelmet.description>
+	
+	<Apparel_SpaceSuitHelmetChild.label>Детский шлем скафандра</Apparel_SpaceSuitHelmetChild.label>
+	<Apparel_SpaceSuitHelmetChild.description>Детский шлем с автономными системами жизнеобеспечения, обеспечивающий выживаемость в вакууме. Перерабатывает кислород и обеспечивает устойчивость к токсинам.</Apparel_SpaceSuitHelmetChild.description>
+	
+	<Apparel_SpaceSuitBodyHeavy.label>Космопехотная броня</Apparel_SpaceSuitBodyHeavy.label>
+	<Apparel_SpaceSuitBodyHeavy.description>Высокотехнологичный прочный костюм, оснащенный встроенными системами, которые обеспечивают выживаемость и мобильность в вакууме.</Apparel_SpaceSuitBodyHeavy.description>
+	
+	<Apparel_SpaceSuitHelmetHeavy.label>Космопехотный шлем</Apparel_SpaceSuitHelmetHeavy.label>
+	<Apparel_SpaceSuitHelmetHeavy.description>Высокотехнологичный прочный шлем, оснащенный встроенными системами, которые обеспечивают выживаемость в вакууме. Перерабатывает кислород и обеспечивает устойчивость к токсинам.</Apparel_SpaceSuitHelmetHeavy.description>
+
+	<Apparel_SpaceSurvivalBelt.label>пояс выживания</Apparel_SpaceSurvivalBelt.label>
+	<Apparel_SpaceSurvivalBelt.description>Устройство для экстренного спасения экипажа космических судов. Он находится в режиме ожидания, пока поддерживается пригодная атмосфера. Как только датчики пояса идентифицируют вакуум, пояс создает мембрану вокруг тела и начинает генерировать кислород в течении нескольких часов. Пояс предназначен для одноразового использования.</Apparel_SpaceSurvivalBelt.description>
+	<Apparel_SpaceSurvivalBelt.verbs.0.label>мембрана</Apparel_SpaceSurvivalBelt.verbs.0.label>
+
+	<Apparel_SpaceSurvivalBelt.comps.CompApparelReloadable.chargeNoun>зарядка</Apparel_SpaceSurvivalBelt.comps.CompApparelReloadable.chargeNoun>
+	<Apparel_SpaceSurvivalBelt.comps.CompApparelReloadable.cooldownGerund>заряжается</Apparel_SpaceSurvivalBelt.comps.CompApparelReloadable.cooldownGerund>
+
+	
+</LanguageData>

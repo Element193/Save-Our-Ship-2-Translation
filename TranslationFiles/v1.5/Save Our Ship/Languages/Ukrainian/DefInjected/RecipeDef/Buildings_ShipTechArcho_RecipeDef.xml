@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipTechArcho.xml-->
+	
+	<RecyclotronRecipe.label>переробка</RecyclotronRecipe.label>
+	<RecyclotronRecipe.description>Використовуйте розбірних механітів для переробки предмета на його складові, з майже ідеальною ефективністю.</RecyclotronRecipe.description>
+	<RecyclotronRecipe.jobString>Переробляє.</RecyclotronRecipe.jobString>	
+
+	
+</LanguageData>

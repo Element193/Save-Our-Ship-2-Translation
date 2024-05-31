@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--1.5\Defs\JobDefs\Jobs.xml-->
+	<CarryToCryptonest.reportString>переносить яйця в інкубатор.</CarryToCryptonest.reportString>
+	<OperateScannerSpace.reportString>сканує через TargetA.</OperateScannerSpace.reportString>
+	<HackSatellite.reportString>взламує TargetA.</HackSatellite.reportString>
+	<RepairSatellite.reportString>ремонтує TargetA.</RepairSatellite.reportString>
+	<PersuadeAI.reportString>переконує TargetA.</PersuadeAI.reportString>
+	<HackBlackBoxConsole.reportString>взламує TargetA.</HackBlackBoxConsole.reportString>
+	<LoadTorpedoTube.reportString>Заряджає торпеди.</LoadTorpedoTube.reportString>
+	<LoadShipBuilding.reportString>Заправляє TargetA.</LoadShipBuilding.reportString>
+	<ManShipBridge.reportString>обслуговує місток.</ManShipBridge.reportString>
+	<HackEnemyShip.reportString>взламує TargetA.</HackEnemyShip.reportString>
+	<HackAirlock.reportString>взламує TargetA.</HackAirlock.reportString>
+	<BreachAirlock.reportString>ламає TargetA.</BreachAirlock.reportString>
+	<DefendBreacher.reportString>захищає TargetA.</DefendBreacher.reportString>
+	<RepairItemWithGel.reportString>ремонтує TargetA.</RepairItemWithGel.reportString>
+	<SacrificeToArchotech.reportString>жертвує TargetA.</SacrificeToArchotech.reportString>
+	<FleeVacuum.reportString>втеча від вакууму.</FleeVacuum.reportString>
+	<InstallConsciousness.reportString>встановлює особистість TargetB.</InstallConsciousness.reportString>
+	<MergeWithSpore.reportString>зливається з спорою архотек.</MergeWithSpore.reportString>
+	<ResurrectHologram.reportString>переносить особистість в TargetA.</ResurrectHologram.reportString>
+	<UseHolodeck.reportString>використовує голопалубу.</UseHolodeck.reportString>	
+</LanguageData>

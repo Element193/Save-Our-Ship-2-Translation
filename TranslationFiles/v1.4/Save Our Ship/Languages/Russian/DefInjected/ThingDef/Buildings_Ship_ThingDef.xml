@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--1.5\Defs\ThingDefs_Buildings\Buildings_Ship.xml-->
+	<Ship_Beam_Unpowered.label>корпус корабля (без питания)</Ship_Beam_Unpowered.label>
+	<Ship_Beam_Unpowered.description>Внешние структурные элементы корпуса корабля. Не включает теплопроводы и кабели.</Ship_Beam_Unpowered.description>
+	
+	<Ship_Beam.label>корпус корабля</Ship_Beam.label>
+	<Ship_Beam.description>Внешние структурные элементы корпуса корабля. Включает трубопроводы и кабели.</Ship_Beam.description>
+	
+	<Ship_Corner_OneOne.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneOne.description>
+	<Ship_Corner_OneOne.label>угол корпуса (1x1)</Ship_Corner_OneOne.label>
+	
+	<Ship_Corner_OneOneFlip.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneOneFlip.description>
+	<Ship_Corner_OneOneFlip.label>угол корпуса (1x1) перевернутый</Ship_Corner_OneOneFlip.label>
+	
+	<Ship_Corner_OneTwo.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneTwo.description>
+	<Ship_Corner_OneTwo.label>угол корпуса (1x2)</Ship_Corner_OneTwo.label>
+	
+	<Ship_Corner_OneTwoFlip.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneTwoFlip.description>
+	<Ship_Corner_OneTwoFlip.label>угол корпуса (1x2) перевернутый</Ship_Corner_OneTwoFlip.label>
+	
+	<Ship_Corner_OneThree.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneThree.description>
+	<Ship_Corner_OneThree.label>угол корпуса (1x3)</Ship_Corner_OneThree.label>
+	
+	<Ship_Corner_OneThreeFlip.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneThreeFlip.description>
+	<Ship_Corner_OneThreeFlip.label>угол корпуса (1x3) перевернутый</Ship_Corner_OneThreeFlip.label>
+	
+	<ShipInside_SolarGenerator.label>корабельная солнечная батарея</ShipInside_SolarGenerator.label>
+	<ShipInside_SolarGenerator.description>Производит электричество из солнечного света. До 600 Вт в космосе, до 300 Вт на поверхности планеты. Не работает в темноте или при искусственном освещении.</ShipInside_SolarGenerator.description>
+	
+	<ShipInside_PassiveVent.label>корабельная вентиляция</ShipInside_PassiveVent.label>
+	<ShipInside_PassiveVent.description>Охлаждает или нагревает комнаты внутри корабля до нужной температуры.\n\nМожет также отапливать помещения с помощью электричества.</ShipInside_PassiveVent.description>
+	
+	<ShipAirlock.label>корабельный шлюз</ShipAirlock.label>
+	<ShipAirlock.description>Позволяет получить доступ к кораблю или разделять комнаты внутри него. Энергетические плазменные барьеры препятствуют выходу газов.</ShipAirlock.description>
+	
+	<ShipAirlockBeam.label>стыковочный узел</ShipAirlockBeam.label>
+	<ShipAirlockBeam.description>Система для крепления космических аппаратов. Поместите две из них рядом с вакуумным шлюзом, обращенным в ту же сторону. Шлюз получит возможность выдвигать стыковочную трубку длиной до 3 клеток. На другом конце не требуется никакого специального оборудования: просто подведите трубу к шлюзу другого корабля. Вы также можете соединить его с другими шлюзами.\n\nТруба не предназначена для межпланетных путешествий или входа в атмосферу, поэтому корабли будут автоматически разъединяться.</ShipAirlockBeam.description>
+	
+	<ShipHullTile.label>обшивка корпуса</ShipHullTile.label>
+	<ShipHullTile.description>Корабельная обшивка. Обозначает клетку (и все построенные на ней объекты) как область корабля. Нужно размещать внутри корпуса корабля.</ShipHullTile.description>
+	
+	<ShipHardpointSmall.description>Опорная конструкция для крепления зданий и турелей к внешнему корпусу корабля. Все, что построено на ней, будет считаться частью корабля.\n\nВстроенная нанокомпозитная броня снижает урон турелям, установленных на этой точке, в два раза.</ShipHardpointSmall.description>
+	<ShipHardpointSmall.label>малая платформа</ShipHardpointSmall.label>
+	
+	<ShipHardpoint.description>Опорная конструкция для крепления зданий и турелей к внешнему корпусу корабля. Все, что построено на ней, будет считаться частью корабля.\n\nВстроенная нанокомпозитная броня снижает урон турелям, установленных на этой точке, в два раза.</ShipHardpoint.description>
+	<ShipHardpoint.label>средняя платформа</ShipHardpoint.label>
+	
+	<ShipHardpointExtraMedium.description>Опорная конструкция для крепления зданий и турелей к внешнему корпусу корабля. Все, что построено на ней, будет считаться частью корабля.\n\nВстроенная нанокомпозитная броня снижает урон турелям, установленных на этой точке, в два раза.</ShipHardpointExtraMedium.description>
+	<ShipHardpointExtraMedium.label>большая платформа</ShipHardpointExtraMedium.label>
+	
+	<ShipHardpointLarge.description>Опорная конструкция для крепления зданий и турелей к внешнему корпусу корабля. Все, что построено на ней, будет считаться частью корабля.\n\nВстроенная нанокомпозитная броня снижает урон турелям, установленных на этой точке, в два раза.</ShipHardpointLarge.description>
+	<ShipHardpointLarge.label>огромная платформа</ShipHardpointLarge.label>
+	
+	<Ship_Engine_Small.label>малый ускоритель</Ship_Engine_Small.label>
+	<Ship_Engine_Small.description>Двигатель на химическом топливе, способный вывести корабль на орбиту. Не подходит для межпланетных путешествий.</Ship_Engine_Small.description>
+	
+	<Ship_Engine.label>ускоритель</Ship_Engine.label>
+	<Ship_Engine.description>Двигатель на химическом топливе, способный вывести корабль на орбиту. Не подходит для межпланетных путешествий.</Ship_Engine.description>
+	
+	<Ship_Engine_Large.label>ядерный ускоритель</Ship_Engine_Large.label>
+	<Ship_Engine_Large.description>Ядерный ускоритель, способный вывести корабль на орбиту. Загрязняет окружающую среду. Не подходит для межпланетных путешествий.</Ship_Engine_Large.description>
+	
+	<Ship_Thruster.label>осевой ускоритель</Ship_Thruster.label>
+	<Ship_Thruster.description>Небольшое подруливающее устройство, необходимое для изменения положения и вращения корабля.\n\nТребуется по одному на сторону за каждые 2000кг массы корабля.</Ship_Thruster.description>
+	
+	<Ship_Engine_Interplanetary.label>двигатель Джонсона-Танаки</Ship_Engine_Interplanetary.label>
+	<Ship_Engine_Interplanetary.description>Продвинутый двигатель, способный совершать межпланетные и межзвездные путешествия.</Ship_Engine_Interplanetary.description>
+	
+	<Ship_Engine_Interplanetary_Large.label>большой Двигатель Джонсона-Танаки</Ship_Engine_Interplanetary_Large.label>
+	<Ship_Engine_Interplanetary_Large.description>Продвинутый двигатель, способный совершать межпланетные и межзвездные путешествия.</Ship_Engine_Interplanetary_Large.description>
+	
+	<ShipPilotSeatMini.label>корабельный мостик</ShipPilotSeatMini.label>
+	<ShipPilotSeatMini.description>Позволяет экипажу управлять кораблем.</ShipPilotSeatMini.description>
+	
+	<ShipConsoleTactical.label>тактическая консоль</ShipConsoleTactical.label>
+	<ShipConsoleTactical.description>Предоставляет возможность выбора орудий и прицеливания. Повышает точность корабельных орудий в зависимости от навыка стрельбы оператора.</ShipConsoleTactical.description>
+	
+	<ShipConsoleScience.label>исследовательская консоль</ShipConsoleScience.label>
+	<ShipConsoleScience.description>Позволяет находить интересные объекты, наблюдать за планетой с орбиты, или сканировать вражеские корабли в бою.</ShipConsoleScience.description>
+	
+	<Ship_ComputerCore.label>корабельный компьютер</Ship_ComputerCore.label>
+	<Ship_ComputerCore.description>Компьютер, который содержит ядро ИИ. Он может управлять кораблем, точно стрелять из орудий или вести его в межзвездных путешествиях. Имеет встроенный генератор механитов, которые могут создать физическую форму ИИ личности.</Ship_ComputerCore.description>
+	
+	<Ship_SensorCluster.label>базовые сенсоры</Ship_SensorCluster.label>
+	<Ship_SensorCluster.description>Базовые корабельные сенсоры, необходимые для его функционирования. Позволяют кораблю достичь орбиты.</Ship_SensorCluster.description>
+	
+	<Ship_SensorClusterAdv.label>продвинутые сенсоры</Ship_SensorClusterAdv.label>
+	<Ship_SensorClusterAdv.description>Продвинутые сенсоры. Автоматически сканируют ближайшие объекты, могут сканировать вражеские корабли в бою.</Ship_SensorClusterAdv.description>
+	
+	<Ship_LifeSupport.label>Система жизнеобеспечения</Ship_LifeSupport.label>
+	<Ship_LifeSupport.description>Рециркулирует кислород во всех герметичных помещениях корабля. Необходима для поддержания жизни экипажа и животных.</Ship_LifeSupport.description>
+	
+	<Ship_LifeSupport_Small.label>Малая система жизнеобеспечения</Ship_LifeSupport_Small.label>
+	<Ship_LifeSupport_Small.description>Рециркулирует кислород во всех герметичных помещениях корабля. Необходима для поддержания жизни экипажа и животных.\n\n Эта версия менее эффективна за счет более компактной конструкции, она хорошо подходит для небольших кораблей.</Ship_LifeSupport_Small.description>
+	
+	<ShipCapacitorSmall.label>корабельный конденсатор</ShipCapacitorSmall.label>
+	<ShipCapacitorSmall.description>Эффективно хранит до 1000 Вт энергии.</ShipCapacitorSmall.description>
+	
+	<ShipCapacitor.label>конденсаторная батарея</ShipCapacitor.label>
+	<ShipCapacitor.description>Эффективно хранит до 10000 Вт энергии.</ShipCapacitor.description>
+	
+	<Ship_Reactor.label>корабельный реактор</Ship_Reactor.label>
+	<Ship_Reactor.description>Расщепляет урановые топливные капсулы для получения большого количества энергии в течении длительного времени. Генерирует тепло в помещение, или сеть корабля.\n\nМощность в 10000 Вт может быть увеличена с помощью нескольких режимов разгона.</Ship_Reactor.description>
+
+	<Ship_Reactor_Small.label>малый корабельный реактор</Ship_Reactor_Small.label>
+	<Ship_Reactor_Small.description>Компактная версия корабельного реактора. Расщепляет урановые топливные капсулы для получения большого количества энергии в течении длительного времени. Генерирует тепло в помещение, или сеть корабля.\n\nМощность в 3000 Вт может быть увеличена с помощью нескольких режимов разгона.</Ship_Reactor_Small.description>
+	
+	<ShipShuttleBay.label>посадочная платформа</ShipShuttleBay.label>
+	<ShipShuttleBay.description>Место посадки для шаттлов. Оно должно быть свободно от препятствий. Установите рядом маяки, для посадки торговых челноков.</ShipShuttleBay.description>
+	
+	<ShipShuttleBayLarge.label>большая посадочная платформа</ShipShuttleBayLarge.label>
+	<ShipShuttleBayLarge.description>Место посадки для шаттлов. Оно должно быть свободно от препятствий. Эта версия может вмещать большие шаттлы, или несколько малых. Установите рядом маяки, для посадки торговых челноков.</ShipShuttleBayLarge.description>
+	
+	<ShipSalvageBay.label>механический захват</ShipSalvageBay.label>
+	<ShipSalvageBay.description>Базовое корабельное устройство для сбора предметов и перемещения обломков. Чтобы переместить большие объекты, может потребоваться несколько захватов.\n\nМаксимальная перемещаемая масса: 5000кг.</ShipSalvageBay.description>
+	
+	<ShipSalvageBayNano.label>лучевой захват</ShipSalvageBayNano.label>
+	<ShipSalvageBayNano.description>Продвинутое корабельное устройство для сбора предметов и перемещения обломков. Основано на реверсивном принципе действия двигателя Джонсона-Танаки, использует тяговой луч для перемещения объектов.\n\nМаксимальная перемещаемая масса: 10000кг.</ShipSalvageBayNano.description>
+	
+	<ShipCloakingDevice.label>маскировочное устройство</ShipCloakingDevice.label>
+	<ShipCloakingDevice.description>Генерирует поле, маскирующее тепловые излучения, скрывая корабль от пассивных сенсоров. Не может защитить от мощных сканеров, используемых для поиска кораблей, за которые назначена награда.\n\nПока устройство активно, тепловая система корабля будет отключена, а теплоемкость уменьшится.</ShipCloakingDevice.description>
+	
+	<Ship_CryptosleepCasket.label>спасательная капсула</Ship_CryptosleepCasket.label>
+	<Ship_CryptosleepCasket.description>Капсула криптосна с несколькими встроенными таймерами и защитными протоколами. Может быть открыта без ручного вмешательства. В случае катастрофической поломки корабля может служить спасательной капсулой.</Ship_CryptosleepCasket.description>
+	
+	<SpaceCrib.label>космическая кроватка</SpaceCrib.label>
+	<SpaceCrib.description>Высокотехнологичная кровать идеально подходит для сна ребенка. В случае отказа системы жизнеобеспечения защитная оболочка закроет спящего, обеспечивая кислородом и регулируя температуру. Она также служит спасательной капсулой в случае серьезных повреждений корабля.</SpaceCrib.description>
+	
+	<CrittersleepCasket.label>криптоячейки (8)</CrittersleepCasket.label>
+	<CrittersleepCasket.description>Ячейки с автономным питанием, способные содержать до восьми мелких животных. Перед помещением в криптосон, животные должны быть под наркозом.</CrittersleepCasket.description>
+	
+	<CrittersleepCasketLarge.label>криптоячейки (32)</CrittersleepCasketLarge.label>
+	<CrittersleepCasketLarge.description>Ячейки с автономным питанием, способные содержать до тридцати двух мелких животных. Перед помещением в криптосон, животные должны быть под наркозом.</CrittersleepCasketLarge.description>
+	
+	<Cryptonest.label>криптоинкубатор</Cryptonest.label>
+	<Cryptonest.description>Инкубатор с автономным питанием, способный содержать до шестнадцати яиц.</Cryptonest.description>
+	
+	<Ship_AvatarCasket.label>хранилище личности</Ship_AvatarCasket.label>
+	<Ship_AvatarCasket.description>Капсула с передовыми механитами, способными разобрать труп, и воссоздать его в виде формгеля - роя механитов, имитирующих живое существо.\n\nЛичность переносится с идеальной точностью в искусственный нейро-психический субстрат, и остается в ячейке, дистанционно управляя формгелем с помощью психической связи. В одном хранилище одновременно может находится только одна личность.</Ship_AvatarCasket.description>
+	
+	<HullFoamDistributor.label>Распределитель пены</HullFoamDistributor.label>
+	<HullFoamDistributor.description>Система для распределения каркасной пены по всему кораблю. Когда часть корпуса корабля разрушается в бою, эта система автоматически заделывает пробоину каркасной пеной.</HullFoamDistributor.description>
+	
+	<HullFoamWall.label>каркасная пена</HullFoamWall.label>
+	<HullFoamWall.description>Герметичная стена из каркасной пены.</HullFoamWall.description>
+	
+	<ShipHullfoamTile.label>покрытие из каркасной пены</ShipHullfoamTile.label>
+	<ShipHullfoamTile.description>Герметичное покрытие из каркасной пены.</ShipHullfoamTile.description>
+	
+	<ShipAirlockBeamWall.label>стена шлюза</ShipAirlockBeamWall.label>
+	<ShipAirlockBeamWall.description>Герметичная удлиненная стена шлюза.</ShipAirlockBeamWall.description>
+	
+	<ShipAirlockBeamWallInert.label>стена шлюза</ShipAirlockBeamWallInert.label>
+	<ShipAirlockBeamWallInert.description>Герметичная удлиненная стена шлюза.</ShipAirlockBeamWallInert.description>
+	
+	<ShipAirlockBeamTile.label>покрытие шлюза</ShipAirlockBeamTile.label>
+	
+	<ShipBPBomberHeavy.label>чертеж корабля (тяжелый бомбардировщик)</ShipBPBomberHeavy.label>
+	<ShipBPBomberHeavy.description>Class: Heavy bomber\nA heavily armed ship but incapable of extended operations in space.\n\nMass: 1092\nSize: 28 x 26\nT/W ratio: 3.161\nCombat rating: 110\n\nWeapons: \n1x large railgun turret\n2x laser turret\n2x torpedo launcher\n\nRequired resources: \nsteel: 5057\nplasteel: 1777\nadvanced component: 77\ncomponent: 162\nuranium: 120\nsilver: 225\n\nRequired research: \nstarflight basics, ship navigation, cruiser armaments, air conditioning, heatsinks, ship fission reactor, rocket propulsion, laser turrets, firefoam, ship shields, capacitor arrays, ship torpedoes, ship life support</ShipBPBomberHeavy.description>
+	
+	<ShipBPCargoFirefly.label>чертеж корабля (транспорт "Светлячок")</ShipBPCargoFirefly.label>
+	<ShipBPCargoFirefly.description>Class: Firefly class transport\nAn unarmed transport ship with a large cargo hold.\n\nMass: 4705\nSize: 79 x 50\nT/W ratio: 1.648\nCombat rating: 63\n\nWeapons: \nnone\nRequired resources: \nsteel: 24379\nplasteel: 5890\nadvanced component: 202\ncomponent: 740\ngold: 16\nuranium: 170\nentanglement manifold: 1\nsilver: 100\n\nRequired research: \nstarflight basics, ship navigation, advanced ship sensors, microelectronics, rocket propulsion, escape pods, air conditioning, electricity, solar panel, ship life support, salvage bay, vitals monitor, shuttle bay, complex furniture, heatsinks, machining, ship fission reactor, firefoam, hospital bed, capacitor arrays, Johnson-Tanaka Drive</ShipBPCargoFirefly.description>
+	
+	<ShipBPCorvette.label>чертеж корабля (корвет)</ShipBPCorvette.label>
+	<ShipBPCorvette.description>Class: Corvette\nA small corvette.\n\nMass: 1860\nSize: 36 x 20\nT/W ratio: 2.383\nCombat rating: 132\n\nWeapons: \n2x torpedo launcher\n4x laser turret\n2x railgun turret\n\nRequired resources: \nsteel: 9172\nplasteel: 2992\nadvanced component: 132\ncomponent: 314\nsilver: 900\ngold: 4\nuranium: 120\n\nRequired research: \nstarflight basics, ship navigation, heatsinks, air conditioning, ship shields, microelectronics, salvage bay, basic ship sensors, ship fission reactor, ship torpedoes, ship life support, machining, firefoam, rocket propulsion, tube television, laser turrets, capacitor arrays, railgun turrets</ShipBPCorvette.description>
+	
+	<ShipBPCorvetteGunship.label>чертеж корабля (боевой корвет)</ShipBPCorvetteGunship.label>
+	<ShipBPCorvetteGunship.description>Class: Corvette\nA slow but heavily armed corvette.\n\nMass: 3685\nSize: 69 x 26\nT/W ratio: 1.403\nCombat rating: 262\n\nWeapons: \n8x laser turret\n2x large railgun turret\n2x large plasma turret\n\nRequired resources: \nsteel: 19819\nadvanced component: 245\nplasteel: 6390\ncomponent: 651\nuranium: 530\ngold: 4\nsilver: 1700\n\nRequired research: \nship navigation, starflight basics, laser turrets, air conditioning, basic ship sensors, microelectronics, ship shields, heatsinks, cruiser armaments, firefoam, capacitor arrays, flatscreen television, electricity, hospital bed, escape pods, rocket propulsion, ship fission reactor, machining, salvage bay, ship life support, vitals monitor</ShipBPCorvetteGunship.description>
+	
+	<ShipBPCorvetteWinged.label>чертеж корабля (корвет)</ShipBPCorvetteWinged.label>
+	<ShipBPCorvetteWinged.description>Class: Corvette\nA winged corvette.\n\nMass: 3092\nSize: 44 x 48\nT/W ratio: 1.763\nCombat rating: 178\n\nWeapons: \n1x large railgun turret\n6x laser turret\n2x torpedo launcher\n\nRequired resources: \nsteel: 15183\nadvanced component: 172\nplasteel: 4794\ncomponent: 547\nuranium: 220\nsilver: 900\ngold: 4\n\nRequired research: \nship navigation, starflight basics, capacitor arrays, cruiser armaments, air conditioning, microelectronics, ship life support, ship shields, salvage bay, heatsinks, escape pods, tube television, vitals monitor, hospital bed, basic ship sensors, rocket propulsion, laser turrets, ship torpedoes, ship fission reactor</ShipBPCorvetteWinged.description>
+	
+	<ShipBPFrigateArcher.label>чертеж корабля (фрегат "Лучник")</ShipBPFrigateArcher.label>
+	<ShipBPFrigateArcher.description>Class: Archer class frigate\nAn agile frigate that prefers to engage targets from long range with its large railgun.\n\nMass: 7422\nSize: 76 x 44\nT/W ratio: 1.909\nCombat rating: 575\n\nWeapons: \n10x laser turret\n2x large plasma turret\n1x spinal barrel: railgun\n2x torpedo launcher\n\nRequired resources: \nsteel: 39694\nadvanced component: 548\nplasteel: 12097\ncomponent: 1091\nuranium: 750\nsilver: 1100\ngold: 52\ncloth: 130\nwood: 55\n\nRequired research: \nship navigation, starflight basics, laser turrets, capital ship armaments, microelectronics, escape pods, air conditioning, hullfoam, ship shields, advanced ship sensors, heatsinks, hospital bed, ship life support, capacitor arrays, cruiser armaments, rocket propulsion, machining, fabrication, ship fission reactor, purge ports, firefoam, shuttle bay, salvage bay, multi-analyzer, hydroponics, ship torpedoes, electricity, complex furniture, drug production, complex clothing, vitals monitor, flatscreen television</ShipBPFrigateArcher.description>
+	
+	<ShipBPFrigateWinged.label>чертеж корабля (фрегат)</ShipBPFrigateWinged.label>
+	<ShipBPFrigateWinged.description>Class: Frigate\nA large and powerful frigate.\n\nMass: 8249\nSize: 77 x 60\nT/W ratio: 1.781\nCombat rating: 629\n\nWeapons: \n2x plasma turret\n2x torpedo launcher (2)\n2x large railgun turret\n10x laser turret\n1x spinal barrel: railgun\n1x large laser turret\n\nRequired resources: \nsteel: 44394\nadvanced component: 566\nplasteel: 13290\ncomponent: 1323\nuranium: 800\ncloth: 50\nwood: 25\ngold: 52\nsilver: 1100\n\nRequired research: \nship navigation, starflight basics, salvage bay, electricity, capacitor arrays, microelectronics, shuttle bay, plasma turrets, air conditioning, escape pods, ship life support, ship torpedoes, hospital bed, hydroponics, vitals monitor, hullfoam, machining, complex furniture, advanced ship sensors, ship shields, firefoam, cruiser armaments, laser turrets, heatsinks, rocket propulsion, capital ship armaments, ship fission reactor, multi-analyzer, fabrication, purge ports, flatscreen television</ShipBPFrigateWinged.description>
+	
+	<ShipBPCorvetteMartian.label>чертеж корабля (древний марсианский корвет)</ShipBPCorvetteMartian.label>
+	<ShipBPCorvetteMartian.description>Class: Ancient martian corvette\nAn ancient design that stood the test of time.\n\nMass: 2459\nSize: 59 x 22\nT/W ratio: 1.737\nCombat rating: 136\n\nWeapons: \n6x cannon turret\n1x torpedo launcher (2)\n\nRequired resources: \nsteel: 12505\nplasteel: 3607\nadvanced component: 144\ngold: 20\ncomponent: 397\nuranium: 300\nsilver: 100\n\nRequired research: \nstarflight basics, ship navigation, basic ship sensors, ship cannons, microelectronics, air conditioning, hydroponics, rocket propulsion, ship fission reactor, heatsinks, capacitor arrays, electricity, machining, salvage bay, advanced ship sensors, flatscreen television, ship torpedoes, hospital bed, vitals monitor, ship life support</ShipBPCorvetteMartian.description>
+	
+	<ShipBPTransportSmall.label>чертеж корабля (малый транспорт)</ShipBPTransportSmall.label>
+	<ShipBPTransportSmall.description>Class: Small transport\nA small lightly armed transport ship.\n\nMass: 1469\nSize: 30 x 22\nT/W ratio: 1.978\nCombat rating: 44\n\nWeapons: \n2x laser turret\n\nRequired resources: \nsteel: 7296\nplasteel: 2084\nadvanced component: 91\ncomponent: 249\ngold: 4\nuranium: 40\nsilver: 250\n\nRequired research: \nstarflight basics, ship navigation, microelectronics, flatscreen television, air conditioning, ship life support, basic ship sensors, salvage bay, heatsinks, laser turrets, ship fission reactor, ship shields, machining, hospital bed, vitals monitor, firefoam, rocket propulsion, capacitor arrays</ShipBPTransportSmall.description>
+	
+	<ShipMoveBlueprint.label>Новая позиция корабля</ShipMoveBlueprint.label>
+	<ShipMoveBlueprint.description>Выберите место, в которое хотите переместить корабль.</ShipMoveBlueprint.description>
+	
+	<MinifiedThingShipMove.label>уменьшенная вещь</MinifiedThingShipMove.label>
+	
+	<Ship_FakeBeam.label>корпус корабля</Ship_FakeBeam.label>
+	<Ship_FakeBeam.description>Внешние структурные элементы корпуса корабля. Включают трубопроводы и кабели.</Ship_FakeBeam.description>
+	
+	<SoS2DummyObject.label>Ненастоящий Объект</SoS2DummyObject.label>
+	
+	<PawnSpawnerStart.label>метка призыва колонистов</PawnSpawnerStart.label>
+	<PawnSpawnerStart.description>На этом месте будут появляться стартовые колонисты, вместо того чтобы использовать другие варианты - криптокапсулу, спасательные капсулы. Используется только на стартовых картах.</PawnSpawnerStart.description>
+</LanguageData>

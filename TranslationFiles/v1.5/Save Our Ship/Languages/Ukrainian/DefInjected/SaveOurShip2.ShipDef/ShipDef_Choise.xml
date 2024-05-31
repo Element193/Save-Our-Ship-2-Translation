@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AfterlifeVaultStart.label>Хранилище Сознаний</AfterlifeVaultStart.label>
+    <CarrierStrike.label>Авианосец "Удар"</CarrierStrike.label>
+    <BPCorvetteArdent.label>Корвет класса "Горячее сердце"</BPCorvetteArdent.label>
+    <BPCruiserThor.label>Крейсер класса "Тор"</BPCruiserThor.label>
+    <BPDestroyer.label>Эсминец-торпедоносец</BPDestroyer.label>
+    <BPMiningRig.label>Горнопромышленная установка</BPMiningRig.label>    
+
+
+</LanguageData>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--1.5\Defs\ResearchProjectDefs\ResearchProjects_Ship.xml-->
+	<ShipBasics.label>основы кораблестроения</ShipBasics.label>
+	<ShipBasics.description>Структурные и вспомогательные элементы для строительства космического корабля. Это первый шаг, который позволит вам покинуть эту планету.</ShipBasics.description>
+	<ShipBasics.discoveredLetterTitle>Запуск корабля</ShipBasics.discoveredLetterTitle>
+	<ShipBasics.discoveredLetterText>Побег с этой планеты - это наконец-то свобода, и возможность найти свой дом.\n\nНо прежде чем вы сможете подумать о межзвездном путешествии, нужно достичь орбиты. Минимальные требования для запуска космического корабля: ускоритель, мостик и сенсоры. Чтобы выжить в космосе, поселенцам также понадобится система жизнеобеспечения, либо скафандры.\n\nКоличество топлива, необходимое для вывода корабля на орбиту зависит от его размера. Большим кораблям может потребоваться несколько двигателей, и больше топлива.</ShipBasics.discoveredLetterText>
+
+	<ShipReactor.label>корабельные реакторы</ShipReactor.label>
+	<ShipReactor.description>Расщепление урановых топливных капсул для получения большого количества энергии в течении длительного времени.</ShipReactor.description>
+	
+	<ShipEngine.label>корабельные ускорители</ShipEngine.label>
+	<ShipEngine.description>Базовые корабельные двигатели. С помощью них можно достичь орбиты, но не больше.</ShipEngine.description>
+	
+	<SoSJTDrive.label>двигатель Джонсона-Танаки</SoSJTDrive.label>
+	<SoSJTDrive.description>Понятие принципов, лежащих в основе безреакционного двигателя Джонсона-Танаки, способного совершать межпланетные и межзвездные путешествия.</SoSJTDrive.description>
+
+	<ShipSalvageBayGlitter.label>лучевой захват</ShipSalvageBayGlitter.label>
+	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танаки.</ShipSalvageBayGlitter.description>
+
+	<ShipPilotSeat.label>корабельная навигация</ShipPilotSeat.label>
+	<ShipPilotSeat.description>Базовые корабельные устройства, которые позволяют экипажу управлять кораблем.</ShipPilotSeat.description>
+	
+	<ShipComputerCore.label>корабельный компьютер</ShipComputerCore.label>
+	<ShipComputerCore.description>Позволяет содержать ИИ, который может управлять кораблем. Необходим для дальних путешествий.</ShipComputerCore.description>
+
+	<ShipAvatarCasket.label>хранилища личности</ShipAvatarCasket.label>
+	<ShipAvatarCasket.description>Системы с передовыми механитами, которые способны воссоздать личность в виде формгеля - роя механитов, имитирующих биологические тела людей.</ShipAvatarCasket.description>
+
+	
+	<ShipSensorCluster.label>базовые сенсоры</ShipSensorCluster.label>
+	<ShipSensorCluster.description>Сенсоры, способные осуществлять базовую навигацию и сканировать местность с орбиты.</ShipSensorCluster.description>
+
+	
+	<ShipSensorClusterAdv.label>продвинутые сенсоры</ShipSensorClusterAdv.label>
+	<ShipSensorClusterAdv.description>Более мощный вариант корабельных сенсоров, способных на сканирование вражеских кораблей.</ShipSensorClusterAdv.description>
+
+	
+	<ShipLifeSupport.label>жизнеобеспечение корабля</ShipLifeSupport.label>
+	<ShipLifeSupport.description>Система циркуляции кислорода, которая обеспечивает его равномерное распределение во всех герметичных помещениях. Это необходимо для создания и поддержания пригодной атмосферы, способной поддерживать жизнь экипажа и животных на борту.</ShipLifeSupport.description>
+
+	
+	<ShipSpaceSuits.label>Скафандры</ShipSpaceSuits.label>
+	<ShipSpaceSuits.description>Костюмы с автономными системами жизнеобеспечения, которые обеспечивают выживаемость и подвижность команды в космосе.</ShipSpaceSuits.description>
+
+	
+	<ShipSpaceSuitsHeavy.label>Космопехотная броня</ShipSpaceSuitsHeavy.label>
+	<ShipSpaceSuitsHeavy.description>Высокотехнологичная броня, оснащенная встроенными системами, обеспечивающими выживаемость и мобильность команды в космосе.</ShipSpaceSuitsHeavy.description>
+
+	
+	<Crittersleep.label>криптоячейки</Crittersleep.label>
+	<Crittersleep.description>Специальные капсулы для хранения мелких животных в состоянии криптосна.</Crittersleep.description>
+
+	
+	<ShipCryptosleep.label>спасательные капсулы</ShipCryptosleep.label>
+	<ShipCryptosleep.description>Космическая версия саркофага криптосна, оборудована передовыми автоматическими системами, что освобождает от необходимости ручного управления. Эти капсулы при необходимости способны выдерживать вход в атмосферу. Было бы неплохо иметь как минимум одну на борту.</ShipCryptosleep.description>
+
+	
+	<ShipCapacitor.label>корабельные конденсаторы</ShipCapacitor.label>
+	<ShipCapacitor.description>Космический вариант аккумулятора, используемый на всех кораблях. Основной принцип заключается в использовании диэлектрических свойств пластали для эффективного сохранения энергии.</ShipCapacitor.description>
+
+	
+	<ShipSalvageBay.label>механический захват</ShipSalvageBay.label>
+	<ShipSalvageBay.description>Базовая корабельная система, использующая дронов и магнитные импульсы для перемещения объектов в космосе. Позволяет извлекать ценные предметы после боя или обломки для утилизации.</ShipSalvageBay.description>
+
+	<HullFoam.label>каркасная пена</HullFoam.label>
+	<HullFoam.description>Распыляемая субстанция, которая быстро превращается в герметичный барьер после применения. Используется для заделывания пробоин в корпусе корабля.</HullFoam.description>
+
+	
+	<ShipShields.label>корабельные щиты</ShipShields.label>
+	<ShipShields.description>Технология для формирования импульсного репульсорного поля, которое выталкивает входящие снаряды, но не влияет на выходящие.</ShipShields.description>
+
+	
+	<ShipCloaking.label>корабельная маскировка</ShipCloaking.label>
+	<ShipCloaking.description>Технология для формирования поля, которое маскирует тепловые излучения корабля. Препятствует обнаружению корабля обычными и продвинутыми сенсорами, но не влияет на более мощные сканеры охотников за головами.</ShipCloaking.description>
+
+	
+	<ShipShuttleBay.label>посадочные платформы</ShipShuttleBay.label>
+	<ShipShuttleBay.description>Герметичные платформы для шаттлов, нужны чтобы безопасно переправлять грузы на корабль и обратно.</ShipShuttleBay.description>
+
+	
+	<ShuttlePersonal.label>персональные шаттлы</ShuttlePersonal.label>
+	<ShuttlePersonal.description>Персональные шаттлы, использующие химическое топливо. Во многом похожи на транспортные капсулы.</ShuttlePersonal.description>
+
+	
+	<ShuttleCargo.label>легкие шаттлы</ShuttleCargo.label>
+	<ShuttleCargo.description>Легкие, многофункциональные шаттлы, использующие урановые топливные капсулы. Способны совершать как космические, так и наземные путешествия.</ShuttleCargo.description>
+
+	
+	<ShuttleHeavy.label>тяжёлые шаттлы</ShuttleHeavy.label>
+	<ShuttleHeavy.description>Тяжёлые многофункциональные шаттлы, использующие урановые топливные капсулы. Имеют большой выбор модификаций и способны совершать как космические, так и наземные путешествия.</ShuttleHeavy.description>
+
+	<ShuttleDropship.label>сверхтяжёлые шаттлы</ShuttleDropship.label>
+	<ShuttleDropship.description>Сверхтяжёлые многофункциональные шаттлы, использующие урановые топливные капсулы. Имеют большой выбор модификаций и способны совершать как космические, так и наземные путешествия.</ShuttleDropship.description>
+
+	<ShipTurretAC.label>баллистические орудия</ShipTurretAC.label>
+	<ShipTurretAC.description>Баллистические турели, идеально подходящие для защиты корабля от торпед и шаттлов. Они генерируют минимальное количество тепла, но имеют небольшой радиус поражения и требуют перезарядки.</ShipTurretAC.description>
+
+	<ShipTurretLaser.label>лазерные орудия</ShipTurretLaser.label>
+	<ShipTurretLaser.description>Разрушительные лазерные орудия не требующие боеприпасов. Можно использовать для защиты корабля от торпед и шаттлов. Имеют небольшой радиус поражения, генерируют большое количество тепла и требуют много энергии.</ShipTurretLaser.description>
+
+	<ShipTurretPlasma.label>плазменные орудия</ShipTurretPlasma.label>
+	<ShipTurretPlasma.description>Сбалансированные орудия, которые стреляют разрушительной плазмой. Имеют средний радиус поражения.</ShipTurretPlasma.description>
+
+	<ShipTurretKinetic.label>рельсотроны</ShipTurretKinetic.label>
+	<ShipTurretKinetic.description>Дальнобойные орудия, которые разгоняют снаряды до разрушительных скоростей.</ShipTurretKinetic.description>
+
+	<ShipHeatsink.label>корабельные радиаторы</ShipHeatsink.label>
+	<ShipHeatsink.description>Устройства для отвода тепла в космос. Необходимы для работы орудий, щитов и других корабельных систем.</ShipHeatsink.description>
+
+	<ShipHeatManifold.label>порт быстрого сброса</ShipHeatManifold.label>
+	<ShipHeatManifold.description>Устройство для быстрого отвода тепла путем сбрасывания нагретого серебра в космос.</ShipHeatManifold.description>
+
+	<ShipTurretMedium.label>вооружение эсминцев</ShipTurretMedium.label>
+	<ShipTurretMedium.description>Большие орудия, обычно устанавливаемые на таких классах кораблей как фрегаты, эсминцы и крейсеры.</ShipTurretMedium.description>
+
+	<ShipTurretLarge.label>вооружение крейсеров</ShipTurretLarge.label>
+	<ShipTurretLarge.description>Большие модульные орудия, применяемые на самых продвинутых и крупных кораблях, таких как межзвёздные крейсеры.</ShipTurretLarge.description>
+
+	<ShipTorpedoes.label>корабельные торпеды</ShipTorpedoes.label>
+	<ShipTorpedoes.description>Ситуативный вариант корабельного вооружения. Они уязвимы для орудий точечной обороны, но имеют большой радиус поражения и способны нанести значительный ущерб щитам или корпусу корабля.</ShipTorpedoes.description>
+
+	<Holodeck_Basic.label>базовая голопалуба</Holodeck_Basic.label>
+	<Holodeck_Basic.description>Устройство на базе голографической технологии, которое способно к простому моделированию. Позволяет развивать навыки в зависимости от выбранной программы.</Holodeck_Basic.description>
+
+	<Holodeck_Standard.label>продвинутая голопалуба</Holodeck_Standard.label>
+	<Holodeck_Standard.description>Современный голопроектор, способный к детальному моделированию, оснащенный широким спектром симуляторов. Позволяет развивать навыки в зависимости от выбранной программы. Очень увлекательное занятие.</Holodeck_Standard.description>
+
+	<Holodeck_AI.label>разумная голопалуба</Holodeck_AI.label>
+	<Holodeck_AI.description>Высокотехнологичное устройство из лучших миров, управляемое искусственным интеллектом. Его творческий потенциал позволяет создавать бесконечно занимательные симуляции, подстраиваясь под любые предпочтения. Позволяет быстро развивать навыки, полностью погружаясь в симуляцию.</Holodeck_AI.description>
+
+
+</LanguageData>
