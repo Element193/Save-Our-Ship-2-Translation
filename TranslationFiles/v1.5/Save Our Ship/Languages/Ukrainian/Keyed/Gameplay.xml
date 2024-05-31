@@ -3,22 +3,22 @@
 	<!-- All new tags should start with SoS. -->
 	
 	<!-- world/orbit -->
-	<SoS.MoveWest>Движение запад</SoS.MoveWest>
-	<SoS.MoveWestDesc>Перемещение корабля на запад по орбите.</SoS.MoveWestDesc>
-	<SoS.MoveEast>Движение восток</SoS.MoveEast>
-	<SoS.MoveEastDesc>Перемещение корабля на восток по орбите</SoS.MoveEastDesc>
-	<SoS.MoveStop>Остановить</SoS.MoveStop>
-	<SoS.MoveStopDesc>Отключить ускорители и выйти на геосинхронную орбиту.</SoS.MoveStopDesc>
-	<SoS.AbandonHome>Покинуть</SoS.AbandonHome>
-	<SoS.AbandonHomeDesc>Покиньте свой корабль, его экипаж будет потерян.</SoS.AbandonHomeDesc>
-	<SoS.LeaveGraveyard>Покинуть обломки</SoS.LeaveGraveyard>
-	<SoS.LeaveGraveyardDesc>Оставить обломки на произвол судьбы.</SoS.LeaveGraveyardDesc>
-	<SoS.ForceExitAndRemoveMapCountdown>Вход в атмосферу через {0}.</SoS.ForceExitAndRemoveMapCountdown>
-	<SoS.BurnUpPlayer>Нестабильная орбита!</SoS.BurnUpPlayer>
-	<SoS.BurnUpPlayerDesc>Системы управления выведены из строя, этот корабль больше не может поддерживать стабильную орбиту; через {0} он войдет в атмосферу! Все находящееся на нем будет уничтожено!</SoS.BurnUpPlayerDesc>
+	<SoS.MoveWest>Імпульс Захід</SoS.MoveWest>
+	<SoS.MoveWestDesc>Переміщення корабля по орбіті на Захід.</SoS.MoveWestDesc>
+	<SoS.MoveEast>Імпульс Схід</SoS.MoveEast>
+	<SoS.MoveEastDesc>Переміщення корабля по орбіті на Схід.</SoS.MoveEastDesc>
+	<SoS.MoveStop>Зупинити</SoS.MoveStop>
+	<SoS.MoveStopDesc>Відключити прискорювачі та вийти на геосинхронну орбіту.</SoS.MoveStopDesc>
+	<SoS.AbandonHome>Залишити</SoS.AbandonHome>
+	<SoS.AbandonHomeDesc>Залишити корабель, його екіпаж буде втрачено.</SoS.AbandonHomeDesc>
+	<SoS.LeaveGraveyard>Залишити уламки</SoS.LeaveGraveyard>
+	<SoS.LeaveGraveyardDesc>Залишити уламки напризволяще.</SoS.LeaveGraveyardDesc>
+	<SoS.ForceExitAndRemoveMapCountdown>Вхід в атмосферу через {0}.</SoS.ForceExitAndRemoveMapCountdown>
+	<SoS.BurnUpPlayer>Нестабільна орбіта!</SoS.BurnUpPlayer>
+	<SoS.BurnUpPlayerDesc>Системи управління корабля виведені з ладу, він більше не може підтримувати стабільну орбіту.\n\nЧерез {0} судно увійде в атмосферу! Все, що знаходиться на борту буде знищено!</SoS.BurnUpPlayerDesc>
 	<SoS.BurnUpPlayerPrevented>Восстановление корабельного мостика позволило стабилизировать орбиту корабля.</SoS.BurnUpPlayerPrevented>
-	<SoS.BurnUpCountdown>Вход в атмосферу через {0}!</SoS.BurnUpCountdown>
-	<SoS.BurnUpCountdownTip>Этот корабль войдет в атмосферу через {0}. Все находящееся на нем будет уничтожено.</SoS.BurnUpCountdownTip>
+	<SoS.BurnUpCountdown>Вхід в атмосферу через {0}!</SoS.BurnUpCountdown>
+	<SoS.BurnUpCountdownTip>Корабель увійде в атмосферу через {0}. Все, що знаходиться на борту буде знищено.</SoS.BurnUpCountdownTip>
 	
 	<!-- combat -->
 	<SoS.CombatTooltip>Показывает расстояние между вашим кораблем и кораблем противника, дальность поражения орудий, снаряды орудий, летящие шаттлы.\n\nКрасная метка: лазерные орудия\nЗеленая метка: плазменные орудия\nСиняя метка: рельсотроны\nФиолетовая метка: торпеды</SoS.CombatTooltip>
@@ -150,8 +150,8 @@
 	<SoS.NeedsMoreFuel>Корабль имеет {0} единиц топлива, но требует {1} в топливных баках двигателей.</SoS.NeedsMoreFuel>
 	<SoS.NeedsMorePower>Кораблю требуется {0} Вт запасенной энергии.</SoS.NeedsMorePower>
 	<SoS.NeedsMoreJTEngines>Из-за своих размеров корабль требует больше двигателей Джонсона-Танаки.</SoS.NeedsMoreJTEngines>
-	<SoS.PlanetLeave>Межпланетный\nперелет</SoS.PlanetLeave>
-	<SoS.PlanetLeaveDesc>Оставьте эту планету и найдите новый мир.</SoS.PlanetLeaveDesc>
+	<SoS.PlanetLeave>Покинути планету</SoS.PlanetLeave>
+	<SoS.PlanetLeaveDesc>Покинути цю планету в пошуках нового світу.</SoS.PlanetLeaveDesc>
 	<SoS.ToggleScanShips>Поиск кораблей</SoS.ToggleScanShips>
 	<SoS.ToggleScanShipsDesc>Включить сканирование других кораблей</SoS.ToggleScanShipsDesc>
 	<SoS.ToggleScanSites>Поиск обьектов</SoS.ToggleScanSites>

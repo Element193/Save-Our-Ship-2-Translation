@@ -13,10 +13,10 @@
     <SoS.EncounterAmbush>Засада!</SoS.EncounterAmbush>
     <SoS.EncounterAmbushDesc>По мере вашего приближения к {0}, он активирует щиты и орудия.\nПриготовьтесь к бою!</SoS.EncounterAmbushDesc>
     <SoS.CombatStart>Сражение</SoS.CombatStart>
-    <SoS.CombatStartDesc>Приближается вражеский корабль! Сканирование показывает, что это {0}.</SoS.CombatStartDesc>
+    <SoS.CombatStartDesc>Приближается вражеский корабль! Сканирование идентифицирует его как {0}.</SoS.CombatStartDesc>
     <SoS.CombatFleetDesc>Приближается вражеский флот!</SoS.CombatFleetDesc>
     <SoS.WinShipBattle>Победа!</SoS.WinShipBattle>
-    <SoS.WinShipBattleDesc>После уничтожения систем управления, вражеский корабль дрейфует в направлении планеты, и сгорит через в атмосфере {0}.\n\nВы можете отправить группу для сбора полезных компонентов с корабля, или переместить его, используя корабельный захват, но будьте готовы к сражению с выжившими.</SoS.WinShipBattleDesc>
+    <SoS.WinShipBattleDesc>После уничтожения систем управления, вражеский корабль дрейфует в направлении планеты, и сгорит в атмосфере через {0}.\n\nВы можете отправить группу для сбора полезных компонентов с корабля, или переместить его, используя корабельный захват, но будьте готовы к сражению с выжившими.</SoS.WinShipBattleDesc>
     <SoS.SpaceAsteroids>Поле астероидов</SoS.SpaceAsteroids>
     <SoS.SpaceAsteroidsDesc>Ваш корабль вошел в поле астероидов. Используйте двигатели для уклонения, или готовьтесь к столкновению!</SoS.SpaceAsteroidsDesc>
     <SoS.PawnsLostReEntry>Возвращение в атмосферу</SoS.PawnsLostReEntry>
