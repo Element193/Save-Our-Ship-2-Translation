@@ -160,9 +160,9 @@
 	<SoS.ToggleShieldsDesc>Активируйте или деактивируйте щиты вашего корабля</SoS.ToggleShieldsDesc>
 	<SoS.ToggleCloak>Переключить маскировочное устройство</SoS.ToggleCloak>
 	<SoS.ToggleCloakDesc>Активируйте или деактивируйте маскировочное устройство вашего корабля</SoS.ToggleCloakDesc>
-	<SoS.ShipInfo>Статистика\nкорабля</SoS.ShipInfo>
+	<SoS.ShipInfo>Статистика корабля</SoS.ShipInfo>
 	<SoS.ShipInfoDesc>Показывает статистику корабля и его готовность к межзвездным путешествиям.</SoS.ShipInfoDesc>
-	<SoS.Rename>Имя\nкорабля</SoS.Rename>
+	<SoS.Rename>Имя корабля</SoS.Rename>
 	<SoS.RenameDesc>Дать этому кораблю новое имя</SoS.RenameDesc>
 	<SoS.Move>Переместить корабль</SoS.Move>
 	<SoS.MoveDesc>Переместить корабль в другое место</SoS.MoveDesc>
