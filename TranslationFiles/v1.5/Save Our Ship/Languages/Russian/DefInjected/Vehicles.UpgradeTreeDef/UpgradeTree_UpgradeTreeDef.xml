@@ -45,10 +45,10 @@
 	<SoS2ShuttleUpgradeTree.nodes.19.description>&lt;color=#bb8f04&gt;+10 вместимость пассажиров, -1000 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.19.description>
 	<SoS2ShuttleUpgradeTree.nodes.20.label>Пассажирский Модуль (12)</SoS2ShuttleUpgradeTree.nodes.20.label>
 	<SoS2ShuttleUpgradeTree.nodes.20.description>&lt;color=#bb8f04&gt;+12 вместимость пассажиров, -1200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.20.description>
-	<SoS2ShuttleUpgradeTree.nodes.21.label>Пассажирский Модуль (16)</SoS2ShuttleUpgradeTree.nodes.21.label>
-	<SoS2ShuttleUpgradeTree.nodes.21.description>&lt;color=#bb8f04&gt;+16 вместимость пассажиров, -1600 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.21.description>
-	<SoS2ShuttleUpgradeTree.nodes.22.label>Пассажирский Модуль (20)</SoS2ShuttleUpgradeTree.nodes.22.label>
-	<SoS2ShuttleUpgradeTree.nodes.22.description>&lt;color=#bb8f04&gt;+20 вместимость пассажиров, -2000 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.22.description>	
+	<SoS2ShuttleUpgradeTree.nodes.21.label>Пассажирский Модуль (14)</SoS2ShuttleUpgradeTree.nodes.21.label>
+	<SoS2ShuttleUpgradeTree.nodes.21.description>&lt;color=#bb8f04&gt;+14 вместимость пассажиров, -1400 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.21.description>
+	<SoS2ShuttleUpgradeTree.nodes.22.label>Пассажирский Модуль (16)</SoS2ShuttleUpgradeTree.nodes.22.label>
+	<SoS2ShuttleUpgradeTree.nodes.22.description>&lt;color=#bb8f04&gt;+16 вместимость пассажиров, -1600 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.22.description>	
 	<SoS2ShuttleUpgradeTree.nodes.23.label>Лазерная Турель (А)</SoS2ShuttleUpgradeTree.nodes.23.label>
 	<SoS2ShuttleUpgradeTree.nodes.23.description>&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.23.description>
 	<SoS2ShuttleUpgradeTree.nodes.23.upgrades.1.turrets.0.gizmoLabel>Лазерная Орудийная Установка А</SoS2ShuttleUpgradeTree.nodes.23.upgrades.1.turrets.0.gizmoLabel>
