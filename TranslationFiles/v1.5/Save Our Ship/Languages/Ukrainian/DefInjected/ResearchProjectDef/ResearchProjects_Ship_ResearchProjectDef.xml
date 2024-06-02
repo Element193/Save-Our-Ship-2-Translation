@@ -108,7 +108,7 @@
 	<ShipHeatsink.label>корабельные радиаторы</ShipHeatsink.label>
 	<ShipHeatsink.description>Устройства для отвода тепла в космос. Необходимы для работы орудий, щитов и других корабельных систем.</ShipHeatsink.description>
 
-	<ShipHeatManifold.label>порт быстрого сброса</ShipHeatManifold.label>
+	<ShipHeatManifold.label>порт быстрого охлаждения</ShipHeatManifold.label>
 	<ShipHeatManifold.description>Устройство для быстрого отвода тепла путем сбрасывания нагретого серебра в космос.</ShipHeatManifold.description>
 
 	<ShipTurretMedium.label>вооружение эсминцев</ShipTurretMedium.label>

@@ -22,10 +22,10 @@
 	<ShipHeatBankLarge.label>большой тепловой резервуар</ShipHeatBankLarge.label>
 	<ShipHeatBankLarge.description>Увеличенный резервуар с охлаждающей жидкостью, используемый для хранения избыточного тепла.\n\nБудет воспламенен, если охлаждающая жидкость в резервуарах приблизиться к максимальному значению. Высвобождает накопленное тепло при разрушении.\n\nТеплоемкость: 4000 Те.\nОтдача: 6 Те/с.</ShipHeatBankLarge.description>
 	
-	<ShipPurgePort.label>порт быстрого сброса</ShipPurgePort.label>
+	<ShipPurgePort.label>порт быстрого охлаждения</ShipPurgePort.label>
 	<ShipPurgePort.description>Система для направления тепла в металлы с низкой температурой плавления, такие как серебро. Выброс расплавленного серебра в космос — дорогостоящий способ быстро избавиться от накопленного тепла. Щиты будут отключены во время сброса.</ShipPurgePort.description>
 	
-	<ShipPurgePortLarge.label>большой порт быстрого сброса</ShipPurgePortLarge.label>
+	<ShipPurgePortLarge.label>большой порт быстрого охлаждения</ShipPurgePortLarge.label>
 	<ShipPurgePortLarge.description>Увеличенная версия системы для направления тепла в металлы с низкой температурой плавления, такие как серебро. Выброс расплавленного серебра в космос — дорогостоящий способ быстро избавиться от накопленного тепла. Щиты будут отключены во время сброса.</ShipPurgePortLarge.description>
 	
 	<ShipTurret_ACI.label>турель автопушки</ShipTurret_ACI.label>
