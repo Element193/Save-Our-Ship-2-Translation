@@ -4,37 +4,37 @@
 	<SpaceCannibal.label>космический каннибал</SpaceCannibal.label>
 	<SpaceCannibal.labelPlural>космические каннибалы</SpaceCannibal.labelPlural>
 	<SpaceCannibal.labelMale>космический каннибал</SpaceCannibal.labelMale>
-	<SpaceCannibal.labelFemale>космический каннибал</SpaceCannibal.labelFemale>
+	<SpaceCannibal.labelFemale>космическая каннибалка</SpaceCannibal.labelFemale>
 	<SpaceCannibal.labelMalePlural>космические каннибалы</SpaceCannibal.labelMalePlural>
-	<SpaceCannibal.labelFemalePlural>Космические каннибалы</SpaceCannibal.labelFemalePlural>
+	<SpaceCannibal.labelFemalePlural>космические каннибалки</SpaceCannibal.labelFemalePlural>
 	
-	<SpaceCrew.label>экипаж судна</SpaceCrew.label>
-	<SpaceCrew.labelPlural>экипаж судна</SpaceCrew.labelPlural>
-	<SpaceCrew.labelMale>экипаж судна</SpaceCrew.labelMale>
-	<SpaceCrew.labelFemale>экипаж судна</SpaceCrew.labelFemale>
-	<SpaceCrew.labelMalePlural>экипаж судна</SpaceCrew.labelMalePlural>
-	<SpaceCrew.labelFemalePlural>экипаж судна</SpaceCrew.labelFemalePlural>
+	<SpaceCrew.label>экипаж</SpaceCrew.label>
+	<SpaceCrew.labelPlural>экипаж</SpaceCrew.labelPlural>
+	<SpaceCrew.labelMale>экипаж</SpaceCrew.labelMale>
+	<SpaceCrew.labelFemale>экипаж</SpaceCrew.labelFemale>
+	<SpaceCrew.labelMalePlural>экипаж</SpaceCrew.labelMalePlural>
+	<SpaceCrew.labelFemalePlural>экипаж</SpaceCrew.labelFemalePlural>
 	
-	<SpaceCrewEVA.label>космический экипаж</SpaceCrewEVA.label>
-	<SpaceCrewEVA.labelPlural>Космический экипаж</SpaceCrewEVA.labelPlural>
-	<SpaceCrewEVA.labelMale>Космический экипаж</SpaceCrewEVA.labelMale>
-	<SpaceCrewEVA.labelFemale>Космический экипаж</SpaceCrewEVA.labelFemale>
-	<SpaceCrewEVA.labelMalePlural>Космический экипаж</SpaceCrewEVA.labelMalePlural>
-	<SpaceCrewEVA.labelFemalePlural>Космический экипаж</SpaceCrewEVA.labelFemalePlural>
+	<SpaceCrewEVA.label>астронавт</SpaceCrewEVA.label>
+	<SpaceCrewEVA.labelPlural>астронавты</SpaceCrewEVA.labelPlural>
+	<SpaceCrewEVA.labelMale>астронавт</SpaceCrewEVA.labelMale>
+	<SpaceCrewEVA.labelFemale>астронавтка</SpaceCrewEVA.labelFemale>
+	<SpaceCrewEVA.labelMalePlural>астронавты</SpaceCrewEVA.labelMalePlural>
+	<SpaceCrewEVA.labelFemalePlural>астронавтки</SpaceCrewEVA.labelFemalePlural>
 	
-	<SpaceCrewMarine.label>лёгкий пехотинец</SpaceCrewMarine.label>
-	<SpaceCrewMarine.labelPlural>лёгкие пехотинцы</SpaceCrewMarine.labelPlural>
-	<SpaceCrewMarine.labelMale>лёгкий пехотинец</SpaceCrewMarine.labelMale>
-	<SpaceCrewMarine.labelFemale>лёгкий пехотинец</SpaceCrewMarine.labelFemale>
-	<SpaceCrewMarine.labelMalePlural>лёгкие пехотинцы</SpaceCrewMarine.labelMalePlural>
-	<SpaceCrewMarine.labelFemalePlural>лёгкие пехотинцы</SpaceCrewMarine.labelFemalePlural>
+	<SpaceCrewMarine.label>космический солдат</SpaceCrewMarine.label>
+	<SpaceCrewMarine.labelPlural>космические солдаты</SpaceCrewMarine.labelPlural>
+	<SpaceCrewMarine.labelMale>космический солдат</SpaceCrewMarine.labelMale>
+	<SpaceCrewMarine.labelFemale>космический солдат</SpaceCrewMarine.labelFemale>
+	<SpaceCrewMarine.labelMalePlural>космические солдаты</SpaceCrewMarine.labelMalePlural>
+	<SpaceCrewMarine.labelFemalePlural>космические солдаты</SpaceCrewMarine.labelFemalePlural>
 	
-<SpaceCrewMarineHeavy.label>тяжёлый пехотинец</SpaceCrewMarineHeavy.label>
-<SpaceCrewMarineHeavy.labelPlural>тяжёлые пехотинцы</SpaceCrewMarineHeavy.labelPlural>
-<SpaceCrewMarineHeavy.labelMale>тяжёлый пехотинец</SpaceCrewMarineHeavy.labelMale>
-<SpaceCrewMarineHeavy.labelFemale>тяжёлый пехотинец</SpaceCrewMarineHeavy.labelFemale>
-<SpaceCrewMarineHeavy.labelMalePlural>тяжёлые пехотинцы</SpaceCrewMarineHeavy.labelMalePlural>
-<SpaceCrewMarineHeavy.labelFemalePlural>тяжёлые пехотинцы</SpaceCrewMarineHeavy.labelFemalePlural>
+<SpaceCrewMarineHeavy.label>космический пехотинец</SpaceCrewMarineHeavy.label>
+<SpaceCrewMarineHeavy.labelPlural>космические пехотинцы</SpaceCrewMarineHeavy.labelPlural>
+<SpaceCrewMarineHeavy.labelMale>космический пехотинец</SpaceCrewMarineHeavy.labelMale>
+<SpaceCrewMarineHeavy.labelFemale>космический пехотинец</SpaceCrewMarineHeavy.labelFemale>
+<SpaceCrewMarineHeavy.labelMalePlural>космические пехотинцы</SpaceCrewMarineHeavy.labelMalePlural>
+<SpaceCrewMarineHeavy.labelFemalePlural>космические пехотинцы</SpaceCrewMarineHeavy.labelFemalePlural>
 	
   <Astromite.label>астроклещ</Astromite.label>
   <Astromite.labelPlural>астроклещи</Astromite.labelPlural>
@@ -111,10 +111,10 @@
   <Cosmopillar.labelFemale>космопила</Cosmopillar.labelFemale>
   <Cosmopillar.labelFemalePlural>космопилы</Cosmopillar.labelFemalePlural>
 	
-	<SoSHologram.label>разум ИИ</SoSHologram.label>
-	<SoSHologram.labelPlural>Разумы ИИ</SoSHologram.labelPlural>
-	<SoSHologram.labelMale>Разум ИИ</SoSHologram.labelMale>
-	<SoSHologram.labelFemale>Разум ИИ</SoSHologram.labelFemale>
-	<SoSHologram.labelMalePlural>Разумы ИИ</SoSHologram.labelMalePlural>
-	<SoSHologram.labelFemalePlural>Разумы ИИ</SoSHologram.labelFemalePlural>
+	<SoSHologram.label>машинная личность</SoSHologram.label>
+	<SoSHologram.labelPlural>машинные личности</SoSHologram.labelPlural>
+	<SoSHologram.labelMale>машинная личность</SoSHologram.labelMale>
+	<SoSHologram.labelFemale>машинная личность</SoSHologram.labelFemale>
+	<SoSHologram.labelMalePlural>машинные личности</SoSHologram.labelMalePlural>
+	<SoSHologram.labelFemalePlural>машинные личности</SoSHologram.labelFemalePlural>
 </LanguageData>
