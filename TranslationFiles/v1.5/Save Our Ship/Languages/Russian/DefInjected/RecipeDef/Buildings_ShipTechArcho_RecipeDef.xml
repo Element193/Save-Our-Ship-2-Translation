@@ -2,9 +2,9 @@
 <LanguageData>
 	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipTechArcho.xml-->
 	
-	<RecyclotronRecipe.label>переработка</RecyclotronRecipe.label>
-	<RecyclotronRecipe.description>Использовать разборочных механитов для переработки предмета на его составляющие, с почти идеальной эффективностью.</RecyclotronRecipe.description>
-	<RecyclotronRecipe.jobString>Перерабатывает.</RecyclotronRecipe.jobString>
+	<RecyclotronRecipe.label>утилизация</RecyclotronRecipe.label>
+	<RecyclotronRecipe.description>Утилизация предметов на составляющие части при помощи механитов, с почти идеальной эффективностью.</RecyclotronRecipe.description>
+	<RecyclotronRecipe.jobString>Утилизирует.</RecyclotronRecipe.jobString>
 
 	
 </LanguageData>
