@@ -5,7 +5,7 @@
 	<ArcholifePod.description>Суспензия синтетических клеток, завернутая в одноразовый инкубатор. Может быть запрограммирована на "порождение" улучшенной версии обычного существа. Для создания архотрумбо требуется 10 таких капсул.</ArcholifePod.description>
 	
 	<ArchotechRepairGel.label>гель ремонтных механитов</ArchotechRepairGel.label>
-	<ArchotechRepairGel.description>Одноразовая капсула с механитами, настроенных на восстановление поврежденных предметов до идеального состояния.</ArchotechRepairGel.description>
+	<ArchotechRepairGel.description>Одноразовая капсула с механитами, которые настроены для восстановления поврежденных предметов до идеального состояния.</ArchotechRepairGel.description>
 	<ArchotechRepairGel.comps.1.useLabel>Использовать ремонтный гель</ArchotechRepairGel.comps.1.useLabel>
 	
 	<ArchotechMechaniteCore.label>ядро разборочных механитов</ArchotechMechaniteCore.label>
@@ -15,5 +15,5 @@
 	<ArchotechPsychicCore.description>Психический подавитель, способный разрушать сознание противников на большом расстоянии. Может быть использован для создания линейного орудия.</ArchotechPsychicCore.description>
 	
 	<ArchotechExoticParticles.label>экзотические частицы</ArchotechExoticParticles.label>
-	<ArchotechExoticParticles.description>Частицы, свойства которых не соответствуют общепринятым представлениям о физике, надежно удерживаются в капсуле. Их можно использовать для создания самых разных продвинутых устройств.</ArchotechExoticParticles.description>
+	<ArchotechExoticParticles.description>Частицы, чье поведение не соответствует общепринятым представлениям о физике, надежно удерживаются в капсуле. Их можно использовать для создания самых разных устройств.</ArchotechExoticParticles.description>
 </LanguageData>
