@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
 	<!--1.5\Defs\Storyteller\Storytellers.xml-->
 
-	<Sara.label>Сара Спейсер</Sara.label>
+	<Sara.label>Сара Космическая</Sara.label>
 	<Sara.description>Сара знает, что истинная сила колонии зависит от технологий. Она будет игнорировать богатство поселения, вместо этого учитывая прогресс исследований и количество высокотехнологичных построек.</Sara.description>
 	
 	<Kim.label>Ким Кисмет</Kim.label>
