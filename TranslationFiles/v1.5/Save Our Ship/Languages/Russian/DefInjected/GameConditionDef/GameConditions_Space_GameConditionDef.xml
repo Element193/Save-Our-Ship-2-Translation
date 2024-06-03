@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!--1.5\Defs\GameConditionDefs\GameConditions_Space.xml-->
+
 	<SpaceDebris.label>Космические обломки</SpaceDebris.label>
 	<SpaceDebris.description>Поле космических обломков.</SpaceDebris.description>
-	<SpaceDebris.endMessage>Корабль покинул поле обломков.</SpaceDebris.endMessage>
+	<SpaceDebris.endMessage>Корабль покинул поле космических обломков.</SpaceDebris.endMessage>
+
+
 </LanguageData>
