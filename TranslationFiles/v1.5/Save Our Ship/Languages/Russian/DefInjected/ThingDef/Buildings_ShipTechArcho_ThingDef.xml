@@ -93,9 +93,9 @@
 	
 	<MechaniteSpark.label>разборочные механиты</MechaniteSpark.label>
 	
-	<Weapon_GrenadeMechanite.label>коктейли механитов</Weapon_GrenadeMechanite.label>
+	<Weapon_GrenadeMechanite.label>розовая слизь</Weapon_GrenadeMechanite.label>
 	<Weapon_GrenadeMechanite.description>Бутылка, наполненная разборочными механитами. Излюбленное оружие продвинутых хулиганов.</Weapon_GrenadeMechanite.description>
-	<Weapon_GrenadeMechanite.verbs.0.label>бросать механитов</Weapon_GrenadeMechanite.verbs.0.label>
+	<Weapon_GrenadeMechanite.verbs.0.label>бросать</Weapon_GrenadeMechanite.verbs.0.label>
 	
 	<Proj_GrenadeMechanite.label>коктейль механитов</Proj_GrenadeMechanite.label>
 	
