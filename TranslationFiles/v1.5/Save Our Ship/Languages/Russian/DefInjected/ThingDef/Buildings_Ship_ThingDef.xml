@@ -79,6 +79,9 @@
 	<ShipConsoleScience.label>исследовательская консоль</ShipConsoleScience.label>
 	<ShipConsoleScience.description>Позволяет находить интересные объекты, наблюдать за планетой с орбиты, или сканировать вражеские корабли в бою.</ShipConsoleScience.description>
 	
+	<Ship_DroneCore.label>ядро дрона</Ship_DroneCore.label>
+	<Ship_DroneCore.description>Простой компьютер, в котором находится субличный ИИ.\n\nУстройство не способно к творческому мышлению, тем не менее, эффективно для управления кораблём в бою.</Ship_DroneCore.description>
+
 	<Ship_ComputerCore.label>корабельный компьютер</Ship_ComputerCore.label>
 	<Ship_ComputerCore.description>Компьютер, который содержит ядро ИИ. Он может управлять кораблем, точно стрелять из орудий или вести его в межзвездных путешествиях. Имеет встроенный генератор механитов, которые могут создать физическую форму ИИ личности.</Ship_ComputerCore.description>
 	
