@@ -39,5 +39,5 @@
 	<ShieldExplosion.label>Щит</ShieldExplosion.label>
 	<ShieldExplosion.deathMessage>Сбой щита привел к смерти {0} .</ShieldExplosion.deathMessage>
 
-	<!-- Хэллоу! что ты тут делаешь? -->
+	<!-- Хэллоу! Велком ту this файл -->
 </LanguageData>
