@@ -10,8 +10,8 @@
 	<ShipHullTileWrecked.label>обломки корпуса</ShipHullTileWrecked.label>
 	<ShipHullTileWrecked.description>Обломки корпуса корабля. Больше не пригодны для использования в космосе.</ShipHullTileWrecked.description>
 	
-	<ShipChunkSalvage.label>системы корабля</ShipChunkSalvage.label>
-	<ShipChunkSalvage.description>Передовые системы космического корабля, относительно неповрежденные. Можно разобрать для получения компонентов.</ShipChunkSalvage.description>
+	<ShipChunkSalvage.label>корабельные системы</ShipChunkSalvage.label>
+	<ShipChunkSalvage.description>Передовые системы космического корабля, относительно неповрежденные. Можно разобрать для получения космических компонентов.</ShipChunkSalvage.description>
 	
 	<Space_Satellite_Core.label>ядро спутника</Space_Satellite_Core.label>
 	<Space_Satellite_Core.description>Ядро древнего спутника. Ремонт и взлом потребуют значительных навыков. Любое вмешательство может привести к активации защитных протоколов.\n\nМожно использовать для получения доступа к древней системе орбитальной бомбардировки, или управления погодой.</Space_Satellite_Core.description>
