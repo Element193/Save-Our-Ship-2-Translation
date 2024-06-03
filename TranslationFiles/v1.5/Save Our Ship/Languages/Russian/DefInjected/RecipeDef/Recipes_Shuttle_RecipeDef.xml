@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!--1.5\Defs\RecipeDefs\Recipes_Shuttle.xml-->
-	<MakeShuttleFuelPods.label>создать урановые топл. капсулы</MakeShuttleFuelPods.label>
-	<MakeShuttleFuelPods.description>Создать 100 урановых топл. капсул.</MakeShuttleFuelPods.description>
-	<MakeShuttleFuelPods.jobString>Создаёт урановые топл. капсулы.</MakeShuttleFuelPods.jobString>
+	<MakeShuttleFuelPods.label>создать топливные капсулы</MakeShuttleFuelPods.label>
+	<MakeShuttleFuelPods.description>Произвести 100 топливных капсул.</MakeShuttleFuelPods.description>
+	<MakeShuttleFuelPods.jobString>Производит топливные капсулы.</MakeShuttleFuelPods.jobString>
 </LanguageData>
