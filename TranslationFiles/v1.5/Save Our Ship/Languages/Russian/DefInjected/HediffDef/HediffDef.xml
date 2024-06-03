@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
 	<!--1.5\Defs\HediffDefs\Hediffs_Space.xml-->
+	
 	<VacuumDamageHediff.labelNounPretty>{0} в {1}</VacuumDamageHediff.labelNounPretty>
 	<VacuumDamageHediff.label>декомпрессия</VacuumDamageHediff.label>
 	<VacuumDamageHediff.description>Декомпрессионная травма.</VacuumDamageHediff.description>
-	<VacuumDamageHediff.comps.0.labelTendedWell>обработано</VacuumDamageHediff.comps.0.labelTendedWell>
-	<VacuumDamageHediff.comps.0.labelTendedWellInner>восстановлено</VacuumDamageHediff.comps.0.labelTendedWellInner>
+	<VacuumDamageHediff.comps.0.labelTendedWell>перевязано</VacuumDamageHediff.comps.0.labelTendedWell>
+	<VacuumDamageHediff.comps.0.labelTendedWellInner>зашито</VacuumDamageHediff.comps.0.labelTendedWellInner>
 	<VacuumDamageHediff.comps.0.labelSolidTendedWell>устранено</VacuumDamageHediff.comps.0.labelSolidTendedWell>
-	<VacuumDamageHediff.comps.2.permanentLabel>Декомпрессионный шрам</VacuumDamageHediff.comps.2.permanentLabel>
-	<VacuumDamageHediff.injuryProps.destroyedLabel>Уничтожено из-за декомпрессии.</VacuumDamageHediff.injuryProps.destroyedLabel>
+	<VacuumDamageHediff.comps.2.permanentLabel>декомпрессионный шрам</VacuumDamageHediff.comps.2.permanentLabel>
+	<VacuumDamageHediff.injuryProps.destroyedLabel>Уничтожено из-за декомпрессии</VacuumDamageHediff.injuryProps.destroyedLabel>
 	
 	<SpaceHypoxia.label>гипоксия</SpaceHypoxia.label>
 	<SpaceHypoxia.description>Организм не получает достаточного количества кислорода. Быстро прогрессирует при отсутствии скафандра в вакууме. Может привести к отказу органов и смерти.</SpaceHypoxia.description>
 	<SpaceHypoxia.stages.0.label>начальная</SpaceHypoxia.stages.0.label>
-	<SpaceHypoxia.stages.1.label>средняя</SpaceHypoxia.stages.1.label>
+	<SpaceHypoxia.stages.1.label>незначительная</SpaceHypoxia.stages.1.label>
 	<SpaceHypoxia.stages.2.label>серьёзная</SpaceHypoxia.stages.2.label>
-	<SpaceHypoxia.stages.3.label>критическая</SpaceHypoxia.stages.3.label>
+	<SpaceHypoxia.stages.3.label>экстремальная</SpaceHypoxia.stages.3.label>
 	<SpaceHypoxia.stages.4.label>экстремальная</SpaceHypoxia.stages.4.label>	
 	
-	<SpaceBeltBubbleHediff.description>Защитное поле, которое позволяет выжить в условиях вакуума.</SpaceBeltBubbleHediff.description>
-	<SpaceBeltBubbleHediff.label>защитное поле</SpaceBeltBubbleHediff.label>
+	<SpaceBeltBubbleHediff.description>Это существо окружено защитным пузырем, что позволяет ему выживать в вакууме.</SpaceBeltBubbleHediff.description>
+	<SpaceBeltBubbleHediff.label>защитная мембрана</SpaceBeltBubbleHediff.label>
 	
 	<ThrusterSpeed.label>Ускорители</ThrusterSpeed.label>
 	<ThrusterSpeed.description>Декорация - не используется</ThrusterSpeed.description>
@@ -48,7 +48,7 @@
 	<SoSHologramArchotech.descriptionShort>Эта сущность представляет собой формгель — рой механитов, имитирующих форму и функции биологического тела, — дистанционно управляемых спорой архотек посредством психической связи.</SoSHologramArchotech.descriptionShort>
 	
 	<HologramDisconnected.label>Форма неактивна</HologramDisconnected.label>
-	<HologramDisconnected.description>Физической форме этой личности недостает силы. Пока проблема не будет решена, рой механитов будет оставаться в режиме ожидания.</HologramDisconnected.description>
+	<HologramDisconnected.description>Сознательный субстрат этого формгеля обесточен. Пока питание отключено, рой будет находиться в коматозном режиме ожидания.</HologramDisconnected.description>
 
 
 </LanguageData>
