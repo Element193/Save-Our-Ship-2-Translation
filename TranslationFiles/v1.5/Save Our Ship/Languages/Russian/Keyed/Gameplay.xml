@@ -105,7 +105,7 @@
 	<SoS.TradeTradeWith>торговать с ними.</SoS.TradeTradeWith>
 	<SoS.TradeTradeDecline>{0} не хочет торговать с вами из-за дурной славы.</SoS.TradeTradeDecline>
 	<SoS.PirateTradeDemand>Потребовать груз (Это пиратство!).</SoS.PirateTradeDemand>
-	<SoS.TradeTryingToFlee> закрыл канал связи и пытается уйти!</SoS.TradeTryingToFlee>
+	<SoS.TradeTryingToFlee>{0} закрыл канал связи и пытается уйти!</SoS.TradeTryingToFlee>
 	<SoS.TradeAttack>За ними!</SoS.TradeAttack>
 	<SoS.TradeFlee>Отпустить.</SoS.TradeFlee>
 	<SoS.TradePayBounty>Оплатить награду (стоимость: {0} серебра)</SoS.TradePayBounty>
@@ -489,7 +489,7 @@
 	<ShipInsideToggleScanSites>Поиск обьектов</ShipInsideToggleScanSites>
 	<ShipInsideToggleScanSitesDesc>Включить сканирование орбитальных обьектов</ShipInsideToggleScanSitesDesc>
 	<ShipInsideToggleShields>Переключить щиты</ShipInsideToggleShields>
-	<ShipInsideToggleShieldsDesc>Активировать или деактивировать щиты корабля</ShipInsideToggleShieldsDesc>
+	<ShipInsideToggleShieldsDesc>Активировать или деактивировать корабельные генераторы защитного поля</ShipInsideToggleShieldsDesc>
 	<ShipInsideRadius>Радиус: </ShipInsideRadius>
 	<CommandResetShieldRadius>Сбросить радиус</CommandResetShieldRadius>
 	<CommandResetShieldRadiusDesc>Сбросить радиус до 40.</CommandResetShieldRadiusDesc>
@@ -590,6 +590,35 @@
 	<ArchotechNoGiftsUnlocked>Дары не разблокированы в исследованиях</ArchotechNoGiftsUnlocked>
 	<ArchotechSporeEvolve>Активировать эволюцию</ArchotechSporeEvolve>
 	<ArchotechSporeEvolveDesc>Превратите спору в настоящего архотека и начните новую эру для этого мира.\n\nНа этом игра закончится!</ArchotechSporeEvolveDesc>
+
+	<SoSBreachAirlock>Вскрыть шлюз</SoSBreachAirlock>
+	<SoSHackAirlock>Взломать шлюз</SoSHackAirlock>
+	<SoSAttackShip>Атаковать {0}</SoSAttackShip>
+	<SoSAttackShipDesc>Начать корабельный бой против {0}.</SoSAttackShipDesc>
+	<SoSPirateShip>Ограбить {0}</SoSPirateShip>
+	<SoSPirateShipDesc>Попытайтесь совершить акт космического пиратства против {0}. Это приведет к началу корабельного боя и повысит пиратский авторитет вашего корабля!</SoSPirateShipDesc>
+	<SoSInvestigateDerelict>Исследование {0}</SoSInvestigateDerelict>
+	<SoSInvestigateDerelictDesc>Отправится на исследование {0}. Вы сможете запустить к обломкам шаттл, и переместить их при помощи корабельного захвата, если на борту нет врагов.</SoSInvestigateDerelictDesc>
+	<SoSHackFailed>Взлом мостика не удался!</SoSHackFailed>
+	<SoSHackBridge>Взломать мостик</SoSHackBridge>
+	<SoSCantPlaceCocoon>Невозможно разместить криптококон!</SoSCantPlaceCocoon>
+	<SoSAlreadyMalnourished>Носитель истощен</SoSAlreadyMalnourished>
+	<SoSToggleShield>Переключить щит</SoSToggleShield>
+	<SoSToggleShieldDesc>Активировать или деактивировать корабельный генератор защитного поля</SoSToggleShieldDesc>
+	<SoSCantVentCloaked>Охлаждение невозможно: Маскировка</SoSCantVentCloaked>
+	<SoSMoreShuttles> больше шаттлов</SoSMoreShuttles>
+	<SoSCombatEnergy>Энергия: </SoSCombatEnergy>
+	<SoSCombatNoEnergy>Энергия: Н/Д</SoSCombatNoEnergy>
+	<SoSCombatHeat>Нагрев: </SoSCombatHeat>
+	<SoSCombatNoHeat>Нагрев: Н/Д</SoSCombatNoHeat>
+	<SoSCombatHull>Корпус: </SoSCombatHull>
+	<SoSCombatShields>Щиты: </SoSCombatShields>
+	<SoSCombatNone>Н/Д</SoSCombatNone>
+	<SoSCantSettleSpaceSites>Нельзя заселять космические объекты</SoSCantSettleSpaceSites>
+	<SoSNoPowerSupply>Корабль не имеет источника питания</SoSNoPowerSupply>
+	<SoSCarryToCryptonest>Перенести в криптоячейки</SoSCarryToCryptonest>
+	<SoSConsciousness>Личность: {0}</SoSConsciousness>
+	<SoSAIName>Имя ИИ: {0}</SoSAIName>
 	
 	<!-- obsolete/unused
 	<SoS.PirateTradeEmpire>Our act of piracy against the Empire has not gone unnoticed!</SoS.PirateTradeEmpire>
