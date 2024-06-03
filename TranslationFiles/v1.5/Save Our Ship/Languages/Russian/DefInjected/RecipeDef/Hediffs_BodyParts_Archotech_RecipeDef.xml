@@ -50,7 +50,7 @@
     <InstallSoSPsychicPredictor.description>Вживить пси-предсказатель.</InstallSoSPsychicPredictor.description>
     <InstallSoSPsychicPredictor.jobString>Вживляет пси-предсказатель.</InstallSoSPsychicPredictor.jobString>
 
-    <RemoveSoSPsychicPredictor.label>удалить психический предсказатель</RemoveSoSPsychicPredictor.label>
+    <RemoveSoSPsychicPredictor.label>удалить пси-предсказатель</RemoveSoSPsychicPredictor.label>
     <RemoveSoSPsychicPredictor.description>Удалить пси-предсказатель.</RemoveSoSPsychicPredictor.description>
     <RemoveSoSPsychicPredictor.jobString>Удаляет пси-предсказатель.</RemoveSoSPsychicPredictor.jobString>
 
