@@ -2,9 +2,10 @@
 <LanguageData>
 
     <SoS2_VacuumAdapted.label>вакуумная адаптация</SoS2_VacuumAdapted.label>
+    <SoS2_VacuumAdapted.labelShortAdj>космос</SoS2_VacuumAdapted.labelShortAdj>
     <SoS2_VacuumAdapted.description>Носители этого гена могут пережить прямое воздействие вакуума. Их организм регулирует давление крови, чтобы предотвратить декомпрессионные травмы, и способен анаэробному дыханию при отсутствии кислорода. Отходы метаболизма выводятся через кожу, обеспечивая тягу в открытом космосе. Однако этот ген не защищает от экстремальных температур.</SoS2_VacuumAdapted.description>
     
-    <SoS2_Cocoon.label>кокон криптосна</SoS2_Cocoon.label>
+    <SoS2_Cocoon.label>криптосонный кокон</SoS2_Cocoon.label>
     <SoS2_Cocoon.description>Носители этого гена могут создавать естественный кокон для погружения в состояние криптосна. Этот процесс сильно истощает организм.</SoS2_Cocoon.description>
     
 
