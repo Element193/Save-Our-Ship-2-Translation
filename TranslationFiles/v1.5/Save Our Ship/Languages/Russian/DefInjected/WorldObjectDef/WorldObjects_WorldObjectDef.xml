@@ -3,17 +3,17 @@
 
 	<!--1.5\Defs\WorldObjectDefs\WorldObjects.xml-->
 
-	<ShipOrbiting.label>орбитальный корабль</ShipOrbiting.label>
+	<ShipOrbiting.label>Орбитальный корабль</ShipOrbiting.label>
     <ShipOrbiting.description>Корабль, который вы запустили на орбиту.</ShipOrbiting.description>
 	
-    <ShipEnemy.label>вражеский Корабль</ShipEnemy.label>
+    <ShipEnemy.label>Вражеский Корабль</ShipEnemy.label>
     <ShipEnemy.description>Вражеский корабль поблизости.</ShipEnemy.description>
 	
-    <WreckSpace.label>космический объект</WreckSpace.label>
-    <WreckSpace.description>Космический объект поблизости.</WreckSpace.description>
+    <WreckSpace.label>Орбитальный объект</WreckSpace.label>
+    <WreckSpace.description>Орбитальный объект поблизости.</WreckSpace.description>
 	
-    <ShipEngineImpactSite.label>место крушения</ShipEngineImpactSite.label>
-    <ShipEngineImpactSite.description>Место крушения древнего двигателя Джонсона-Танаки.</ShipEngineImpactSite.description>
+    <ShipEngineImpactSite.label>место падения</ShipEngineImpactSite.label>
+    <ShipEngineImpactSite.description>Место падения древнего корабельного двигателя.</ShipEngineImpactSite.description>
 
     <MoonPillarSite.label>лунная база</MoonPillarSite.label>
     <MoonPillarSite.description>База механоидов на Луне, где изучается монолит архотека.</MoonPillarSite.description>
@@ -21,7 +21,7 @@
     <TribalPillarSite.label>звёздный тотем</TribalPillarSite.label>
     <TribalPillarSite.description>Святое место для племён этой планеты: место падения монолита архотека.</TribalPillarSite.description>
 	
-    <InsectPillarSite.label>Улей</InsectPillarSite.label>
+    <InsectPillarSite.label>материнский улей</InsectPillarSite.label>
     <InsectPillarSite.description>Местоположение самого большого на этой планете скопления насекомых, видимо, построенного вокруг монолита архотека.</InsectPillarSite.description>
 
 
