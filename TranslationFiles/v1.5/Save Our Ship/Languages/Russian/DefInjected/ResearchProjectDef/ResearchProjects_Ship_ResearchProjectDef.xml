@@ -15,7 +15,7 @@
 
 
 	<ShipReactor.label>корабельные реакторы</ShipReactor.label>
-	<ShipReactor.description>Расщепление урановых топливных капсул для получения большого количества энергии в течении длительного времени.</ShipReactor.description>
+	<ShipReactor.description>Принцип расщепления топливных капсул для получения большого количества энергии в течении длительного времени.</ShipReactor.description>
 <!--	<ShipReactor.generalRules.rulesStrings>
 		<li>subject->ядерный корабельный реактор</li>
 		<li>subject_story->{PAWN_gender ? собрал : собрала} ядерный реактор для колониального корабля, но не {PAWN_gender ? увидел : увидела} его запуска</li>
@@ -26,7 +26,7 @@
 
 
 	<ShipEngine.label>корабельные ускорители</ShipEngine.label>
-	<ShipEngine.description>Базовые корабельные двигатели. С помощью них можно достичь орбиты, но не больше.</ShipEngine.description>
+	<ShipEngine.description>Корабельные ускорители, с помощью которых можно достичь орбиты и поддерживать стабильное положение.</ShipEngine.description>
 <!--	<ShipEngine.generalRules.rulesStrings>
 		<li>subject->ракетная тяга</li>
 		<li>subject_story->{PAWN_gender ? покинул : покинула} мир, обучив дикое племя изготавливать химическое топливо</li>
@@ -73,7 +73,7 @@
 
 
 	<ShipComputerCore.label>корабельный компьютер</ShipComputerCore.label>
-	<ShipComputerCore.description>Позволяет содержать ИИ, который может управлять кораблем. Необходим для дальних путешествий.</ShipComputerCore.description>
+	<ShipComputerCore.description>Позволяет поддерживать ИИ, который может управлять кораблем и вести его в межзвёздных путешествиях. Тело ИИ можно воссоздать в виде формгеля, который способен выполнять любые задачи.</ShipComputerCore.description>
 <!--	<ShipComputerCore.generalRules.rulesStrings>
 		<li>subject->persona core incentivization</li>
 		<li>subject->поддержка разума ИИ</li>
@@ -86,8 +86,8 @@
 	</ShipComputerCore.generalRules.rulesStrings>-->
 
 
-	<ShipAvatarCasket.label>хранилища личности</ShipAvatarCasket.label>
-	<ShipAvatarCasket.description>Системы с передовыми механитами, которые способны воссоздать личность в виде формгеля - роя механитов, имитирующего биологическое тело.</ShipAvatarCasket.description>
+	<ShipAvatarCasket.label>хранилища личностей</ShipAvatarCasket.label>
+	<ShipAvatarCasket.description>Системы с передовыми механитами, которые способны воссоздать тело личности в виде формгеля - роя механитов, которые имитируют биологические тела.</ShipAvatarCasket.description>
 <!--	<ShipAvatarCasket.generalRules.rulesStrings>
 		<li>subject->имитация тела механитами</li>
 		<li>subject->реконструкция нервно-психического субстрата</li>
@@ -111,7 +111,7 @@
 	
 
 	<ShipSensorClusterAdv.label>продвинутые сенсоры</ShipSensorClusterAdv.label>
-	<ShipSensorClusterAdv.description>Более мощный вариант корабельных сенсоров, способных на сканирование вражеских кораблей.</ShipSensorClusterAdv.description>
+	<ShipSensorClusterAdv.description>Более мощный вариант корабельных сенсоров, которые способны на сканирование вражеских кораблей.</ShipSensorClusterAdv.description>
 <!--	<ShipSensorClusterAdv.generalRules.rulesStrings>
 		<li>subject->сканирование пространства</li>
 		<li>subject_story->{PAWN_gender ? обнаружил : обнаружила} уязвимые места вражеского корабля при помощи сканирования, приказав космическим пехотинцам уничтожить уязвимые теплопроводы</li>
@@ -145,7 +145,7 @@
 	
 
 	<ShipSpaceSuitsHeavy.label>Космопехотная броня</ShipSpaceSuitsHeavy.label>
-	<ShipSpaceSuitsHeavy.description>Высокотехнологичная броня, оснащенная встроенными системами, обеспечивающими выживаемость и мобильность команды в космосе.</ShipSpaceSuitsHeavy.description>
+	<ShipSpaceSuitsHeavy.description>Высокотехнологичная броня, оснащенная встроенными системами, обеспечивающими выживаемость и подвижность команды в космосе.</ShipSpaceSuitsHeavy.description>
 <!--	<ShipSpaceSuitsHeavy.generalRules.rulesStrings>
 		<li>subject->космопехотная броня</li>
 		<li>subject_story->{PAWN_gender ? he : she} служил интендантом на имперском патрульном судне во времена падения Софиамунды</li>
@@ -167,7 +167,7 @@
 	
 
 	<ShipCryptosleep.label>спасательные капсулы</ShipCryptosleep.label>
-	<ShipCryptosleep.description>Космическая версия саркофага криптосна, оборудована передовыми автоматическими системами, что освобождает от необходимости ручного управления. Эти капсулы при необходимости способны выдерживать вход в атмосферу. Было бы неплохо иметь как минимум одну на борту.</ShipCryptosleep.description>
+	<ShipCryptosleep.description>Космическая версия саркофага криптосна, оборудована передовыми автоматизированными системами, что освобождает от необходимости ручного управления. Эти капсулы при необходимости способны выдерживать вход в атмосферу. Было бы неплохо иметь как минимум одну на борту.</ShipCryptosleep.description>
 <!--	<ShipCryptosleep.generalRules.rulesStrings>
 		<li>subject->космические саркофаги криптосна</li>
 		<li>subject_story->{PAWN_gender ? he : she} заменил нерабочие саркофаги криптосна на новые, улучшив корабль старого поколения</li>
