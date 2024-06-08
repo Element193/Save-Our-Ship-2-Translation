@@ -97,8 +97,8 @@
 	<SoS.RemoveWrecksCommandDesc>Выбрать и убрать обломки</SoS.RemoveWrecksCommandDesc>
 
 	<!-- placeworkers -->
-	<SoS.PlaceOnShipHull>Должен быть размещен на корабле.</SoS.PlaceOnShipHull>
-	<SoS.EnginePlaceRotation>Двигатели должны быть повернуты в одну сторону!</SoS.EnginePlaceRotation>
+	<SoS.PlaceOnShipHull>Нужно размещать на борту корабля.</SoS.PlaceOnShipHull>
+	<SoS.EnginePlaceRotation>Все двигатели должны быть направлены в одну сторону!</SoS.EnginePlaceRotation>
 
 	<!-- comms/trade -->
 	<SoS.TradeComms>Торговать с </SoS.TradeComms>
@@ -114,7 +114,7 @@
 	<SoS.PirateHailPirate>Наверняка они знают о вашей дурной славе.</SoS.PirateHailPirate>
 	<SoS.PirateHailNormal>Если вы не ответите, они, скорее всего, нападут.</SoS.PirateHailNormal>
 	<SoS.PirateTalk>Связь с неизвестным пиратским кораблем\n\n\n</SoS.PirateTalk>
-	<SoS.PirateTalkPirate>Им известна ваша дурная слава, и они спрашивают, хотите ли вы поторговать.</SoS.PirateTalkPirate>
+	<SoS.PirateTalkPirate>Им известен ваш авторитет, и они запрашивают разрешения для торговли.</SoS.PirateTalkPirate>
 	<SoS.PirateTalkParley>Теперь они готовы к торговле.</SoS.PirateTalkParley>
 	<SoS.PirateTalkPaid>Ответа нет.</SoS.PirateTalkPaid>
 	<SoS.PirateTalkNormal>Они требуют отдать им вещи на сумму в {0} серебра.\n\nЕсли вы не выполните их требования, они нападут.\n\nВы можете использовать древний кодекс пиратских переговоров, но это может разозлить их, и они немедленно нападут.</SoS.PirateTalkNormal>
@@ -137,7 +137,7 @@
 
 	<!-- bridge -->
 	<SoS.StatsShipName>Название: {0}</SoS.StatsShipName>
-	<SoS.StatsNotoriety>Дурная слава: {0}</SoS.StatsNotoriety>
+	<SoS.StatsNotoriety>Пиратский авторитет: {0}</SoS.StatsNotoriety>
 	<SoS.StatsShipMass>Масса: {0}</SoS.StatsShipMass>
 	<SoS.StatsShipMaxTakeoff>Взлетная масса: {0}</SoS.StatsShipMaxTakeoff>
 	<SoS.StatsShipEnergy>Накопленная энергия: {0} / {1} Вт</SoS.StatsShipEnergy>
@@ -240,7 +240,7 @@
 	<SoS.TorpedoFullyLoaded>Заряжено</SoS.TorpedoFullyLoaded>
 	<SoS.TorpedoNone>Нет торпед</SoS.TorpedoNone>
 	<SoS.AmplifierCount>Усилители: {0}</SoS.AmplifierCount>
-	<SoS.SpinalCapNotFound>Отсутствует линейный излучатель.</SoS.SpinalCapNotFound>
+	<SoS.SpinalCapNotFound>Отсутствует модульный излучатель.</SoS.SpinalCapNotFound>
 	<SoS.CannotFireDueToHeat>{0} не может стрелять: перегрузка тепловой системы</SoS.CannotFireDueToHeat>
 	<SoS.CannotFireDueToPower>{0} не может стрелять: недостаточно энергии</SoS.CannotFireDueToPower>
 	<SoS.CannotFireDueToAmmo>{0} не может стрелять: нет нужных боеприпасов</SoS.CannotFireDueToAmmo>
@@ -495,8 +495,6 @@
 	<CommandResetShieldRadiusDesc>Сбросить радиус до 40.</CommandResetShieldRadiusDesc>
 	<CommandDecShieldRadius>Уменьшить радиус</CommandDecShieldRadius>
 	<CommandIncShieldRadius>Увеличить радиус</CommandIncShieldRadius>
-	<SelectEverything>Выбрать всё</SelectEverything>
-	<SelectEverythingDesc>Выбрать всё.</SelectEverythingDesc>
 	<SalvageShipCommand>Разобрать вражеский корабль</SalvageShipCommand>
 	<SalvageShipCommandDesc>Разберите вражеский корабль и верните часть его ресурсов. Не делайте этого, если кто-либо из вашей команды все еще находится на борту.</SalvageShipCommandDesc>
 	<SalvageShipCancel>Покинуть вражеский корабль</SalvageShipCancel>
