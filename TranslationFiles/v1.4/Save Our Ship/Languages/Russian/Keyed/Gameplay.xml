@@ -97,8 +97,8 @@
 	<SoS.RemoveWrecksCommandDesc>Выбрать и убрать обломки</SoS.RemoveWrecksCommandDesc>
 
 	<!-- placeworkers -->
-	<SoS.PlaceOnShipHull>Должен быть размещен на корабле.</SoS.PlaceOnShipHull>
-	<SoS.EnginePlaceRotation>Двигатели должны быть повернуты в одну сторону!</SoS.EnginePlaceRotation>
+	<SoS.PlaceOnShipHull>Нужно размещать на борту корабля.</SoS.PlaceOnShipHull>
+	<SoS.EnginePlaceRotation>Все двигатели должны быть направлены в одну сторону!</SoS.EnginePlaceRotation>
 
 	<!-- comms/trade -->
 	<SoS.TradeComms>Торговать с </SoS.TradeComms>
@@ -495,8 +495,6 @@
 	<CommandResetShieldRadiusDesc>Сбросить радиус до 40.</CommandResetShieldRadiusDesc>
 	<CommandDecShieldRadius>Уменьшить радиус</CommandDecShieldRadius>
 	<CommandIncShieldRadius>Увеличить радиус</CommandIncShieldRadius>
-	<SelectEverything>Выбрать всё</SelectEverything>
-	<SelectEverythingDesc>Выбрать всё.</SelectEverythingDesc>
 	<SalvageShipCommand>Разобрать вражеский корабль</SalvageShipCommand>
 	<SalvageShipCommandDesc>Разберите вражеский корабль и верните часть его ресурсов. Не делайте этого, если кто-либо из вашей команды все еще находится на борту.</SalvageShipCommandDesc>
 	<SalvageShipCancel>Покинуть вражеский корабль</SalvageShipCancel>
