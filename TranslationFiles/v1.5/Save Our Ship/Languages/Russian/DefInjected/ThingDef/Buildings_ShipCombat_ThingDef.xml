@@ -142,37 +142,37 @@
 	
 	<Proj_ShipTurretKinetic_Large.label>снаряд рельсотрона</Proj_ShipTurretKinetic_Large.label>
 	
-	<ShipSpinalEmitter.label>линейный излучатель</ShipSpinalEmitter.label>
-	<ShipSpinalEmitter.description>Основная часть линейного орудия. Подключается к одному или нескольким усилителям, затем к стволу.</ShipSpinalEmitter.description>
+	<ShipSpinalEmitter.label>модульный излучатель</ShipSpinalEmitter.label>
+	<ShipSpinalEmitter.description>Основная часть модульного орудия. Подключается к одному или нескольким усилителям, затем к стволу.</ShipSpinalEmitter.description>
 	
-	<ShipSpinalAmplifier.label>линейный усилитель</ShipSpinalAmplifier.label>
-	<ShipSpinalAmplifier.description>Центральная часть линейного орудия. Может состоять из нескольких таких усилителей.\n\nУсиливает урон линейного орудия на 25%, но на это же значение увеличивает потребление энергии и генерацию тепла.</ShipSpinalAmplifier.description>
+	<ShipSpinalAmplifier.label>модульный усилитель</ShipSpinalAmplifier.label>
+	<ShipSpinalAmplifier.description>Центральная часть модульного орудия. Может состоять из нескольких таких усилителей.\n\nУсиливает урон модульного орудия на 25%, но на это же значение увеличивает потребление энергии и генерацию тепла.</ShipSpinalAmplifier.description>
 	
-	<ShipSpinalBarrelLaser.label>линейный лучевой ствол</ShipSpinalBarrelLaser.label>
-	<ShipSpinalBarrelLaser.description>Финальный сегмент линейного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelLaser.description>
+	<ShipSpinalBarrelLaser.label>модульное лазерное орудие</ShipSpinalBarrelLaser.label>
+	<ShipSpinalBarrelLaser.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelLaser.description>
 	
-	<ShipTurret_SpinalMountTopLaser.label>линейное орудие</ShipTurret_SpinalMountTopLaser.label>
-	<ShipTurret_SpinalMountTopLaser.description>Линейные орудия кораблей.</ShipTurret_SpinalMountTopLaser.description>
-	<ShipTurret_SpinalMountTopLaser.verbs.0.label>shoot</ShipTurret_SpinalMountTopLaser.verbs.0.label>
+	<ShipTurret_SpinalMountTopLaser.label>модульное орудие</ShipTurret_SpinalMountTopLaser.label>
+	<ShipTurret_SpinalMountTopLaser.description>Вооружение крупных флагманов.</ShipTurret_SpinalMountTopLaser.description>
+	<ShipTurret_SpinalMountTopLaser.verbs.0.label>стреляет</ShipTurret_SpinalMountTopLaser.verbs.0.label>
 	
 	<Proj_ShipSpinalBeamLaser.label>смертельный луч</Proj_ShipSpinalBeamLaser.label>
 	
-	<ShipSpinalBarrelPlasma.label>линейный плазменный ствол</ShipSpinalBarrelPlasma.label>
-	<ShipSpinalBarrelPlasma.description>Финальный сегмент линейного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelPlasma.description>
+	<ShipSpinalBarrelPlasma.label>модульное плазменное орудие</ShipSpinalBarrelPlasma.label>
+	<ShipSpinalBarrelPlasma.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelPlasma.description>
 	
-	<ShipTurret_SpinalMountTopPlasma.label>линейное орудие</ShipTurret_SpinalMountTopPlasma.label>
-	<ShipTurret_SpinalMountTopPlasma.description>Линейные орудия кораблей.</ShipTurret_SpinalMountTopPlasma.description>
+	<ShipTurret_SpinalMountTopPlasma.label>модульное орудие</ShipTurret_SpinalMountTopPlasma.label>
+	<ShipTurret_SpinalMountTopPlasma.description>Вооружение крупных флагманов.</ShipTurret_SpinalMountTopPlasma.description>
 	<ShipTurret_SpinalMountTopPlasma.verbs.0.label>стреляет</ShipTurret_SpinalMountTopPlasma.verbs.0.label>
 	
 	<Bullet_Fake_Plasma_XL.label>плазма</Bullet_Fake_Plasma_XL.label>
 	
 	<Proj_ShipSpinalBeamPlasma.label>смертельный луч</Proj_ShipSpinalBeamPlasma.label>
 	
-	<ShipSpinalBarrelKinetic.label>линейный баллистический ствол</ShipSpinalBarrelKinetic.label>
-	<ShipSpinalBarrelKinetic.description>Финальный сегмент линейного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelKinetic.description>
+	<ShipSpinalBarrelKinetic.label>модульное рельсовое орудие</ShipSpinalBarrelKinetic.label>
+	<ShipSpinalBarrelKinetic.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelKinetic.description>
 	
-	<ShipTurret_SpinalMountTopKinetic.label>линейное орудие</ShipTurret_SpinalMountTopKinetic.label>
-	<ShipTurret_SpinalMountTopKinetic.description>Линейные орудия кораблей.</ShipTurret_SpinalMountTopKinetic.description>
+	<ShipTurret_SpinalMountTopKinetic.label>модульное орудие</ShipTurret_SpinalMountTopKinetic.label>
+	<ShipTurret_SpinalMountTopKinetic.description>Вооружение крупных флагманов.</ShipTurret_SpinalMountTopKinetic.description>
 	<ShipTurret_SpinalMountTopKinetic.verbs.0.label>стреляет</ShipTurret_SpinalMountTopKinetic.verbs.0.label>
 	
 	<Artillery_ShipTorpedo_One.verbs.Verb_LaunchProjectileShip.label>торпедный аппарат</Artillery_ShipTorpedo_One.verbs.Verb_LaunchProjectileShip.label>
