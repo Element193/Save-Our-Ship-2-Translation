@@ -156,9 +156,9 @@
 	<SoS.ToggleScanShipsDesc>Включить сканирование других кораблей</SoS.ToggleScanShipsDesc>
 	<SoS.ToggleScanSites>Поиск обьектов</SoS.ToggleScanSites>
 	<SoS.ToggleScanSitesDesc>Включить сканирование орбитальных обьектов</SoS.ToggleScanSitesDesc>
-	<SoS.ToggleShields>Переключить щиты</SoS.ToggleShields>
+	<SoS.ToggleShields>Защитное поле</SoS.ToggleShields>
 	<SoS.ToggleShieldsDesc>Активируйте или деактивируйте щиты вашего корабля</SoS.ToggleShieldsDesc>
-	<SoS.ToggleCloak>Переключить маскировочное устройство</SoS.ToggleCloak>
+	<SoS.ToggleCloak>Маскировочное устройство</SoS.ToggleCloak>
 	<SoS.ToggleCloakDesc>Активируйте или деактивируйте маскировочное устройство вашего корабля</SoS.ToggleCloakDesc>
 	<SoS.ShipInfo>Статистика корабля</SoS.ShipInfo>
 	<SoS.ShipInfoDesc>Показывает статистику корабля и его готовность к межзвездным путешествиям.</SoS.ShipInfoDesc>
@@ -469,9 +469,9 @@
 	
 	<MessageTurretWontFireBecauseNotInShipCombat>Внимание: турель не будет стрелять, потому что вы не участвуете в корабельном бою.</MessageTurretWontFireBecauseNotInShipCombat>
 	<CommandExtractShipTorpedo>Извлечь торпеды</CommandExtractShipTorpedo>
-	<CommandExtractShipTorpedoDesc>Выгрузите торпеды, чтобы заменить их другими боеприпасами.</CommandExtractShipTorpedoDesc>
+	<CommandExtractShipTorpedoDesc>Выгрузить торпеды, чтобы заменить их другими боеприпасами.</CommandExtractShipTorpedoDesc>
 	<ShipCombatRetreat>Отступать</ShipCombatRetreat>
-	<ShipCombatRetreatDesc>Отступать от вражеского корабля</ShipCombatRetreatDesc>
+	<ShipCombatRetreatDesc>Отступать от вражеского корабля.</ShipCombatRetreatDesc>
 	<ShipCombatStop>Остановить</ShipCombatStop>
 	<ShipCombatStopDesc>Отключить двигатели корабля</ShipCombatStopDesc>
 	<ShipCombatMaintain>Удерживать</ShipCombatMaintain>
@@ -485,11 +485,11 @@
 	<ShipInsidescanRegion>Сканировать</ShipInsidescanRegion>
 	<ShipInsidescanRegionDesc>Выявить область на поверхности планеты.</ShipInsidescanRegionDesc>
 	<ShipInsideToggleScanShips>Поиск кораблей</ShipInsideToggleScanShips>
-	<ShipInsideToggleScanShipsDesc>Включить сканирование других кораблей</ShipInsideToggleScanShipsDesc>
+	<ShipInsideToggleScanShipsDesc>Включить сканирование других кораблей.</ShipInsideToggleScanShipsDesc>
 	<ShipInsideToggleScanSites>Поиск обьектов</ShipInsideToggleScanSites>
-	<ShipInsideToggleScanSitesDesc>Включить сканирование орбитальных обьектов</ShipInsideToggleScanSitesDesc>
-	<ShipInsideToggleShields>Переключить щиты</ShipInsideToggleShields>
-	<ShipInsideToggleShieldsDesc>Активировать или деактивировать щиты корабля</ShipInsideToggleShieldsDesc>
+	<ShipInsideToggleScanSitesDesc>Включить сканирование орбитальных обьектов.</ShipInsideToggleScanSitesDesc>
+	<ShipInsideToggleShields>Защитное поле</ShipInsideToggleShields>
+	<ShipInsideToggleShieldsDesc>Активировать или деактивировать генераторы щитов корабля.</ShipInsideToggleShieldsDesc>
 	<ShipInsideRadius>Радиус: </ShipInsideRadius>
 	<CommandResetShieldRadius>Сбросить радиус</CommandResetShieldRadius>
 	<CommandResetShieldRadiusDesc>Сбросить радиус до 40.</CommandResetShieldRadiusDesc>
@@ -523,7 +523,7 @@
 	<SoSEmergencyJTFarDesc>Использовать двигатель Джонсона-Танаки, чтобы мгновенно переместиться на большую дистанцию. Это требует {0}Вт энергии и потребует ремонта двигателя.</SoSEmergencyJTFarDesc>
 	<SoSEmergencyJTNear>Аварийный импульс (короткий)</SoSEmergencyJTNear>
 	<SoSEmergencyJTNearDesc>Использовать двигатель Джонсона-Танаки, чтобы мгновенно переместиться на короткую дистанцию. Это требует {0}Вт энергии и потребует ремонта двигателя.</SoSEmergencyJTNearDesc>
-	<ShipInsideToggleCloak>Маскировка</ShipInsideToggleCloak>
+	<ShipInsideToggleCloak>Маскировочное устройство</ShipInsideToggleCloak>
 	<ShipInsideToggleCloakDesc>Активировать или деактивировать маскировочное устройство корабля.</ShipInsideToggleCloakDesc>
 	<SoSPurgeHeat>Сброс</SoSPurgeHeat>
 	<SoSPurgeHeatDesc>Выбросить расплавленное серебро в космос, чтобы быстро уровень нагрева корабля.\n\nЭто приведет к отключению щитов!</SoSPurgeHeatDesc>
