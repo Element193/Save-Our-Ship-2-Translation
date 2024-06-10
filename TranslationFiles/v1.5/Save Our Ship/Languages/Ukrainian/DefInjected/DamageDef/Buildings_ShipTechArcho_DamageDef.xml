@@ -4,9 +4,9 @@
 	
 	<PsychicFlayer.label>Психічна травма</PsychicFlayer.label>
 	<PsychicFlayer.deathMessage>{0} отримав психічну травму.</PsychicFlayer.deathMessage>
-	
+
 	<BombMechanite.label>Поглинаючі механіти</BombMechanite.label>
-	<BombMechanite.deathMessage>{0} був знищений поглинаючими механітами.</BombMechanite.deathMessage>	
+	<BombMechanite.deathMessage>{0} був знищений поглинаючими механітами.</BombMechanite.deathMessage>
 
 	
 </LanguageData>

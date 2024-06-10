@@ -2,64 +2,64 @@
 <LanguageData>
 	<!--1.5\Defs\HediffDefs\Hediffs_BodyParts_Archotech.xml-->
 	
-	<SoSInstallArchotechEar.label>вживить архоухо</SoSInstallArchotechEar.label>
-	<SoSInstallArchotechEar.description>Вживить архоухо.</SoSInstallArchotechEar.description>
-	<SoSInstallArchotechEar.jobString>Вживляет архоухо.</SoSInstallArchotechEar.jobString>
-	
-    <SoSInstallArchotechNose.label>вживить архонос</SoSInstallArchotechNose.label>
-    <SoSInstallArchotechNose.description>Вживить архонос.</SoSInstallArchotechNose.description>
-    <SoSInstallArchotechNose.jobString>Вживляет архонос.</SoSInstallArchotechNose.jobString>
-
-    <SoSInstallArchotechJaw.label>вживить архочелюсть</SoSInstallArchotechJaw.label>
-    <SoSInstallArchotechJaw.description>Вживить архочелюсть.</SoSInstallArchotechJaw.description>
-    <SoSInstallArchotechJaw.jobString>Вживляет архочелюсть.</SoSInstallArchotechJaw.jobString>
-
-	<SoSInstallArchotechHeart.label>вживить архосердце</SoSInstallArchotechHeart.label>
-    <SoSInstallArchotechHeart.description>Вживить архосердце.</SoSInstallArchotechHeart.description>
-    <SoSInstallArchotechHeart.jobString>Вживляет архосердце.</SoSInstallArchotechHeart.jobString>
-
-	<SoSInstallArchotechLung.label>вживить архолегкое</SoSInstallArchotechLung.label>
-    <SoSInstallArchotechLung.description>Вживить архолегкое.</SoSInstallArchotechLung.description>
-    <SoSInstallArchotechLung.jobString>Вживляет архолегкое.</SoSInstallArchotechLung.jobString>
-
-    <SoSInstallArchotechStomach.label>вживить архожелудок</SoSInstallArchotechStomach.label>
-    <SoSInstallArchotechStomach.description>Вживить архожелудок.</SoSInstallArchotechStomach.description>
-    <SoSInstallArchotechStomach.jobString>Вживляет архожелудок.</SoSInstallArchotechStomach.jobString>
-
-    <SoSInstallArchotechKidney.label>вживить архопочку</SoSInstallArchotechKidney.label>
-    <SoSInstallArchotechKidney.description>Вживить архопочку.</SoSInstallArchotechKidney.description>
-    <SoSInstallArchotechKidney.jobString>Вживляет архопочку.</SoSInstallArchotechKidney.jobString>
-
-    <SoSInstallArchotechLiver.label>вживить архопечень</SoSInstallArchotechLiver.label>
-    <SoSInstallArchotechLiver.description>Вживить архопечень.</SoSInstallArchotechLiver.description>
-    <SoSInstallArchotechLiver.jobString>Вживляет архопечень.</SoSInstallArchotechLiver.jobString>
-
-    <SoSInstallArchotechSpine.label>вживить архопозвоночник</SoSInstallArchotechSpine.label>
-    <SoSInstallArchotechSpine.description>Вживить архопозвоночник.</SoSInstallArchotechSpine.description>
-    <SoSInstallArchotechSpine.jobString>Вживляет архопозвоночник.</SoSInstallArchotechSpine.jobString>
-
-    <InstallSoSArchotechSkin.label>вживить архокожу</InstallSoSArchotechSkin.label>
-    <InstallSoSArchotechSkin.description>Вживить архокожу.</InstallSoSArchotechSkin.description>
-    <InstallSoSArchotechSkin.jobString>Вживляет архокожу.</InstallSoSArchotechSkin.jobString>
-
-    <RemoveSoSArchotechSkin.label>удалить архокожу</RemoveSoSArchotechSkin.label>
-    <RemoveSoSArchotechSkin.description>Удалить архокожу.</RemoveSoSArchotechSkin.description>
-    <RemoveSoSArchotechSkin.jobString>Удаляет архокожу.</RemoveSoSArchotechSkin.jobString>
-
-    <InstallSoSPsychicPredictor.label>вживить пси-предсказатель</InstallSoSPsychicPredictor.label>
-    <InstallSoSPsychicPredictor.description>Вживить пси-предсказатель.</InstallSoSPsychicPredictor.description>
-    <InstallSoSPsychicPredictor.jobString>Вживляет пси-предсказатель.</InstallSoSPsychicPredictor.jobString>
-
-    <RemoveSoSPsychicPredictor.label>удалить психический предсказатель</RemoveSoSPsychicPredictor.label>
-    <RemoveSoSPsychicPredictor.description>Удалить пси-предсказатель.</RemoveSoSPsychicPredictor.description>
-    <RemoveSoSPsychicPredictor.jobString>Удаляет пси-предсказатель.</RemoveSoSPsychicPredictor.jobString>
-
-    <InstallSoSPsychicManipulator.label>вживить пси-манипулятор</InstallSoSPsychicManipulator.label>
-    <InstallSoSPsychicManipulator.description>Вживить пси-манипулятор.</InstallSoSPsychicManipulator.description>
-    <InstallSoSPsychicManipulator.jobString>Вживляет пси-манипулятор.</InstallSoSPsychicManipulator.jobString>
-
-    <RemoveSoSPsychicManipulator.label>удалить пси-манипулятор</RemoveSoSPsychicManipulator.label>
-    <RemoveSoSPsychicManipulator.description>Удалить пси-манипулятор.</RemoveSoSPsychicManipulator.description>
-    <RemoveSoSPsychicManipulator.jobString>Удаляет пси-манипулятор.</RemoveSoSPsychicManipulator.jobString>
+    <SoSInstallArchotechEar.label>вживити арховухо</SoSInstallArchotechEar.label>
+    <SoSInstallArchotechEar.description>Вживити арховухо.</SoSInstallArchotechEar.description>
+    <SoSInstallArchotechEar.jobString>Вживляє арховухо.</SoSInstallArchotechEar.jobString>
+    
+    <SoSInstallArchotechNose.label>вживити архоніс</SoSInstallArchotechNose.label>
+    <SoSInstallArchotechNose.description>Вживити архоніс.</SoSInstallArchotechNose.description>
+    <SoSInstallArchotechNose.jobString>Вживляє архоніс.</SoSInstallArchotechNose.jobString>
+    
+    <SoSInstallArchotechJaw.label>вживити архощелепу</SoSInstallArchotechJaw.label>
+    <SoSInstallArchotechJaw.description>Вживити архощелепу.</SoSInstallArchotechJaw.description>
+    <SoSInstallArchotechJaw.jobString>Вживляє архощелепу.</SoSInstallArchotechJaw.jobString>
+    
+    <SoSInstallArchotechHeart.label>вживити архосерце</SoSInstallArchotechHeart.label>
+    <SoSInstallArchotechHeart.description>Вживити архосерце.</SoSInstallArchotechHeart.description>
+    <SoSInstallArchotechHeart.jobString>Вживляє архосерце.</SoSInstallArchotechHeart.jobString>
+    
+    <SoSInstallArchotechLung.label>вживити архолегені</SoSInstallArchotechLung.label>
+    <SoSInstallArchotechLung.description>Вживити архолегені.</SoSInstallArchotechLung.description>
+    <SoSInstallArchotechLung.jobString>Вживляє архолегені.</SoSInstallArchotechLung.jobString>
+    
+    <SoSInstallArchotechStomach.label>вживити архошлунок</SoSInstallArchotechStomach.label>
+    <SoSInstallArchotechStomach.description>Вживити архошлунок.</SoSInstallArchotechStomach.description>
+    <SoSInstallArchotechStomach.jobString>Вживляє архошлунок.</SoSInstallArchotechStomach.jobString>
+    
+    <SoSInstallArchotechKidney.label>вживити архонирку</SoSInstallArchotechKidney.label>
+    <SoSInstallArchotechKidney.description>Вживити архонирку.</SoSInstallArchotechKidney.description>
+    <SoSInstallArchotechKidney.jobString>Вживляє архонирку.</SoSInstallArchotechKidney.jobString>
+    
+    <SoSInstallArchotechLiver.label>вживити архопечінку</SoSInstallArchotechLiver.label>
+    <SoSInstallArchotechLiver.description>Вживити архопечінку.</SoSInstallArchotechLiver.description>
+    <SoSInstallArchotechLiver.jobString>Вживляє архопечінку.</SoSInstallArchotechLiver.jobString>
+    
+    <SoSInstallArchotechSpine.label>вживити архохребет</SoSInstallArchotechSpine.label>
+    <SoSInstallArchotechSpine.description>Вживити архохребет.</SoSInstallArchotechSpine.description>
+    <SoSInstallArchotechSpine.jobString>Вживляє архохребет.</SoSInstallArchotechSpine.jobString>
+    
+    <InstallSoSArchotechSkin.label>вживити архошкіру</InstallSoSArchotechSkin.label>
+    <InstallSoSArchotechSkin.description>Вживити архошкіру.</InstallSoSArchotechSkin.description>
+    <InstallSoSArchotechSkin.jobString>Вживляє архошкіру.</InstallSoSArchotechSkin.jobString>
+    
+    <RemoveSoSArchotechSkin.label>видалити архошкіру</RemoveSoSArchotechSkin.label>
+    <RemoveSoSArchotechSkin.description>Видалити архошкіру.</RemoveSoSArchotechSkin.description>
+    <RemoveSoSArchotechSkin.jobString>Видаляє архошкіру.</RemoveSoSArchotechSkin.jobString>
+    
+    <InstallSoSPsychicPredictor.label>вживити псі-передбачувач</InstallSoSPsychicPredictor.label>
+    <InstallSoSPsychicPredictor.description>Вживити псі-передбачувач.</InstallSoSPsychicPredictor.description>
+    <InstallSoSPsychicPredictor.jobString>Вживляє псі-передбачувач.</InstallSoSPsychicPredictor.jobString>
+    
+    <RemoveSoSPsychicPredictor.label>видалити псі-передбачувач</RemoveSoSPsychicPredictor.label>
+    <RemoveSoSPsychicPredictor.description>Видалити псі-передбачувач.</RemoveSoSPsychicPredictor.description>
+    <RemoveSoSPsychicPredictor.jobString>Видаляє псі-передбачувач.</RemoveSoSPsychicPredictor.jobString>
+    
+    <InstallSoSPsychicManipulator.label>вживити псі-маніпулятор</InstallSoSPsychicManipulator.label>
+    <InstallSoSPsychicManipulator.description>Вживити псі-маніпулятор.</InstallSoSPsychicManipulator.description>
+    <InstallSoSPsychicManipulator.jobString>Вживляє псі-маніпулятор.</InstallSoSPsychicManipulator.jobString>
+    
+    <RemoveSoSPsychicManipulator.label>видалити псі-маніпулятор</RemoveSoSPsychicManipulator.label>
+    <RemoveSoSPsychicManipulator.description>Видалити псі-маніпулятор.</RemoveSoSPsychicManipulator.description>
+    <RemoveSoSPsychicManipulator.jobString>Видаляє псі-маніпулятор.</RemoveSoSPsychicManipulator.jobString>
 
 </LanguageData>

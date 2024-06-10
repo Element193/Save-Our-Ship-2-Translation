@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
 	<!--1.5\Defs\Stats\Stats_Archotech.xml-->
 	
-	<ArchotechPillarsConnected.label>архотек монолиты подключены</ArchotechPillarsConnected.label>
-	<ArchotechPillarsConnected.description>Количество уникальных монолитов, связанных с этой спорой архотек.</ArchotechPillarsConnected.description>
+	<ArchotechPillarsConnected.label>Активні моноліти</ArchotechPillarsConnected.label>
+	<ArchotechPillarsConnected.description>Кількість унікальних монолітів, зв'язаних з цією спорою архотек.</ArchotechPillarsConnected.description>	
 
 
 </LanguageData>

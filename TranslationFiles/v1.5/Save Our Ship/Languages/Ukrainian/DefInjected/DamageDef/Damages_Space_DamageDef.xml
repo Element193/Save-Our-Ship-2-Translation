@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!--1.5\Defs\DamageDefs\Damages_Space.xml-->
+	
 	<VacuumDamage.label>Декомпресія</VacuumDamage.label>
 	<VacuumDamage.deathMessage>{0} помер від декомпресії.</VacuumDamage.deathMessage>
-	
-	<FormgelSlime.label>залишки формгеля</FormgelSlime.label>
-	<FormgelSlime.deathMessage>{0} був убитий.</FormgelSlime.deathMessage>	
+
+	<FormgelSlime.label>останки формгелю</FormgelSlime.label>
+	<FormgelSlime.deathMessage>{0} був убитий.</FormgelSlime.deathMessage>
+
 
 </LanguageData>

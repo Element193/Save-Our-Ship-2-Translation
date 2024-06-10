@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<!--1.5\Defs\BackstoryDefs\Backstory_Space.xml-->
-	<SoSHologram.title>машинна особистість</SoSHologram.title>
-	<SoSHologram.titleShort>особистість</SoSHologram.titleShort>
-	<SoSHologram.baseDesc>[PAWN_nameDef] - машинна особистість. [PAWN_pronoun] взаємодіє зі світом за допомогою рою механітів, що імітують людське тіло.</SoSHologram.baseDesc>	
+  <!--1.5\Defs\BackstoryDefs\Backstory_Space.xml-->
+
+  <SoSHologram.title>машинна особистість</SoSHologram.title>
+  <SoSHologram.titleShort>особистість</SoSHologram.titleShort>
+  <SoSHologram.baseDesc>[PAWN_nameDef] - це машинна особистість. [PAWN_pronoun] взаємодіє з навколишнім світом за допомогою рою механітів, що імітують людське тіло.</SoSHologram.baseDesc>
+  <SoSHologram.titleFemale>машинна особистість</SoSHologram.titleFemale>
+  <SoSHologram.titleShortFemale>особистість</SoSHologram.titleShortFemale>
+
+  
 </LanguageData>

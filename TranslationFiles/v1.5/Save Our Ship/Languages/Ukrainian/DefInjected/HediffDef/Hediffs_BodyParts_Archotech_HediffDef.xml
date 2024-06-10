@@ -1,56 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-
 	<!--1.5\Defs\HediffDefs\Hediffs_BodyParts_Archotech.xml-->
 
-	<SoSArchotechEar.label>Арховухо</SoSArchotechEar.label>
-	<SoSArchotechEar.labelNoun>Арховухо</SoSArchotechEar.labelNoun>
+	<SoSArchotechEar.label>арховухо</SoSArchotechEar.label>
+	<SoSArchotechEar.labelNoun>арховухо</SoSArchotechEar.labelNoun>
 	<SoSArchotechEar.description>Встановлене арховухо.</SoSArchotechEar.description>
-	
-	<SoSArchotechNose.label>Архоніс</SoSArchotechNose.label>
-	<SoSArchotechNose.labelNoun>Архоніс</SoSArchotechNose.labelNoun>
+
+	<SoSArchotechNose.label>архоніс</SoSArchotechNose.label>
+	<SoSArchotechNose.labelNoun>архоніс</SoSArchotechNose.labelNoun>
 	<SoSArchotechNose.description>Встановлений архоніс.</SoSArchotechNose.description>
 
-	<SoSArchotechJaw.label>Архощелепа</SoSArchotechJaw.label>
+	<SoSArchotechJaw.label>архощелепа</SoSArchotechJaw.label>
     <SoSArchotechJaw.description>Встановлена архощелепа.</SoSArchotechJaw.description>
-    <SoSArchotechJaw.comps.0.tools.0.label>челюсть</SoSArchotechJaw.comps.0.tools.0.label>
-    <SoSArchotechJaw.labelNoun>Встановлена архощелепа</SoSArchotechJaw.labelNoun>
-	
-	<SoSArchotechHeart.label>Архосерце</SoSArchotechHeart.label>
+    <SoSArchotechJaw.comps.0.tools.0.label>зуби</SoSArchotechJaw.comps.0.tools.0.label>
+    <SoSArchotechJaw.labelNoun>архощелепа</SoSArchotechJaw.labelNoun>
+
+	<SoSArchotechHeart.label>архосерце</SoSArchotechHeart.label>
 	<SoSArchotechHeart.labelNoun>архосерце</SoSArchotechHeart.labelNoun>
 	<SoSArchotechHeart.description>Встановлене архосерце.</SoSArchotechHeart.description>
-	
-	<SoSArchotechLung.label>Архолегені</SoSArchotechLung.label>
+
+	<SoSArchotechLung.label>архолегені</SoSArchotechLung.label>
 	<SoSArchotechLung.labelNoun>архолегені</SoSArchotechLung.labelNoun>
 	<SoSArchotechLung.description>Встановлені архолегені.</SoSArchotechLung.description>
-	
-	<SoSArchotechStomach.label>Архошлунок</SoSArchotechStomach.label>
+
+	<SoSArchotechStomach.label>архошлунок</SoSArchotechStomach.label>
 	<SoSArchotechStomach.labelNoun>архошлунок</SoSArchotechStomach.labelNoun>
 	<SoSArchotechStomach.description>Встановлений архошлунок.</SoSArchotechStomach.description>
-	
-	<SoSArchotechKidney.label>Архонирка</SoSArchotechKidney.label>
+
+	<SoSArchotechKidney.label>архонирка</SoSArchotechKidney.label>
 	<SoSArchotechKidney.labelNoun>архонирка</SoSArchotechKidney.labelNoun>
-	<SoSArchotechKidney.description>Встановлені архолегені.</SoSArchotechKidney.description>
-	
-	<SoSArchotechLiver.label>Архопечінка</SoSArchotechLiver.label>
+	<SoSArchotechKidney.description>Встановлена архонирка.</SoSArchotechKidney.description>
+
+	<SoSArchotechLiver.label>архопечінка</SoSArchotechLiver.label>
 	<SoSArchotechLiver.labelNoun>архопечінка</SoSArchotechLiver.labelNoun>
 	<SoSArchotechLiver.description>Встановлена архопечінка.</SoSArchotechLiver.description>
-	
-	<SoSArchotechSpine.label>Архохребет</SoSArchotechSpine.label>
+
+	<SoSArchotechSpine.label>архохребет</SoSArchotechSpine.label>
 	<SoSArchotechSpine.labelNoun>архохребет</SoSArchotechSpine.labelNoun>
 	<SoSArchotechSpine.description>Встановлений архохребет.</SoSArchotechSpine.description>
-	
-	<SoSArchotechSkin.label>Архошкіра</SoSArchotechSkin.label>
-	<SoSArchotechSkin.description>Встановлена архошкіра.</SoSArchotechSkin.description>
-	
-	<SoSPsychicPredictor.label>Пси-предбачник</SoSPsychicPredictor.label>
-	<SoSPsychicPredictor.labelNoun>пси-предбачник</SoSPsychicPredictor.labelNoun>
-	<SoSPsychicPredictor.description>Встановлений пси-предбачник.</SoSPsychicPredictor.description>
-	
-	<SoSPsychicManipulator.label>Пси-маніпулятор</SoSPsychicManipulator.label>
-	<SoSPsychicManipulator.labelNoun>пси-маніпулятор</SoSPsychicManipulator.labelNoun>
-	<SoSPsychicManipulator.description>Встановлений пси-маніпулятор.</SoSPsychicManipulator.description>
 
-	<!-- Иди ж ты сюда, мой сладкий открыватель xml файлов -_- -->
+	<SoSArchotechSkin.label>архошкіра</SoSArchotechSkin.label>
+	<SoSArchotechSkin.description>Встановлена архошкіра.</SoSArchotechSkin.description>
+
+	<SoSPsychicPredictor.label>псі-передбачувач</SoSPsychicPredictor.label>
+	<SoSPsychicPredictor.labelNoun>псі-передбачувач</SoSPsychicPredictor.labelNoun>
+	<SoSPsychicPredictor.description>Встановлений імплантат псі-передбачувача.</SoSPsychicPredictor.description>
+
+	<SoSPsychicManipulator.label>псі-маніпулятор</SoSPsychicManipulator.label>
+	<SoSPsychicManipulator.labelNoun>псі-маніпулятор</SoSPsychicManipulator.labelNoun>
+	<SoSPsychicManipulator.description>Встановлений імплантат псі-маніпулятора.</SoSPsychicManipulator.description>
+
+	<!-- Иди ж ты сюда, мой сладкий открыватель xml файлов -->
 </LanguageData>

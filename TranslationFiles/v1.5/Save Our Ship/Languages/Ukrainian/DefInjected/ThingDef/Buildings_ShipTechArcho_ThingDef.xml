@@ -67,22 +67,22 @@
 	<ShipArchotechPillarD.description>Сложное и непонятное устройство, которое не служит никакой понятной для человека цели, но по-видимому, каким-то образом важно для споры.\n\nНет никакой пользы в создании более одной копии одного монолита.</ShipArchotechPillarD.description>
 	<ShipArchotechPillarD.label>дельта-монолит "Рой"</ShipArchotechPillarD.label>
 	
-	<ShipSpinalBarrelPsychic.label>линейный психический подавитель</ShipSpinalBarrelPsychic.label>
-	<ShipSpinalBarrelPsychic.description>Финальный сегмент линейного орудия. Выпускает луч направленной пси-энергии, который оглушает экипаж, и может вызывать повреждение мозга. Игнорирует корпус, но не щиты.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость. В отличие от других видов вооружения, психический подавитель не влияет на ваш собственный корабль.</ShipSpinalBarrelPsychic.description>
+	<ShipSpinalBarrelPsychic.label>психический подавитель</ShipSpinalBarrelPsychic.label>
+	<ShipSpinalBarrelPsychic.description>Финальный сегмент модульного орудия. Выпускает луч направленной пси-энергии, который оглушает экипаж, и может вызывать повреждение мозга. Игнорирует корпус, но не щиты.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость. В отличие от других видов вооружения, психический подавитель не влияет на ваш собственный корабль.</ShipSpinalBarrelPsychic.description>
 	
-	<ShipTurret_SpinalMountTopPsychic.label>линейное орудие</ShipTurret_SpinalMountTopPsychic.label>
-	<ShipTurret_SpinalMountTopPsychic.description>Вооружение линейных кораблей.</ShipTurret_SpinalMountTopPsychic.description>
+	<ShipTurret_SpinalMountTopPsychic.label>модульное орудие</ShipTurret_SpinalMountTopPsychic.label>
+	<ShipTurret_SpinalMountTopPsychic.description>Вооружение продвинутых кораблей.</ShipTurret_SpinalMountTopPsychic.description>
 	<ShipTurret_SpinalMountTopPsychic.verbs.0.label>стреляет</ShipTurret_SpinalMountTopPsychic.verbs.0.label>
 	
 	<Bullet_Fake_Psychic.label>пси-луч</Bullet_Fake_Psychic.label>
 	
 	<Proj_ShipTurretPsychic.label>пси-луч</Proj_ShipTurretPsychic.label>
 	
-	<ShipSpinalBarrelMechanite.label>линейный разборщик</ShipSpinalBarrelMechanite.label>
-	<ShipSpinalBarrelMechanite.description>Финальный сегмент линейного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе. Модифицированное рельсовое орудие, запускающее рой разборочных механитов.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelMechanite.description>
+	<ShipSpinalBarrelMechanite.label>разборочный поглотитель</ShipSpinalBarrelMechanite.label>
+	<ShipSpinalBarrelMechanite.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе. Модифицированное рельсовое орудие, запускающее рой разборочных механитов.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelMechanite.description>
 	
-	<ShipTurret_SpinalMountTopMechanite.label>линейное орудие</ShipTurret_SpinalMountTopMechanite.label>
-	<ShipTurret_SpinalMountTopMechanite.description>Вооружение линейных кораблей.</ShipTurret_SpinalMountTopMechanite.description>
+	<ShipTurret_SpinalMountTopMechanite.label>модульное орудие</ShipTurret_SpinalMountTopMechanite.label>
+	<ShipTurret_SpinalMountTopMechanite.description>Вооружение продвинутых кораблей.</ShipTurret_SpinalMountTopMechanite.description>
 	<ShipTurret_SpinalMountTopMechanite.verbs.0.label>стреляет</ShipTurret_SpinalMountTopMechanite.verbs.0.label>
 	
 	<Bullet_Fake_Mechanite.label>пучок механитов</Bullet_Fake_Mechanite.label>
@@ -93,9 +93,9 @@
 	
 	<MechaniteSpark.label>разборочные механиты</MechaniteSpark.label>
 	
-	<Weapon_GrenadeMechanite.label>коктейли механитов</Weapon_GrenadeMechanite.label>
+	<Weapon_GrenadeMechanite.label>розовая слизь</Weapon_GrenadeMechanite.label>
 	<Weapon_GrenadeMechanite.description>Бутылка, наполненная разборочными механитами. Излюбленное оружие продвинутых хулиганов.</Weapon_GrenadeMechanite.description>
-	<Weapon_GrenadeMechanite.verbs.0.label>бросать механитов</Weapon_GrenadeMechanite.verbs.0.label>
+	<Weapon_GrenadeMechanite.verbs.0.label>бросать</Weapon_GrenadeMechanite.verbs.0.label>
 	
 	<Proj_GrenadeMechanite.label>коктейль механитов</Proj_GrenadeMechanite.label>
 	

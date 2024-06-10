@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!--1.5\Defs\Stats\Stats_Building_Special.xml-->
-	<DecompressionResistanceOffset.label>настроить сопротивление декомпрессии</DecompressionResistanceOffset.label>
-	<DecompressionResistanceOffset.description>Сопротивление декомпрессии настраивается этим значением.</DecompressionResistanceOffset.description>
+
+	<DecompressionResistanceOffset.label>Опір декомпресії</DecompressionResistanceOffset.label>
+	<DecompressionResistanceOffset.description>Цим значенням налаштовується опір декомпресії.</DecompressionResistanceOffset.description>
 	
-	<HypoxiaResistanceOffset.label>настроить сопротивление гипоксии</HypoxiaResistanceOffset.label>
-	<HypoxiaResistanceOffset.description>Устойчивость к гипоксии настраивается этим значением.</HypoxiaResistanceOffset.description>
+	<HypoxiaResistanceOffset.label>Опір гіпоксії</HypoxiaResistanceOffset.label>
+	<HypoxiaResistanceOffset.description>Стійкість до гіпоксії налаштовується цим значенням.</HypoxiaResistanceOffset.description>	
+
+	
 </LanguageData>

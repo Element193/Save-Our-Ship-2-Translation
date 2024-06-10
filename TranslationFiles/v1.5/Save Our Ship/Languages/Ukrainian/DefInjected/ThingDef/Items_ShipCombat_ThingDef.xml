@@ -5,10 +5,12 @@
 	<ShipTorpedo_HighExplosive.description>Торпеда, начиненная взрывчаткой. Может быть запущена из торпедных аппаратов. Взрывается при повреждении.</ShipTorpedo_HighExplosive.description>
 	<Bullet_Fake_Torpedo_HighExplosive.label>взрывная торпеда</Bullet_Fake_Torpedo_HighExplosive.label>
 	<Bullet_Torpedo_HighExplosive.label>взрывная торпеда</Bullet_Torpedo_HighExplosive.label>
+
 	<ShipTorpedo_EMP.label>ЭМИ-торпеда</ShipTorpedo_EMP.label>
-	<ShipTorpedo_EMP.description>Торпеда, оснащенная ЭМИ генератором. Может быть запущена из торпедных аппаратов. Взрывается при повреждении.</ShipTorpedo_EMP.description>
+	<ShipTorpedo_EMP.description>Торпеда, оснащенная ЭМИ генератором для перегрузки вражеских систем. Может быть запущена из торпедных аппаратов. Взрывается при повреждении.</ShipTorpedo_EMP.description>
 	<Bullet_Fake_Torpedo_EMP.label>ЭМИ-торпеда</Bullet_Fake_Torpedo_EMP.label>
 	<Bullet_Torpedo_EMP.label>ЭМИ-торпеда</Bullet_Torpedo_EMP.label>
+	
 	<ShipTorpedo_Antimatter.label>гранульная торпеда</ShipTorpedo_Antimatter.label>
 	<ShipTorpedo_Antimatter.description>Торпеда, оснащенная гранульным зарядом. Может быть запущена из торпедных аппаратов. Взрывается при повреждении.</ShipTorpedo_Antimatter.description>
 	<Bullet_Fake_Torpedo_Antimatter.label>гранульная торпеда</Bullet_Fake_Torpedo_Antimatter.label>

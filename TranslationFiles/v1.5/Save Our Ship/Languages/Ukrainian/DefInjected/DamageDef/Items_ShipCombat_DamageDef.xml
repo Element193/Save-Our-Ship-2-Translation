@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!--1.5\Defs\ThingDefs_Items\Items_ShipCombat.xml-->
+
 	<ShipTorpedoBomb.label>Торпеда</ShipTorpedoBomb.label>
-	<ShipTorpedoBomb.deathMessage>{0} помер від вибуху торпеди.</ShipTorpedoBomb.deathMessage>
-	
+	<ShipTorpedoBomb.deathMessage>{0} загинув від вибуху торпеди.</ShipTorpedoBomb.deathMessage>
+
 	<ShipTorpedoBombSuper.label>Торпеда</ShipTorpedoBombSuper.label>
-	<ShipTorpedoBombSuper.deathMessage>{0} помер від потужного вибуху торпеди.</ShipTorpedoBombSuper.deathMessage>	
+	<ShipTorpedoBombSuper.deathMessage>{0} загинув від потужного вибуху торпеди.</ShipTorpedoBombSuper.deathMessage>
 
 
 </LanguageData>

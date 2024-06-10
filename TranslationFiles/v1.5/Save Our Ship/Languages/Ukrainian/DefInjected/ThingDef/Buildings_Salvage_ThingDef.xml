@@ -1,45 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!--1.5\Defs\ThingDefs_Buildings\Buildings_Salvage.xml-->
-	<Ship_Beam_Wrecked.label>поврежденный корпус</Ship_Beam_Wrecked.label>
-	<Ship_Beam_Wrecked.description>Внешние структурные элементы корпуса корабля, поврежденные до неузнаваемости. Больше не пригодны для использования в космосе.</Ship_Beam_Wrecked.description>
+	<Ship_Beam_Wrecked.label>пошкоджений корпус</Ship_Beam_Wrecked.label>
+	<Ship_Beam_Wrecked.description>Зовнішні структурні елементи корпусу корабля, пошкоджені до неузнаваності. Вже не придатні для використання в космосі.</Ship_Beam_Wrecked.description>
 	
-	<ShipAirlockWrecked.label>поврежденный шлюз</ShipAirlockWrecked.label>
-	<ShipAirlockWrecked.description>Поврежденный шлюз, едва способный поддерживать минимальное давление.</ShipAirlockWrecked.description>
+	<ShipAirlockWrecked.label>пошкоджений шлюз</ShipAirlockWrecked.label>
+	<ShipAirlockWrecked.description>Пошкоджений шлюз, що ще ледь здатний підтримувати мінімальний тиск.</ShipAirlockWrecked.description>
 	
-	<ShipHullTileWrecked.label>обломки корпуса</ShipHullTileWrecked.label>
-	<ShipHullTileWrecked.description>Обломки корпуса корабля. Больше не пригодны для использования в космосе.</ShipHullTileWrecked.description>
+	<ShipHullTileWrecked.label>уламки корпусу</ShipHullTileWrecked.label>
+	<ShipHullTileWrecked.description>Уламки корпусу корабля. Вже не придатні для використання в космосі.</ShipHullTileWrecked.description>
 	
-	<ShipChunkSalvage.label>системы корабля</ShipChunkSalvage.label>
-	<ShipChunkSalvage.description>Передовые системы космического корабля, относительно неповрежденные. Можно разобрать для получения компонентов.</ShipChunkSalvage.description>
+	<ShipChunkSalvage.label>корабельні системи</ShipChunkSalvage.label>
+	<ShipChunkSalvage.description>Передові системи космічного корабля, відносно непошкоджені. Можна розібрати для отримання космічних компонентів.</ShipChunkSalvage.description>
 	
-	<Space_Satellite_Core.label>ядро спутника</Space_Satellite_Core.label>
-	<Space_Satellite_Core.description>Ядро древнего спутника. Ремонт и взлом потребуют значительных навыков. Любое вмешательство может привести к активации защитных протоколов.\n\nМожно использовать для получения доступа к древней системе орбитальной бомбардировки, или управления погодой.</Space_Satellite_Core.description>
+	<Space_Satellite_Core.label>ядро супутника</Space_Satellite_Core.label>
+	<Space_Satellite_Core.description>Ядро давнього супутника. Ремонт і взлом потребуватимуть значних навичок. Будь-яке втручання може призвести до активації захисних протоколів.\n\nМожна використовувати для отримання доступу до давньої системи орбітального бомбардування або керування погодою.</Space_Satellite_Core.description>
 	
-	<Ship_DamagedReactor.label>поврежденный реактор</Ship_DamagedReactor.label>
-	<Ship_DamagedReactor.description>Древний, сильно поврежденный реактор. Пока он не будет остановлен, любое существо поблизости будет получать радиационные ожоги.</Ship_DamagedReactor.description>
+	<Ship_DamagedReactor.label>пошкоджений реактор</Ship_DamagedReactor.label>
+	<Ship_DamagedReactor.description>Давній, сильно пошкоджений реактор. Поки він не буде зупинений, будь-яка істота поблизу буде отримувати радіаційні опіки.</Ship_DamagedReactor.description>
 	
-	<Ship_LabConsole.label>исследовательская консоль</Ship_LabConsole.label>
-	<Ship_LabConsole.description>Древняя исправная исследовательская консоль. Опытный исследователь может использовать её, чтобы отключить реакторы корабля.</Ship_LabConsole.description>
+	<Ship_LabConsole.label>дослідницька консоль</Ship_LabConsole.label>
+	<Ship_LabConsole.description>Давня справна дослідницька консоль. Досвіджений дослідник може використати її для відключення реакторів корабля.</Ship_LabConsole.description>
 	
-	<Ship_SecurityConsole.label>тактическая консоль</Ship_SecurityConsole.label>
-	<Ship_SecurityConsole.description>Древняя функциональная консоль. Опытный исследователь может использовать её, чтобы открыть шлюзы корабля.</Ship_SecurityConsole.description>
+	<Ship_SecurityConsole.label>тактична консоль</Ship_SecurityConsole.label>
+	<Ship_SecurityConsole.description>Давня функціональна консоль. Досвіджений дослідник може використати її для відкриття шлюзів корабля.</Ship_SecurityConsole.description>
 	
-	<BlackBoxAI.label>безумный ИИ</BlackBoxAI.label>
-	<BlackBoxAI.description>Ядро ИИ древнего корабля. Враждебный, способный к пси-воздействиям и потерявший рассудок. Только самые одаренные переговорщики могут надеяться на то, что им удастся отговорить его от самоубийства.</BlackBoxAI.description>
+	<BlackBoxAI.label>божевільний ШІ</BlackBoxAI.label>
+	<BlackBoxAI.description>Ядро ШІ давнього корабля. Ворожий, здатний до псі-впливів і втративший розум. Лише найодарованіші переговорники можуть сподіватися, що їм вдасться відговорити його від самогубства.</BlackBoxAI.description>
 	
-	<JTDriveSalvage.label>Древний двигатель Джонсона-Танаки</JTDriveSalvage.label>
-	<JTDriveSalvage.description>Передовой двигатель, способный совершать межпланетные и межзвездные путешествия. Поврежден после входа в атмосферу, но частично функционирует.\n\nДля того чтобы разобрать его, потребуется длительный процесс разрядки импульса, что наверняка привлечет бандитов.</JTDriveSalvage.description>
+	<JTDriveSalvage.label>давній двигун Джонсона-Танакі</JTDriveSalvage.label>
+	<JTDriveSalvage.description>Передовий двигун, здатний здійснювати міжпланетні та міжзоряні подорожі. Пошкоджений після входу в атмосферу, але частково функціонує.\n\nДля того щоб розібрати його, потрібен тривалий процес розрядки імпульсу, що безперечно привабить бандитів.</JTDriveSalvage.description>
 	
-	<SpaceHive.label>улей</SpaceHive.label>
-	<SpaceHive.description>Улей гигантских насекомых. Если его потревожить, со временем он будет порождать больше насекомых и ульев, а также желе насекомых.</SpaceHive.description>
+	<SpaceHive.label>вулик</SpaceHive.label>
+	<SpaceHive.description>Рій величезних комах. Якщо їх турбувати, з часом вони будуть розмножуватися та створювати більше вуликів, а також слиз комах.</SpaceHive.description>
 	
-	<DetachedShipPart.label>Отделенная Часть Корабля</DetachedShipPart.label>
-	<DetachedShipPart.description>Разрушенная часть космического корабля.</DetachedShipPart.description>
+	<DetachedShipPart.label>Відокремлена Частина Корабля</DetachedShipPart.label>
+	<DetachedShipPart.description>Зруйнована частина космічного корабля.</DetachedShipPart.description>
 	
-	<Ship_Beam_Wrecked_Fake.label>разбитый корпус</Ship_Beam_Wrecked_Fake.label>
-	<Ship_Beam_Wrecked_Fake.description>Внешние конструктивные элементы корпуса корабля. Поврежденные, не подлежащие ремонту.</Ship_Beam_Wrecked_Fake.description>
+	<Ship_Beam_Wrecked_Fake.label>розбитий корпус</Ship_Beam_Wrecked_Fake.label>
+	<Ship_Beam_Wrecked_Fake.description>Зовнішні конструктивні елементи корпусу корабля. Пошкоджені, не підлягають ремонту.</Ship_Beam_Wrecked_Fake.description>
 	
-	<ShipHullTileWreckedFake.label>обломки корпуса</ShipHullTileWreckedFake.label>
-	<ShipHullTileWreckedFake.description>Обломки корпуса корабля. Больше не пригодны для использования в космосе.</ShipHullTileWreckedFake.description>
+	<ShipHullTileWreckedFake.label>уламки корпусу</ShipHullTileWreckedFake.label>
+	<ShipHullTileWreckedFake.description>Уламки корпусу корабля. Вже не придатні для використання в космосі.</ShipHullTileWreckedFake.description>
+	
 </LanguageData>

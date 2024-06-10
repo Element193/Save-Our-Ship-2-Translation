@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!--1.5\Defs\ThingDefs_Items\Items_Shuttle.xml-->
-	<ShuttleFuelPods.label>урановая топливная капсула</ShuttleFuelPods.label>
+	<ShuttleFuelPods.label>топливная капсула</ShuttleFuelPods.label>
 	<ShuttleFuelPods.description>Небольшая капсула с обогащенным ураном.</ShuttleFuelPods.description>
 </LanguageData>
