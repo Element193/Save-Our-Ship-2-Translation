@@ -153,28 +153,28 @@
 	<SoS.PlanetLeave>Покинуть планету</SoS.PlanetLeave>
 	<SoS.PlanetLeaveDesc>Покинуть эту планету в поисках нового мира.</SoS.PlanetLeaveDesc>
 	<SoS.ToggleScanShips>Поиск кораблей</SoS.ToggleScanShips>
-	<SoS.ToggleScanShipsDesc>Включить сканирование других кораблей</SoS.ToggleScanShipsDesc>
+	<SoS.ToggleScanShipsDesc>Включить сканирование других кораблей.</SoS.ToggleScanShipsDesc>
 	<SoS.ToggleScanSites>Поиск обьектов</SoS.ToggleScanSites>
-	<SoS.ToggleScanSitesDesc>Включить сканирование орбитальных обьектов</SoS.ToggleScanSitesDesc>
+	<SoS.ToggleScanSitesDesc>Включить сканирование орбитальных обьектов.</SoS.ToggleScanSitesDesc>
 	<SoS.ToggleShields>Защитное поле</SoS.ToggleShields>
-	<SoS.ToggleShieldsDesc>Активируйте или деактивируйте щиты вашего корабля</SoS.ToggleShieldsDesc>
-	<SoS.ToggleCloak>Маскировочное устройство</SoS.ToggleCloak>
-	<SoS.ToggleCloakDesc>Активируйте или деактивируйте маскировочное устройство вашего корабля</SoS.ToggleCloakDesc>
+	<SoS.ToggleShieldsDesc>Активировать или деактивировать генераторы защитного поля корабля.</SoS.ToggleShieldsDesc>
+	<SoS.ToggleCloak>Маскировка</SoS.ToggleCloak>
+	<SoS.ToggleCloakDesc>Активировать или деактивировать маскировочное устройство корабля.</SoS.ToggleCloakDesc>
 	<SoS.ShipInfo>Статистика корабля</SoS.ShipInfo>
 	<SoS.ShipInfoDesc>Показывает статистику корабля и его готовность к межзвездным путешествиям.</SoS.ShipInfoDesc>
 	<SoS.Rename>Имя корабля</SoS.Rename>
-	<SoS.RenameDesc>Дать этому кораблю новое имя</SoS.RenameDesc>
+	<SoS.RenameDesc>Дать этому кораблю новое имя.</SoS.RenameDesc>
 	<SoS.Move>Переместить корабль</SoS.Move>
-	<SoS.MoveDesc>Переместить корабль в другое место</SoS.MoveDesc>
+	<SoS.MoveDesc>Переместить корабль в другое место.</SoS.MoveDesc>
 	<SoS.MoveFlip>Развернуть корабль</SoS.MoveFlip>
-	<SoS.MoveFlipDesc>Развернуть корабль в другую сторону</SoS.MoveFlipDesc>
+	<SoS.MoveFlipDesc>Развернуть корабль в другую сторону.</SoS.MoveFlipDesc>
 	<SoS.MoveRot>Повернуть корабль</SoS.MoveRot>
 	<SoS.MoveRotNo>На корабле есть невращающиеся, неравносторонние здания!</SoS.MoveRotNo>
-	<SoS.MoveRotDesc>Повернуть корабль против часовой стрелки</SoS.MoveRotDesc>
+	<SoS.MoveRotDesc>Повернуть корабль против часовой стрелки.</SoS.MoveRotDesc>
 	<SoS.MoveFail>Перемещение не удалось!</SoS.MoveFail>
-	<SoS.MoveFailDesc>Перемещение корабля не удалось! Рекомендуется перезагрузка.\nНе удалось переместить: {0}</SoS.MoveFailDesc>
-	<SoS.MoveFailRCS>Недостаточно осевых ускорителей для перемещения корабля, требуется {0}</SoS.MoveFailRCS>
-	<SoS.MoveFailFuel>Недостаточно топлива для перемещения корабля, требуется {0} топлива</SoS.MoveFailFuel>
+	<SoS.MoveFailDesc>Перемещение корабля не удалось! Рекомендуется перезагрузка.\nНе удалось переместить: {0}.</SoS.MoveFailDesc>
+	<SoS.MoveFailRCS>Недостаточно осевых ускорителей для перемещения корабля, требуется {0}.</SoS.MoveFailRCS>
+	<SoS.MoveFailFuel>Недостаточно топлива для перемещения корабля, требуется {0} топлива.</SoS.MoveFailFuel>
 	<SoS.MoveFailPilot>Для передвижения корабля требуется пилот.</SoS.MoveFailPilot>
 	<SoS.Land>Посадить корабль</SoS.Land>
 	<SoS.LandDesc>Посадить этот корабль недалеко от </SoS.LandDesc>
@@ -183,27 +183,27 @@
 
 	<!-- story -->
 	<SoS.QuestPillarA>Атаковать КСС "Горизонт"</SoS.QuestPillarA>
-	<SoS.QuestPillarADesc>Попытайтесь захватить древнюю станцию терраформирования и получить монолит архотека</SoS.QuestPillarADesc>
+	<SoS.QuestPillarADesc>Атаковать древнюю станцию терраформирования для поиска архотек монолита.</SoS.QuestPillarADesc>
 	<SoS.QuestPillarB>Штурм Лунной Базы</SoS.QuestPillarB>
-	<SoS.QuestPillarBDesc>Атакуйте Лунную базу механоидов и попытайтесь найти монолит архотека.\n\nЭто также спровоцирует боевой корабль механоидов!</SoS.QuestPillarBDesc>
+	<SoS.QuestPillarBDesc>Атаковать Лунную базу механоидов для поиска архотек монолита.\n\nЭто также спровоцирует боевой корабль механоидов!</SoS.QuestPillarBDesc>
 
 	<!-- scan -->
 	<SoS.scanRegion>Сканировать</SoS.scanRegion>
 	<SoS.scanRegionDesc>Укажите область на поверхности планеты.</SoS.scanRegionDesc>
 	<SoS.ScanMap>Наблюдать</SoS.ScanMap>
-	<SoS.ScanMapDesc>Просмотр области с орбиты</SoS.ScanMapDesc>
+	<SoS.ScanMapDesc>Наблюдать с орбиты за областью на поверхности планеты.</SoS.ScanMapDesc>
 	<SoS.ScanMapStop>Завершить наблюдение</SoS.ScanMapStop>
 	<SoS.ScanMapStopDesc>Прекратить наблюдение за {0}.</SoS.ScanMapStopDesc>
 	
 	<!-- engines -->
 	<SoS.ToggleEngines>Включить двигатели</SoS.ToggleEngines>
-	<SoS.ToggleEnginesDesc>Включить двигатели корабля, чтобы уйти от опасности.</SoS.ToggleEnginesDesc>
+	<SoS.ToggleEnginesDesc>Включить двигатели корабля чтобы уйти от опасности.</SoS.ToggleEnginesDesc>
 
 	<!-- airlock -->
 	<SoS.ToggleDock>Переключить расширитель</SoS.ToggleDock>
 	<SoS.ToggleDockDesc>Выдвинуть или убирать расширитель шлюза на расстояние до 3 клеток</SoS.ToggleDockDesc>
 	<SoS.AirlockHacked>Взлом шлюза удался!</SoS.AirlockHacked>
-	<SoS.AirlockHackFailed>Взлом шлюза провалился!</SoS.AirlockHackFailed>
+	<SoS.AirlockHackFailed>Взлом шлюза не удался!</SoS.AirlockHackFailed>
 	<SoS.AirlockBreached>Шлюз открыт!</SoS.AirlockBreached>
 
 	<!-- unfold -->
@@ -276,14 +276,14 @@
 
 	<!-- holo/spore -->
 	<SoS.SpawnHologram>Создать формгель</SoS.SpawnHologram>
-	<SoS.SpawnHologramDesc>Создать рой механитов, с помощью которого эта личность сможет влиять на мир</SoS.SpawnHologramDesc>
+	<SoS.SpawnHologramDesc>Создать рой механитов, с помощью которого эта личность сможет влиять на мир.</SoS.SpawnHologramDesc>
 	<SoS.DespawnHologram>Уничтожить формгель</SoS.DespawnHologram>
-	<SoS.DespawnHologramDesc>Уничтожить рой механитов, контролируемый этим устройством. Восстановление займет один день</SoS.DespawnHologramDesc>
+	<SoS.DespawnHologramDesc>Уничтожить рой механитов, контролируемый этим устройством. Восстановление займет один день.</SoS.DespawnHologramDesc>
 	<SoS.RenameAI>Имя ИИ</SoS.RenameAI>
-	<SoS.RenameAIDesc>Дать этому ИИ новое имя</SoS.RenameAIDesc>
+	<SoS.RenameAIDesc>Дать этому ИИ новое имя.</SoS.RenameAIDesc>
 	<SoS.InstallConsciousness>Перенести личность</SoS.InstallConsciousness>
 	<SoS.InstallConsciousnessThisOne>Перенести личность: {0}</SoS.InstallConsciousnessThisOne>
-	<SoS.InstallConsciousnessDesc>Перенести личность в это устройство</SoS.InstallConsciousnessDesc>
+	<SoS.InstallConsciousnessDesc>Перенести личность в это устройство.</SoS.InstallConsciousnessDesc>
 	<SoS.InstallCore>Установить ядро ИИ</SoS.InstallCore>
 	<SoS.InstallCoreDesc>Установить ядро ИИ в это устройство.</SoS.InstallCoreDesc>
 	<SoS.NoBrains>Личность отсутствует</SoS.NoBrains>
@@ -296,7 +296,7 @@
 	<SoS.EquipMelee>Режим ближнего боя</SoS.EquipMelee>
 	<SoS.EquipMeleeDesc>Оснастите эту голограмму клинком и энергетическим щитом.</SoS.EquipMeleeDesc>
 	<SoS.ResurrectBrain>Воскресить</SoS.ResurrectBrain>
-	<SoS.ResurrectBrainDesc>Используйте сыворотку воскрешения, чтобы создать новое тело для этой личности</SoS.ResurrectBrainDesc>
+	<SoS.ResurrectBrainDesc>Использовать сыворотку воскрешения, чтобы создать новое тело для этой личности.</SoS.ResurrectBrainDesc>
 	<SoS.ArchoGift>Открыть дары архотека</SoS.ArchoGift>
 	<SoS.ArchotechGoodwillPlus>Психически увеличить отношения +10 ({0} силы поля)</SoS.ArchotechGoodwillPlus>
 	<SoS.ArchotechGoodwillMinus>Психически уменьшить отношения -10 ({0} силы поля)</SoS.ArchotechGoodwillMinus>
@@ -316,7 +316,7 @@
 	<SoS.ArchotechOptimizeMatter>Преобразование материи</SoS.ArchotechOptimizeMatter>
 	<SoS.ArchotechOptimizeMatterDesc>Преобразование материи корпуса корабля в соответствии с технологией архотек, в медленно расширяющемся радиусе. Не влияет на крупные структуры, такие как радиаторы или генераторы щитов.</SoS.ArchotechOptimizeMatterDesc>
 	<SoS.ArchotechGiftParticles>Конвертация даров</SoS.ArchotechGiftParticles>
-	<SoS.ArchotechGiftParticlesDesc>Автоматическая конвертация даров споры в экзотические частицы</SoS.ArchotechGiftParticlesDesc>
+	<SoS.ArchotechGiftParticlesDesc>Автоматическая конвертация даров споры в экзотические частицы.</SoS.ArchotechGiftParticlesDesc>
 	<SoS.ArchotechDemandGift>Требовать дар</SoS.ArchotechDemandGift>
 	<SoS.ArchotechDemandGiftDesc>Потребовать да от споры. Это приведет к снижению настроения -40!</SoS.ArchotechDemandGiftDesc>
 	<SoS.ArchotechNoGiftsUnlocked>Дары не разблокированы исследованиями</SoS.ArchotechNoGiftsUnlocked>
@@ -339,8 +339,8 @@
 	<SoS.CraftArchopanda>Создать архопанду</SoS.CraftArchopanda>
 	<SoS.CraftArchojerboa>Создать архозебру</SoS.CraftArchojerboa>
 	<SoS.CraftArchothrumbo>Создать архотрумбо</SoS.CraftArchothrumbo>
-	<SoS.ArcholifeChangeSkin>Изменить внешний вид животного</SoS.ArcholifeChangeSkin>
-	<SoS.ArcholifeChangeSkinDesc>Кажется, это существо способно менять форму по своему желанию, но только между несколькими вариантами формам.</SoS.ArcholifeChangeSkinDesc>
+	<SoS.ArcholifeChangeSkin>Изменить внешность</SoS.ArcholifeChangeSkin>
+	<SoS.ArcholifeChangeSkinDesc>Кажется, это существо способно менять форму по своему желанию, но только между несколькими вариантами форм.</SoS.ArcholifeChangeSkinDesc>
 
 	<!-- mechanites -->
 	<SoS.MechanitesInHomeArea>Механиты!</SoS.MechanitesInHomeArea>
@@ -434,7 +434,7 @@
 	<SoS.AtmosphereNonBreathable>Непригодная атмосфера</SoS.AtmosphereNonBreathable>
 	<SoS.AtmosphereBreach>Пробоина!</SoS.AtmosphereBreach>
 	<SoS.EnemyBoardingShuttleAborted>Вражеский штурмовой шаттл отступает!</SoS.EnemyBoardingShuttleAborted>
-	<SoS.BreakCloakAtHeat>Отключить маскировку при достижении максимального нагрева</SoS.BreakCloakAtHeat>
+	<SoS.BreakCloakAtHeat>Отключить при уровне нагрева</SoS.BreakCloakAtHeat>
 	<SoS.BreakCloakAtHeatDesc>Когда процент нагрева охлаждающей жидкости достигает максимального уровня, маскировка будет отключена.</SoS.BreakCloakAtHeatDesc>
 	<SoS.CloakBrokenAtHeat>Устройства невидимости деактивированы из-за максимального нагрева!</SoS.CloakBrokenAtHeat>
 	<SoS.NotEnoughFuelToLaunchShuttle>Недостаточно топлива для запуска шаттла</SoS.NotEnoughFuelToLaunchShuttle>
