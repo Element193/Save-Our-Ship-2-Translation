@@ -15,7 +15,7 @@
 	<SoSJTDrive.label>двигатель Джонсона-Танаки</SoSJTDrive.label>
 	<SoSJTDrive.description>Понятие принципов, лежащих в основе безреакционного двигателя Джонсона-Танаки, способного совершать межпланетные и межзвездные путешествия.</SoSJTDrive.description>
 
-	<ShipSalvageBayGlitter.label>лучевой захват</ShipSalvageBayGlitter.label>
+	<ShipSalvageBayGlitter.label>лучевой утилизационный отсек</ShipSalvageBayGlitter.label>
 	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танаки.</ShipSalvageBayGlitter.description>
 
 	<ShipPilotSeat.label>корабельная навигация</ShipPilotSeat.label>
@@ -114,7 +114,7 @@
 	<ShipTurretMedium.label>вооружение эсминцев</ShipTurretMedium.label>
 	<ShipTurretMedium.description>Большие орудия, обычно устанавливаемые на таких классах кораблей как фрегаты, эсминцы и крейсеры.</ShipTurretMedium.description>
 
-	<ShipTurretLarge.label>вооружение крейсеров</ShipTurretLarge.label>
+	<ShipTurretLarge.label>модульное вооружение</ShipTurretLarge.label>
 	<ShipTurretLarge.description>Большие модульные орудия, применяемые на самых продвинутых и крупных кораблях, таких как межзвёздные крейсеры.</ShipTurretLarge.description>
 
 	<ShipTorpedoes.label>корабельные торпеды</ShipTorpedoes.label>

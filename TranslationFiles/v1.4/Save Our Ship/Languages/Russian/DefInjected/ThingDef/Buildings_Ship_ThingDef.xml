@@ -107,15 +107,15 @@
 	<Ship_Reactor_Small.description>Компактная версия корабельного реактора. Расщепляет урановые топливные капсулы для получения большого количества энергии в течении длительного времени. Генерирует тепло в помещение, или сеть корабля.\n\nМощность в 3000 Вт может быть увеличена с помощью нескольких режимов разгона.</Ship_Reactor_Small.description>
 	
 	<ShipShuttleBay.label>посадочная платформа</ShipShuttleBay.label>
-	<ShipShuttleBay.description>Место посадки для шаттлов. Оно должно быть свободно от препятствий. Установите рядом маяки, для посадки торговых челноков.</ShipShuttleBay.description>
+	<ShipShuttleBay.description>Место посадки для шаттлов. Должно быть свободно от препятствий. Имперские челноки могут приземлятся на платформы без маяков.</ShipShuttleBay.description>
 	
 	<ShipShuttleBayLarge.label>большая посадочная платформа</ShipShuttleBayLarge.label>
-	<ShipShuttleBayLarge.description>Место посадки для шаттлов. Оно должно быть свободно от препятствий. Эта версия может вмещать большие шаттлы, или несколько малых. Установите рядом маяки, для посадки торговых челноков.</ShipShuttleBayLarge.description>
+	<ShipShuttleBayLarge.description>Место посадки для шаттлов. Должно быть свободно от препятствий. Эта версия может вмещать большие шаттлы, или несколько малых. Имперские челноки могут приземлятся на платформы без маяков.</ShipShuttleBayLarge.description>
 	
 	<ShipSalvageBay.label>механический захват</ShipSalvageBay.label>
 	<ShipSalvageBay.description>Базовое корабельное устройство для сбора предметов и перемещения обломков. Чтобы переместить большие объекты, может потребоваться несколько захватов.\n\nМаксимальная перемещаемая масса: 5000кг.</ShipSalvageBay.description>
 	
-	<ShipSalvageBayNano.label>лучевой захват</ShipSalvageBayNano.label>
+	<ShipSalvageBayNano.label>лучевой утилизационный отсек</ShipSalvageBayNano.label>
 	<ShipSalvageBayNano.description>Продвинутое корабельное устройство для сбора предметов и перемещения обломков. Основано на реверсивном принципе действия двигателя Джонсона-Танаки, использует тяговой луч для перемещения объектов.\n\nМаксимальная перемещаемая масса: 10000кг.</ShipSalvageBayNano.description>
 	
 	<ShipCloakingDevice.label>маскировочное устройство</ShipCloakingDevice.label>
@@ -133,7 +133,7 @@
 	<CrittersleepCasketLarge.label>криптоячейки (32)</CrittersleepCasketLarge.label>
 	<CrittersleepCasketLarge.description>Ячейки с автономным питанием, способные содержать до тридцати двух мелких животных. Перед помещением в криптосон, животные должны быть под наркозом.</CrittersleepCasketLarge.description>
 	
-	<Cryptonest.label>криптоинкубатор</Cryptonest.label>
+	<Cryptonest.label>космический инкубатор</Cryptonest.label>
 	<Cryptonest.description>Инкубатор с автономным питанием, способный содержать до шестнадцати яиц.</Cryptonest.description>
 	
 	<Ship_AvatarCasket.label>хранилище личности</Ship_AvatarCasket.label>
@@ -142,7 +142,7 @@
 	<HullFoamDistributor.label>Распределитель пены</HullFoamDistributor.label>
 	<HullFoamDistributor.description>Система для распределения каркасной пены по всему кораблю. Когда часть корпуса корабля разрушается в бою, эта система автоматически заделывает пробоину каркасной пеной.</HullFoamDistributor.description>
 	
-	<HullFoamWall.label>каркасная пена</HullFoamWall.label>
+	<HullFoamWall.label>стена из каркасной пены</HullFoamWall.label>
 	<HullFoamWall.description>Герметичная стена из каркасной пены.</HullFoamWall.description>
 	
 	<ShipHullfoamTile.label>покрытие из каркасной пены</ShipHullfoamTile.label>
@@ -155,33 +155,6 @@
 	<ShipAirlockBeamWallInert.description>Герметичная удлиненная стена шлюза.</ShipAirlockBeamWallInert.description>
 	
 	<ShipAirlockBeamTile.label>покрытие шлюза</ShipAirlockBeamTile.label>
-	
-	<ShipBPBomberHeavy.label>чертеж корабля (тяжелый бомбардировщик)</ShipBPBomberHeavy.label>
-	<ShipBPBomberHeavy.description>Class: Heavy bomber\nA heavily armed ship but incapable of extended operations in space.\n\nMass: 1092\nSize: 28 x 26\nT/W ratio: 3.161\nCombat rating: 110\n\nWeapons: \n1x large railgun turret\n2x laser turret\n2x torpedo launcher\n\nRequired resources: \nsteel: 5057\nplasteel: 1777\nadvanced component: 77\ncomponent: 162\nuranium: 120\nsilver: 225\n\nRequired research: \nstarflight basics, ship navigation, cruiser armaments, air conditioning, heatsinks, ship fission reactor, rocket propulsion, laser turrets, firefoam, ship shields, capacitor arrays, ship torpedoes, ship life support</ShipBPBomberHeavy.description>
-	
-	<ShipBPCargoFirefly.label>чертеж корабля (транспорт "Светлячок")</ShipBPCargoFirefly.label>
-	<ShipBPCargoFirefly.description>Class: Firefly class transport\nAn unarmed transport ship with a large cargo hold.\n\nMass: 4705\nSize: 79 x 50\nT/W ratio: 1.648\nCombat rating: 63\n\nWeapons: \nnone\nRequired resources: \nsteel: 24379\nplasteel: 5890\nadvanced component: 202\ncomponent: 740\ngold: 16\nuranium: 170\nentanglement manifold: 1\nsilver: 100\n\nRequired research: \nstarflight basics, ship navigation, advanced ship sensors, microelectronics, rocket propulsion, escape pods, air conditioning, electricity, solar panel, ship life support, salvage bay, vitals monitor, shuttle bay, complex furniture, heatsinks, machining, ship fission reactor, firefoam, hospital bed, capacitor arrays, Johnson-Tanaka Drive</ShipBPCargoFirefly.description>
-	
-	<ShipBPCorvette.label>чертеж корабля (корвет)</ShipBPCorvette.label>
-	<ShipBPCorvette.description>Class: Corvette\nA small corvette.\n\nMass: 1860\nSize: 36 x 20\nT/W ratio: 2.383\nCombat rating: 132\n\nWeapons: \n2x torpedo launcher\n4x laser turret\n2x railgun turret\n\nRequired resources: \nsteel: 9172\nplasteel: 2992\nadvanced component: 132\ncomponent: 314\nsilver: 900\ngold: 4\nuranium: 120\n\nRequired research: \nstarflight basics, ship navigation, heatsinks, air conditioning, ship shields, microelectronics, salvage bay, basic ship sensors, ship fission reactor, ship torpedoes, ship life support, machining, firefoam, rocket propulsion, tube television, laser turrets, capacitor arrays, railgun turrets</ShipBPCorvette.description>
-	
-	<ShipBPCorvetteGunship.label>чертеж корабля (боевой корвет)</ShipBPCorvetteGunship.label>
-	<ShipBPCorvetteGunship.description>Class: Corvette\nA slow but heavily armed corvette.\n\nMass: 3685\nSize: 69 x 26\nT/W ratio: 1.403\nCombat rating: 262\n\nWeapons: \n8x laser turret\n2x large railgun turret\n2x large plasma turret\n\nRequired resources: \nsteel: 19819\nadvanced component: 245\nplasteel: 6390\ncomponent: 651\nuranium: 530\ngold: 4\nsilver: 1700\n\nRequired research: \nship navigation, starflight basics, laser turrets, air conditioning, basic ship sensors, microelectronics, ship shields, heatsinks, cruiser armaments, firefoam, capacitor arrays, flatscreen television, electricity, hospital bed, escape pods, rocket propulsion, ship fission reactor, machining, salvage bay, ship life support, vitals monitor</ShipBPCorvetteGunship.description>
-	
-	<ShipBPCorvetteWinged.label>чертеж корабля (корвет)</ShipBPCorvetteWinged.label>
-	<ShipBPCorvetteWinged.description>Class: Corvette\nA winged corvette.\n\nMass: 3092\nSize: 44 x 48\nT/W ratio: 1.763\nCombat rating: 178\n\nWeapons: \n1x large railgun turret\n6x laser turret\n2x torpedo launcher\n\nRequired resources: \nsteel: 15183\nadvanced component: 172\nplasteel: 4794\ncomponent: 547\nuranium: 220\nsilver: 900\ngold: 4\n\nRequired research: \nship navigation, starflight basics, capacitor arrays, cruiser armaments, air conditioning, microelectronics, ship life support, ship shields, salvage bay, heatsinks, escape pods, tube television, vitals monitor, hospital bed, basic ship sensors, rocket propulsion, laser turrets, ship torpedoes, ship fission reactor</ShipBPCorvetteWinged.description>
-	
-	<ShipBPFrigateArcher.label>чертеж корабля (фрегат "Лучник")</ShipBPFrigateArcher.label>
-	<ShipBPFrigateArcher.description>Class: Archer class frigate\nAn agile frigate that prefers to engage targets from long range with its large railgun.\n\nMass: 7422\nSize: 76 x 44\nT/W ratio: 1.909\nCombat rating: 575\n\nWeapons: \n10x laser turret\n2x large plasma turret\n1x spinal barrel: railgun\n2x torpedo launcher\n\nRequired resources: \nsteel: 39694\nadvanced component: 548\nplasteel: 12097\ncomponent: 1091\nuranium: 750\nsilver: 1100\ngold: 52\ncloth: 130\nwood: 55\n\nRequired research: \nship navigation, starflight basics, laser turrets, capital ship armaments, microelectronics, escape pods, air conditioning, hullfoam, ship shields, advanced ship sensors, heatsinks, hospital bed, ship life support, capacitor arrays, cruiser armaments, rocket propulsion, machining, fabrication, ship fission reactor, purge ports, firefoam, shuttle bay, salvage bay, multi-analyzer, hydroponics, ship torpedoes, electricity, complex furniture, drug production, complex clothing, vitals monitor, flatscreen television</ShipBPFrigateArcher.description>
-	
-	<ShipBPFrigateWinged.label>чертеж корабля (фрегат)</ShipBPFrigateWinged.label>
-	<ShipBPFrigateWinged.description>Class: Frigate\nA large and powerful frigate.\n\nMass: 8249\nSize: 77 x 60\nT/W ratio: 1.781\nCombat rating: 629\n\nWeapons: \n2x plasma turret\n2x torpedo launcher (2)\n2x large railgun turret\n10x laser turret\n1x spinal barrel: railgun\n1x large laser turret\n\nRequired resources: \nsteel: 44394\nadvanced component: 566\nplasteel: 13290\ncomponent: 1323\nuranium: 800\ncloth: 50\nwood: 25\ngold: 52\nsilver: 1100\n\nRequired research: \nship navigation, starflight basics, salvage bay, electricity, capacitor arrays, microelectronics, shuttle bay, plasma turrets, air conditioning, escape pods, ship life support, ship torpedoes, hospital bed, hydroponics, vitals monitor, hullfoam, machining, complex furniture, advanced ship sensors, ship shields, firefoam, cruiser armaments, laser turrets, heatsinks, rocket propulsion, capital ship armaments, ship fission reactor, multi-analyzer, fabrication, purge ports, flatscreen television</ShipBPFrigateWinged.description>
-	
-	<ShipBPCorvetteMartian.label>чертеж корабля (древний марсианский корвет)</ShipBPCorvetteMartian.label>
-	<ShipBPCorvetteMartian.description>Class: Ancient martian corvette\nAn ancient design that stood the test of time.\n\nMass: 2459\nSize: 59 x 22\nT/W ratio: 1.737\nCombat rating: 136\n\nWeapons: \n6x cannon turret\n1x torpedo launcher (2)\n\nRequired resources: \nsteel: 12505\nplasteel: 3607\nadvanced component: 144\ngold: 20\ncomponent: 397\nuranium: 300\nsilver: 100\n\nRequired research: \nstarflight basics, ship navigation, basic ship sensors, ship cannons, microelectronics, air conditioning, hydroponics, rocket propulsion, ship fission reactor, heatsinks, capacitor arrays, electricity, machining, salvage bay, advanced ship sensors, flatscreen television, ship torpedoes, hospital bed, vitals monitor, ship life support</ShipBPCorvetteMartian.description>
-	
-	<ShipBPTransportSmall.label>чертеж корабля (малый транспорт)</ShipBPTransportSmall.label>
-	<ShipBPTransportSmall.description>Class: Small transport\nA small lightly armed transport ship.\n\nMass: 1469\nSize: 30 x 22\nT/W ratio: 1.978\nCombat rating: 44\n\nWeapons: \n2x laser turret\n\nRequired resources: \nsteel: 7296\nplasteel: 2084\nadvanced component: 91\ncomponent: 249\ngold: 4\nuranium: 40\nsilver: 250\n\nRequired research: \nstarflight basics, ship navigation, microelectronics, flatscreen television, air conditioning, ship life support, basic ship sensors, salvage bay, heatsinks, laser turrets, ship fission reactor, ship shields, machining, hospital bed, vitals monitor, firefoam, rocket propulsion, capacitor arrays</ShipBPTransportSmall.description>
 	
 	<ShipMoveBlueprint.label>Новая позиция корабля</ShipMoveBlueprint.label>
 	<ShipMoveBlueprint.description>Выберите место, в которое хотите переместить корабль.</ShipMoveBlueprint.description>

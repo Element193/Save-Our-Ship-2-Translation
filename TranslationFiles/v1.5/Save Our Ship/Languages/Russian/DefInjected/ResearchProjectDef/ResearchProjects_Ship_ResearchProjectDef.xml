@@ -49,7 +49,7 @@
 	</SoSJTDrive.generalRules.rulesStrings>-->
 
 
-	<ShipSalvageBayGlitter.label>лучевой захват</ShipSalvageBayGlitter.label>
+	<ShipSalvageBayGlitter.label>лучевой утилизационный отсек</ShipSalvageBayGlitter.label>
 	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танаки.</ShipSalvageBayGlitter.description>
 <!--	<ShipSalvageBayGlitter.generalRules.rulesStrings>
 		<li>subject->теория Джонсона-Танаки</li>

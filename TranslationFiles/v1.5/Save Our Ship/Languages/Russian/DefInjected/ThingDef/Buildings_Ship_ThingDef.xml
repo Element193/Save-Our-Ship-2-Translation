@@ -118,7 +118,7 @@
 	<ShipSalvageBay.label>механический захват</ShipSalvageBay.label>
 	<ShipSalvageBay.description>Базовое корабельное устройство для сбора предметов и перемещения обломков. Чтобы переместить большие объекты, может потребоваться несколько захватов.\n\nМаксимальная перемещаемая масса: 5000кг.</ShipSalvageBay.description>
 	
-	<ShipSalvageBayNano.label>лучевой захват</ShipSalvageBayNano.label>
+	<ShipSalvageBayNano.label>лучевой утилизационный отсек</ShipSalvageBayNano.label>
 	<ShipSalvageBayNano.description>Продвинутое корабельное устройство для сбора предметов и перемещения обломков. Основано на реверсивном принципе действия двигателя Джонсона-Танаки, использует тяговой луч для перемещения объектов.\n\nМаксимальная перемещаемая масса: 10000кг.</ShipSalvageBayNano.description>
 	
 	<ShipCloakingDevice.label>маскировочное устройство</ShipCloakingDevice.label>

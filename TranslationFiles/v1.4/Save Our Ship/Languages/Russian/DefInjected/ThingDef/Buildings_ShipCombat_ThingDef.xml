@@ -142,13 +142,13 @@
 	
 	<Proj_ShipTurretKinetic_Large.label>снаряд рельсотрона</Proj_ShipTurretKinetic_Large.label>
 	
-	<ShipSpinalEmitter.label>линейный излучатель</ShipSpinalEmitter.label>
+	<ShipSpinalEmitter.label>модульный излучатель</ShipSpinalEmitter.label>
 	<ShipSpinalEmitter.description>Основная часть линейного орудия. Подключается к одному или нескольким усилителям, затем к стволу.</ShipSpinalEmitter.description>
 	
-	<ShipSpinalAmplifier.label>линейный усилитель</ShipSpinalAmplifier.label>
+	<ShipSpinalAmplifier.label>модульный усилитель</ShipSpinalAmplifier.label>
 	<ShipSpinalAmplifier.description>Центральная часть линейного орудия. Может состоять из нескольких таких усилителей.\n\nУсиливает урон линейного орудия на 25%, но на это же значение увеличивает потребление энергии и генерацию тепла.</ShipSpinalAmplifier.description>
 	
-	<ShipSpinalBarrelLaser.label>линейный лучевой ствол</ShipSpinalBarrelLaser.label>
+	<ShipSpinalBarrelLaser.label>модульный лазер</ShipSpinalBarrelLaser.label>
 	<ShipSpinalBarrelLaser.description>Финальный сегмент линейного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelLaser.description>
 	
 	<ShipTurret_SpinalMountTopLaser.label>линейное орудие</ShipTurret_SpinalMountTopLaser.label>
@@ -157,7 +157,7 @@
 	
 	<Proj_ShipSpinalBeamLaser.label>смертельный луч</Proj_ShipSpinalBeamLaser.label>
 	
-	<ShipSpinalBarrelPlasma.label>линейный плазменный ствол</ShipSpinalBarrelPlasma.label>
+	<ShipSpinalBarrelPlasma.label>модульное плазменное орудие</ShipSpinalBarrelPlasma.label>
 	<ShipSpinalBarrelPlasma.description>Финальный сегмент линейного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelPlasma.description>
 	
 	<ShipTurret_SpinalMountTopPlasma.label>линейное орудие</ShipTurret_SpinalMountTopPlasma.label>
@@ -168,7 +168,7 @@
 	
 	<Proj_ShipSpinalBeamPlasma.label>смертельный луч</Proj_ShipSpinalBeamPlasma.label>
 	
-	<ShipSpinalBarrelKinetic.label>линейный баллистический ствол</ShipSpinalBarrelKinetic.label>
+	<ShipSpinalBarrelKinetic.label>модульный рельсотрон</ShipSpinalBarrelKinetic.label>
 	<ShipSpinalBarrelKinetic.description>Финальный сегмент линейного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelKinetic.description>
 	
 	<ShipTurret_SpinalMountTopKinetic.label>линейное орудие</ShipTurret_SpinalMountTopKinetic.label>
