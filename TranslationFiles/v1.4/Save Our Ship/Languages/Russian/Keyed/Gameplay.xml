@@ -157,9 +157,9 @@
 	<SoS.ToggleScanSites>Поиск обьектов</SoS.ToggleScanSites>
 	<SoS.ToggleScanSitesDesc>Включить сканирование орбитальных обьектов</SoS.ToggleScanSitesDesc>
 	<SoS.ToggleShields>Защитное поле</SoS.ToggleShields>
-	<SoS.ToggleShieldsDesc>Активируйте или деактивируйте щиты вашего корабля</SoS.ToggleShieldsDesc>
-	<SoS.ToggleCloak>Маскировочное устройство</SoS.ToggleCloak>
-	<SoS.ToggleCloakDesc>Активируйте или деактивируйте маскировочное устройство вашего корабля</SoS.ToggleCloakDesc>
+	<SoS.ToggleShieldsDesc>Активировать или деактивировать щиты корабля</SoS.ToggleShieldsDesc>
+	<SoS.ToggleCloak>Маскировка</SoS.ToggleCloak>
+	<SoS.ToggleCloakDesc>Активировать или деактивировать маскировочное устройство корабля</SoS.ToggleCloakDesc>
 	<SoS.ShipInfo>Статистика корабля</SoS.ShipInfo>
 	<SoS.ShipInfoDesc>Показывает статистику корабля и его готовность к межзвездным путешествиям.</SoS.ShipInfoDesc>
 	<SoS.Rename>Имя корабля</SoS.Rename>
@@ -434,7 +434,7 @@
 	<SoS.AtmosphereNonBreathable>Непригодная атмосфера</SoS.AtmosphereNonBreathable>
 	<SoS.AtmosphereBreach>Пробоина!</SoS.AtmosphereBreach>
 	<SoS.EnemyBoardingShuttleAborted>Вражеский штурмовой шаттл отступает!</SoS.EnemyBoardingShuttleAborted>
-	<SoS.BreakCloakAtHeat>Отключить маскировку при достижении максимального нагрева</SoS.BreakCloakAtHeat>
+	<SoS.BreakCloakAtHeat>Отключить при уровне нагрева</SoS.BreakCloakAtHeat>
 	<SoS.BreakCloakAtHeatDesc>Когда процент нагрева охлаждающей жидкости достигает максимального уровня, маскировка будет отключена.</SoS.BreakCloakAtHeatDesc>
 	<SoS.CloakBrokenAtHeat>Устройства невидимости деактивированы из-за максимального нагрева!</SoS.CloakBrokenAtHeat>
 	<SoS.NotEnoughFuelToLaunchShuttle>Недостаточно топлива для запуска шаттла</SoS.NotEnoughFuelToLaunchShuttle>
