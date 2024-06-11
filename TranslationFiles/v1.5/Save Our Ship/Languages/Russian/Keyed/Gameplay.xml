@@ -44,7 +44,7 @@
     <SoS.WithdrawWrecks>Отозвать обломки</SoS.WithdrawWrecks>
     <SoS.WithdrawWrecksDesc>Отозвать обломки в безопасное место?</SoS.WithdrawWrecksDesc>
     <SoS.WithdrawMoveWrecks>Невозможно перемещаться из-за обломков!</SoS.WithdrawMoveWrecks>
-    <SoS.WithdrawWrecksConfirm>Переместить объекты из боя в безопасное место? Если вы проиграете сражение или сбежите, противник их атакует. Обломки можно будет извлечь с помощью корабельного захвата за незначительное количество топлива.</SoS.WithdrawWrecksConfirm>
+    <SoS.WithdrawWrecksConfirm>Переместить объекты из боя в безопасное место? Если вы проиграете сражение или сбежите, противник их атакует. Обломки можно будет извлечь с помощью утилизационного отсека за незначительное количество топлива.</SoS.WithdrawWrecksConfirm>
     <SoS.ScuttleShip>Запустить капсулы</SoS.ScuttleShip>
     <SoS.ScuttleShipDesc>Запускает все капсулы в выбранное место на планете.</SoS.ScuttleShipDesc>
     <SoS.ScuttleShipPods>Нельзя покинуть корабль, если шаттлы находятся в пути к нему или от него!</SoS.ScuttleShipPods>
@@ -596,7 +596,7 @@
 	<SoSPirateShip>Ограбить {0}</SoSPirateShip>
 	<SoSPirateShipDesc>Попытайтесь совершить акт космического пиратства против {0}. Это приведет к началу корабельного боя и повысит пиратский авторитет вашего корабля!</SoSPirateShipDesc>
 	<SoSInvestigateDerelict>Исследование {0}</SoSInvestigateDerelict>
-	<SoSInvestigateDerelictDesc>Отправится на исследование {0}. Вы сможете запустить к обломкам шаттл, и переместить их при помощи корабельного захвата, если на борту нет врагов.</SoSInvestigateDerelictDesc>
+	<SoSInvestigateDerelictDesc>Отправится на исследование {0}. Вы сможете запустить к обломкам шаттл, и переместить их при помощи утилизационного отсека, если на борту нет врагов.</SoSInvestigateDerelictDesc>
 	<SoSHackFailed>Взлом мостика не удался!</SoSHackFailed>
 	<SoSHackBridge>Взломать мостик</SoSHackBridge>
 	<SoSCantPlaceCocoon>Невозможно разместить криптококон!</SoSCantPlaceCocoon>

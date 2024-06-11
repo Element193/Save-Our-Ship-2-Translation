@@ -115,7 +115,7 @@
 	<ShipShuttleBayLarge.label>большая посадочная платформа</ShipShuttleBayLarge.label>
 	<ShipShuttleBayLarge.description>Место посадки для шаттлов. Оно должно быть свободно от препятствий. Эта версия может вмещать большие шаттлы, или несколько малых. Установите рядом маяки, для посадки торговых челноков.</ShipShuttleBayLarge.description>
 	
-	<ShipSalvageBay.label>механический захват</ShipSalvageBay.label>
+	<ShipSalvageBay.label>утилизационный отсек</ShipSalvageBay.label>
 	<ShipSalvageBay.description>Базовое корабельное устройство для сбора предметов и перемещения обломков. Чтобы переместить большие объекты, может потребоваться несколько захватов.\n\nМаксимальная перемещаемая масса: 5000кг.</ShipSalvageBay.description>
 	
 	<ShipSalvageBayNano.label>лучевой утилизационный отсек</ShipSalvageBayNano.label>

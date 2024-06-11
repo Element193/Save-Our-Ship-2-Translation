@@ -60,7 +60,7 @@
 	<ShipCapacitor.description>Космический вариант аккумулятора, используемый на всех кораблях. Основной принцип заключается в использовании диэлектрических свойств пластали для эффективного сохранения энергии.</ShipCapacitor.description>
 
 	
-	<ShipSalvageBay.label>механический захват</ShipSalvageBay.label>
+	<ShipSalvageBay.label>утилизационный отсек</ShipSalvageBay.label>
 	<ShipSalvageBay.description>Базовая корабельная система, использующая дронов и магнитные импульсы для перемещения объектов в космосе. Позволяет извлекать ценные предметы после боя или обломки для утилизации.</ShipSalvageBay.description>
 
 	<HullFoam.label>каркасная пена</HullFoam.label>
