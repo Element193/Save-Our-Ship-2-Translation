@@ -149,7 +149,7 @@
 	<SoS.ReportNeedPilot>Корабль требует пилота, либо ядро ИИ.</SoS.ReportNeedPilot>
 	<SoS.NeedsMoreFuel>Корабль имеет {0} единиц топлива, но требует {1} в топливных баках двигателей.</SoS.NeedsMoreFuel>
 	<SoS.NeedsMorePower>Кораблю требуется {0} Вт запасенной энергии.</SoS.NeedsMorePower>
-	<SoS.NeedsMoreJTEngines>Из-за своих размеров корабль требует больше двигателей Джонсона-Танаки.</SoS.NeedsMoreJTEngines>
+	<SoS.NeedsMoreJTEngines>Из-за своих размеров корабль требует больше двигателей Джонсона-Танака.</SoS.NeedsMoreJTEngines>
 	<SoS.PlanetLeave>Покинуть планету</SoS.PlanetLeave>
 	<SoS.PlanetLeaveDesc>Покинуть эту планету в поисках нового мира.</SoS.PlanetLeaveDesc>
 	<SoS.ToggleScanShips>Поиск кораблей</SoS.ToggleScanShips>
@@ -520,9 +520,9 @@
 	<SoSStopScanMap>Завершить наблюдение</SoSStopScanMap>
 	<SoSStopScanMapDesc>Завершить наблюдение за {0}.</SoSStopScanMapDesc>
 	<SoSEmergencyJTFar>Аварийный импульс (большой)</SoSEmergencyJTFar>
-	<SoSEmergencyJTFarDesc>Использовать двигатель Джонсона-Танаки, чтобы мгновенно переместиться на большую дистанцию. Это требует {0}Вт энергии и потребует ремонта двигателя.</SoSEmergencyJTFarDesc>
+	<SoSEmergencyJTFarDesc>Использовать двигатель Джонсона-Танака, чтобы мгновенно переместиться на большую дистанцию. Это требует {0}Вт энергии и потребует ремонта двигателя.</SoSEmergencyJTFarDesc>
 	<SoSEmergencyJTNear>Аварийный импульс (короткий)</SoSEmergencyJTNear>
-	<SoSEmergencyJTNearDesc>Использовать двигатель Джонсона-Танаки, чтобы мгновенно переместиться на короткую дистанцию. Это требует {0}Вт энергии и потребует ремонта двигателя.</SoSEmergencyJTNearDesc>
+	<SoSEmergencyJTNearDesc>Использовать двигатель Джонсона-Танака, чтобы мгновенно переместиться на короткую дистанцию. Это требует {0}Вт энергии и потребует ремонта двигателя.</SoSEmergencyJTNearDesc>
 	<ShipInsideToggleCloak>Маскировка</ShipInsideToggleCloak>
 	<ShipInsideToggleCloakDesc>Активировать или деактивировать маскировочное устройство корабля.</ShipInsideToggleCloakDesc>
 	<SoSPurgeHeat>Сброс</SoSPurgeHeat>

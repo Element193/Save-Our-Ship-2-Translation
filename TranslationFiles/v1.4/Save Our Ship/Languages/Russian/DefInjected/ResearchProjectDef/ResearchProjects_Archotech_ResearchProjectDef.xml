@@ -31,7 +31,7 @@
     <ArchotechHullConversion.description>Автоматическая конвертация обычных материалов корпуса корабля до архотек аналога. К сожалению, большие конструкции такие как теплообменники или генераторы щитов не могут быть преобразованы.</ArchotechHullConversion.description>
 	
 	<ArchotechPsychicField.label>психическое поле</ArchotechPsychicField.label>
-	<ArchotechPsychicField.description>Основные принципы формирования психического поля. Позволяет споре начать генерировать пси-импульсы.</ArchotechPsychicField.description>
+	<ArchotechPsychicField.description>Основные принципы формирования психического поля. Позволяет архотек споре начать генерировать пси-импульсы.</ArchotechPsychicField.description>
 	<ArchotechPsychicField.discoveredLetterTitle>Психическое Поле</ArchotechPsychicField.discoveredLetterTitle>
 	<ArchotechPsychicField.discoveredLetterText>Спора может генерировать психическое поле. Когда будет накоплено достаточное количество энергии поля и завершены необходимые исследования, спора может генерировать пси-импульсы. Энергия поля медленно накапливается сама по себе, если команда медитирует поблизости, поле может быть значительно усилено артефактами архотека.</ArchotechPsychicField.discoveredLetterText>
 	

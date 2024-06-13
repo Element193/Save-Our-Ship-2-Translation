@@ -64,10 +64,10 @@
 	<Ship_Thruster.label>Осьовий прискорювач</Ship_Thruster.label>
 	<Ship_Thruster.description>Невелике рульове пристрій, необхідне для зміни положення та обертання корабля.\n\nПотрібно по одному на бік за кожні 2000 кг маси корабля.</Ship_Thruster.description>
 	
-	<Ship_Engine_Interplanetary.label>Двигун Джонсона-Танаки</Ship_Engine_Interplanetary.label>
+	<Ship_Engine_Interplanetary.label>Двигун Джонсона-Танака</Ship_Engine_Interplanetary.label>
 	<Ship_Engine_Interplanetary.description>Продвинутий двигун, здатний здійснювати міжпланетні та міжзоряні подорожі.</Ship_Engine_Interplanetary.description>
 	
-	<Ship_Engine_Interplanetary_Large.label>Великий двигун Джонсона-Танаки</Ship_Engine_Interplanetary_Large.label>
+	<Ship_Engine_Interplanetary_Large.label>Великий двигун Джонсона-Танака</Ship_Engine_Interplanetary_Large.label>
 	<Ship_Engine_Interplanetary_Large.description>Продвинутий двигун, здатний здійснювати міжпланетні та міжзоряні подорожі.</Ship_Engine_Interplanetary_Large.description>
 	
 	<ShipPilotSeatMini.label>Корабельний місток</ShipPilotSeatMini.label>

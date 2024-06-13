@@ -149,7 +149,7 @@
 	<SoS.ReportNeedPilot>Корабель вимагає пілота, або ядра штучного інтелекту.</SoS.ReportNeedPilot>
 	<SoS.NeedsMoreFuel>Корабель має {0} одиниць палива, але вимагає {1} в паливних баках двигунів.</SoS.NeedsMoreFuel>
 	<SoS.NeedsMorePower>Кораблю вимагається {0} Вт запасеної енергії.</SoS.NeedsMorePower>
-	<SoS.NeedsMoreJTEngines>Через свої розміри корабель вимагає більше двигунів Джонсона-Танаки.</SoS.NeedsMoreJTEngines>
+	<SoS.NeedsMoreJTEngines>Через свої розміри корабель вимагає більше двигунів Джонсона-Танака.</SoS.NeedsMoreJTEngines>
 	<SoS.PlanetLeave>Покинути планету</SoS.PlanetLeave>
 	<SoS.PlanetLeaveDesc>Покинути цю планету в пошуках нового світу.</SoS.PlanetLeaveDesc>
 	<SoS.ToggleScanShips>Сканування кораблів</SoS.ToggleScanShips>
@@ -520,9 +520,9 @@
 	<SoSStopScanMap>Завершити спостереження</SoSStopScanMap>
 	<SoSStopScanMapDesc>Завершити спостереження за {0}.</SoSStopScanMapDesc>
 	<SoSEmergencyJTFar>Аварійний імпульс (великий)</SoSEmergencyJTFar>
-	<SoSEmergencyJTFarDesc>Використовувати двигун Джонсона-Танаки, щоб миттєво переміститися на велику відстань. Це вимагає {0}Вт енергії і вимагатиме ремонту двигуна.</SoSEmergencyJTFarDesc>
+	<SoSEmergencyJTFarDesc>Використовувати двигун Джонсона-Танака, щоб миттєво переміститися на велику відстань. Це вимагає {0}Вт енергії і вимагатиме ремонту двигуна.</SoSEmergencyJTFarDesc>
 	<SoSEmergencyJTNear>Аварійний імпульс (короткий)</SoSEmergencyJTNear>
-	<SoSEmergencyJTNearDesc>Використовувати двигун Джонсона-Танаки, щоб миттєво переміститися на коротку відстань. Це вимагає {0}Вт енергії і вимагатиме ремонту двигуна.</SoSEmergencyJTNearDesc>
+	<SoSEmergencyJTNearDesc>Використовувати двигун Джонсона-Танака, щоб миттєво переміститися на коротку відстань. Це вимагає {0}Вт енергії і вимагатиме ремонту двигуна.</SoSEmergencyJTNearDesc>
 	<ShipInsideToggleCloak>Маскування</ShipInsideToggleCloak>
 	<ShipInsideToggleCloakDesc>Активувати або деактивувати маскувальне пристрій корабля.</ShipInsideToggleCloakDesc>
 	<SoSPurgeHeat>Скинути</SoSPurgeHeat>

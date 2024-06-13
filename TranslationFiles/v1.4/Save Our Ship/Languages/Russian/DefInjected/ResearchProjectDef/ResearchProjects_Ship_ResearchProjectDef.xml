@@ -12,11 +12,11 @@
 	<ShipEngine.label>корабельные ускорители</ShipEngine.label>
 	<ShipEngine.description>Базовые корабельные двигатели. С помощью них можно достичь орбиты, но не больше.</ShipEngine.description>
 	
-	<SoSJTDrive.label>двигатель Джонсона-Танаки</SoSJTDrive.label>
-	<SoSJTDrive.description>Понятие принципов, лежащих в основе безреакционного двигателя Джонсона-Танаки, способного совершать межпланетные и межзвездные путешествия.</SoSJTDrive.description>
+	<SoSJTDrive.label>двигатель Джонсона-Танака</SoSJTDrive.label>
+	<SoSJTDrive.description>Понятие принципов, лежащих в основе безреакционного двигателя Джонсона-Танака, способного совершать межпланетные и межзвездные путешествия.</SoSJTDrive.description>
 
 	<ShipSalvageBayGlitter.label>лучевой утилизационный отсек</ShipSalvageBayGlitter.label>
-	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танаки.</ShipSalvageBayGlitter.description>
+	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танака.</ShipSalvageBayGlitter.description>
 
 	<ShipPilotSeat.label>корабельная навигация</ShipPilotSeat.label>
 	<ShipPilotSeat.description>Базовые корабельные устройства, которые позволяют экипажу управлять кораблем.</ShipPilotSeat.description>

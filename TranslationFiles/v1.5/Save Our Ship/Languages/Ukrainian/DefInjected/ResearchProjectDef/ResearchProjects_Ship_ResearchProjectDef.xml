@@ -37,22 +37,22 @@
 	</ShipEngine.generalRules.rulesStrings>-->
 
 
-	<SoSJTDrive.label>двигун Джонсона-Танаки</SoSJTDrive.label>
-	<SoSJTDrive.description>Розуміння принципів, що лежать в основі безреактивного двигуна Джонсона-Танаки, здатного здійснювати міжпланетні та міжзоряні подорожі.</SoSJTDrive.description>
+	<SoSJTDrive.label>двигун Джонсона-Танака</SoSJTDrive.label>
+	<SoSJTDrive.description>Розуміння принципів, що лежать в основі безреактивного двигуна Джонсона-Танака, здатного здійснювати міжпланетні та міжзоряні подорожі.</SoSJTDrive.description>
 <!--	<SoSJTDrive.generalRules.rulesStrings>
-		<li>subject->теория Джонсона-Танаки</li>
+		<li>subject->теория Джонсона-Танака</li>
 		<li>subject->экзотический перенос импульса</li>
-		<li>subject_story->{PAWN_gender ? читал : читала} лекции о квантовых эффектах в университете Джонсона-Танаки</li>
-		<li>subject_story->{PAWN_gender ? собрал : собрала} двигатель Джонсона-Танаки для своей дипломной работы</li>
-		<li>subject_story->{PAWN_gender ? обслуживал : обслуживала} двигатель Джонсона-Танаки на протяжении двух десятилетий, пока корабль путешествовал между звездами</li>
+		<li>subject_story->{PAWN_gender ? читал : читала} лекции о квантовых эффектах в университете Джонсона-Танака</li>
+		<li>subject_story->{PAWN_gender ? собрал : собрала} двигатель Джонсона-Танака для своей дипломной работы</li>
+		<li>subject_story->{PAWN_gender ? обслуживал : обслуживала} двигатель Джонсона-Танака на протяжении двух десятилетий, пока корабль путешествовал между звездами</li>
 		<li>subject_gerund->строительство корабельных двигателей</li>
 	</SoSJTDrive.generalRules.rulesStrings>-->
 
 
 	<ShipSalvageBayGlitter.label>променевий збирач</ShipSalvageBayGlitter.label>
-	<ShipSalvageBayGlitter.description>Тяговий промінь, що базується на реверсивному принципі дії двигуна Джонсона-Танаки.</ShipSalvageBayGlitter.description>
+	<ShipSalvageBayGlitter.description>Тяговий промінь, що базується на реверсивному принципі дії двигуна Джонсона-Танака.</ShipSalvageBayGlitter.description>
 <!--	<ShipSalvageBayGlitter.generalRules.rulesStrings>
-		<li>subject->теория Джонсона-Танаки</li>
+		<li>subject->теория Джонсона-Танака</li>
 		<li>subject->экзотический перенос импульса</li>
 		<li>subject_story->{PAWN_gender ? грабил : грабила} межпланетные перевозки, захватывая малые корабли при помощи тягового луча на астероиде</li>
 		<li>subject_story->{PAWN_gender ? разобрал : разобрала} обломки архотека, который, по-видимому, совершил самоубийство</li>

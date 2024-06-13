@@ -64,10 +64,10 @@
 	<Ship_Thruster.label>осевой ускоритель</Ship_Thruster.label>
 	<Ship_Thruster.description>Небольшое подруливающее устройство, необходимое для изменения положения и вращения корабля.\n\nТребуется по одному на сторону за каждые 2000кг массы корабля.</Ship_Thruster.description>
 	
-	<Ship_Engine_Interplanetary.label>двигатель Джонсона-Танаки</Ship_Engine_Interplanetary.label>
+	<Ship_Engine_Interplanetary.label>двигатель Джонсона-Танака</Ship_Engine_Interplanetary.label>
 	<Ship_Engine_Interplanetary.description>Продвинутый двигатель, способный совершать межпланетные и межзвездные путешествия.</Ship_Engine_Interplanetary.description>
 	
-	<Ship_Engine_Interplanetary_Large.label>большой Двигатель Джонсона-Танаки</Ship_Engine_Interplanetary_Large.label>
+	<Ship_Engine_Interplanetary_Large.label>большой Двигатель Джонсона-Танака</Ship_Engine_Interplanetary_Large.label>
 	<Ship_Engine_Interplanetary_Large.description>Продвинутый двигатель, способный совершать межпланетные и межзвездные путешествия.</Ship_Engine_Interplanetary_Large.description>
 	
 	<ShipPilotSeatMini.label>корабельный мостик</ShipPilotSeatMini.label>
@@ -119,7 +119,7 @@
 	<ShipSalvageBay.description>Базовое корабельное устройство для сбора предметов и перемещения обломков. Чтобы переместить большие объекты, может потребоваться несколько захватов.\n\nМаксимальная перемещаемая масса: 5000кг.</ShipSalvageBay.description>
 	
 	<ShipSalvageBayNano.label>лучевой утилизационный отсек</ShipSalvageBayNano.label>
-	<ShipSalvageBayNano.description>Продвинутое корабельное устройство для сбора предметов и перемещения обломков. Основано на реверсивном принципе действия двигателя Джонсона-Танаки, использует тяговой луч для перемещения объектов.\n\nМаксимальная перемещаемая масса: 10000кг.</ShipSalvageBayNano.description>
+	<ShipSalvageBayNano.description>Продвинутое корабельное устройство для сбора предметов и перемещения обломков. Основано на реверсивном принципе действия двигателя Джонсона-Танака, использует тяговой луч для перемещения объектов.\n\nМаксимальная перемещаемая масса: 10000кг.</ShipSalvageBayNano.description>
 	
 	<ShipCloakingDevice.label>маскировочное устройство</ShipCloakingDevice.label>
 	<ShipCloakingDevice.description>Генерирует поле, маскирующее тепловые излучения, скрывая корабль от пассивных сенсоров. Не может защитить от мощных сканеров, используемых для поиска кораблей, за которые назначена награда.\n\nПока устройство активно, тепловая система корабля будет отключена, а теплоемкость уменьшится.</ShipCloakingDevice.description>
