@@ -3,8 +3,8 @@
 
 	<!--1.5\Defs\Stats\Stats_Archotech.xml-->
 	
-	<ArchotechPillarsConnected.label>архотек монолиты подключены</ArchotechPillarsConnected.label>
-	<ArchotechPillarsConnected.description>Количество уникальных монолитов, связанных с этой спорой архотек.</ArchotechPillarsConnected.description>
+	<ArchotechPillarsConnected.label>архотек монолиты</ArchotechPillarsConnected.label>
+	<ArchotechPillarsConnected.description>Количество уникальных монолитов, связанных с этой архотек спорой.</ArchotechPillarsConnected.description>
 
 
 </LanguageData>

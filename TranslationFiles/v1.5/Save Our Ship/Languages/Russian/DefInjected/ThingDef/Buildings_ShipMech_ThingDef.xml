@@ -29,7 +29,7 @@
 	<ShipInside_SolarGeneratorMech.description>Производит электричество из солнечного света. До 750 Вт в космосе, до 375 Вт на планете. Не работает в темноте или при искусственном освещении.</ShipInside_SolarGeneratorMech.description>
 	
 	<ShipInside_PassiveVentMechanoid.label>корабельная вентиляция механоидов</ShipInside_PassiveVentMechanoid.label>
-	<ShipInside_PassiveVentMechanoid.description>Охлаждает или нагревает помещения корабля до нужной температуры.\n\nМожет также отапливать помещения с помощью электричества.</ShipInside_PassiveVentMechanoid.description>
+	<ShipInside_PassiveVentMechanoid.description>Охлаждает или нагревает помещения корабля до нужной температуры.\n\nМожет нагревать помещения с помощью электричества.</ShipInside_PassiveVentMechanoid.description>
 	
 	<ShipAirlockMech.label>шлюз корабля механоидов</ShipAirlockMech.label>
 	<ShipAirlockMech.description>Позволяет получить доступ к кораблю или разделять помещения внутри него. Энергетические плазменные барьеры препятствуют выходу газов.</ShipAirlockMech.description>

@@ -149,7 +149,7 @@
 	<ShipSpinalAmplifier.description>Центральная часть модульного орудия. Может состоять из нескольких таких усилителей.\n\nУсиливает урон модульного орудия на 25%, но на это же значение увеличивает потребление энергии и генерацию тепла.</ShipSpinalAmplifier.description>
 	
 	<ShipSpinalBarrelLaser.label>модульное лазерное орудие</ShipSpinalBarrelLaser.label>
-	<ShipSpinalBarrelLaser.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelLaser.description>
+	<ShipSpinalBarrelLaser.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления корабля по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelLaser.description>
 	
 	<ShipTurret_SpinalMountTopLaser.label>модульное орудие</ShipTurret_SpinalMountTopLaser.label>
 	<ShipTurret_SpinalMountTopLaser.description>Вооружение крупных флагманов.</ShipTurret_SpinalMountTopLaser.description>
@@ -158,7 +158,7 @@
 	<Proj_ShipSpinalBeamLaser.label>смертельный луч</Proj_ShipSpinalBeamLaser.label>
 	
 	<ShipSpinalBarrelPlasma.label>модульное плазменное орудие</ShipSpinalBarrelPlasma.label>
-	<ShipSpinalBarrelPlasma.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelPlasma.description>
+	<ShipSpinalBarrelPlasma.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления корабля по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelPlasma.description>
 	
 	<ShipTurret_SpinalMountTopPlasma.label>модульное орудие</ShipTurret_SpinalMountTopPlasma.label>
 	<ShipTurret_SpinalMountTopPlasma.description>Вооружение крупных флагманов.</ShipTurret_SpinalMountTopPlasma.description>
@@ -169,7 +169,7 @@
 	<Proj_ShipSpinalBeamPlasma.label>смертельный луч</Proj_ShipSpinalBeamPlasma.label>
 	
 	<ShipSpinalBarrelKinetic.label>модульное рельсовое орудие</ShipSpinalBarrelKinetic.label>
-	<ShipSpinalBarrelKinetic.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelKinetic.description>
+	<ShipSpinalBarrelKinetic.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления корабля по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelKinetic.description>
 	
 	<ShipTurret_SpinalMountTopKinetic.label>модульное орудие</ShipTurret_SpinalMountTopKinetic.label>
 	<ShipTurret_SpinalMountTopKinetic.description>Вооружение крупных флагманов.</ShipTurret_SpinalMountTopKinetic.description>

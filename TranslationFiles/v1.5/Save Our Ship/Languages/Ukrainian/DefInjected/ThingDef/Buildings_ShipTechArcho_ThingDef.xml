@@ -29,7 +29,7 @@
 	<ShipInside_SolarGeneratorArchotech.description>Использует фотоны, чтобы запутаться в фотосфере звезды, поглощая больше энергии, чем мог бы дать солнечный свет. Вырабатывает до 1200 Вт в космосе и до 600 Вт на поверхности планеты. Не работает в темноте или при искусственном освещении.</ShipInside_SolarGeneratorArchotech.description>
 	
 	<ShipInside_PassiveVentArchotech.label>корабельная вентиляция архотек</ShipInside_PassiveVentArchotech.label>
-	<ShipInside_PassiveVentArchotech.description>Охлаждает или нагревает помещения корабля до нужной температуры.\n\nМожет также отапливать помещения с помощью электричества.</ShipInside_PassiveVentArchotech.description>
+	<ShipInside_PassiveVentArchotech.description>Охлаждает или нагревает помещения корабля до нужной температуры.\n\nМожет нагревать помещения с помощью электричества.</ShipInside_PassiveVentArchotech.description>
 	
 	<ShipAirlockArchotech.label>корабельный шлюз архотек</ShipAirlockArchotech.label>
 	<ShipAirlockArchotech.description>Позволяет получить доступ к кораблю или разделять помещения внутри него. Энергетические плазменные барьеры препятствуют выходу газов.</ShipAirlockArchotech.description>
@@ -68,7 +68,7 @@
 	<ShipArchotechPillarD.label>дельта-монолит "Рой"</ShipArchotechPillarD.label>
 	
 	<ShipSpinalBarrelPsychic.label>психический подавитель</ShipSpinalBarrelPsychic.label>
-	<ShipSpinalBarrelPsychic.description>Финальный сегмент модульного орудия. Выпускает луч направленной пси-энергии, который оглушает экипаж, и может вызывать повреждение мозга. Игнорирует корпус, но не щиты.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость. В отличие от других видов вооружения, психический подавитель не влияет на ваш собственный корабль.</ShipSpinalBarrelPsychic.description>
+	<ShipSpinalBarrelPsychic.description>Финальный сегмент модульного орудия. Выпускает луч направленной пси-энергии, который оглушает экипаж, и может вызывать повреждение мозга. Игнорирует корпус, но не щиты.\n\nТребует связи с системами управления корабля по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость. В отличие от других видов вооружения, психический подавитель не влияет на ваш собственный корабль.</ShipSpinalBarrelPsychic.description>
 	
 	<ShipTurret_SpinalMountTopPsychic.label>модульное орудие</ShipTurret_SpinalMountTopPsychic.label>
 	<ShipTurret_SpinalMountTopPsychic.description>Вооружение продвинутых кораблей.</ShipTurret_SpinalMountTopPsychic.description>
@@ -79,7 +79,7 @@
 	<Proj_ShipTurretPsychic.label>пси-луч</Proj_ShipTurretPsychic.label>
 	
 	<ShipSpinalBarrelMechanite.label>разборочный поглотитель</ShipSpinalBarrelMechanite.label>
-	<ShipSpinalBarrelMechanite.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе. Модифицированное рельсовое орудие, запускающее рой разборочных механитов.\n\nТребует связи с системами управления кораблем по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelMechanite.description>
+	<ShipSpinalBarrelMechanite.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе. Модифицированное рельсовое орудие, запускающее рой разборочных механитов.\n\nТребует связи с системами управления корабля по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelMechanite.description>
 	
 	<ShipTurret_SpinalMountTopMechanite.label>модульное орудие</ShipTurret_SpinalMountTopMechanite.label>
 	<ShipTurret_SpinalMountTopMechanite.description>Вооружение продвинутых кораблей.</ShipTurret_SpinalMountTopMechanite.description>
