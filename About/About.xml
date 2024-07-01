@@ -13,5 +13,6 @@
     <description>Неофициальное дополнение для RimWorld. Постройте пригодный для жизни корабль и продолжите историю своих колонистов в космосе — участвуйте в корабельных боях с пиратами, ищите сокровища среди заброшенных кораблей или откройте одну-две величайших космических тайн! SoS2 включает в себя две концовки: постройте двигатель Джонсона-Танака, чтобы перенести вашу команду в новый мир, или превратите кого-то из своего экипажа в бога-машину с помощью Архотек Споры.</description>
 
     <loadAfter><li>kentington.saveourship2</li></loadAfter>
+    <modDependencies><li><packageId>kentington.saveourship2</packageId><displayName>Save Our Ship 2</displayName></li></modDependencies>
     
 </ModMetaData>

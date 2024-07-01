@@ -10,12 +10,12 @@
 	<ArchotechBioMechanites.description>Специализированные механизмы для интеграции механитов в плоть.</ArchotechBioMechanites.description>
 	
 	<ArchotechBioMechanitesTwo.label>роевой интеллект</ArchotechBioMechanitesTwo.label>
-    <ArchotechBioMechanitesTwo.description>Если наделить рой механитов коллективным интеллектом, это позволит им диагностировать и восстанавливать травмы, или даже воскрешать трупы.</ArchotechBioMechanitesTwo.description>
+    <ArchotechBioMechanitesTwo.description>Если наделить рой механитов коллективным интеллектом, это позволит им диагностировать и восстанавливать травмы, или даже воскрешать мертвых.</ArchotechBioMechanitesTwo.description>
 	
 	<ArchotechArchites.label>архогенетика</ArchotechArchites.label>
 	<ArchotechArchites.description>Разработка собственного штамма архитов - новые возможности для Архотек Споры.</ArchotechArchites.description>
 	
-    <SoSArchotechOrgans.label>биомодификация</SoSArchotechOrgans.label>
+    <SoSArchotechOrgans.label>биомодификации</SoSArchotechOrgans.label>
     <SoSArchotechOrgans.description>Переосмысление биологии на молекулярном уровне, возможность создания более совершенных органов.</SoSArchotechOrgans.description>
 	
     <ArchotechAnimals.label>модификация животных</ArchotechAnimals.label>
