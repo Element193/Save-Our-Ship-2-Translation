@@ -3,41 +3,41 @@
 
 	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipCombat.xml-->
 	
-	<BombACI.label>Оторвано</BombACI.label>
-	<BombACI.deathMessage>{0} Уничтожено взрывом.</BombACI.deathMessage>
+	<BombACI.label>взрыв</BombACI.label>
+	<BombACI.deathMessage>{0} {PAWN_gender ? погиб : погибла} из-за взрыва.</BombACI.deathMessage>
 	
-	<BombACII.label>Оторвано</BombACII.label>
-	<BombACII.deathMessage>{0} Уничтожено взрывом .</BombACII.deathMessage>
+	<BombACII.label>взрыв</BombACII.label>
+	<BombACII.deathMessage>{0} {PAWN_gender ? погиб : погибла} из-за взрыва.</BombACII.deathMessage>
 	
-	<BombACIII.label>Оторвано</BombACIII.label>
-	<BombACIII.deathMessage>{0} уничтожено взрывом.</BombACIII.deathMessage>
+	<BombACIII.label>взрыв</BombACIII.label>
+	<BombACIII.deathMessage>{0} {PAWN_gender ? погиб : погибла} из-за взрыва.</BombACIII.deathMessage>
 	
 	<ShipLaserSmall.label>Лазер</ShipLaserSmall.label>
-	<ShipLaserSmall.deathMessage>{0} сожжен лазерным лучом.</ShipLaserSmall.deathMessage>
+	<ShipLaserSmall.deathMessage>{0} {PAWN_gender ? сожжен : сожжена} лазерным лучом.</ShipLaserSmall.deathMessage>
 	
-	<ShipLaserTwo.label>Лазер</ShipLaserTwo.label>
-	<ShipLaserTwo.deathMessage>{0} сожжен лазерным лучом.</ShipLaserTwo.deathMessage>
+	<ShipLaserTwo.label>лазер</ShipLaserTwo.label>
+	<ShipLaserTwo.deathMessage>{0} {PAWN_gender ? испепелен : испепелена} лазерным лучом.</ShipLaserTwo.deathMessage>
 	
-	<ShipPlasmaSmall.label>Плазма</ShipPlasmaSmall.label>
-	<ShipPlasmaSmall.deathMessage>{0} испепелен снарядом плазменной турели.</ShipPlasmaSmall.deathMessage>
+	<ShipPlasmaSmall.label>плазма</ShipPlasmaSmall.label>
+	<ShipPlasmaSmall.deathMessage>{0} {PAWN_gender ? испарен : испарена} пучком плазмы.</ShipPlasmaSmall.deathMessage>
 	
-	<ShipPlasmaLarge.label>Плазма</ShipPlasmaLarge.label>
-	<ShipPlasmaLarge.deathMessage>{0} испепелен снарядом большой плазменной турели.</ShipPlasmaLarge.deathMessage>
+	<ShipPlasmaLarge.label>плазма</ShipPlasmaLarge.label>
+	<ShipPlasmaLarge.deathMessage>{0} {PAWN_gender ? испарен : испарена} большим пучком плазмы.</ShipPlasmaLarge.deathMessage>
 	
-	<BombKinetic.label>Снаряд</BombKinetic.label>
-	<BombKinetic.deathMessage>{0} разорван снарядом рельсотрона.</BombKinetic.deathMessage>
+	<BombKinetic.label>снаряд</BombKinetic.label>
+	<BombKinetic.deathMessage>{0} {PAWN_gender ? разорван : разорвана} снарядом рельсотрона.</BombKinetic.deathMessage>
 	
-	<BombKineticLarge.label>Снаряд</BombKineticLarge.label>
-	<BombKineticLarge.deathMessage>{0} разорван снарядом большого рельсотрона.</BombKineticLarge.deathMessage>
+	<BombKineticLarge.label>снаряд</BombKineticLarge.label>
+	<BombKineticLarge.deathMessage>{0} {PAWN_gender ? разорван : разорвана} крупным снарядом рельсотрона.</BombKineticLarge.deathMessage>
 	
-	<BombShipDebris.label>Оторвано</BombShipDebris.label>
-	<BombShipDebris.deathMessage>{0} умер при столкновении с обломком.</BombShipDebris.deathMessage>
+	<BombShipDebris.label>столкновение</BombShipDebris.label>
+	<BombShipDebris.deathMessage>{0} {PAWN_gender ? погиб : погибла} после столкновении с обломком.</BombShipDebris.deathMessage>
 	
-	<BombShipDebrisLarge.label>Оторвано</BombShipDebrisLarge.label>
-	<BombShipDebrisLarge.deathMessage>{0} умер при столкновении с большим обломком.</BombShipDebrisLarge.deathMessage>
+	<BombShipDebrisLarge.label>столкновение</BombShipDebrisLarge.label>
+	<BombShipDebrisLarge.deathMessage>{0} {PAWN_gender ? he : she}умер при столкновении с большим обломком.</BombShipDebrisLarge.deathMessage>
 	
-	<ShieldExplosion.label>Щит</ShieldExplosion.label>
-	<ShieldExplosion.deathMessage>Сбой щита привел к смерти {0} .</ShieldExplosion.deathMessage>
+	<ShieldExplosion.label>сбой защитного поля</ShieldExplosion.label>
+	<ShieldExplosion.deathMessage>{PAWN_gender ? погиб : погибла} из-за сбоя защитного поля {0} .</ShieldExplosion.deathMessage>
 
 	<!-- Хэллоу! Велком ту this файл -->
 </LanguageData>
