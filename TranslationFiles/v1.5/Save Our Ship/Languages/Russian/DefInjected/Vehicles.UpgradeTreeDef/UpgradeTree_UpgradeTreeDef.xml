@@ -3,154 +3,116 @@
 
 	<!--1.5\Defs\ThingDefs_Buildings\UpgradeTree.xml-->
 
+		<!--Броня-->
 	<SoS2ShuttleUpgradeTree.nodes.0.label>Легкая Броня</SoS2ShuttleUpgradeTree.nodes.0.label>
-	<SoS2ShuttleUpgradeTree.nodes.0.description>&lt;color=#bb8f04&gt;-10% защита от тупых повреждений, -20% защита от проникающих повреждений, +6 скорость полета, +100 грузовая вместимость, -10 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.0.description>
+	<SoS2ShuttleUpgradeTree.nodes.0.description>Модификация корпуса шаттла, которая жертвует защитой в пользу скорости и экономии топлива.\n\n&lt;color=#bb8f04&gt;-10% броня (удар), -20% броня (проникновение), +6 скорость, +100 вместимость, -10 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.0.description>
+	
 	<SoS2ShuttleUpgradeTree.nodes.1.label>Тяжёлая Броня</SoS2ShuttleUpgradeTree.nodes.1.label>
-	<SoS2ShuttleUpgradeTree.nodes.1.description>&lt;color=#bb8f04&gt;+40% защита от тупых повреждений, +40% защита от проникающих повреждений, -6 скорость полёта, -250 вместимость, +10 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.1.description>
+	<SoS2ShuttleUpgradeTree.nodes.1.description>Модификация корпуса шаттла, дополнительный слой тяжёлой брони.\n\n&lt;color=#bb8f04&gt;+40% броня (удар), +40% броня (проникновение), -6 скорость полёта, -250 вместимость, +10 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.1.description>
+	
 	<SoS2ShuttleUpgradeTree.nodes.2.label>Реактивная Нано-Броня</SoS2ShuttleUpgradeTree.nodes.2.label>
-	<SoS2ShuttleUpgradeTree.nodes.2.description>&lt;color=#bb8f04&gt;+30% защита от повреждений, +10% защита от проникающих повреждений, -50 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.2.description>
+	<SoS2ShuttleUpgradeTree.nodes.2.description>Легкий слой вибрирующих механитных цепей, которые поглощают и рассеивают удары.\n\n&lt;color=#bb8f04&gt;+30% броня (удар), +10% броня (проникновение), -50 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.2.description>
+	
 	<SoS2ShuttleUpgradeTree.nodes.3.label>Архотек Броня</SoS2ShuttleUpgradeTree.nodes.3.label>
-	<SoS2ShuttleUpgradeTree.nodes.3.description>&lt;color=#bb8f04&gt;+50% защита от тупых повреждений, +50% защита от проникающих повреждений&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.3.description>
-	<SoS2ShuttleUpgradeTree.nodes.4.label>Овердрайв</SoS2ShuttleUpgradeTree.nodes.4.label>
-	<SoS2ShuttleUpgradeTree.nodes.4.description>&lt;color=#bb8f04&gt;+12 скорость полета, +20 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.4.description>
-	<SoS2ShuttleUpgradeTree.nodes.5.label>Вспомогательные Ускорители</SoS2ShuttleUpgradeTree.nodes.5.label>
-	<SoS2ShuttleUpgradeTree.nodes.5.description>&lt;color=#bb8f04&gt;+15% вероятность уклонения в сражении, +5 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.5.description>
-	<SoS2ShuttleUpgradeTree.nodes.6.label>Модуль М.У.Л</SoS2ShuttleUpgradeTree.nodes.6.label>
-	<SoS2ShuttleUpgradeTree.nodes.6.description>&lt;color=#bb8f04&gt;-8 скорость полета, +250 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.6.description>
-	<SoS2ShuttleUpgradeTree.nodes.7.label>Архотек Ускоритель</SoS2ShuttleUpgradeTree.nodes.7.label>
-	<SoS2ShuttleUpgradeTree.nodes.7.description>&lt;color=#bb8f04&gt;+12 скорость полета, +15% вероятность уклонения в сражении, +100 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.7.description>
-	<SoS2ShuttleUpgradeTree.nodes.8.label>Генератор Щита</SoS2ShuttleUpgradeTree.nodes.8.label>
-	<SoS2ShuttleUpgradeTree.nodes.8.description>&lt;color=#bb8f04&gt;+200 теплообмен, -250 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.8.description>
-	<SoS2ShuttleUpgradeTree.nodes.9.label>Тяжелый Генератор Щита</SoS2ShuttleUpgradeTree.nodes.9.label>
-	<SoS2ShuttleUpgradeTree.nodes.9.description>&lt;color=#bb8f04&gt;+400 теплообмен, -500 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.9.description>
-	<SoS2ShuttleUpgradeTree.nodes.10.label>Архотек Генератор Щита</SoS2ShuttleUpgradeTree.nodes.10.label>
-	<SoS2ShuttleUpgradeTree.nodes.10.description>&lt;color=#bb8f04&gt;+500 теплообмен, -100 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.10.description>
-	<SoS2ShuttleUpgradeTree.nodes.11.label>Медицинский модуль</SoS2ShuttleUpgradeTree.nodes.11.label>
-	<SoS2ShuttleUpgradeTree.nodes.11.description>&lt;color=#bb8f04&gt;-250 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.11.description>
-	<SoS2ShuttleUpgradeTree.nodes.12.label>Маскировочное Устройство</SoS2ShuttleUpgradeTree.nodes.12.label>
-	<SoS2ShuttleUpgradeTree.nodes.12.description>&lt;color=#bb8f04&gt;+25% вероятность уклонения в сражении, +50 теплообмен, -500 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.12.description>
-	<SoS2ShuttleUpgradeTree.nodes.13.label>Вспомогательный тепловой бак</SoS2ShuttleUpgradeTree.nodes.13.label>
-	<SoS2ShuttleUpgradeTree.nodes.13.description>&lt;color=#bb8f04&gt;+200 теплообмен, -100 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
-	<SoS2ShuttleUpgradeTree.nodes.14.label>Пространственное Скольжение Архотек</SoS2ShuttleUpgradeTree.nodes.14.label>
-	<SoS2ShuttleUpgradeTree.nodes.14.description>&lt;color=#bb8f04&gt;+500 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.14.description>
-	<SoS2ShuttleUpgradeTree.nodes.15.label>Пассажирский Модуль (2)</SoS2ShuttleUpgradeTree.nodes.15.label>
-	<SoS2ShuttleUpgradeTree.nodes.15.description>&lt;color=#bb8f04&gt;+2 вместимость пассажиров, -200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.15.description>
-	<SoS2ShuttleUpgradeTree.nodes.16.label>Пассажирский Модуль (4)</SoS2ShuttleUpgradeTree.nodes.16.label>
-	<SoS2ShuttleUpgradeTree.nodes.16.description>&lt;color=#bb8f04&gt;+4 вместимость пассажиров, -400 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.16.description>
-	<SoS2ShuttleUpgradeTree.nodes.17.label>Пассажирский Модуль (6)</SoS2ShuttleUpgradeTree.nodes.17.label>
-	<SoS2ShuttleUpgradeTree.nodes.17.description>&lt;color=#bb8f04&gt;+6 вместимость пассажиров, -600 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.17.description>
-	<SoS2ShuttleUpgradeTree.nodes.18.label>Пассажирский Модуль (8)</SoS2ShuttleUpgradeTree.nodes.18.label>
-	<SoS2ShuttleUpgradeTree.nodes.18.description>&lt;color=#bb8f04&gt;+8 вместимость пассажиров, -800 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.18.description>
-	<SoS2ShuttleUpgradeTree.nodes.19.label>Пассажирский Модуль (10)</SoS2ShuttleUpgradeTree.nodes.19.label>
-	<SoS2ShuttleUpgradeTree.nodes.19.description>&lt;color=#bb8f04&gt;+10 вместимость пассажиров, -1000 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.19.description>
-	<SoS2ShuttleUpgradeTree.nodes.20.label>Пассажирский Модуль (12)</SoS2ShuttleUpgradeTree.nodes.20.label>
-	<SoS2ShuttleUpgradeTree.nodes.20.description>&lt;color=#bb8f04&gt;+12 вместимость пассажиров, -1200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.20.description>
-	<SoS2ShuttleUpgradeTree.nodes.21.label>Пассажирский Модуль (14)</SoS2ShuttleUpgradeTree.nodes.21.label>
-	<SoS2ShuttleUpgradeTree.nodes.21.description>&lt;color=#bb8f04&gt;+14 вместимость пассажиров, -1400 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.21.description>
-	<SoS2ShuttleUpgradeTree.nodes.22.label>Пассажирский Модуль (16)</SoS2ShuttleUpgradeTree.nodes.22.label>
-	<SoS2ShuttleUpgradeTree.nodes.22.description>&lt;color=#bb8f04&gt;+16 вместимость пассажиров, -1600 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.22.description>	
-	<SoS2ShuttleUpgradeTree.nodes.23.label>Лазерная Турель (А)</SoS2ShuttleUpgradeTree.nodes.23.label>
-	<SoS2ShuttleUpgradeTree.nodes.23.description>&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.23.description>
-	<SoS2ShuttleUpgradeTree.nodes.23.upgrades.1.turrets.0.gizmoLabel>Лазерная Орудийная Установка А</SoS2ShuttleUpgradeTree.nodes.23.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.24.label>Плазменная Турель (А)</SoS2ShuttleUpgradeTree.nodes.24.label>
-	<SoS2ShuttleUpgradeTree.nodes.24.description>&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.24.description>
-	<SoS2ShuttleUpgradeTree.nodes.24.upgrades.1.turrets.0.gizmoLabel>Плазменная Орудийная Установка А</SoS2ShuttleUpgradeTree.nodes.24.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.25.label>Торпедный Аппарат (А)</SoS2ShuttleUpgradeTree.nodes.25.label>
-	<SoS2ShuttleUpgradeTree.nodes.25.description>&lt;color=#bb8f04&gt;-400 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.25.description>
-	<SoS2ShuttleUpgradeTree.nodes.25.upgrades.1.turrets.0.gizmoLabel>Торпедная Орудийная Установка А</SoS2ShuttleUpgradeTree.nodes.25.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.26.label>Лазерная Турель (B)</SoS2ShuttleUpgradeTree.nodes.26.label>
-	<SoS2ShuttleUpgradeTree.nodes.26.description>&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.26.description>
-	<SoS2ShuttleUpgradeTree.nodes.26.upgrades.1.turrets.0.gizmoLabel>Лазерная Орудийная Установка B</SoS2ShuttleUpgradeTree.nodes.26.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.27.label>Плазменная Турель (B)</SoS2ShuttleUpgradeTree.nodes.27.label>
-	<SoS2ShuttleUpgradeTree.nodes.27.description>&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.27.description>
-	<SoS2ShuttleUpgradeTree.nodes.27.upgrades.1.turrets.0.gizmoLabel>Плазменная Орудийная Установка B</SoS2ShuttleUpgradeTree.nodes.27.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.28.label>Торпедный Аппарат (B)</SoS2ShuttleUpgradeTree.nodes.28.label>
-	<SoS2ShuttleUpgradeTree.nodes.28.description>&lt;color=#bb8f04&gt;-400 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.28.description>
-	<SoS2ShuttleUpgradeTree.nodes.28.upgrades.1.turrets.0.gizmoLabel>Торпедная Орудийная Установка B</SoS2ShuttleUpgradeTree.nodes.28.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.29.label>Лазерная Турель (C)</SoS2ShuttleUpgradeTree.nodes.29.label>
-	<SoS2ShuttleUpgradeTree.nodes.29.description>&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.29.description>
-	<SoS2ShuttleUpgradeTree.nodes.29.upgrades.1.turrets.0.gizmoLabel>Лазерная Орудийная Установка C</SoS2ShuttleUpgradeTree.nodes.29.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.30.label>Плазменная Турель (C)</SoS2ShuttleUpgradeTree.nodes.30.label>
-	<SoS2ShuttleUpgradeTree.nodes.30.description>&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.30.description>
-	<SoS2ShuttleUpgradeTree.nodes.30.upgrades.1.turrets.0.gizmoLabel>Плазменная Орудийная Установка C</SoS2ShuttleUpgradeTree.nodes.30.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.31.label>Торпедный Аппарат (C)</SoS2ShuttleUpgradeTree.nodes.31.label>
-	<SoS2ShuttleUpgradeTree.nodes.31.description>&lt;color=#bb8f04&gt;-400 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.31.description>
-	<SoS2ShuttleUpgradeTree.nodes.31.upgrades.1.turrets.0.gizmoLabel>Торпедная Орудийная Установка C</SoS2ShuttleUpgradeTree.nodes.31.upgrades.1.turrets.0.gizmoLabel>
+	<SoS2ShuttleUpgradeTree.nodes.3.description>[ЧЕЛОВЕЧЕСКИЙ ПАНЦИРЬ. ЭТОТ КОКОН Я ПОГЛОЩАЮ, ЧТОБЫ СОЗДАТЬ ЕЩЁ БОЛЕЕ КРЕПКИЙ]\n\n&lt;color=#bb8f04&gt;+50% броня (удар), +50% броня (проникновение)&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.3.description>
+	
 
-	<!-- ОПИСАНИЯ УЛУЧШЕНИЙ
-	<SoS2ShuttleUpgradeTree.nodes.0.label>Легкая Броня</SoS2ShuttleUpgradeTree.nodes.0.label>
-	<SoS2ShuttleUpgradeTree.nodes.0.description>Переоборудуйте корпус шаттла, чтобы минимизировать вес, жертвуя броней в пользу скорости и экономии топлива.\n&lt;color=#bb8f04&gt;-10% защита от тупых повреждений, -20% защита от проникающих повреждений, +6 скорость полета, +100 грузовая вместимость, -10 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.0.description>
-	<SoS2ShuttleUpgradeTree.nodes.1.label>Тяжёлая Броня</SoS2ShuttleUpgradeTree.nodes.1.label>
-	<SoS2ShuttleUpgradeTree.nodes.1.description>Переоборудуйте корпус шаттла, укрепив его дополнительной броней.\n&lt;color=#bb8f04&gt;+40% защита от тупых повреждений, +40% защита от проникающих повреждений, -6 скорость полёта, -250 вместимость, +10 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.1.description>
-	<SoS2ShuttleUpgradeTree.nodes.2.label>Реактивная Нано-Броня</SoS2ShuttleUpgradeTree.nodes.2.label>
-	<SoS2ShuttleUpgradeTree.nodes.2.description>Нанесите слой вибрирующих механитных цепей, которые помогают рассеивать тупые удары.\n&lt;color=#bb8f04&gt;+30% защита от повреждений, +10% защита от проникающих повреждений, -50 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.2.description>
-	<SoS2ShuttleUpgradeTree.nodes.3.label>Архотек Броня</SoS2ShuttleUpgradeTree.nodes.3.label>
-	<SoS2ShuttleUpgradeTree.nodes.3.description>ЧЕЛОВЕЧЕСКИЙ ПАНЦИРЬ\ИЗ ЭТОГО КОКОНА Я ВОЗНИКАЮ\nЧТОБЫ СОЗДАТЬ ЕЩЁ БОЛЕЕ КРЕПКИЙ\n&lt;color=#bb8f04&gt;+50% защита от тупых повреждений, +50% защита от проникающих повреждений&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.3.description>
+		<!--Разное-->
 	<SoS2ShuttleUpgradeTree.nodes.4.label>Овердрайв</SoS2ShuttleUpgradeTree.nodes.4.label>
-	<SoS2ShuttleUpgradeTree.nodes.4.description>Увеличьте мощность реактора и перегрузите основные двигатели.\n&lt;color=#bb8f04&gt;+12 скорость полета, +20 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.4.description>
-	<SoS2ShuttleUpgradeTree.nodes.5.label>Вспомогательные Ускорители</SoS2ShuttleUpgradeTree.nodes.5.label>
-	<SoS2ShuttleUpgradeTree.nodes.5.description>Установка дополнительных тяговых сопел повышает шансы шаттла уклониться от систем точной обороны противника.\n&lt;color=#bb8f04&gt;+15% вероятность уклонения в сражении, +5 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.5.description>
+	<SoS2ShuttleUpgradeTree.nodes.4.description>Перегрузка основных двигателей за счёт увеличения мощности реактора.\n\n&lt;color=#bb8f04&gt;+12 скорость, +20 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.4.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.5.label>Вспомогательные ускорители</SoS2ShuttleUpgradeTree.nodes.5.label>
+	<SoS2ShuttleUpgradeTree.nodes.5.description>Повышение маневренности за счёт установки дополнительных ускорителей.\n\n&lt;color=#bb8f04&gt;+15% шанс уклонения, +5 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.5.description>
+
 	<SoS2ShuttleUpgradeTree.nodes.6.label>Модуль М.У.Л</SoS2ShuttleUpgradeTree.nodes.6.label>
-	<SoS2ShuttleUpgradeTree.nodes.6.description>Используйте технологию перенаправления импульса для увеличения массы груза, которую может перевозить шаттл, за счет значительного снижения скорости полета.\n&lt;color=#bb8f04&gt;-8 скорость полета, +250 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.6.description>
-	<SoS2ShuttleUpgradeTree.nodes.7.label>Архотек Ускоритель</SoS2ShuttleUpgradeTree.nodes.7.label>
-	<SoS2ShuttleUpgradeTree.nodes.7.description>[КАКОЙ ПАРУС ВАС ДВИГАЕТ?\nПРОТИВ ЧЕГО?\nОТВЕТ: ДА]\n&lt;color=#bb8f04&gt;+12 скорость полета, +15% вероятность уклонения в сражении, +100 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.7.description>
-	<SoS2ShuttleUpgradeTree.nodes.8.label>Генератор Щита</SoS2ShuttleUpgradeTree.nodes.8.label>
-	<SoS2ShuttleUpgradeTree.nodes.8.description>Установите миниатюрный генератор щита и его отдельные теплообменники.\n&lt;color=#bb8f04&gt;+200 теплообмен, -250 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.8.description>
-	<SoS2ShuttleUpgradeTree.nodes.9.label>Тяжелый Генератор Щита</SoS2ShuttleUpgradeTree.nodes.9.label>
-	<SoS2ShuttleUpgradeTree.nodes.9.description>Установите эффективный генератор щита и его отдельные теплообменники.\n&lt;color=#bb8f04&gt;+400 теплообмен, -500 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.9.description>
-	<SoS2ShuttleUpgradeTree.nodes.10.label>Архотек Генератор Щита</SoS2ShuttleUpgradeTree.nodes.10.label>
-	<SoS2ShuttleUpgradeTree.nodes.10.description>[МЕНЬШЕ ПЕСЧИНОК\nВ СРАВНЕНИИ С КОСМОСОМ\nСТРЕЛЯЙТЕ ВО ЧТО-НИБУДЬ ДРУГОЕ, ПОЖАЛУЙСТА]\n&lt;color=#bb8f04&gt;+500 теплообменник, -100 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.10.description>
-	<SoS2ShuttleUpgradeTree.nodes.11.label>Автоматический Парамедик</SoS2ShuttleUpgradeTree.nodes.11.label>
-	<SoS2ShuttleUpgradeTree.nodes.11.description>Установите автоматические медицинские руки на борту шаттла. Эти системы быстро заделывают любые кровотечения, которые могли понести пассажиры, но их качество работы минимально.\n\n&lt;color=#bb8f04&gt;-250 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.11.description>
-	<SoS2ShuttleUpgradeTree.nodes.12.label>Маскировочное Устройство</SoS2ShuttleUpgradeTree.nodes.12.label>
-	<SoS2ShuttleUpgradeTree.nodes.12.description>Установите миниатюрное маскировочное устройство, чтобы повысить шанс уклонения в бою. Его теплообменники также немного увеличивают ёмкость щита.\n&lt;color=#bb8f04&gt;+25% вероятность уклонения в сражении, +50 теплообмен, -500 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.12.description>
-	<SoS2ShuttleUpgradeTree.nodes.13.label>Вспомогательный Теплообменник</SoS2ShuttleUpgradeTree.nodes.13.label>
-	<SoS2ShuttleUpgradeTree.nodes.13.description>Установите вспомогательный теплообменник для поддержки щитов.\n&lt;color=#bb8f04&gt;+200 теплообмен, -100 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
-	<SoS2ShuttleUpgradeTree.nodes.14.label>Архотек Пространство Скольжения</SoS2ShuttleUpgradeTree.nodes.14.label>
-	<SoS2ShuttleUpgradeTree.nodes.14.description>[КОРОБКА ВНУТРИ КОРОБКИ\nПОВТОРИТЕ ДО БЕСКОНЕЧНОСТИ\nСЕРИЯ СХОДИТСЯ]\n&lt;color=#bb8f04&gt;+500 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.14.description>
-	<SoS2ShuttleUpgradeTree.nodes.15.label>Пассажирский Модуль (2)</SoS2ShuttleUpgradeTree.nodes.15.label>
-	<SoS2ShuttleUpgradeTree.nodes.15.description>Преобразуйте небольшую часть грузового отсека в сиденья и систему жизнеобеспечения, позволяя шаттлу перевозить двух пассажиров.\n&lt;color=#bb8f04&gt;+2 вместимость пассажиров, -200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.15.description>
-	<SoS2ShuttleUpgradeTree.nodes.16.label>Пассажирский Модуль (4)</SoS2ShuttleUpgradeTree.nodes.16.label>
-	<SoS2ShuttleUpgradeTree.nodes.16.description>Преобразуйте небольшую часть грузового отсека в сиденья и систему жизнеобеспечения, позволяя шаттлу перевозить четырех пассажиров.\n&lt;color=#bb8f04&gt;+4 вместимость пассажиров, -400 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.16.description>
-	<SoS2ShuttleUpgradeTree.nodes.17.label>Пассажирский Модуль (6)</SoS2ShuttleUpgradeTree.nodes.17.label>
-	<SoS2ShuttleUpgradeTree.nodes.17.description>Преобразуйте умеренную часть грузового отсека в сиденья и систему жизнеобеспечения, позволяя шаттлу перевозить шесть пассажиров.\n&lt;color=#bb8f04&gt;+6 вместимость пассажиров, -600 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.17.description>
-	<SoS2ShuttleUpgradeTree.nodes.18.label>Пассажирский Модуль (8)</SoS2ShuttleUpgradeTree.nodes.18.label>
-	<SoS2ShuttleUpgradeTree.nodes.18.description>Преобразуйте умеренную часть грузового отсека в сиденья и систему жизнеобеспечения, позволяя шаттлу перевозить восемь пассажиров.\n&lt;color=#bb8f04&gt;+8 вместимость пассажиров, -800 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.18.description>
-	<SoS2ShuttleUpgradeTree.nodes.19.label>Пассажирский Модуль (10)</SoS2ShuttleUpgradeTree.nodes.19.label>
-	<SoS2ShuttleUpgradeTree.nodes.19.description>Преобразуйте значительную часть грузового отсека в сиденья и систему жизнеобеспечения, позволяя шаттлу перевозить десять пассажиров.\n&lt;color=#bb8f04&gt;+10 вместимость пассажиров, -1000 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.19.description>
-	<SoS2ShuttleUpgradeTree.nodes.20.label>Пассажирский Модуль (12)</SoS2ShuttleUpgradeTree.nodes.20.label>
-	<SoS2ShuttleUpgradeTree.nodes.20.description>Преобразуйте значительную часть грузового отсека в сиденья и систему жизнеобеспечения, позволяя шаттлу перевозить двенадцать пассажиров.\n&lt;color=#bb8f04&gt;+12 вместимость пассажиров, -1200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.20.description>
-	<SoS2ShuttleUpgradeTree.nodes.21.label>Пассажирский Модуль (16)</SoS2ShuttleUpgradeTree.nodes.21.label>
-	<SoS2ShuttleUpgradeTree.nodes.21.description>Преобразуйте значительную часть грузового отсека в сиденья и систему жизнеобеспечения, позволяя шаттлу перевозить шестнадцать пассажиров.\n&lt;color=#bb8f04&gt;+16 вместимость пассажиров, -1600 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.21.description>
-	<SoS2ShuttleUpgradeTree.nodes.22.label>Пассажирский Модуль (20)</SoS2ShuttleUpgradeTree.nodes.22.label>
-	<SoS2ShuttleUpgradeTree.nodes.22.description>Преобразуйте значительную часть грузового отсека в сиденья и систему жизнеобеспечения, позволяя шаттлу перевозить двадцать пассажиров.\n&lt;color=#bb8f04&gt;+20 вместимость пассажиров, -2000 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.22.description>	
-	<SoS2ShuttleUpgradeTree.nodes.23.label>Лазерная Турель (А)</SoS2ShuttleUpgradeTree.nodes.23.label>
-	<SoS2ShuttleUpgradeTree.nodes.23.description>Установите лазерную орудийную установку на верхней точке. Шаттл, оснащенный лазерным вооружением, может выполнять миссии перехвата и налеты в боевых действиях.\n&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.23.description>
-	<SoS2ShuttleUpgradeTree.nodes.23.upgrades.1.turrets.0.gizmoLabel>Лазерная Орудийная Установка А</SoS2ShuttleUpgradeTree.nodes.23.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.24.label>Плазменная Турель (А)</SoS2ShuttleUpgradeTree.nodes.24.label>
-	<SoS2ShuttleUpgradeTree.nodes.24.description>Установите плазменную орудийную установку на верхней точке. Шаттл, оснащенный плазменным вооружением, может выполнять налеты в боевых действиях.\n&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.24.description>
-	<SoS2ShuttleUpgradeTree.nodes.24.upgrades.1.turrets.0.gizmoLabel>Плазменная Орудийная Установка А</SoS2ShuttleUpgradeTree.nodes.24.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.25.label>Торпедный Аппарат (А)</SoS2ShuttleUpgradeTree.nodes.25.label>
-	<SoS2ShuttleUpgradeTree.nodes.25.description>Установите торпедный аппарат на верхней точке. Шаттл, оснащенный торпедами, может выполнять бомбардировочные миссии в боевых действиях.\n&lt;color=#bb8f04&gt;-400 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.25.description>
-	<SoS2ShuttleUpgradeTree.nodes.25.upgrades.1.turrets.0.gizmoLabel>Торпедная Орудийная Установка А</SoS2ShuttleUpgradeTree.nodes.25.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.26.label>Лазерная Турель (B)</SoS2ShuttleUpgradeTree.nodes.26.label>
-	<SoS2ShuttleUpgradeTree.nodes.26.description>Установите лазерную орудийную установку на средней точке. Шаттл, оснащенный лазерным вооружением, может выполнять миссии перехвата и налеты в боевых действиях.\n&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.26.description>
-	<SoS2ShuttleUpgradeTree.nodes.26.upgrades.1.turrets.0.gizmoLabel>Лазерная Орудийная Установка B</SoS2ShuttleUpgradeTree.nodes.26.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.27.label>Плазменная Турель (B)</SoS2ShuttleUpgradeTree.nodes.27.label>
-	<SoS2ShuttleUpgradeTree.nodes.27.description>Установите плазменную орудийную установку на средней точке. Шаттл, оснащенный плазменным вооружением, может выполнять налеты в боевых действиях.\n&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.27.description>
-	<SoS2ShuttleUpgradeTree.nodes.27.upgrades.1.turrets.0.gizmoLabel>Плазменная Орудийная Установка B</SoS2ShuttleUpgradeTree.nodes.27.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.28.label>Торпедный Аппарат (B)</SoS2ShuttleUpgradeTree.nodes.28.label>
-	<SoS2ShuttleUpgradeTree.nodes.28.description>Установите торпедный аппарат на средней точке. Шаттл, оснащенный торпедами, может выполнять бомбардировочные миссии в боевых действиях.\n&lt;color=#bb8f04&gt;-400 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.28.description>
-	<SoS2ShuttleUpgradeTree.nodes.28.upgrades.1.turrets.0.gizmoLabel>Торпедная Орудийная Установка B</SoS2ShuttleUpgradeTree.nodes.28.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.29.label>Лазерная Турель (C)</SoS2ShuttleUpgradeTree.nodes.29.label>
-	<SoS2ShuttleUpgradeTree.nodes.29.description>Установите лазерную орудийную установку на нижней точке. Шаттл, оснащенный лазерным вооружением, может выполнять миссии перехвата и налеты в боевых действиях.\n&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.29.description>
-	<SoS2ShuttleUpgradeTree.nodes.29.upgrades.1.turrets.0.gizmoLabel>Лазерная Орудийная Установка C</SoS2ShuttleUpgradeTree.nodes.29.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.30.label>Плазменная Турель (C)</SoS2ShuttleUpgradeTree.nodes.30.label>
-	<SoS2ShuttleUpgradeTree.nodes.30.description>Установите плазменную орудийную установку на нижней точке. Шаттл, оснащенный плазменным вооружением, может выполнять налеты в боевых действиях.\n&lt;color=#bb8f04&gt;-200 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.30.description>
-	<SoS2ShuttleUpgradeTree.nodes.30.upgrades.1.turrets.0.gizmoLabel>Плазменная Орудийная Установка C</SoS2ShuttleUpgradeTree.nodes.30.upgrades.1.turrets.0.gizmoLabel>
-	<SoS2ShuttleUpgradeTree.nodes.31.label>Торпедный Аппарат (C)</SoS2ShuttleUpgradeTree.nodes.31.label>
-	<SoS2ShuttleUpgradeTree.nodes.31.description>Установите торпедный аппарат на нижней точке. Шаттл, оснащенный торпедами, может выполнять бомбардировочные миссии в боевых действиях.\n&lt;color=#bb8f04&gt;-400 грузовая вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.31.description>
-	<SoS2ShuttleUpgradeTree.nodes.31.upgrades.1.turrets.0.gizmoLabel>Торпедная Орудийная Установка C</SoS2ShuttleUpgradeTree.nodes.31.upgrades.1.turrets.0.gizmoLabel>
-	ОПИСАНИЯ УЛУЧШЕНИЙ  -->
+	<SoS2ShuttleUpgradeTree.nodes.6.description>Технология перенаправления импульса для, благодаря которой шаттл может перевозить больше груза.\n\n&lt;color=#bb8f04&gt;-8 скорость, +250 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.6.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.7.label>Архотек ускоритель</SoS2ShuttleUpgradeTree.nodes.7.label>
+	<SoS2ShuttleUpgradeTree.nodes.7.description>[ЧТО ЗАСТАВЛЯЕТ ТЕБЯ ДВИГАТЬСЯ? ЧЕМУ ТЫ ПРОТИВОСТОИШЬ? ОТВЕТ: ДА]\n\n&lt;color=#bb8f04&gt;+12 скорость, +15% шанс уклонения, +100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.7.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.8.label>Генератор щита</SoS2ShuttleUpgradeTree.nodes.8.label>
+	<SoS2ShuttleUpgradeTree.nodes.8.description>Миниатюрный генератор щита и отдельные тепловые баки.\n\n&lt;color=#bb8f04&gt;+200 теплоемкость, -250 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.8.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.9.label>Тяжелый генератор щита</SoS2ShuttleUpgradeTree.nodes.9.label>
+	<SoS2ShuttleUpgradeTree.nodes.9.description>Эффективный генератор щита и отдельные тепловые баки.\n\n&lt;color=#bb8f04&gt;+400 теплоемкость, -500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.9.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.10.label>Архотек генератор щита</SoS2ShuttleUpgradeTree.nodes.10.label>
+	<SoS2ShuttleUpgradeTree.nodes.10.description>[МЕНЬШЕ, ЧЕМ ПЕСЧИНКИ В СРАВНЕНИИ С ЗВЁЗДАМИ. НЕ СТРЕЛЯЙТЕ В НИХ, ПОЖАЛУЙСТА]\n\n&lt;color=#bb8f04&gt;+500 теплоемкость, -100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.10.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.11.label>Медицинский модуль</SoS2ShuttleUpgradeTree.nodes.11.label>
+	<SoS2ShuttleUpgradeTree.nodes.11.description>Автоматические медицинские манипуляторы, которые могут остановить кровотечение или обработать раны с минимальным качеством.\n\n&lt;color=#bb8f04&gt;-250 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.11.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.12.label>Маскировочное устройство</SoS2ShuttleUpgradeTree.nodes.12.label>
+	<SoS2ShuttleUpgradeTree.nodes.12.description>Миниатюрное маскировочное устройство, которое повышает шанс уклонения в бою. Тепловые баки также немного увеличивают ёмкость щита.\n\n&lt;color=#bb8f04&gt;+25% шанс уклонения, +50 теплоемкость, -500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.12.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.13.label>Вспомогательный тепловой бак</SoS2ShuttleUpgradeTree.nodes.13.label>
+	<SoS2ShuttleUpgradeTree.nodes.13.description>Дополнительный тепловой бак для поддержания щита.\n\n&lt;color=#bb8f04&gt;+200 теплоемкость, -100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.14.label>Пространственное скольжение</SoS2ShuttleUpgradeTree.nodes.14.label>
+	<SoS2ShuttleUpgradeTree.nodes.14.description>[КОРОБКА ВНУТРИ КОРОБКИ. ПОВТОРЕНИЕ ДО БЕСКОНЕЧНОСТИ. РЯД И СЕРИЯ СХОДЯТСЯ]\n\n&lt;color=#bb8f04&gt;+500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.14.description>
+
+
+		<!--Пассажиры-->
+	<SoS2ShuttleUpgradeTree.nodes.15.label>Пассажирский модуль (2)</SoS2ShuttleUpgradeTree.nodes.15.label>
+	<SoS2ShuttleUpgradeTree.nodes.15.description>Переоборудованная часть грузового отсека, которая включает сиденья и систему жизнеобеспечения.\n\n&lt;&lt;color=#bb8f04&gt;+2 вместимость пассажиров, -200 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.15.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.16.label>Пассажирский модуль (4)</SoS2ShuttleUpgradeTree.nodes.16.label>
+	<SoS2ShuttleUpgradeTree.nodes.16.description>Переоборудованная часть грузового отсека, которая включает сиденья и систему жизнеобеспечения.\n\n&lt;&lt;color=#bb8f04&gt;+4 вместимость пассажиров, -400 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.16.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.17.label>Пассажирский модуль (6)</SoS2ShuttleUpgradeTree.nodes.17.label>
+	<SoS2ShuttleUpgradeTree.nodes.17.description>Переоборудованная часть грузового отсека, которая включает сиденья и систему жизнеобеспечения.\n\n&lt;&lt;color=#bb8f04&gt;+6 вместимость пассажиров, -600 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.17.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.18.label>Пассажирский модуль (8)</SoS2ShuttleUpgradeTree.nodes.18.label>
+	<SoS2ShuttleUpgradeTree.nodes.18.description>Переоборудованная часть грузового отсека, которая включает сиденья и систему жизнеобеспечения.\n\n&lt;&lt;color=#bb8f04&gt;+8 вместимость пассажиров, -800 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.18.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.19.label>Пассажирский модуль (10)</SoS2ShuttleUpgradeTree.nodes.19.label>
+	<SoS2ShuttleUpgradeTree.nodes.19.description>Переоборудованная часть грузового отсека, которая включает сиденья и систему жизнеобеспечения.\n\n&lt;&lt;color=#bb8f04&gt;+10 вместимость пассажиров, -1000 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.19.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.20.label>Пассажирский модуль (12)</SoS2ShuttleUpgradeTree.nodes.20.label>
+	<SoS2ShuttleUpgradeTree.nodes.20.description>Переоборудованная часть грузового отсека, которая включает сиденья и систему жизнеобеспечения.\n\n&lt;&lt;color=#bb8f04&gt;+12 вместимость пассажиров, -1200 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.20.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.21.label>Пассажирский модуль (14)</SoS2ShuttleUpgradeTree.nodes.21.label>
+	<SoS2ShuttleUpgradeTree.nodes.21.description>Переоборудованная часть грузового отсека, которая включает сиденья и систему жизнеобеспечения.\n\n&lt;&lt;color=#bb8f04&gt;+14 вместимость пассажиров, -1400 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.21.description>
+
+	<SoS2ShuttleUpgradeTree.nodes.22.label>Пассажирский модуль (16)</SoS2ShuttleUpgradeTree.nodes.22.label>
+	<SoS2ShuttleUpgradeTree.nodes.22.description>Переоборудованная часть грузового отсека, которая включает сиденья и систему жизнеобеспечения.\n\n&lt;&lt;color=#bb8f04&gt;+16 вместимость пассажиров, -1600 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.22.description>
+
+
+		<!--Вооружение-->
+	<SoS2ShuttleUpgradeTree.nodes.23.label>Лазерная турель (А)</SoS2ShuttleUpgradeTree.nodes.23.label>
+	<SoS2ShuttleUpgradeTree.nodes.23.description>Шаттл, оснащенный лазерным вооружением, может выполнять миссии перехвата и налеты в бою.\n\n&lt;color=#bb8f04&gt;-200 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.23.description>
+	<SoS2ShuttleUpgradeTree.nodes.23.upgrades.1.turrets.0.gizmoLabel>Лазерная Турель (А)</SoS2ShuttleUpgradeTree.nodes.23.upgrades.1.turrets.0.gizmoLabel>
+
+	<SoS2ShuttleUpgradeTree.nodes.24.label>Плазменная турель (А)</SoS2ShuttleUpgradeTree.nodes.24.label>
+	<SoS2ShuttleUpgradeTree.nodes.24.description> Шаттл, оснащенный плазменным вооружением, может выполнять налеты в бою.\n\n&lt;color=#bb8f04&gt;-200 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.24.description>
+	<SoS2ShuttleUpgradeTree.nodes.24.upgrades.1.turrets.0.gizmoLabel>Плазменная Турель (А)</SoS2ShuttleUpgradeTree.nodes.24.upgrades.1.turrets.0.gizmoLabel>
+
+	<SoS2ShuttleUpgradeTree.nodes.25.label>Торпедный аппарат (А)</SoS2ShuttleUpgradeTree.nodes.25.label>
+	<SoS2ShuttleUpgradeTree.nodes.25.description>Шаттл, оснащенный торпедами, может выполнять миссии бомбардировки в бою.\n\n&lt;color=#bb8f04&gt;-400 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.25.description>
+	<SoS2ShuttleUpgradeTree.nodes.25.upgrades.1.turrets.0.gizmoLabel>Торпедный Аппарат (А)</SoS2ShuttleUpgradeTree.nodes.25.upgrades.1.turrets.0.gizmoLabel>
+
+	<SoS2ShuttleUpgradeTree.nodes.26.label>Лазерная турель (B)</SoS2ShuttleUpgradeTree.nodes.26.label>
+	<SoS2ShuttleUpgradeTree.nodes.26.description>Шаттл, оснащенный лазерным вооружением, может выполнять миссии перехвата и налеты в бою.\n\n&lt;color=#bb8f04&gt;-200 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.26.description>
+	<SoS2ShuttleUpgradeTree.nodes.26.upgrades.1.turrets.0.gizmoLabel>Лазерная Турель (B)</SoS2ShuttleUpgradeTree.nodes.26.upgrades.1.turrets.0.gizmoLabel>
+
+	<SoS2ShuttleUpgradeTree.nodes.27.label>Плазменная турель (B)</SoS2ShuttleUpgradeTree.nodes.27.label>
+	<SoS2ShuttleUpgradeTree.nodes.27.description>Шаттл, оснащенный плазменным вооружением, может выполнять налеты в бою.\n\n&lt;color=#bb8f04&gt;-200 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.27.description>
+	<SoS2ShuttleUpgradeTree.nodes.27.upgrades.1.turrets.0.gizmoLabel>Плазменная Турель (B)</SoS2ShuttleUpgradeTree.nodes.27.upgrades.1.turrets.0.gizmoLabel>
+
+	<SoS2ShuttleUpgradeTree.nodes.28.label>Торпедный аппарат (B)</SoS2ShuttleUpgradeTree.nodes.28.label>
+	<SoS2ShuttleUpgradeTree.nodes.28.description>Шаттл, оснащенный торпедами, может выполнять миссии бомбардировки в бою.\n\n&lt;color=#bb8f04&gt;-400 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.28.description>
+	<SoS2ShuttleUpgradeTree.nodes.28.upgrades.1.turrets.0.gizmoLabel>Торпедный Аппарат (B)</SoS2ShuttleUpgradeTree.nodes.28.upgrades.1.turrets.0.gizmoLabel>
+
+	<SoS2ShuttleUpgradeTree.nodes.29.label>Лазерная турель (C)</SoS2ShuttleUpgradeTree.nodes.29.label>
+	<SoS2ShuttleUpgradeTree.nodes.29.description>Шаттл, оснащенный лазерным вооружением, может выполнять миссии перехвата и налеты в бою.\n\n&lt;color=#bb8f04&gt;-200 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.29.description>
+	<SoS2ShuttleUpgradeTree.nodes.29.upgrades.1.turrets.0.gizmoLabel>Лазерная Турель (C)</SoS2ShuttleUpgradeTree.nodes.29.upgrades.1.turrets.0.gizmoLabel>
+
+	<SoS2ShuttleUpgradeTree.nodes.30.label>Плазменная турель (C)</SoS2ShuttleUpgradeTree.nodes.30.label>
+	<SoS2ShuttleUpgradeTree.nodes.30.description>Шаттл, оснащенный плазменным вооружением, может выполнять налеты в бою.\n\n&lt;color=#bb8f04&gt;-200 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.30.description>
+	<SoS2ShuttleUpgradeTree.nodes.30.upgrades.1.turrets.0.gizmoLabel>Плазменная Турель (C)</SoS2ShuttleUpgradeTree.nodes.30.upgrades.1.turrets.0.gizmoLabel>
+
+	<SoS2ShuttleUpgradeTree.nodes.31.label>Торпедный аппарат (C)</SoS2ShuttleUpgradeTree.nodes.31.label>
+	<SoS2ShuttleUpgradeTree.nodes.31.description>Шаттл, оснащенный торпедами, может выполнять миссии бомбардировки в бою.\n\n&lt;color=#bb8f04&gt;-400 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.31.description>
+	<SoS2ShuttleUpgradeTree.nodes.31.upgrades.1.turrets.0.gizmoLabel>Торпедный Аппарат (C)</SoS2ShuttleUpgradeTree.nodes.31.upgrades.1.turrets.0.gizmoLabel>
 	
 </LanguageData>

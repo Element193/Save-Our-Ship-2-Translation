@@ -147,7 +147,7 @@
 	<SoS.ReportInterReady>Готов к межзвездным путешествиям.</SoS.ReportInterReady>
 	<SoS.ReportInterNotReady>Не готов к межзвездным путешествиям.</SoS.ReportInterNotReady>
 	<SoS.ReportNeedPilot>Корабль требует пилота, либо ядро ИИ.</SoS.ReportNeedPilot>
-	<SoS.NeedsMoreFuel>Корабль имеет {0} единиц топлива, но требует {1} в топливных баках двигателей.</SoS.NeedsMoreFuel>
+	<SoS.NeedsMoreFuel>Корабль имеет {0} топлива, но требует {1} в баках двигателей.</SoS.NeedsMoreFuel>
 	<SoS.NeedsMorePower>Кораблю требуется {0} Вт запасенной энергии.</SoS.NeedsMorePower>
 	<SoS.NeedsMoreJTEngines>Из-за своих размеров корабль требует больше двигателей Джонсона-Танака.</SoS.NeedsMoreJTEngines>
 	<SoS.PlanetLeave>Покинуть планету</SoS.PlanetLeave>

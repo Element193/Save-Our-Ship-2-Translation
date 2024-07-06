@@ -15,7 +15,7 @@
 
 
 	<ShipReactor.label>корабельные реакторы</ShipReactor.label>
-	<ShipReactor.description>Принцип расщепления топливных капсул для получения большого количества энергии в течении длительного времени.</ShipReactor.description>
+	<ShipReactor.description>Принцип расщепления обогащенного урана для получения большого количества энергии в течении длительного времени.</ShipReactor.description>
 <!--	<ShipReactor.generalRules.rulesStrings>
 		<li>subject->ядерный корабельный реактор</li>
 		<li>subject_story->{PAWN_gender ? собрал : собрала} ядерный реактор для колониального корабля, но не {PAWN_gender ? увидел : увидела} его запуска</li>
