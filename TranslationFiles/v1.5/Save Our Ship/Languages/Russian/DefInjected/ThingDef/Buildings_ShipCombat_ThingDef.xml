@@ -2,19 +2,19 @@
 <LanguageData>
 	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipCombat.xml-->
 	<ShipCombatShieldGenerator.label>генератор щита</ShipCombatShieldGenerator.label>
-	<ShipCombatShieldGenerator.description>Защитная система корабля, генерирует импульсное поле, которое не влияет на исходящие снаряды, но отталкивает входящие.\n\nГенерирует тепло при отражении снарядов.\n\nБудет воспламенен после отражения снаряда, если тепловая вместимость превысит максимальное значение.</ShipCombatShieldGenerator.description>
+	<ShipCombatShieldGenerator.description>Генерирует импульсное репульсорное поле, которое отталкивает входящие снаряды.\n\nГенерирует тепло при отражении снарядов, выходит из строя при перегреве.\n\nКапитанам рекомендуется отключать щиты, когда уровень нагрева приближается к максимальному.</ShipCombatShieldGenerator.description>
 	
 	<ShipCombatShieldGeneratorMini.label>малый генератор щита</ShipCombatShieldGeneratorMini.label>
-	<ShipCombatShieldGeneratorMini.description>Компактная версия корабельного щита, генерирует импульсное поле, которое не влияет на исходящие снаряды, но отталкивает входящие.\n\nГенерирует тепло при отражении снарядов.\n\nБудет воспламенен после отражения снаряда, если тепловая вместимость превысит максимальное значение.\n\nИз-за своего небольшого размера, этот генератор выделяет на 25% больше тепла.</ShipCombatShieldGeneratorMini.description>
+	<ShipCombatShieldGeneratorMini.description>Генерирует импульсное репульсорное поле, которое отталкивает входящие снаряды.\n\nБлагодаря модифицированной конструкции, этот генератор щита занимает меньше меньше места, однако производит на 25% больше тепла.\n\nГенерирует тепло при отражении снарядов, выходит из строя при перегреве.\n\nКапитанам рекомендуется отключать щиты, когда уровень нагрева приближается к максимальному.</ShipCombatShieldGeneratorMini.description>
 	
 	<ShipHeatConduit.label>теплопровод</ShipHeatConduit.label>
 	<ShipHeatConduit.description>Жидкостный канал для передачи тепла по космическому кораблю.</ShipHeatConduit.description>
 	
 	<ShipHeatsink.label>корабельный радиатор</ShipHeatsink.label>
-	<ShipHeatsink.description>Получает тепло от систем корабля, и отводит его в комнату, или медленно в космическое пространство.\n\nВоспламеняется при критическом нагреве охлаждающей жидкости и высвобождает накопленное тепло при разрушении. Не функционирует, если маскировочное устройство или щиты корабля активны.\n\nТеплоемкость: 200 Те.\nОтдача в космос: 4 Те/с.\nОтдача: 1 Те/с.</ShipHeatsink.description>
+	<ShipHeatsink.description>Получает тепло от систем корабля, и отводит его в комнату, или медленно в космическое пространство.\n\nВоспламеняется при критическом нагреве охлаждающей жидкости и высвобождает накопленное тепло при разрушении.\n\nНе функционирует, если маскировочное устройство или щиты корабля активны.\n\nТеплоемкость: 200 Те.\nОтдача в космос: 4 Те/с.\nОтдача: 1 Те/с.</ShipHeatsink.description>
 	
 	<ShipHeatsinkLarge.label>большой корабельный радиатор</ShipHeatsinkLarge.label>
-	<ShipHeatsinkLarge.description>Увеличенная версия корабельного радиатора. Получает тепло от систем корабля, и отводит его в комнату, или медленно в космическое пространство.\n\nВоспламеняется при критическом нагреве охлаждающей жидкости и высвобождает накопленное тепло при разрушении. Не функционирует, если маскировочное устройство или щиты корабля активны.\n\nТеплоемкость: 200 Те.\nОтдача в космос: 16 Те/с.\nОтдача: 3 Те/с.</ShipHeatsinkLarge.description>
+	<ShipHeatsinkLarge.description>Увеличенная версия корабельного радиатора. Получает тепло от систем корабля, и отводит его в комнату, или медленно в космическое пространство.\n\nВоспламеняется при критическом нагреве охлаждающей жидкости и высвобождает накопленное тепло при разрушении.\n\nНе функционирует, если маскировочное устройство или щиты корабля активны.\n\nТеплоемкость: 200 Те.\nОтдача в космос: 16 Те/с.\nОтдача: 3 Те/с.</ShipHeatsinkLarge.description>
 	
 	<ShipHeatManifold.label>тепловой резервуар</ShipHeatManifold.label>
 	<ShipHeatManifold.description>Резервуар с охлаждающей жидкостью для хранения избыточного тепла.\n\nВоспламеняется при критическом нагреве охлаждающей жидкости и высвобождает накопленное тепло при разрушении.\n\nТеплоемкость: 800 Те.\nОтдача: 2 Те/с.</ShipHeatManifold.description>
@@ -29,13 +29,13 @@
 	<ShipPurgePortLarge.description>Увеличенная версия системы для направления тепла в металлы с низкой температурой плавления, такие как серебро. Выброс расплавленного серебра в космос — дорогостоящий способ быстро избавиться от накопленного тепла. Щиты будут отключены во время сброса.</ShipPurgePortLarge.description>
 	
 	<ShipTurret_ACI.label>турель автопушки</ShipTurret_ACI.label>
-	<ShipTurret_ACI.description>Корабельное орудие, которое быстро разгоняет урановые снаряды. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Полезно только на близких дистанциях. Может быть настроено для перехвата торпед.</ShipTurret_ACI.description>
+	<ShipTurret_ACI.description>Корабельное орудие, которое быстро разгоняет урановые снаряды. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Наиболее эффективно для ведения боя на короткой дистанции.\n\nМожет перехватывать торпеды и вести огонь по шаттлам противника.</ShipTurret_ACI.description>
 	<ShipTurret_ACI.comps.3.fuelLabel>Выстрелов до перезарядки</ShipTurret_ACI.comps.3.fuelLabel>
 	<ShipTurret_ACI.comps.3.fuelGizmoLabel>Урановые снаряды</ShipTurret_ACI.comps.3.fuelGizmoLabel>
 	<ShipTurret_ACI.comps.3.outOfFuelMessage>Нет боеприпасов</ShipTurret_ACI.comps.3.outOfFuelMessage>
 	
 	<ShipTurret_ACITop.label>автопушка</ShipTurret_ACITop.label>
-	<ShipTurret_ACITop.description>Корабельное орудие, которое быстро разгоняет урановые снаряды. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Полезно только на близких дистанциях. Может быть настроена для перехвата торпед.</ShipTurret_ACITop.description>
+	<ShipTurret_ACITop.description>Корабельное орудие, которое быстро разгоняет урановые снаряды. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Наиболее эффективно для ведения боя на короткой дистанции.\n\nМожет перехватывать торпеды и вести огонь по шаттлам противника.</ShipTurret_ACITop.description>
 	<ShipTurret_ACITop.verbs.0.label>стреляет</ShipTurret_ACITop.verbs.0.label>
 	
 	<Bullet_Fake_ACI.label>Снаряд автопушки</Bullet_Fake_ACI.label>
@@ -45,7 +45,7 @@
 	<Bullet_Ground_ACI.label>Снаряд автопушки</Bullet_Ground_ACI.label>
 	
 	<ShipTurret_ACII.label>артиллерийская турель</ShipTurret_ACII.label>
-	<ShipTurret_ACII.description>Корабельное орудие, которое быстро разгоняет урановые снаряды. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Полезно только на близких дистанциях. Может быть настроена для перехвата торпед.</ShipTurret_ACII.description>
+	<ShipTurret_ACII.description>Корабельное орудие, которое быстро разгоняет урановые снаряды. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Наиболее эффективно для ведения боя на короткой дистанции.</ShipTurret_ACII.description>
 	<ShipTurret_ACII.comps.2.fuelLabel>Выстрелов до перезарядки</ShipTurret_ACII.comps.2.fuelLabel>
 	<ShipTurret_ACII.comps.2.fuelGizmoLabel>Урановые снаряды</ShipTurret_ACII.comps.2.fuelGizmoLabel>
 	<ShipTurret_ACII.comps.2.outOfFuelMessage>Нет боеприпасов</ShipTurret_ACII.comps.2.outOfFuelMessage>
@@ -73,7 +73,7 @@
 	<Proj_ShipTurretACIII.label>Снаряд автопушки</Proj_ShipTurretACIII.label>
 	
 	<ShipTurret_Laser.label>лазерная турель</ShipTurret_Laser.label>
-	<ShipTurret_Laser.description>Корабельное орудие, стреляющее мощным лазером. Хотя оно может нанести сокрушительный урон, его можно использовать только на небольшом расстоянии. Может быть настроено на перехват торпед</ShipTurret_Laser.description>
+	<ShipTurret_Laser.description>Корабельное орудие, стреляющее мощным лазером. Лазерный луч может нанести сокрушительный урон, однако он имеет небольшую дальность.\n\nМожет перехватывать торпеды и вести огонь по шаттлам противника.</ShipTurret_Laser.description>
 	
 	<ShipTurret_LaserTop.label>лазер</ShipTurret_LaserTop.label>
 	<ShipTurret_LaserTop.description>Лазерное орудие. Недальнобойное, но разрушительное.</ShipTurret_LaserTop.description>
@@ -86,7 +86,7 @@
 	<Bullet_Ground_Laser.label>лазерный луч</Bullet_Ground_Laser.label>
 	
 	<ShipTurret_Laser_Large.label>большая лазерная турель</ShipTurret_Laser_Large.label>
-	<ShipTurret_Laser_Large.description>Большое корабельное орудие, стреляющее мощным лазером. Хотя оно может нанести сокрушительный урон, его можно использовать только на небольшом расстоянии.</ShipTurret_Laser_Large.description>
+	<ShipTurret_Laser_Large.description>Большое корабельное орудие, стреляющее мощным лазером. Лазерный луч может нанести сокрушительный урон, однако он имеет небольшую дальность.</ShipTurret_Laser_Large.description>
 	
 	<ShipTurret_LaserTop_Large.label>лазер</ShipTurret_LaserTop_Large.label>
 	<ShipTurret_LaserTop_Large.description>Лазерное орудие. Недальнобойное, но разрушительное.</ShipTurret_LaserTop_Large.description>
@@ -146,11 +146,11 @@
 	<ShipSpinalEmitter.description>Основная часть модульного орудия. Подключается к одному или нескольким усилителям, затем к стволу.</ShipSpinalEmitter.description>
 	
 	<ShipSpinalAmplifier.label>модульный усилитель</ShipSpinalAmplifier.label>
-	<ShipSpinalAmplifier.description>Центральная часть модульного орудия. Может состоять из нескольких таких усилителей.\n\nУсиливает урон модульного орудия на 25%, но на это же значение увеличивает потребление энергии и генерацию тепла.</ShipSpinalAmplifier.description>
+	<ShipSpinalAmplifier.description>Центральная часть модульного орудия. Может состоять из нескольких таких усилителей.\n\nУсиливает мощность модульного орудия на 25%, увеличивает потребление энергии и генерацию тепла на это же значение.</ShipSpinalAmplifier.description>
 	
 	<ShipSpinalBarrelLaser.label>модульное лазерное орудие</ShipSpinalBarrelLaser.label>
-	<ShipSpinalBarrelLaser.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления корабля по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelLaser.description>
-	
+	<ShipSpinalBarrelLaser.description>Финальный сегмент модульного орудия, чем больше усилителей к нему подключено, тем выше его мощность. Следует устанавливать снаружи корабля, если вы конечно не хотите новой дыры в корпусе.\n\nЭто орудие генерирует мощный лазерный луч, который с легкостью прорезает корпус корабля, имеет хорошую точность, но потребляет много энергии.\n\nТребует связи с системами корабля по тепловой сети. Для работы нужна энергия и тепловая вместимость.</ShipSpinalBarrelLaser.description>
+
 	<ShipTurret_SpinalMountTopLaser.label>модульное орудие</ShipTurret_SpinalMountTopLaser.label>
 	<ShipTurret_SpinalMountTopLaser.description>Вооружение крупных флагманов.</ShipTurret_SpinalMountTopLaser.description>
 	<ShipTurret_SpinalMountTopLaser.verbs.0.label>стреляет</ShipTurret_SpinalMountTopLaser.verbs.0.label>
@@ -158,7 +158,7 @@
 	<Proj_ShipSpinalBeamLaser.label>смертельный луч</Proj_ShipSpinalBeamLaser.label>
 	
 	<ShipSpinalBarrelPlasma.label>модульное плазменное орудие</ShipSpinalBarrelPlasma.label>
-	<ShipSpinalBarrelPlasma.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления корабля по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelPlasma.description>
+	<ShipSpinalBarrelPlasma.description>Финальный сегмент модульного орудия, чем больше усилителей к нему подключено, тем выше его мощность. Следует устанавливать снаружи корабля, если вы конечно не хотите новой дыры в корпусе.\n\nОрудие, стреляющее струей перегретой плазмы. Имеет неплохую точность и разрушительную мощь. Наиболее подходит для ведения боя на средней дистанции.\n\nТребует связи с системами корабля по тепловой сети. Для работы нужна энергия и тепловая вместимость.</ShipSpinalBarrelPlasma.description>
 	
 	<ShipTurret_SpinalMountTopPlasma.label>модульное орудие</ShipTurret_SpinalMountTopPlasma.label>
 	<ShipTurret_SpinalMountTopPlasma.description>Вооружение крупных флагманов.</ShipTurret_SpinalMountTopPlasma.description>
@@ -169,7 +169,7 @@
 	<Proj_ShipSpinalBeamPlasma.label>смертельный луч</Proj_ShipSpinalBeamPlasma.label>
 	
 	<ShipSpinalBarrelKinetic.label>модульное рельсовое орудие</ShipSpinalBarrelKinetic.label>
-	<ShipSpinalBarrelKinetic.description>Финальный сегмент модульного орудия. Должен быть установлен снаружи корабля, если вы не хотите новой дыры в корпусе.\n\nТребует связи с системами управления корабля по тепловой сети. Для работы нужна запасенная энергия и тепловая вместимость.</ShipSpinalBarrelKinetic.description>
+	<ShipSpinalBarrelKinetic.description>Финальный сегмент модульного орудия, чем больше усилителей к нему подключено, тем выше его мощность. Следует устанавливать снаружи корабля, если вы конечно не хотите новой дыры в корпусе.\n\nОрудие, разгоняющее металлические снаряды до огромных скоростей. Имеет наибольшую эффективность при ведении боя на дальних дистанциях.\n\nТребует связи с системами корабля по тепловой сети. Для работы нужна энергия и тепловая вместимость.</ShipSpinalBarrelKinetic.description>
 	
 	<ShipTurret_SpinalMountTopKinetic.label>модульное орудие</ShipTurret_SpinalMountTopKinetic.label>
 	<ShipTurret_SpinalMountTopKinetic.description>Вооружение крупных флагманов.</ShipTurret_SpinalMountTopKinetic.description>
@@ -179,23 +179,23 @@
 	<Artillery_ShipTorpedo_Two.verbs.Verb_LaunchProjectileShip.label>торпедный аппарат (2)</Artillery_ShipTorpedo_Two.verbs.Verb_LaunchProjectileShip.label>
 	<Artillery_ShipTorpedo.verbs.Verb_LaunchProjectileShip.label>торпедный аппарат (6)</Artillery_ShipTorpedo.verbs.Verb_LaunchProjectileShip.label>
 
-	<Artillery_ShipTorpedo_One.description>Торпедный аппарат. Точный и разрушительный против щитов, но уязвим для орудий точечной обороны.</Artillery_ShipTorpedo_One.description>
+	<Artillery_ShipTorpedo_One.description>Установка для запуска различных торпед, которые могут быть использованы для пробития корпуса корабля, или истощения его щитов. Торпеды имеют хорошую точность, однако могут быть сбиты защитными орудиями.</Artillery_ShipTorpedo_One.description>
 	<Artillery_ShipTorpedo_One.label>торпедный аппарат</Artillery_ShipTorpedo_One.label>
 	
-	<Artillery_ShipTorpedo_Two.description>Торпедный аппарат. Точный и разрушительный против щитов, но уязвим для орудий точечной обороны.</Artillery_ShipTorpedo_Two.description>
+	<Artillery_ShipTorpedo_Two.description>Установка для запуска различных торпед, которые могут быть использованы для пробития корпуса корабля, или истощения его щитов. Торпеды имеют хорошую точность, однако могут быть сбиты защитными орудиями.</Artillery_ShipTorpedo_Two.description>
 	<Artillery_ShipTorpedo_Two.label>торпедный аппарат (2)</Artillery_ShipTorpedo_Two.label>
 	
-	<Artillery_ShipTorpedo.description>Торпедный аппарат. Точный и разрушительный против щитов, но уязвим для орудий точечной обороны.</Artillery_ShipTorpedo.description>
+	<Artillery_ShipTorpedo.description>Установка для запуска различных торпед, которые могут быть использованы для пробития корпуса корабля, или истощения его щитов. Торпеды имеют хорошую точность, однако могут быть сбиты защитными орудиями.</Artillery_ShipTorpedo.description>
 	<Artillery_ShipTorpedo.label>торпедный аппарат (6)</Artillery_ShipTorpedo.label>
 	
 	<ShipTorpedoOne.label>торпедный аппарат</ShipTorpedoOne.label>
-	<ShipTorpedoOne.description>Система для хранения и запуска торпед, они точны и разрушительны, но медленно достигают цели, уязвимы для орудий точечной обороны.\nВместимость: 7\nСкорострельность: 5/мин</ShipTorpedoOne.description>
+	<ShipTorpedoOne.description>Установка для хранения и запуска торпед, они точны и разрушительны, но медленно достигают цели и уязвимы для орудий точечной обороны.\n\nВместимость: 7\nСкорострельность: 5/мин</ShipTorpedoOne.description>
 	
 	<ShipTorpedoTwo.label>торпедный аппарат (2)</ShipTorpedoTwo.label>
-	<ShipTorpedoTwo.description>Система для хранения и запуска торпед, они точны и разрушительны, но медленно достигают цели, уязвимы для орудий точечной обороны.\nВместимость: 14\nСкорострельность: 10/мин</ShipTorpedoTwo.description>
+	<ShipTorpedoTwo.description>Установка для хранения и запуска торпед, они точны и разрушительны, но медленно достигают цели и уязвимы для орудий точечной обороны.\n\nВместимость: 14\nСкорострельность: 10/мин</ShipTorpedoTwo.description>
 	
 	<ShipTorpedoSix.label>торпедный аппарат (6)</ShipTorpedoSix.label>
-	<ShipTorpedoSix.description>Система для хранения и запуска торпед, они точны и разрушительны, но медленно достигают цели, уязвимы для орудий точечной обороны.\nВместимость: 28\nСкорострельность: 30/мин</ShipTorpedoSix.description>
+	<ShipTorpedoSix.description>Установка для хранения и запуска торпед, они точны и разрушительны, но медленно достигают цели и уязвимы для орудий точечной обороны.\n\nВместимость: 28\nСкорострельность: 30/мин</ShipTorpedoSix.description>
 	
 	<Proj_ShipDebrisA.label>обломки корабля</Proj_ShipDebrisA.label>
 	
