@@ -13,7 +13,7 @@
     <SoS.EncounterAmbush>Засада!</SoS.EncounterAmbush>
     <SoS.EncounterAmbushDesc>По мере вашего приближения к {0}, объект активирует щиты и орудия.\nПриготовьтесь к бою!</SoS.EncounterAmbushDesc>
     <SoS.CombatStart>Корабельный бой</SoS.CombatStart>
-    <SoS.CombatStartDesc>Приближается вражеский корабль! Сканирование идентифицирует его как {0}.</SoS.CombatStartDesc>
+    <SoS.CombatStartDesc>Приближается вражеский корабль! Сканирование идентифицирует его как "{0}".</SoS.CombatStartDesc>
     <SoS.CombatFleetDesc>Приближается вражеский флот!</SoS.CombatFleetDesc>
     <SoS.WinShipBattle>Победа!</SoS.WinShipBattle>
     <SoS.WinShipBattleDesc>Вражеский корабль больше не может поддерживать стабильную орбиту и дрейфует в направлении планеты, он войдет в атмосферу через {0}.\n\nВы можете отправить группу для исследования, или переместить корабль с помощью утилизационного отсека, но будьте готовы к сражению с выжившими.</SoS.WinShipBattleDesc>

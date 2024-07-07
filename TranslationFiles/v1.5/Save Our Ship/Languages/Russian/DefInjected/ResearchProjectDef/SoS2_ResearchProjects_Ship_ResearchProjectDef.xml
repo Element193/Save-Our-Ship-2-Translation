@@ -254,7 +254,7 @@
 
 	
 	<ShuttleCargo.label>легкие шаттлы</ShuttleCargo.label>
-	<ShuttleCargo.description>Легкие, многофункциональные шаттлы, использующие урановые топливные капсулы. Способны совершать как космические, так и наземные путешествия.</ShuttleCargo.description>
+	<ShuttleCargo.description>Легкие, многофункциональные шаттлы, использующие ядерное топливо. Способны совершать как космические, так и наземные путешествия.</ShuttleCargo.description>
 <!--	<ShuttleCargo.generalRules.rulesStrings>
 		<li>subject->легкий шаттл</li>
 		<li>subject_story->{PAWN_gender ? he : she} служил механиком в Имперском флоте, модифицируя шаттлы под конкретные задачи</li>
@@ -265,7 +265,7 @@
 
 	
 	<ShuttleHeavy.label>тяжёлые шаттлы</ShuttleHeavy.label>
-	<ShuttleHeavy.description>Тяжёлые многофункциональные шаттлы, использующие урановые топливные капсулы. Имеют большой выбор модификаций и способны совершать как космические, так и наземные путешествия.</ShuttleHeavy.description>
+	<ShuttleHeavy.description>Тяжёлые многофункциональные шаттлы, использующие ядерное топливо. Имеют большой выбор модификаций и способны совершать как космические, так и наземные путешествия.</ShuttleHeavy.description>
 <!--	<ShuttleHeavy.generalRules.rulesStrings>
 		<li>subject->тяжёлый шаттл</li>
 		<li>subject_story->{PAWN_gender ? he : she} эвакуировал жителей из пещерного мира Гродол-IX, когда условия стали опасными</li>
@@ -276,7 +276,7 @@
 
 
 	<ShuttleDropship.label>сверхтяжёлые шаттлы</ShuttleDropship.label>
-	<ShuttleDropship.description>Сверхтяжёлые многофункциональные шаттлы, использующие урановые топливные капсулы. Имеют большой выбор модификаций и способны совершать как космические, так и наземные путешествия.</ShuttleDropship.description>
+	<ShuttleDropship.description>Сверхтяжёлые многофункциональные шаттлы, использующие ядерное топливо. Имеют большой выбор модификаций и способны совершать как космические, так и наземные путешествия.</ShuttleDropship.description>
 <!--	<ShuttleDropship.generalRules.rulesStrings>
 		<li>subject->сверхтяжёлый шаттл</li>
 		<li>subject_story->{PAWN_gender ? he : she} стал свидетелем того, как ИИ-персона стремилась к самоопределению, сбежав в космос</li>
