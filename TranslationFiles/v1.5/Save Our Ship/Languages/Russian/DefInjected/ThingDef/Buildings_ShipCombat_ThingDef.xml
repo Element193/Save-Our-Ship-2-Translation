@@ -23,19 +23,19 @@
 	<ShipHeatBankLarge.description>Увеличенный резервуар с охлаждающей жидкостью для хранения избыточного тепла.\n\nВоспламеняется при критическом нагреве охлаждающей жидкости и высвобождает накопленное тепло при разрушении.\n\nТеплоемкость: 4000 Те.\nОтдача: 6 Те/с.</ShipHeatBankLarge.description>
 	
 	<ShipPurgePort.label>порт быстрого охлаждения</ShipPurgePort.label>
-	<ShipPurgePort.description>Система для направления тепла в металлы с низкой температурой плавления, такие как серебро. Выброс расплавленного серебра в космос — дорогостоящий способ быстро избавиться от накопленного тепла. Щиты будут отключены во время сброса.</ShipPurgePort.description>
+	<ShipPurgePort.description>Система для направления тепла в металлы с низкой температурой плавления, такие как серебро. Выброс расплавленного серебра в космос — дорогостоящий способ быстро избавиться от накопленного тепла.\n\nЩиты будут отключены после активации сброса.</ShipPurgePort.description>
 	
 	<ShipPurgePortLarge.label>большой порт быстрого охлаждения</ShipPurgePortLarge.label>
-	<ShipPurgePortLarge.description>Увеличенная версия системы для направления тепла в металлы с низкой температурой плавления, такие как серебро. Выброс расплавленного серебра в космос — дорогостоящий способ быстро избавиться от накопленного тепла. Щиты будут отключены во время сброса.</ShipPurgePortLarge.description>
+	<ShipPurgePortLarge.description>Увеличенная версия системы для направления тепла в металлы с низкой температурой плавления, такие как серебро. Выброс расплавленного серебра в космос — дорогостоящий способ быстро избавиться от накопленного тепла.\n\nЩиты будут отключены после активации сброса.</ShipPurgePortLarge.description>
 	
 	<ShipTurret_ACI.label>турель автопушки</ShipTurret_ACI.label>
-	<ShipTurret_ACI.description>Корабельное орудие, которое быстро разгоняет урановые снаряды. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Наиболее эффективно для ведения боя на короткой дистанции.\n\nМожет перехватывать торпеды и вести огонь по шаттлам противника.</ShipTurret_ACI.description>
+	<ShipTurret_ACI.description>Корабельное орудие, которое разгоняет урановые снаряды до огромных скоростей. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Наиболее эффективно для ведения боя на короткой дистанции.\n\nМожет перехватывать торпеды и вести огонь по шаттлам противника.</ShipTurret_ACI.description>
 	<ShipTurret_ACI.comps.3.fuelLabel>Выстрелов до перезарядки</ShipTurret_ACI.comps.3.fuelLabel>
 	<ShipTurret_ACI.comps.3.fuelGizmoLabel>Урановые снаряды</ShipTurret_ACI.comps.3.fuelGizmoLabel>
 	<ShipTurret_ACI.comps.3.outOfFuelMessage>Нет боеприпасов</ShipTurret_ACI.comps.3.outOfFuelMessage>
 	
 	<ShipTurret_ACITop.label>автопушка</ShipTurret_ACITop.label>
-	<ShipTurret_ACITop.description>Корабельное орудие, которое быстро разгоняет урановые снаряды. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Наиболее эффективно для ведения боя на короткой дистанции.\n\nМожет перехватывать торпеды и вести огонь по шаттлам противника.</ShipTurret_ACITop.description>
+	<ShipTurret_ACITop.description>Корабельное орудие, которое разгоняет урановые снаряды до огромных скоростей. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Наиболее эффективно для ведения боя на короткой дистанции.</ShipTurret_ACITop.description>
 	<ShipTurret_ACITop.verbs.0.label>стреляет</ShipTurret_ACITop.verbs.0.label>
 	
 	<Bullet_Fake_ACI.label>Снаряд автопушки</Bullet_Fake_ACI.label>
@@ -45,7 +45,7 @@
 	<Bullet_Ground_ACI.label>Снаряд автопушки</Bullet_Ground_ACI.label>
 	
 	<ShipTurret_ACII.label>артиллерийская турель</ShipTurret_ACII.label>
-	<ShipTurret_ACII.description>Корабельное орудие, которое быстро разгоняет урановые снаряды. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Наиболее эффективно для ведения боя на короткой дистанции.</ShipTurret_ACII.description>
+	<ShipTurret_ACII.description>Корабельное орудие, которое разгоняет урановые снаряды до огромных скоростей. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Наиболее эффективно для ведения боя на короткой дистанции.</ShipTurret_ACII.description>
 	<ShipTurret_ACII.comps.2.fuelLabel>Выстрелов до перезарядки</ShipTurret_ACII.comps.2.fuelLabel>
 	<ShipTurret_ACII.comps.2.fuelGizmoLabel>Урановые снаряды</ShipTurret_ACII.comps.2.fuelGizmoLabel>
 	<ShipTurret_ACII.comps.2.outOfFuelMessage>Нет боеприпасов</ShipTurret_ACII.comps.2.outOfFuelMessage>
@@ -59,7 +59,7 @@
 	<Proj_ShipTurretACII.label>Снаряд автопушки</Proj_ShipTurretACII.label>
 	
 	<ShipTurret_ACIII.label>большая артиллерийская турель</ShipTurret_ACIII.label>
-	<ShipTurret_ACIII.description>Большое корабельное орудие, которое быстро разгоняет урановые снаряды. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Полезна только на близких дистанциях.</ShipTurret_ACIII.description>
+	<ShipTurret_ACIII.description>Большое корабельное орудие, которое разгоняет урановые снаряды до огромных скоростей. Требует боеприпасов, но при стрельбе не расходует энергии и выделяет мало тепла. Наиболее эффективно для ведения боя на короткой дистанции.</ShipTurret_ACIII.description>
 	<ShipTurret_ACIII.comps.2.fuelLabel>Выстрелов до перезарядки</ShipTurret_ACIII.comps.2.fuelLabel>
 	<ShipTurret_ACIII.comps.2.fuelGizmoLabel>Урановые снаряды</ShipTurret_ACIII.comps.2.fuelGizmoLabel>
 	<ShipTurret_ACIII.comps.2.outOfFuelMessage>Нет боеприпасов</ShipTurret_ACIII.comps.2.outOfFuelMessage>

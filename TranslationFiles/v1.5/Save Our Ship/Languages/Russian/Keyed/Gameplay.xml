@@ -35,7 +35,7 @@
 	<SoS.CombatAbandonPawns>ВНИМАНИЕ!\n\nПри отступлении корабля противника на его борту останется ваш экипаж!</SoS.CombatAbandonPawns>
 	<SoS.CombatShieldBroken>Щит выведен из строя из-за перегрева!</SoS.CombatShieldBroken>
 	<SoS.CombatShieldBrokenEnemy>Щит противника выведен из строя из-за перегрева!</SoS.CombatShieldBrokenEnemy>
-	<SoS.CombatPodDestroyedPlayer>Ваш шаттл был уничтожен вражеским орудием точечной обороны! Если кто-то из экипажа выжил, они воспользуются спасательными капсулами для возвращения на корабль..</SoS.CombatPodDestroyedPlayer>
+	<SoS.CombatPodDestroyedPlayer>Ваш шаттл был уничтожен вражеским орудием точечной обороны! Если кто-то из экипажа выжил, они воспользуются спасательными капсулами для возвращения на корабль.</SoS.CombatPodDestroyedPlayer>
     <SoS.CombatPodDestroyedEnemy>Шаттл противника был уничтожен вашим орудием точечной обороны!</SoS.CombatPodDestroyedEnemy>
     <SoS.WithdrawShip>Отозвать корабль</SoS.WithdrawShip>
     <SoS.WithdrawShipDesc>Отозвать корабль в безопасное место?</SoS.WithdrawShipDesc>

@@ -53,13 +53,13 @@
 	<ShipHardpointLarge.label>огромная платформа</ShipHardpointLarge.label>
 	
 	<Ship_Engine_Small.label>малый ускоритель</Ship_Engine_Small.label>
-	<Ship_Engine_Small.description>Двигатель на химическом топливе, способный вывести корабль на орбиту. Не подходит для межпланетных путешествий.</Ship_Engine_Small.description>
+	<Ship_Engine_Small.description>Двигатель на химическом топливе, способный вывести корабль на орбиту.\n\nНе подходит для межпланетных путешествий.</Ship_Engine_Small.description>
 	
 	<Ship_Engine.label>ускоритель</Ship_Engine.label>
-	<Ship_Engine.description>Двигатель на химическом топливе, способный вывести корабль на орбиту. Не подходит для межпланетных путешествий.</Ship_Engine.description>
+	<Ship_Engine.description>Двигатель на химическом топливе, способный вывести корабль на орбиту.\n\nНе подходит для межпланетных путешествий.</Ship_Engine.description>
 	
 	<Ship_Engine_Large.label>ядерный ускоритель</Ship_Engine_Large.label>
-	<Ship_Engine_Large.description>Ядерный ускоритель, способный вывести корабль на орбиту. Загрязняет окружающую среду. Не подходит для межпланетных путешествий.</Ship_Engine_Large.description>
+	<Ship_Engine_Large.description>Ядерный ускоритель, способный вывести корабль на орбиту.\n\nЗагрязняет окружающую среду при взлёте.\nНе подходит для межпланетных путешествий.</Ship_Engine_Large.description>
 	
 	<Ship_Thruster.label>осевой ускоритель</Ship_Thruster.label>
 	<Ship_Thruster.description>Небольшое подруливающее устройство, необходимое для изменения положения и вращения корабля.\n\nТребуется по одному на сторону за каждые 2000кг массы корабля.</Ship_Thruster.description>
