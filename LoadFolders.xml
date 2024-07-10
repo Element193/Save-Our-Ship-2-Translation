@@ -14,10 +14,16 @@
 
 	<!-- RimWorld 1.5 -->
 	<v1.5>
+			<!-- Save Our Ship -->
 		<li>TranslationFiles/v1.5/Save Our Ship</li>
 		<li>TextureFiles</li>
-		<li IfModActive="Ludeon.RimWorld.Royalty">TranslationFiles/v1.5/Royalty</li> <!-- Full RU|UA -->
-		<li IfModActive="Ludeon.RimWorld.Anomaly">TranslationFiles/v1.5/Anomaly</li> <!-- Full RU|UA -->
+
+			<!-- DLC -->
+		<li IfModActive="Ludeon.RimWorld.Royalty">TranslationFiles/v1.5/Royalty</li>
+		<li IfModActive="Ludeon.RimWorld.Anomaly">TranslationFiles/v1.5/Anomaly</li>
+
+			<!-- MOD -->
+		<li IfModActive="TheCafFiend.SOS2SpinalEngines">TranslationFiles/v1.5/Spinal Engines for SOS2</li>
 	</v1.5>
 
 

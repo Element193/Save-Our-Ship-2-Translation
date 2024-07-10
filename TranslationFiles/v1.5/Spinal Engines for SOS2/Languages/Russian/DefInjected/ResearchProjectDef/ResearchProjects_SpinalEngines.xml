@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ResearchProjectDefs\ResearchProjects_SpinalEngines.xml-->
+  <ShipEngineLarge.label>Модульные корабельные ускорители</ShipEngineLarge.label>
+  <ShipEngineLarge.description>Создание модульных ускорителей, которые устанавливаются только на самые большие корабли.</ShipEngineLarge.description>
+  
+  <ShipEngineLarger.label>Продвинутые модульные корабельные ускорители</ShipEngineLarger.label>
+  <ShipEngineLarger.description>Создание более мощных модульных ускорителей, которые приближаются к пределам человеческой изобретательности.</ShipEngineLarger.description>
+  
+  <ArchotechSpinalEngine.label>Экзотические топливные ускорители</ArchotechSpinalEngine.label>
+  <ArchotechSpinalEngine.description>Использование экзотических частиц для увеличения тяги, которая непостижима человеческому пониманию.</ArchotechSpinalEngine.description>
+</LanguageData>
