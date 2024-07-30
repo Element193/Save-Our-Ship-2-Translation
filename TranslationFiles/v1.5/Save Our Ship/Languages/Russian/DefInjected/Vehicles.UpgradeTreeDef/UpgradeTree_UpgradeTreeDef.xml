@@ -14,7 +14,7 @@
 	<SoS2ShuttleUpgradeTree.nodes.2.description>Слой легких вибрирующих механитных цепей, которые поглощают и рассеивают удары.\n\n&lt;color=#bb8f04&gt;+30% броня (удар), +10% броня (проникновение), -50 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.2.description>
 	
 	<SoS2ShuttleUpgradeTree.nodes.3.label>Архотек Броня</SoS2ShuttleUpgradeTree.nodes.3.label>
-	<SoS2ShuttleUpgradeTree.nodes.3.description>[ЧЕЛОВЕЧЕСКИЙ ПАНЦИРЬ. ЭТОТ КОКОН Я ПОГЛОЩАЮ, ЧТОБЫ СОЗДАТЬ ЕЩЁ БОЛЕЕ КРЕПКИЙ.]\n\n&lt;color=#bb8f04&gt;+50% броня (удар), +50% броня (проникновение)&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.3.description>
+	<SoS2ShuttleUpgradeTree.nodes.3.description>[ЧЕЛОВЕЧЕСКИЙ ПАНЦИРЬ. ИЗ ЭТОГО КОКОНА Я РОЖДАЮСЬ, ЧТОБЫ СПЛЕСТИ ЕЩЁ БОЛЕЕ КРЕПКИЙ.]\n\n&lt;color=#bb8f04&gt;+50% броня (удар), +50% броня (проникновение)&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.3.description>
 	
 
 		<!--Разное-->
@@ -28,7 +28,7 @@
 	<SoS2ShuttleUpgradeTree.nodes.6.description>Технология перенаправления импульса, благодаря которой шаттл может перевозить больше груза.\n\n&lt;color=#bb8f04&gt;-8 скорость, +250 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.6.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.7.label>Архотек Ускоритель</SoS2ShuttleUpgradeTree.nodes.7.label>
-	<SoS2ShuttleUpgradeTree.nodes.7.description>[КАКОЙ ПАРУС ТЕБЯ НЕСЕТ? ПРОТИВ ЧЕГО? ОТВЕТ: ДА.]\n\n&lt;color=#bb8f04&gt;+12 скорость, +15% шанс уклонения, +100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.7.description>
+	<SoS2ShuttleUpgradeTree.nodes.7.description>[КАКОЙ ПАРУС ТЕБЯ НЕСЁТ? ПРОТИВ КАКОЙ ЗВЕЗДЫ? ОТВЕТ: ДА.]\n\n&lt;color=#bb8f04&gt;+12 скорость, +15% шанс уклонения, +100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.7.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.8.label>Генератор Щита</SoS2ShuttleUpgradeTree.nodes.8.label>
 	<SoS2ShuttleUpgradeTree.nodes.8.description>Миниатюрный генератор защитного поля с тепловым резервуаром.\n\n&lt;color=#bb8f04&gt;+200 теплоемкость, -250 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.8.description>
@@ -37,7 +37,7 @@
 	<SoS2ShuttleUpgradeTree.nodes.9.description>Эффективный генератор защитного поля с тепловым резервуаром.\n\n&lt;color=#bb8f04&gt;+400 теплоемкость, -500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.9.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.10.label>Архотек Генератор Щита</SoS2ShuttleUpgradeTree.nodes.10.label>
-	<SoS2ShuttleUpgradeTree.nodes.10.description>[МЕНЬШЕ, ЧЕМ ПЕСЧИНКИ В СРАВНЕНИИ С ЗВЁЗДАМИ. НЕ СТРЕЛЯЙТЕ, ПОЖАЛУЙСТА.]\n\n&lt;color=#bb8f04&gt;+500 теплоемкость, -100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.10.description>
+	<SoS2ShuttleUpgradeTree.nodes.10.description>[МЕНЬШЕ, ЧЕМ ПЕСЧИНКИ В СРАВНЕНИИ С ЗВЁЗДАМИ. СТРЕЛЯЙТЕ ВО ЧТО-НИБУДЬ ДРУГОЕ, ПОЖАЛУЙСТА.]\n\n&lt;color=#bb8f04&gt;+500 теплоемкость, -100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.10.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.11.label>Медицинский Модуль</SoS2ShuttleUpgradeTree.nodes.11.label>
 	<SoS2ShuttleUpgradeTree.nodes.11.description>Автоматические медицинские манипуляторы, которые могут остановить кровотечение или обработать раны с минимальным качеством.\n\n&lt;color=#bb8f04&gt;-250 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.11.description>
@@ -49,7 +49,7 @@
 	<SoS2ShuttleUpgradeTree.nodes.13.description>Дополнительный тепловой резервуар для поддержания щита.\n\n&lt;color=#bb8f04&gt;+200 теплоемкость, -100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.14.label>Пространственное Скольжение</SoS2ShuttleUpgradeTree.nodes.14.label>
-	<SoS2ShuttleUpgradeTree.nodes.14.description>[КОРОБКА ВНУТРИ КОРОБКИ; ПОВТОРЕНИЕ ДО БЕСКОНЕЧНОСТИ; СЕРИЯ СХОДИТСЯ.]\n\n&lt;color=#bb8f04&gt;+500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.14.description>
+	<SoS2ShuttleUpgradeTree.nodes.14.description>[КОРОБКА ВНУТРИ КОРОБКИ. ПОВТОРЕНИЕ ДО БЕСКОНЕЧНОСТИ. СЕРИЯ СХОДИТСЯ.]\n\n&lt;color=#bb8f04&gt;+500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.14.description>
 
 
 		<!--Пассажиры-->
