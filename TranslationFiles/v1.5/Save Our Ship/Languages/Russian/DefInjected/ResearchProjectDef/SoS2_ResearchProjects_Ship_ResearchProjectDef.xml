@@ -49,8 +49,8 @@
 	</SoSJTDrive.generalRules.rulesStrings>
 
 
-	<ShipSalvageBayGlitter.label>лучевой утилизационный отсек</ShipSalvageBayGlitter.label>
-	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танака.</ShipSalvageBayGlitter.description>
+	<ShipSalvageBayGlitter.label>лучевой захват</ShipSalvageBayGlitter.label>
+	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танака. Позволяет извлекать ценные предметы после боя, или перемещать обломки кораблей.</ShipSalvageBayGlitter.description>
 	<ShipSalvageBayGlitter.generalRules.rulesStrings>
 		<li>subject->теория Джонсона-Танака</li>
 		<li>subject->экзотический перенос импульса</li>
@@ -188,8 +188,8 @@
 	</ShipCapacitor.generalRules.rulesStrings>
 	
 
-	<ShipSalvageBay.label>утилизационный отсек</ShipSalvageBay.label>
-	<ShipSalvageBay.description>Базовая корабельная система, использующая дронов и магнитные импульсы для перемещения объектов в космосе. Позволяет извлекать ценные предметы после боя или обломки для утилизации.</ShipSalvageBay.description>
+	<ShipSalvageBay.label>механический захват</ShipSalvageBay.label>
+	<ShipSalvageBay.description>Устройство, использующее дронов и магнитные импульсы для перемещения объектов в космосе. Позволяет извлекать ценные предметы после боя, или перемещать обломки кораблей.</ShipSalvageBay.description>
 	<ShipSalvageBay.generalRules.rulesStrings>
 		<li>subject->космические спасательные операции</li>
 		<li>subject_story->{PAWN_gender ? he : she} управлял флотом стервятников в сером поле, подбирая обломки после сражений</li>
