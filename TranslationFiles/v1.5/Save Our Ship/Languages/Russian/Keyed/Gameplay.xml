@@ -21,9 +21,9 @@
 	<SoS.BurnUpCountdownTip>Этот корабль войдет в атмосферу через {0}. Все находящееся на нем будет уничтожено.</SoS.BurnUpCountdownTip>
 	
 	<!-- combat -->
-	<SoS.CombatTooltip>Показывает расстояние между вашим кораблем и кораблем противника, дальность поражения орудий, снаряды орудий, летящие шаттлы.\n\nКрасная метка: лазерные орудия\nЗеленая метка: плазменные орудия\nСиняя метка: рельсотроны\nФиолетовая метка: торпеды</SoS.CombatTooltip>
+	<SoS.CombatTooltip>\tПоказывает расстояние между вашим кораблем и кораблем противника, дальность поражения орудий, выстрелы из орудий, движение шаттлов.\n\n\tКрасная метка: лазерные орудия\n\tЗеленая метка: плазменные орудия\n\tСиняя метка: рельсотроны\n\tФиолетовая метка: торпеды</SoS.CombatTooltip>
 	<SoS.CombatRetreat>Отступать</SoS.CombatRetreat>
-	<SoS.CombatRetreatDesc>Передвижение от корабля противника</SoS.CombatRetreatDesc>
+	<SoS.CombatRetreatDesc>Отдаление от корабля противника</SoS.CombatRetreatDesc>
 	<SoS.CombatStop>Остановить</SoS.CombatStop>
 	<SoS.CombatStopDesc>Отключить двигатели корабля</SoS.CombatStopDesc>
 	<SoS.CombatMaintain>Удерживать</SoS.CombatMaintain>
@@ -39,19 +39,19 @@
     <SoS.CombatPodDestroyedEnemy>Шаттл противника был уничтожен вашим орудием точечной обороны!</SoS.CombatPodDestroyedEnemy>
     <SoS.WithdrawShip>Отозвать корабль</SoS.WithdrawShip>
     <SoS.WithdrawShipDesc>Отозвать корабль в безопасное место?</SoS.WithdrawShipDesc>
-    <SoS.WithdrawShipLast>Единственный корабль не может быть отозван</SoS.WithdrawShipLast>
-    <SoS.CombatConfirmWithdraw>Переместить корабль из боя в безопасное место? Если вы проиграете сражение или сбежите, противник атакует отозванный корабль.</SoS.CombatConfirmWithdraw>
+    <SoS.WithdrawShipLast>Последний корабль не может быть выведен из боя!</SoS.WithdrawShipLast>
+    <SoS.CombatConfirmWithdraw>Переместить корабль в безопасное место? Если вы проиграете бой или сбежите, противник атакует отозванный корабль.</SoS.CombatConfirmWithdraw>
     <SoS.WithdrawWrecks>Отозвать обломки</SoS.WithdrawWrecks>
     <SoS.WithdrawWrecksDesc>Отозвать обломки в безопасное место?</SoS.WithdrawWrecksDesc>
     <SoS.WithdrawMoveWrecks>Невозможно перемещаться из-за обломков!</SoS.WithdrawMoveWrecks>
-    <SoS.WithdrawWrecksConfirm>Переместить объекты из боя в безопасное место? Если вы проиграете сражение или сбежите, противник их атакует. Обломки можно будет извлечь с помощью корабельного захвата за незначительное количество топлива.</SoS.WithdrawWrecksConfirm>
+    <SoS.WithdrawWrecksConfirm>Переместить обломки в безопасное место? Если вы проиграете бой или сбежите, противник их атакует. Обломки можно будет извлечь с помощью корабельного захвата за незначительное количество топлива.</SoS.WithdrawWrecksConfirm>
     <SoS.ScuttleShip>Запустить капсулы</SoS.ScuttleShip>
     <SoS.ScuttleShipDesc>Запускает все капсулы в выбранное место на планете.</SoS.ScuttleShipDesc>
-    <SoS.ScuttleShipPods>Нельзя покинуть корабль, если шаттлы находятся в пути к нему или от него!</SoS.ScuttleShipPods>
-    <SoS.NoLoadedPods>спасательные капсулы не заняты.</SoS.NoLoadedPods>
-    <SoS.LaunchCryptoNotLoaded>спасательные капсулы не загружены</SoS.LaunchCryptoNotLoaded>
+    <SoS.ScuttleShipPods>Нельзя покинуть корабль, если к нему или от него запущены шаттлы, которые ещё не прибыли к месту назначения.</SoS.ScuttleShipPods>
+    <SoS.NoLoadedPods>спасательные капсулы не загружены.</SoS.NoLoadedPods>
+    <SoS.LaunchCryptoNotLoaded>спасательные капсулы не загружены.</SoS.LaunchCryptoNotLoaded>
     <SoS.SelectWeapons>Выделить орудия</SoS.SelectWeapons>
-    <SoS.SelectWeaponsDesc>Выделить все орудия корабля</SoS.SelectWeaponsDesc>
+    <SoS.SelectWeaponsDesc>Выбрать все орудия корабля.</SoS.SelectWeaponsDesc>
     <SoS.HoldFire>Остановить огонь</SoS.HoldFire>
     <SoS.HoldFireDesc>Прекратить все текущие атаки.</SoS.HoldFireDesc>
     <SoS.TogglePointDefense>Режим точечной обороны</SoS.TogglePointDefense>
@@ -64,19 +64,19 @@
 
 	<!-- salvage/capture -->
 	<SoS.ReturnShip>Стабилизировать</SoS.ReturnShip>
-	<SoS.ReturnShipDesc>Переместите корабль обратно на стабильную орбиту</SoS.ReturnShipDesc>
+	<SoS.ReturnShipDesc>Вывести корабль на стабильную орбиту.</SoS.ReturnShipDesc>
 	<SoS.CaptureShip>Захватить</SoS.CaptureShip>
-	<SoS.CaptureShipDesc>Переместить этот корабль под свой контроль</SoS.CaptureShipDesc>
+	<SoS.CaptureShipDesc>Переместить этот корабль под свой контроль.</SoS.CaptureShipDesc>
 	<SoS.LaunchFailPawns>На корабле найден неподконтрольный человек: {0}, взлет прерван.</SoS.LaunchFailPawns>
 	<SoS.MoveFailFaction>Корабль другой фракции рядом с этой зоной. Перемещение прервано.</SoS.MoveFailFaction>
 	<SoS.MoveWreckCommand>Переместить обломки</SoS.MoveWreckCommand>
 	<SoS.MoveWreckCommandDesc>Переместить обломки</SoS.MoveWreckCommandDesc>
 	<SoS.MoveWreckFlipCommand>Перевернуть обломки</SoS.MoveWreckFlipCommand>
-	<SoS.MoveWreckFlipCommandDesc>Переместить и перевернуть обломки</SoS.MoveWreckFlipCommandDesc>
+	<SoS.MoveWreckFlipCommandDesc>Переместить и перевернуть обломки.</SoS.MoveWreckFlipCommandDesc>
 	<SoS.MoveWreckRotCommand>Повернуть обломки</SoS.MoveWreckRotCommand>
-	<SoS.MoveWreckRotCommandDesc>Переместить и повернуть обломки</SoS.MoveWreckRotCommandDesc>
+	<SoS.MoveWreckRotCommandDesc>Переместить и повернуть обломки.</SoS.MoveWreckRotCommandDesc>
 	<SoS.SalvageCommand>Извлечь {0}</SoS.SalvageCommand>
-	<SoS.SalvageCommandDesc>Извлечь корабль: {0}</SoS.SalvageCommandDesc>
+	<SoS.SalvageCommandDesc>Извлечь корабль: {0}.</SoS.SalvageCommandDesc>
 	<SoS.SalvageBeam>Извлечь обломки из {0}</SoS.SalvageBeam>
 	<SoS.SalvageBeamDesc>Извлечь свободные, дрейфующие обломки из {0}</SoS.SalvageBeamDesc>
 	<SoS.SalvageStablize>Стабилизировать {0}</SoS.SalvageStablize>
@@ -441,10 +441,10 @@
 	<SoS.CannotLaunchUnderRoof>Шаттл находится под крышей, или вне посадочной платформы</SoS.CannotLaunchUnderRoof>
   
 	<!--20.05.24-->
-	<MessageShuttleMustBeFullyFueled>Чтобы переместиться на орбиту или с орбиты, шаттлы должны быть полностью заправлены.</MessageShuttleMustBeFullyFueled>
-	<NeedOpenShuttleBay>Шаттлам требуется место для посадки, свободное от зданий, мусора и других шаттлов. Очистите место посадки.</NeedOpenShuttleBay>
-	<MessageShuttleNeedsMoreFuel>Чтобы добраться до этого места, шаттл должен быть заправлен на {0}%. Возьмите с собой вдвое больше топлива, если собираетесь вернуться!</MessageShuttleNeedsMoreFuel>
-	<MustLaunchFromOrbit>До этого места можно добраться только на шаттле, с орбиты.</MustLaunchFromOrbit>
+	<MessageShuttleMustBeFullyFueled>Заправьте шаттл, чтобы отправиться на орбиту, или с орбиты.</MessageShuttleMustBeFullyFueled>
+	<NeedOpenShuttleBay>Освободите место посадки. Для посадки шаттла, в зоне не должно быть зданий, обломков, или других шаттлов.</NeedOpenShuttleBay>
+	<MessageShuttleNeedsMoreFuel>Для путешествия в это место необходимо заправить шаттл на {0}%. Возьмите вдвое больше топлива, если собираетесь вернуться!</MessageShuttleNeedsMoreFuel>
+	<MustLaunchFromOrbit>Для путешествия в это место нужно нужно запускать шаттл с орбиты.</MustLaunchFromOrbit>
 	<ShipInsideRename>Переименовать</ShipInsideRename>
 	<ShipInsideRenameDesc>Переименовать этот корабль</ShipInsideRenameDesc>
 	<ShipInsideMove>Переместить</ShipInsideMove>
@@ -455,6 +455,8 @@
 	<ShipInsideLandDesc>Посадить корабль рядом с </ShipInsideLandDesc>
 	<ShipInsideHeatWithPower>Использовать электричество</ShipInsideHeatWithPower>
 	<ShipInsideHeatWithPowerDesc>Используйте электричество для обогрева, когда в сети недостаточно тепла.</ShipInsideHeatWithPowerDesc>
+
+	<!--OLD-->
 	<ShipInsideMoveWestFar>Быстрое движение запад</ShipInsideMoveWestFar>
 	<ShipInsideMoveWestFarDesc>Перемещайте корабль на запад.</ShipInsideMoveWestFarDesc>
 	<ShipInsideMoveWest>Медленное движение запад</ShipInsideMoveWest>
@@ -465,9 +467,9 @@
 	<ShipInsideMoveEastFarDesc>Перемещайте корабль на восток.</ShipInsideMoveEastFarDesc>
 	<ShipInsideMoveComplete>Перемещение корабля завершено</ShipInsideMoveComplete>
 	
-	<ShipMoveDesc>Отключите, чтобы установить местоположение</ShipMoveDesc>
+	<ShipMoveDesc>Остановите, чтобы зафиксировать текущую позицию.</ShipMoveDesc>
 	
-	<MessageTurretWontFireBecauseNotInShipCombat>Внимание: турель не будет стрелять, потому что вы не участвуете в корабельном бою.</MessageTurretWontFireBecauseNotInShipCombat>
+	<MessageTurretWontFireBecauseNotInShipCombat>Орудие может быть активно только в корабельном бою.</MessageTurretWontFireBecauseNotInShipCombat>
 	<CommandExtractShipTorpedo>Извлечь торпеды</CommandExtractShipTorpedo>
 	<CommandExtractShipTorpedoDesc>Выгрузить торпеды, чтобы заменить их другими боеприпасами.</CommandExtractShipTorpedoDesc>
 	<ShipCombatRetreat>Отступать</ShipCombatRetreat>
@@ -479,11 +481,11 @@
 	<ShipCombatAdvance>Наступать</ShipCombatAdvance>
 	<ShipCombatAdvanceDesc>Приближаться к вражескому кораблю.</ShipCombatAdvanceDesc>
 	<CommandShipPointDefense>Режим Точечной Обороны</CommandShipPointDefense>
-	<CommandShipPointDefenseDesc>Использовать эту турель для перехвата торпед или шаттлов.</CommandShipPointDefenseDesc>
+	<CommandShipPointDefenseDesc>Использовать это орудие для перехвата торпед или шаттлов.</CommandShipPointDefenseDesc>
 	<ShipInsideShipInfo>Информация</ShipInsideShipInfo>
 	<ShipInsideShipInfoDesc>Показать статистику корабля и готовность к межзвездным путешествиям.</ShipInsideShipInfoDesc>
 	<ShipInsidescanRegion>Сканировать</ShipInsidescanRegion>
-	<ShipInsidescanRegionDesc>Выявить область на поверхности планеты.</ShipInsidescanRegionDesc>
+	<ShipInsidescanRegionDesc>Сканировать область на поверхности планеты.</ShipInsidescanRegionDesc>
 	<ShipInsideToggleScanShips>Поиск кораблей</ShipInsideToggleScanShips>
 	<ShipInsideToggleScanShipsDesc>Включить сканирование других кораблей.</ShipInsideToggleScanShipsDesc>
 	<ShipInsideToggleScanSites>Поиск обьектов</ShipInsideToggleScanSites>
@@ -592,18 +594,18 @@
 	<SoSBreachAirlock>Вскрыть шлюз</SoSBreachAirlock>
 	<SoSHackAirlock>Взломать шлюз</SoSHackAirlock>
 	<SoSAttackShip>Атаковать {0}</SoSAttackShip>
-	<SoSAttackShipDesc>Начать корабельный бой против {0}.</SoSAttackShipDesc>
+	<SoSAttackShipDesc>Начать сражение с {0}.</SoSAttackShipDesc>
 	<SoSPirateShip>Ограбить {0}</SoSPirateShip>
-	<SoSPirateShipDesc>Попытайтесь совершить акт космического пиратства против {0}. Это приведет к началу корабельного боя и повысит пиратский авторитет вашего корабля!</SoSPirateShipDesc>
+	<SoSPirateShipDesc>Акт космического пиратства против {0}. Это приведет к началу сражения и повысит пиратский рейтинг вашего корабля!</SoSPirateShipDesc>
 	<SoSInvestigateDerelict>Исследование {0}</SoSInvestigateDerelict>
-	<SoSInvestigateDerelictDesc>Отправится на исследование {0}. Вы сможете запустить к обломкам шаттл, и переместить их при помощи корабельного захвата, если на борту нет врагов.</SoSInvestigateDerelictDesc>
+	<SoSInvestigateDerelictDesc>Отправится исследовать {0}. Вы можете запустить шаттл к обломкам, или переместить их при помощи корабельного захвата, если на борту нет врагов.</SoSInvestigateDerelictDesc>
 	<SoSHackFailed>Взлом мостика не удался!</SoSHackFailed>
 	<SoSHackBridge>Взломать мостик</SoSHackBridge>
 	<SoSCantPlaceCocoon>Невозможно разместить криптококон!</SoSCantPlaceCocoon>
-	<SoSAlreadyMalnourished>Носитель истощен</SoSAlreadyMalnourished>
+	<SoSAlreadyMalnourished>Невозможно из-за истощения!</SoSAlreadyMalnourished>
 	<SoSToggleShield>Защитное поле</SoSToggleShield>
-	<SoSToggleShieldDesc>Активировать или деактивировать корабельный генератор защитного поля</SoSToggleShieldDesc>
-	<SoSCantVentCloaked>Охлаждение невозможно: Маскировка</SoSCantVentCloaked>
+	<SoSToggleShieldDesc>Активировать или деактивировать генератор защитного поля</SoSToggleShieldDesc>
+	<SoSCantVentCloaked>Охлаждение невозможно из-за активной маскировки</SoSCantVentCloaked>
 	<SoSMoreShuttles> больше шаттлов</SoSMoreShuttles>
 	<SoSCombatEnergy>Энергия: </SoSCombatEnergy>
 	<SoSCombatNoEnergy>Энергия: Н/Д</SoSCombatNoEnergy>

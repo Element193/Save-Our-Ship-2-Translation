@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!--1.5\Defs\HediffDefs\Hediffs_Space.xml-->
+<LanguageData>	<!--1.5\Defs\HediffDefs\Hediffs_Space.xml-->
 	
 	<VacuumDamageHediff.labelNounPretty>{0} в {1}</VacuumDamageHediff.labelNounPretty>
 	<VacuumDamageHediff.label>декомпрессия</VacuumDamageHediff.label>
@@ -49,6 +48,5 @@
 	
 	<HologramDisconnected.label>Форма неактивна</HologramDisconnected.label>
 	<HologramDisconnected.description>Сознательный субстрат этого формгеля обесточен. Пока питание отключено, рой будет находиться в коматозном режиме ожидания.</HologramDisconnected.description>
-
 
 </LanguageData>

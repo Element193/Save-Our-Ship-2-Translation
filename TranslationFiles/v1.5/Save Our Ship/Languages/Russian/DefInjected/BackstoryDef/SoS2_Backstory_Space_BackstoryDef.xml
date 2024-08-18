@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--1.5\Defs\BackstoryDefs\Backstory_Space.xml-->
+<LanguageData>  <!--1.5\Defs\BackstoryDefs\Backstory_Space.xml-->
 
   <SoSHologram.title>машинная личность</SoSHologram.title>
   <SoSHologram.titleShort>личность</SoSHologram.titleShort>
@@ -8,5 +7,4 @@
   <SoSHologram.titleFemale>машинная личность</SoSHologram.titleFemale>
   <SoSHologram.titleShortFemale>личность</SoSHologram.titleShortFemale>
 
-  
 </LanguageData>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!--1.5\Defs\ResearchProjectDefs\ResearchProjects_Ship.xml-->
+<LanguageData>	<!--1.5\Defs\ResearchProjectDefs\ResearchProjects_Ship.xml-->
+
 	<ShipBasics.label>основы кораблестроения</ShipBasics.label>
 	<ShipBasics.description>Структурные и вспомогательные элементы для строительства космического корабля. Это первый шаг, который позволит вам покинуть эту планету.</ShipBasics.description>
 	<ShipBasics.discoveredLetterTitle>Запуск корабля</ShipBasics.discoveredLetterTitle>

@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipCombat.xml-->
+<LanguageData>	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipCombat.xml-->
 	
 	<BombACI.label>взрыв</BombACI.label>
 	<BombACI.deathMessage>{0} {PAWN_gender ? погиб : погибла} из-за взрыва.</BombACI.deathMessage>
@@ -39,5 +37,4 @@
 	<ShieldExplosion.label>сбой защитного поля</ShieldExplosion.label>
 	<ShieldExplosion.deathMessage>{PAWN_gender ? погиб : погибла} из-за сбоя защитного поля {0} .</ShieldExplosion.deathMessage>
 
-	<!-- Хэллоу! Велком ту this файл -->
 </LanguageData>

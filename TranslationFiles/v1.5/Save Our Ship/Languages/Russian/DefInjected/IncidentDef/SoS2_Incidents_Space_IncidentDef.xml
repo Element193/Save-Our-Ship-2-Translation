@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!--1.5\Defs\Storyteller\Incidents_Space.xml-->
+<LanguageData>	<!--1.5\Defs\Storyteller\Incidents_Space.xml-->
 	
 	<ShipCombat.label>Корабельный бой!</ShipCombat.label>
 	
@@ -14,6 +13,5 @@
 	<SpacePodFound.label>транспортная капсула</SpacePodFound.label>
 	<SpacePodFound.letterLabel>Транспортная капсула</SpacePodFound.letterLabel>
 	<SpacePodFound.letterText>Поблизости обнаружена транспортная капсула. Хотите ли вы забрать её с помощью захвата?</SpacePodFound.letterText>
-
 
 </LanguageData>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!--1.5\Defs\JobDefs\Jobs.xml-->
+<LanguageData>	<!--1.5\Defs\JobDefs\Jobs.xml-->
 
 	<CarryToCryptonest.reportString>переносит яйца в инкубатор.</CarryToCryptonest.reportString>
 	<OperateScannerSpace.reportString>сканирует через TargetA.</OperateScannerSpace.reportString>
@@ -22,5 +21,4 @@
 	<MergeWithSpore.reportString>сливается с архотек спорой.</MergeWithSpore.reportString>
 	<ResurrectHologram.reportString>переносит личность в TargetA.</ResurrectHologram.reportString>
 
-	
 </LanguageData>

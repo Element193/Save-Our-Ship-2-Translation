@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-	<!--1.5\Defs\PawnKindDefs\PawnKinds_Archotech.xml-->
+<LanguageData>  <!--1.5\Defs\PawnKindDefs\PawnKinds_Archotech.xml-->
 
   <Archocat.label>архокот</Archocat.label>
   <Archocat.labelPlural>архокоты</Archocat.labelPlural>
@@ -128,30 +126,30 @@
   <Archospider.labelFemale>архопаук</Archospider.labelFemale>
   <Archospider.labelFemalePlural>архопауки</Archospider.labelFemalePlural>
 
-<Archolope.label>архолопа</Archolope.label>
-<Archolope.labelPlural>архолопы</Archolope.labelPlural>
-<Archolope.lifeStages.0.label>архолопа</Archolope.lifeStages.0.label>
-<Archolope.lifeStages.0.labelPlural>архолопы</Archolope.lifeStages.0.labelPlural>
-<Archolope.lifeStages.0.labelMale>архолопа</Archolope.lifeStages.0.labelMale>
-<Archolope.lifeStages.0.labelMalePlural>архолопа</Archolope.lifeStages.0.labelMalePlural>
-<Archolope.lifeStages.0.labelFemale>архолопа</Archolope.lifeStages.0.labelFemale>
-<Archolope.lifeStages.0.labelFemalePlural>архолопа</Archolope.lifeStages.0.labelFemalePlural>
-<Archolope.lifeStages.1.label>архолопа</Archolope.lifeStages.1.label>
-<Archolope.lifeStages.1.labelPlural>архолопы</Archolope.lifeStages.1.labelPlural>
-<Archolope.lifeStages.1.labelMale>архолопа</Archolope.lifeStages.1.labelMale>
-<Archolope.lifeStages.1.labelMalePlural>архолопы</Archolope.lifeStages.1.labelMalePlural>
-<Archolope.lifeStages.1.labelFemale>архолопа</Archolope.lifeStages.1.labelFemale>
-<Archolope.lifeStages.1.labelFemalePlural>архолопы</Archolope.lifeStages.1.labelFemalePlural>
-<Archolope.lifeStages.2.label>архолопа</Archolope.lifeStages.2.label>
-<Archolope.lifeStages.2.labelPlural>архолопа</Archolope.lifeStages.2.labelPlural>
-<Archolope.lifeStages.2.labelMale>архолопа</Archolope.lifeStages.2.labelMale>
-<Archolope.lifeStages.2.labelMalePlural>архолопы</Archolope.lifeStages.2.labelMalePlural>
-<Archolope.lifeStages.2.labelFemale>архолопа</Archolope.lifeStages.2.labelFemale>
-<Archolope.lifeStages.2.labelFemalePlural>архолопы</Archolope.lifeStages.2.labelFemalePlural>
-<Archolope.labelMale>архолопа</Archolope.labelMale>
-<Archolope.labelMalePlural>архолопы</Archolope.labelMalePlural>
-<Archolope.labelFemale>архолопа</Archolope.labelFemale>
-<Archolope.labelFemalePlural>архолопы</Archolope.labelFemalePlural>
+  <Archolope.label>архолопа</Archolope.label>
+  <Archolope.labelPlural>архолопы</Archolope.labelPlural>
+  <Archolope.lifeStages.0.label>архолопа</Archolope.lifeStages.0.label>
+  <Archolope.lifeStages.0.labelPlural>архолопы</Archolope.lifeStages.0.labelPlural>
+  <Archolope.lifeStages.0.labelMale>архолопа</Archolope.lifeStages.0.labelMale>
+  <Archolope.lifeStages.0.labelMalePlural>архолопа</Archolope.lifeStages.0.labelMalePlural>
+  <Archolope.lifeStages.0.labelFemale>архолопа</Archolope.lifeStages.0.labelFemale>
+  <Archolope.lifeStages.0.labelFemalePlural>архолопа</Archolope.lifeStages.0.labelFemalePlural>
+  <Archolope.lifeStages.1.label>архолопа</Archolope.lifeStages.1.label>
+  <Archolope.lifeStages.1.labelPlural>архолопы</Archolope.lifeStages.1.labelPlural>
+  <Archolope.lifeStages.1.labelMale>архолопа</Archolope.lifeStages.1.labelMale>
+  <Archolope.lifeStages.1.labelMalePlural>архолопы</Archolope.lifeStages.1.labelMalePlural>
+  <Archolope.lifeStages.1.labelFemale>архолопа</Archolope.lifeStages.1.labelFemale>
+  <Archolope.lifeStages.1.labelFemalePlural>архолопы</Archolope.lifeStages.1.labelFemalePlural>
+  <Archolope.lifeStages.2.label>архолопа</Archolope.lifeStages.2.label>
+  <Archolope.lifeStages.2.labelPlural>архолопа</Archolope.lifeStages.2.labelPlural>
+  <Archolope.lifeStages.2.labelMale>архолопа</Archolope.lifeStages.2.labelMale>
+  <Archolope.lifeStages.2.labelMalePlural>архолопы</Archolope.lifeStages.2.labelMalePlural>
+  <Archolope.lifeStages.2.labelFemale>архолопа</Archolope.lifeStages.2.labelFemale>
+  <Archolope.lifeStages.2.labelFemalePlural>архолопы</Archolope.lifeStages.2.labelFemalePlural>
+  <Archolope.labelMale>архолопа</Archolope.labelMale>
+  <Archolope.labelMalePlural>архолопы</Archolope.labelMalePlural>
+  <Archolope.labelFemale>архолопа</Archolope.labelFemale>
+  <Archolope.labelFemalePlural>архолопы</Archolope.labelFemalePlural>
 
   <Archotortoise.label>архочерепаха</Archotortoise.label>
   <Archotortoise.labelPlural>архочерепахи</Archotortoise.labelPlural>
@@ -203,30 +201,30 @@
   <Archopanda.labelFemale>архопанда</Archopanda.labelFemale>
   <Archopanda.labelFemalePlural>архопанды</Archopanda.labelFemalePlural>
 
-<Archojerboa.label>архокрыса</Archojerboa.label>
-<Archojerboa.labelPlural>архокрысы</Archojerboa.labelPlural>
-<Archojerboa.lifeStages.0.label>архокрыса</Archojerboa.lifeStages.0.label>
-<Archojerboa.lifeStages.0.labelPlural>архокрысы</Archojerboa.lifeStages.0.labelPlural>
-<Archojerboa.lifeStages.0.labelMale>архокрыса</Archojerboa.lifeStages.0.labelMale>
-<Archojerboa.lifeStages.0.labelMalePlural>архокрысы</Archojerboa.lifeStages.0.labelMalePlural>
-<Archojerboa.lifeStages.0.labelFemale>архокрыса</Archojerboa.lifeStages.0.labelFemale>
-<Archojerboa.lifeStages.0.labelFemalePlural>архокрысы</Archojerboa.lifeStages.0.labelFemalePlural>
-<Archojerboa.lifeStages.1.label>архокрыса</Archojerboa.lifeStages.1.label>
-<Archojerboa.lifeStages.1.labelPlural>архокрысы</Archojerboa.lifeStages.1.labelPlural>
-<Archojerboa.lifeStages.1.labelMale>архокрыса</Archojerboa.lifeStages.1.labelMale>
-<Archojerboa.lifeStages.1.labelMalePlural>архокрысы</Archojerboa.lifeStages.1.labelMalePlural>
-<Archojerboa.lifeStages.1.labelFemale>архокрыса</Archojerboa.lifeStages.1.labelFemale>
-<Archojerboa.lifeStages.1.labelFemalePlural>архокрысы</Archojerboa.lifeStages.1.labelFemalePlural>
-<Archojerboa.lifeStages.2.label>архокрыса</Archojerboa.lifeStages.2.label>
-<Archojerboa.lifeStages.2.labelPlural>архокрысы</Archojerboa.lifeStages.2.labelPlural>
-<Archojerboa.lifeStages.2.labelMale>архокрыса</Archojerboa.lifeStages.2.labelMale>
-<Archojerboa.lifeStages.2.labelMalePlural>архокрысы</Archojerboa.lifeStages.2.labelMalePlural>
-<Archojerboa.lifeStages.2.labelFemale>архокрыса</Archojerboa.lifeStages.2.labelFemale>
-<Archojerboa.lifeStages.2.labelFemalePlural>архокрысы</Archojerboa.lifeStages.2.labelFemalePlural>
-<Archojerboa.labelMale>архокрыса</Archojerboa.labelMale>
-<Archojerboa.labelMalePlural>архокрысы</Archojerboa.labelMalePlural>
-<Archojerboa.labelFemale>архокрыса</Archojerboa.labelFemale>
-<Archojerboa.labelFemalePlural>архокрысы</Archojerboa.labelFemalePlural>
+  <Archojerboa.label>архокрыса</Archojerboa.label>
+  <Archojerboa.labelPlural>архокрысы</Archojerboa.labelPlural>
+  <Archojerboa.lifeStages.0.label>архокрыса</Archojerboa.lifeStages.0.label>
+  <Archojerboa.lifeStages.0.labelPlural>архокрысы</Archojerboa.lifeStages.0.labelPlural>
+  <Archojerboa.lifeStages.0.labelMale>архокрыса</Archojerboa.lifeStages.0.labelMale>
+  <Archojerboa.lifeStages.0.labelMalePlural>архокрысы</Archojerboa.lifeStages.0.labelMalePlural>
+  <Archojerboa.lifeStages.0.labelFemale>архокрыса</Archojerboa.lifeStages.0.labelFemale>
+  <Archojerboa.lifeStages.0.labelFemalePlural>архокрысы</Archojerboa.lifeStages.0.labelFemalePlural>
+  <Archojerboa.lifeStages.1.label>архокрыса</Archojerboa.lifeStages.1.label>
+  <Archojerboa.lifeStages.1.labelPlural>архокрысы</Archojerboa.lifeStages.1.labelPlural>
+  <Archojerboa.lifeStages.1.labelMale>архокрыса</Archojerboa.lifeStages.1.labelMale>
+  <Archojerboa.lifeStages.1.labelMalePlural>архокрысы</Archojerboa.lifeStages.1.labelMalePlural>
+  <Archojerboa.lifeStages.1.labelFemale>архокрыса</Archojerboa.lifeStages.1.labelFemale>
+  <Archojerboa.lifeStages.1.labelFemalePlural>архокрысы</Archojerboa.lifeStages.1.labelFemalePlural>
+  <Archojerboa.lifeStages.2.label>архокрыса</Archojerboa.lifeStages.2.label>
+  <Archojerboa.lifeStages.2.labelPlural>архокрысы</Archojerboa.lifeStages.2.labelPlural>
+  <Archojerboa.lifeStages.2.labelMale>архокрыса</Archojerboa.lifeStages.2.labelMale>
+  <Archojerboa.lifeStages.2.labelMalePlural>архокрысы</Archojerboa.lifeStages.2.labelMalePlural>
+  <Archojerboa.lifeStages.2.labelFemale>архокрыса</Archojerboa.lifeStages.2.labelFemale>
+  <Archojerboa.lifeStages.2.labelFemalePlural>архокрысы</Archojerboa.lifeStages.2.labelFemalePlural>
+  <Archojerboa.labelMale>архокрыса</Archojerboa.labelMale>
+  <Archojerboa.labelMalePlural>архокрысы</Archojerboa.labelMalePlural>
+  <Archojerboa.labelFemale>архокрыса</Archojerboa.labelFemale>
+  <Archojerboa.labelFemalePlural>архокрысы</Archojerboa.labelFemalePlural>
 
   <Archothrumbo.label>архотрумбо</Archothrumbo.label>
   <Archothrumbo.labelPlural>архотрумба</Archothrumbo.labelPlural>

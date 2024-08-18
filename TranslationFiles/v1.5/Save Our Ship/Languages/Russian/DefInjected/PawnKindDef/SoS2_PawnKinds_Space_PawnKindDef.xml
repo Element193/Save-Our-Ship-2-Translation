@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!--1.5\Defs\PawnKindDefs\PawnKinds_Space.xml-->
+<LanguageData>  <!--1.5\Defs\PawnKindDefs\PawnKinds_Space.xml-->
+
 	<SpaceCannibal.label>космический каннибал</SpaceCannibal.label>
 	<SpaceCannibal.labelPlural>космические каннибалы</SpaceCannibal.labelPlural>
 	<SpaceCannibal.labelMale>космический каннибал</SpaceCannibal.labelMale>
@@ -29,12 +29,12 @@
 	<SpaceCrewMarine.labelMalePlural>космические солдаты</SpaceCrewMarine.labelMalePlural>
 	<SpaceCrewMarine.labelFemalePlural>космические солдаты</SpaceCrewMarine.labelFemalePlural>
 	
-<SpaceCrewMarineHeavy.label>космический пехотинец</SpaceCrewMarineHeavy.label>
-<SpaceCrewMarineHeavy.labelPlural>космические пехотинцы</SpaceCrewMarineHeavy.labelPlural>
-<SpaceCrewMarineHeavy.labelMale>космический пехотинец</SpaceCrewMarineHeavy.labelMale>
-<SpaceCrewMarineHeavy.labelFemale>космический пехотинец</SpaceCrewMarineHeavy.labelFemale>
-<SpaceCrewMarineHeavy.labelMalePlural>космические пехотинцы</SpaceCrewMarineHeavy.labelMalePlural>
-<SpaceCrewMarineHeavy.labelFemalePlural>космические пехотинцы</SpaceCrewMarineHeavy.labelFemalePlural>
+  <SpaceCrewMarineHeavy.label>космический пехотинец</SpaceCrewMarineHeavy.label>
+  <SpaceCrewMarineHeavy.labelPlural>космические пехотинцы</SpaceCrewMarineHeavy.labelPlural>
+  <SpaceCrewMarineHeavy.labelMale>космический пехотинец</SpaceCrewMarineHeavy.labelMale>
+  <SpaceCrewMarineHeavy.labelFemale>космический пехотинец</SpaceCrewMarineHeavy.labelFemale>
+  <SpaceCrewMarineHeavy.labelMalePlural>космические пехотинцы</SpaceCrewMarineHeavy.labelMalePlural>
+  <SpaceCrewMarineHeavy.labelFemalePlural>космические пехотинцы</SpaceCrewMarineHeavy.labelFemalePlural>
 	
   <Astromite.label>астроклещ</Astromite.label>
   <Astromite.labelPlural>астроклещи</Astromite.labelPlural>
@@ -117,4 +117,5 @@
 	<SoSHologram.labelFemale>машинная личность</SoSHologram.labelFemale>
 	<SoSHologram.labelMalePlural>машинные личности</SoSHologram.labelMalePlural>
 	<SoSHologram.labelFemalePlural>машинные личности</SoSHologram.labelFemalePlural>
+  
 </LanguageData>

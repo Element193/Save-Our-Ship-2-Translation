@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-	<!--1.5\Defs\ResearchProjectDefs\ResearchProjects_Archotech.xml-->
+<LanguageData>	<!--1.5\Defs\ResearchProjectDefs\ResearchProjects_Archotech.xml-->
 
 	<ArchotechMechanites.label>инженерные механиты</ArchotechMechanites.label>
 	<ArchotechMechanites.description>Атом за атомом! Механиты, которые могут быть использованы для сборки или ремонта предметов.</ArchotechMechanites.description>
@@ -93,4 +91,5 @@
 	<ArchotechPillarD.description>Поиск местонахождения архотек-монолита - дельта.</ArchotechPillarD.description>
 	<ArchotechPillarD.discoveredLetterTitle>Монолит "Улей"</ArchotechPillarD.discoveredLetterTitle>
 	<ArchotechPillarD.discoveredLetterText>Местоположение дельта-монолита обнаружено! Этот монолит находится глубоко под поверхностью планеты, в центре огромного улья насекомых.\n\nНаблюдения указывают на большую популяцию насекомых, а исследовательское оборудование генерирует аномальные значения - возможно это архопауки, или что-то страшнее.</ArchotechPillarD.discoveredLetterText>
+
 </LanguageData>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!--1.5\Defs\HediffDefs\Hediffs_BodyParts_Archotech.xml-->
+<LanguageData>	<!--1.5\Defs\HediffDefs\Hediffs_BodyParts_Archotech.xml-->
 
 	<SoSArchotechEar.label>архоухо</SoSArchotechEar.label>
 	<SoSArchotechEar.labelNoun>архоухо</SoSArchotechEar.labelNoun>
