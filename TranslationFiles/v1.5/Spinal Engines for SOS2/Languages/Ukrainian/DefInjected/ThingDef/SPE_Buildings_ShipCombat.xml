@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipCombat.xml-->
+  <ShipEngineAmplifier.label>Паливний прискорювач</ShipEngineAmplifier.label>
+  <ShipEngineAmplifier.description>Розганяє паливо перед спалюванням. Під'єднується до виходу модульного бака, а потім до сопла модульного прискорювача.\n\nЗбільшує тягу модульного прискорювача на 25%, витрату палива на 5%.</ShipEngineAmplifier.description>
+  
+  <ShipEnginePoweredAmplifier.label>Потужний паливний прискорювач</ShipEnginePoweredAmplifier.label>
+  <ShipEnginePoweredAmplifier.description>Розганяє паливо перед спалюванням. Під'єднується до виходу модульного бака, а потім до сопла модульного прискорювача.\n\nЦя модифікація паливного прискорювача ефективніше витрачає паливо, але споживає більше енергії для роботи.\n\nЗбільшує тягу модульного прискорювача на 25%, витрату палива на 5%.</ShipEnginePoweredAmplifier.description>
+  
+  <ShipEngineExoticAmplifier.label>Екзотичний паливний прискорювач</ShipEngineExoticAmplifier.label>
+  <ShipEngineExoticAmplifier.description>Використовує екзотичні поля для розгону палива перед спалюванням. Під'єднується до виходу модульного бака, а потім до сопла модульного прискорювача.\n\nЦя модифікація паливного прискорювача не потребує великого бака, але споживає неймовірну кількість енергії для роботи.\n\nЗбільшує тягу модульного прискорювача на 25%, витрату палива на 1%.</ShipEngineExoticAmplifier.description>
+  
+  <ShipSpinalTankEnd.label>Вихід бака</ShipSpinalTankEnd.label>
+  <ShipSpinalTankEnd.description>Вихідна частина бака модульного прискорювача. Під'єднується до центральної частини бака, а потім до паливних прискорювачів.</ShipSpinalTankEnd.description>
+  
+  <ShipSpinalTankMid.label>Центр бака</ShipSpinalTankMid.label>
+  <ShipSpinalTankMid.description>Центральна частина бака модульного прискорювача. Під'єднується до основи бака, а потім до виходу бака.\n\nКожен сегмент центральної частини бака підтримує 3 паливні прискорювачі або 15 потужних паливних прискорювачів.</ShipSpinalTankMid.description>
+  
+  <ShipSpinalTankStart.label>Основа бака</ShipSpinalTankStart.label>
+  <ShipSpinalTankStart.description>Основна частина бака модульного прискорювача. Під'єднується до центральної частини бака.</ShipSpinalTankStart.description>
+</LanguageData>

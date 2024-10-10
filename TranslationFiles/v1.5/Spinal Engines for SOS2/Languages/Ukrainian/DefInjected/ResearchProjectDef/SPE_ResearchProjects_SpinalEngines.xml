@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ResearchProjectDefs\ResearchProjects_SpinalEngines.xml-->
+  <ShipEngineLarge.label>Модульні корабельні прискорювачі</ShipEngineLarge.label>
+  <ShipEngineLarge.description>Створення модульних прискорювачів, які встановлюються тільки на найбільші кораблі.</ShipEngineLarge.description>
+  
+  <ShipEngineLarger.label>Передові модульні корабельні прискорювачі</ShipEngineLarger.label>
+  <ShipEngineLarger.description>Створення потужніших модульних прискорювачів, які наближаються до меж людської винахідливості.</ShipEngineLarger.description>
+  
+  <ArchotechSpinalEngine.label>Екзотичні паливні прискорювачі</ArchotechSpinalEngine.label>
+  <ArchotechSpinalEngine.description>Використання екзотичних частинок для збільшення тяги, яка незбагненна для людського розуміння.</ArchotechSpinalEngine.description>
+</LanguageData>

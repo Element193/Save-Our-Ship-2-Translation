@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\ThingDefs_Buildings\Buildings_Ship.xml-->
+  <Ship_Engine_Spinal_Chem.label>Сопло хімічного прискорювача</Ship_Engine_Spinal_Chem.label>
+  <Ship_Engine_Spinal_Chem.description>Сопло модульного прискорювача на хімічному паливі.\n\nТяга: 2000.\nВитрата палива: 4/с.\n\nНе підходить для міжпланетних подорожей.</Ship_Engine_Spinal_Chem.description>
+  
+  <Ship_Engine_Spinal_Nuke.label>Сопло ядерного прискорювача</Ship_Engine_Spinal_Nuke.label>
+  <Ship_Engine_Spinal_Nuke.description>Сопло модульного прискорювача на ядерній енергії.\n\nТяга: 2500.\nВитрата палива: 3/с.\n\nНе підходить для міжпланетних подорожей.</Ship_Engine_Spinal_Nuke.description>
+</LanguageData>
