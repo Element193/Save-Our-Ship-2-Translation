@@ -7,13 +7,17 @@
 	<ArchotechRepairGel.label>гель ремонтных механитов</ArchotechRepairGel.label>
 	<ArchotechRepairGel.description>Одноразовая капсула с механитами, которые настроены для восстановления поврежденных предметов до идеального состояния.</ArchotechRepairGel.description>
 	<ArchotechRepairGel.comps.1.useLabel>Использовать ремонтный гель</ArchotechRepairGel.comps.1.useLabel>
+	<ArchotechRepairGel.ingestible.ingestReportString>Подбирает {0}.</ArchotechRepairGel.ingestible.ingestReportString>
+	<ArchotechRepairGel.ingestible.ingestCommandString>Взять {0}</ArchotechRepairGel.ingestible.ingestCommandString>
+	<ArchotechRepairGel.ingestible.ingestCommandString>Применить к снаряжению</ArchotechRepairGel.ingestible.ingestCommandString>
+	<ArchotechRepairGel.comps.1.useLabel>Ремонтировать предмет</ArchotechRepairGel.comps.1.useLabel>
 	
 	<ArchotechMechaniteCore.label>ядро разборочных механитов</ArchotechMechaniteCore.label>
 	<ArchotechMechaniteCore.description>Автономная фабрика, сконструированная для создания разборочных механитов.</ArchotechMechaniteCore.description>
 	
 	<ArchotechPsychicCore.label>ядро психического подавителя</ArchotechPsychicCore.label>
-	<ArchotechPsychicCore.description>Психический подавитель, способный разрушать сознание противников на большом расстоянии. Может быть использован для создания модульного орудия.</ArchotechPsychicCore.description>
+	<ArchotechPsychicCore.description>Психический подавитель, способный разрушать сознание существ на большом расстоянии. Может быть использовано для сооружения модульного орудия.</ArchotechPsychicCore.description>
 	
 	<ArchotechExoticParticles.label>экзотические частицы</ArchotechExoticParticles.label>
-	<ArchotechExoticParticles.description>Частицы, чье поведение не соответствует общепринятым представлениям о физике, надежно удерживаются в капсуле. Их можно использовать для создания самых разных устройств.</ArchotechExoticParticles.description>
+	<ArchotechExoticParticles.description>Капсулы экзотических частиц с уникальными физическими свойствами, их используются при создании самых разных продвинутых устройств.</ArchotechExoticParticles.description>
 </LanguageData>

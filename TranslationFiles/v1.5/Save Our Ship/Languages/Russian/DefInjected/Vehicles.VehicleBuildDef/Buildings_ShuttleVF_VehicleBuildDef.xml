@@ -2,7 +2,7 @@
 <LanguageData>
 	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShuttleVF.xml-->
 	<SoS2_Shuttle_Personal_Blueprint.label>персональный шаттл</SoS2_Shuttle_Personal_Blueprint.label>
-	<SoS2_Shuttle_Personal_Blueprint.description>Одноместное судно, способное осуществлять как орбитальные, так и наземные перелёты. В отличие от крупных шаттлов, он работает на химическом топливе.</SoS2_Shuttle_Personal_Blueprint.description>
+	<SoS2_Shuttle_Personal_Blueprint.description>Одноместное судно, способное осуществлять как орбитальные, так и наземные перелёты. В отличие от крупных шаттлов, он использует химическое топливо.</SoS2_Shuttle_Personal_Blueprint.description>
 	
 	<SoS2_Shuttle_Standard_Blueprint.label>средний шаттл</SoS2_Shuttle_Standard_Blueprint.label>
 	<SoS2_Shuttle_Standard_Blueprint.description>Судно, которое способно осуществлять как орбитальные, так и наземные перелёты. Требует капсул с ядерным топливом.\n\nШаттлы основаны на базовых корабельных технологиях, их уменьшенное оборудование менее эффективно и может быть модифицировано. Этот шаттл имеет одно место для крепления турелей.</SoS2_Shuttle_Standard_Blueprint.description>

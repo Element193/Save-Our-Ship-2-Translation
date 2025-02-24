@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<SoS.Settings.RenderPlanet>Динамический рендеринг планеты</SoS.Settings.RenderPlanet>
+	<SoS.Settings.RenderPlanet.Desc>Улучшенное отображение планеты с космоса, цикл дня и ночи. Сильно влияет на производительность.\n\nПо умолчанию: отключено</SoS.Settings.RenderPlanet.Desc>
+	
+	<SoS.Settings.UI>Настройки интерфейса</SoS.Settings.UI>
+	<SoS.Settings.UseSplashScreen>Фон главного меню</SoS.Settings.UseSplashScreen>
+	<SoS.Settings.UseSplashScreen.Desc>Использование фона SOS2 в главном меню.\n\nНеобходим перезапуск.\nПо умолчанию: включено</SoS.Settings.UseSplashScreen.Desc>
+    <SoS.Settings.PersistShipUI>Корабельный интерфейс</SoS.Settings.PersistShipUI>
+    <SoS.Settings.PersistShipUI.Desc>Интерфейс с отображением энергии и нагрева корабля.\n\nПо умолчанию: отключено</SoS.Settings.PersistShipUI.Desc>
+    <SoS.Settings.OffsetUIx>Смещение интерфейса по X</SoS.Settings.OffsetUIx>
+    <SoS.Settings.OffsetUIx.Desc>Смещение корабельного интерфейса по горизонтальной оси.\n\nПо умолчанию: 2.</SoS.Settings.OffsetUIx.Desc>
+    <SoS.Settings.OffsetUIy>Смещение интерфейса по Y</SoS.Settings.OffsetUIy>
+    <SoS.Settings.OffsetUIy.Desc>Смещение корабельного интерфейса по вертикальной оси.\n\nПо умолчанию: 6.</SoS.Settings.OffsetUIy.Desc>
+
+	
+	<SoS.Settings.Misc>Разные настройки</SoS.Settings.Misc>
+    <SoS.Settings.EasyMode>Спасательные капсулы</SoS.Settings.EasyMode>
+    <SoS.Settings.EasyMode.Desc>При уничтожении шаттла противником, экипаж возвращается на борт корабля в спасательных капсулах.\n\nПо умолчанию: отключено</SoS.Settings.EasyMode.Desc>
+    <SoS.Settings.RespectPhysics>Соблюдение физики</SoS.Settings.RespectPhysics>
+    <SoS.Settings.RespectPhysics.Desc>Шаттлы нельзя запускать на борт корабля с активными двигателями, или на корабль без посадочной площадки. Отключение этой настройки позволит шаттлам приземляться в любом месте, даже если посадочная площадка недоступна.\n\nПо умолчанию: включено</SoS.Settings.RespectPhysics.Desc>
+    <SoS.Settings.ArchoRemove>Условия архожизни</SoS.Settings.ArchoRemove>
+    <SoS.Settings.ArchoRemove.Desc>Удалять архоживотных, если они появляются в игре до выполнения необходимых условий.\n\nПо умолчанию: включено</SoS.Settings.ArchoRemove.Desc>
+    <SoS.Settings.Debug>Режим отладки</SoS.Settings.Debug>
+    <SoS.Settings.Debug.Desc>Отображение области корабля и списка всех кораблей/обломков на карте. При наведении на некоторые объекты, будет отображаться дополнительная информация. Также будет добавлено больше записей в журнал.\n\nПо умолчанию: отключено.</SoS.Settings.Debug.Desc>
+    <SoS.Settings.ArchoKill>Связь архожизни</SoS.Settings.ArchoKill>
+    <SoS.Settings.ArchoKill.Desc>Если спора уничтожена, все существа архотека погибнут.\n\nПо умолчанию: отключено.</SoS.Settings.ArchoKill.Desc>
+    <SoS.Settings.ShuttlesToDisplay>Отображение шаттлов</SoS.Settings.ShuttlesToDisplay>
+    <SoS.Settings.ShuttlesToDisplay.Desc>Максимальное количество шаттлов, отображаемых в бою. Поврежденные шаттлы имеют приоритет отображения. Если 0, будет отображаться столько, сколько может вместить ваш экран.\n\nПо умолчанию: 5.</SoS.Settings.ShuttlesToDisplay.Desc>
+
+    <SoS.Settings.ShipMapPhysics>Физика обьектов</SoS.Settings.ShipMapPhysics>
+	<SoS.Settings.ShipMapPhysics.Desc>Если включено, существа и предметы, находящиеся не на борту корабля во время его движения будут уничтожены. Это также ограничивает возможность посадки шаттлов.\n\nПо умолчанию: отключено.</SoS.Settings.ShipMapPhysics.Desc>
+	
+    <SoS.Settings.UseVacuumPathfinding>Избегать вакуума</SoS.Settings.UseVacuumPathfinding>
+    <SoS.Settings.UseVacuumPathfinding.Desc>Если включено, экипаж без скафандров будет избегать выхода в открытый космос. Это может повлиять на совместимость с другими модами.\n\nНеобходим перезапуск.</SoS.Settings.UseVacuumPathfinding.Desc>
+	
+    <SoS.Settings.Gameplay>Игровые настройки</SoS.Settings.Gameplay>
+    <SoS.Settings.DifficultySoS>Сложность сражений. Стандарт: {2}. Значение: {3}</SoS.Settings.DifficultySoS>
+    <SoS.Settings.DifficultySoS.Desc>Влияет на размер и силу вражеских кораблей.</SoS.Settings.DifficultySoS.Desc>
+    <SoS.Settings.FrequencySoS>Частота сражений. Стандарт: {2}. Значение: {3}</SoS.Settings.FrequencySoS>
+    <SoS.Settings.FrequencySoS.Desc>Более высокое значение означает меньший интервал между сражениями.</SoS.Settings.FrequencySoS.Desc>
+    <SoS.Settings.NavyShipChance>Шанс появления флота. Стандарт: {2}. Значение: {3}</SoS.Settings.NavyShipChance>
+    <SoS.Settings.NavyShipChance.Desc>Как часто можно встретить флоты в случайных сражениях.</SoS.Settings.NavyShipChance.Desc>
+    <SoS.Settings.FleetChance>Шанс случайного флота. Стандарт: {2}. Значение: {3}</SoS.Settings.FleetChance>
+    <SoS.Settings.FleetChance.Desc>Вероятность того, что случайные неизвестные вражеские корабли или торговцы будут флотами. Игнорируется при очень низком или высоком уровне боевого рейтинга.</SoS.Settings.FleetChance.Desc>
+    
+    <SoS.Settings.Travel>Настройки путешествия</SoS.Settings.Travel>
+    <SoS.Settings.MinTravelTime>Мин время путешествия. Стандарт: {2}. Значение: {3}</SoS.Settings.MinTravelTime>
+    <SoS.Settings.MinTravelTime.Desc>Минимальное количество лет, проходящих при путешествии в новый мир.</SoS.Settings.MinTravelTime.Desc>
+    <SoS.Settings.MaxTravelTime>Макс время путешествия. Стандарт: {2}. Значение: {3}</SoS.Settings.MaxTravelTime>
+    <SoS.Settings.MaxTravelTime.Desc>Максимальное количество лет, проходящих при путешествии в новый мир.</SoS.Settings.MaxTravelTime.Desc>
+    
+    <SoS.Settings.Danger>Экспериментальные настройки</SoS.Settings.Danger>
+    <SoS.Settings.EnemyMapSize>Размер карты. Стандарт: {2}. Значение: {3}</SoS.Settings.EnemyMapSize>
+    <SoS.Settings.EnemyMapSize.Desc>Переопределение размера карты. Позволит флотам появляться на больших картах с более крупными и мощными кораблями при боевом рейтинге выше 2000.</SoS.Settings.EnemyMapSize.Desc>
+
+
+</LanguageData>

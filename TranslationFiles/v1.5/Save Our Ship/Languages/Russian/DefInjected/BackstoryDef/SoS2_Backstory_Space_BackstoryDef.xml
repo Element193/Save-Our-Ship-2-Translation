@@ -3,7 +3,7 @@
 
   <SoSHologram.title>машинная личность</SoSHologram.title>
   <SoSHologram.titleShort>личность</SoSHologram.titleShort>
-  <SoSHologram.baseDesc>[PAWN_nameDef] это машинная личность. [PAWN_pronoun] взаимодействует с миром при помощи роя механитов, имитирующих человеческое тело.</SoSHologram.baseDesc>
+  <SoSHologram.baseDesc>[PAWN_nameDef] это машинная личность. [PAWN_pronoun] взаимодействует с миром с помощью роя механитов, имитирующих человеческое тело.</SoSHologram.baseDesc>
   <SoSHologram.titleFemale>машинная личность</SoSHologram.titleFemale>
   <SoSHologram.titleShortFemale>личность</SoSHologram.titleShortFemale>
 

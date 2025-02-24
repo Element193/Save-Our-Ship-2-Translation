@@ -2,6 +2,6 @@
 <LanguageData>  <!--1.5\Defs\GeneDefs\GenesSpace.xml-->
   
     <SoS2_CryptoCocoon.label>криптосонный кокон</SoS2_CryptoCocoon.label>
-    <SoS2_CryptoCocoon.description>Создание крепкого кокона для естественного криптосна. Можно будет проснуться по желанию, но процесс метаболически затратен, и существо выйдет из него истощенным.</SoS2_CryptoCocoon.description>
+    <SoS2_CryptoCocoon.description>Создание защищенного кокона для входа в состояние естественного криптосна, процесс можно завершить по желанию, организм будет сильно истощен после пробуждения.</SoS2_CryptoCocoon.description>
     
 </LanguageData>

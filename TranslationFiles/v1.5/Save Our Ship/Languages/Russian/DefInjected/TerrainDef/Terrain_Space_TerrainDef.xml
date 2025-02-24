@@ -14,8 +14,8 @@
 	
 	<FakeFloorInsideShipFoam.label>каркасная пена</FakeFloorInsideShipFoam.label>
 	
-	<SoilShip.label>синтетическая почва</SoilShip.label>
-	<SoilShip.description>Синтетическая почва, насыщенная катализаторами и микроорганизмами, теоретически способна поддерживать растения даже на борту космического корабля.</SoilShip.description>
+	<SoilShip.label>искусственная почва</SoilShip.label>
+	<SoilShip.description>Искусственная почва, насыщенная катализаторами и микроорганизмами, теоретически способна поддерживать рост растений даже на борту космического корабля.</SoilShip.description>
 	<SoilShip.tools.0.label>земля</SoilShip.tools.0.label>
 
 

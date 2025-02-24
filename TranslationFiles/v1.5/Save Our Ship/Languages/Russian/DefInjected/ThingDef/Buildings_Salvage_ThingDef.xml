@@ -20,7 +20,7 @@
 	<Ship_DamagedReactor.description>Древний поврежденный реактор. Пока он не будет остановлен, любое существо поблизости будет получать радиационные ожоги.</Ship_DamagedReactor.description>
 	
 	<Ship_LabConsole.label>исследовательская консоль</Ship_LabConsole.label>
-	<Ship_LabConsole.description>Древняя исправная исследовательская консоль. Опытный исследователь может использовать её, чтобы отключить реакторы корабля.</Ship_LabConsole.description>
+	<Ship_LabConsole.description>Древняя исследовательская консоль. Опытный исследователь может использовать её, чтобы отключить реакторы корабля.</Ship_LabConsole.description>
 	
 	<Ship_SecurityConsole.label>тактическая консоль</Ship_SecurityConsole.label>
 	<Ship_SecurityConsole.description>Древняя функциональная консоль. Опытный исследователь может использовать её, чтобы открыть шлюзы корабля.</Ship_SecurityConsole.description>
@@ -28,7 +28,7 @@
 	<BlackBoxAI.label>безумный ИИ</BlackBoxAI.label>
 	<BlackBoxAI.description>ИИ древнего корабля, который потерял рассудок в процессе наблюдения за ужасами, которые происходили с его экипажем. Только самые одаренные переговорщики могут надеяться на то, что им удастся отговорить его от желания самоуничтожения.</BlackBoxAI.description>
 	
-	<JTDriveSalvage.label>Древний двигатель Джонсона-Танака</JTDriveSalvage.label>
+	<JTDriveSalvage.label>Древний двигатель Джонсона-Танаки</JTDriveSalvage.label>
 	<JTDriveSalvage.description>Передовой двигатель, способный совершать межзвездные путешествия. Поврежден после входа в атмосферу, но частично функционирует.\n\nДля того чтобы разобрать его, потребуется длительный процесс разрядки импульса, что наверняка привлечет внимание недоброжелателей.</JTDriveSalvage.description>
 	
 	<SpaceHive.label>космический улей</SpaceHive.label>

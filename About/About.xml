@@ -2,7 +2,7 @@
 <ModMetaData>
     <name>Save Our Ship 2 RU</name>
     <packageId>EL.SOS2.TR</packageId>
-    <author>Element193</author>
+    <author>ARL193</author>
 
     <supportedVersions>
         <li>1.3</li>
@@ -12,7 +12,7 @@
 
     <description>Неофициальное дополнение для RimWorld. Постройте пригодный для жизни корабль и продолжите историю своих колонистов в космосе — участвуйте в корабельных боях с пиратами, ищите сокровища среди заброшенных кораблей или откройте одну-две величайших космических тайн! SoS2 включает в себя две концовки: постройте двигатель Джонсона-Танака, чтобы перенести вашу команду в новый мир, или превратите кого-то из своего экипажа в бога-машину с помощью Архотек Споры.</description>
 
-    <modDependencies><li><packageId>kentington.saveourship2</packageId><displayName>Save Our Ship 2</displayName></li></modDependencies>
+    <modDependencies><li><packageId>kentington.saveourship2</packageId><displayName>Save Our Ship 2</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/1909914131</steamWorkshopUrl></li></modDependencies>
     <loadAfter><li>kentington.saveourship2</li><li>TheCafFiend.SOS2SpinalEngines</li></loadAfter>
     
 </ModMetaData>

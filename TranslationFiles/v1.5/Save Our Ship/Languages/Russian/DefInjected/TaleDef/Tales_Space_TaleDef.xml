@@ -36,8 +36,8 @@
 	
 	<SpaceDebris.label>космические обломки</SpaceDebris.label>
 	<SpaceDebris.rulePack.rulesStrings>
-    	<li>tale_noun->космический обломок, угрожавший [PAWN_nameDef] [Community]</li>
-   	    <li>tale_noun->[PAWN_nameDef] и [Community] подвергаются угрозе от космического обломка</li>
+    	<li>tale_noun->космический обломок, угрожающий [PAWN_nameDef] [Community]</li>
+   	    <li>tale_noun->[PAWN_nameDef] и [Community] подвергаются угрозе космического обломка</li>
         <li>image->[Quantity_adjphrase] молнии поражают [circumstance_phrase]</li>
         <li>image->[behavior] каменная структура [circumstance_phrase]</li>
         <li>image->[behavior] [Color] структура из камня [circumstance_phrase]</li>

@@ -8,10 +8,10 @@
 	
 	<SpaceDebris.label>космические обломки</SpaceDebris.label>
 	<SpaceDebris.letterLabel>Космические обломки</SpaceDebris.letterLabel>
-	<SpaceDebris.letterText>Корабль вошел в поле обломков. Используйте двигатели для уклонения, или готовьтесь к столкновению!</SpaceDebris.letterText>
+	<SpaceDebris.letterText>Корабль вошел скопление космических обломков. Используйте двигатели для уклонения, или готовьтесь к столкновению!</SpaceDebris.letterText>
 	
 	<SpacePodFound.label>транспортная капсула</SpacePodFound.label>
 	<SpacePodFound.letterLabel>Транспортная капсула</SpacePodFound.letterLabel>
-	<SpacePodFound.letterText>Поблизости обнаружена транспортная капсула. Хотите ли вы забрать её с помощью захвата?</SpacePodFound.letterText>
+	<SpacePodFound.letterText>Неподалеку обнаружена транспортная капсула. Хотите ли вы забрать её?</SpacePodFound.letterText>
 
 </LanguageData>

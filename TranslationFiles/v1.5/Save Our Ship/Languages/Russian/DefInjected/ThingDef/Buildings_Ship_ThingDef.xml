@@ -53,22 +53,22 @@
 	<ShipHardpointLarge.label>огромная платформа</ShipHardpointLarge.label>
 	
 	<Ship_Engine_Small.label>малый ускоритель</Ship_Engine_Small.label>
-	<Ship_Engine_Small.description>Двигатель на химическом топливе, способный вывести корабль на орбиту.\n\nНе подходит для межпланетных путешествий.</Ship_Engine_Small.description>
+	<Ship_Engine_Small.description>Двигатель на химическом топливе, способный вывести корабль на орбиту.\n\nНе подходит для межзвездных путешествий.</Ship_Engine_Small.description>
 	
 	<Ship_Engine.label>ускоритель</Ship_Engine.label>
-	<Ship_Engine.description>Двигатель на химическом топливе, способный вывести корабль на орбиту.\n\nНе подходит для межпланетных путешествий.</Ship_Engine.description>
+	<Ship_Engine.description>Двигатель на химическом топливе, способный вывести корабль на орбиту.\n\nНе подходит для межзвездных путешествий.</Ship_Engine.description>
 	
 	<Ship_Engine_Large.label>ядерный ускоритель</Ship_Engine_Large.label>
-	<Ship_Engine_Large.description>Ядерный ускоритель, способный вывести корабль на орбиту.\n\nЗагрязняет окружающую среду при взлёте.\nНе подходит для межпланетных путешествий.</Ship_Engine_Large.description>
+	<Ship_Engine_Large.description>Ядерный ускоритель, способный вывести корабль на орбиту.\n\nЗагрязняет окружающую среду при взлёте.\nНе подходит для межзвездных путешествий.</Ship_Engine_Large.description>
 	
 	<Ship_Thruster.label>осевой ускоритель</Ship_Thruster.label>
 	<Ship_Thruster.description>Небольшое подруливающее устройство, необходимое для изменения положения и вращения корабля.\n\nТребуется по одному на сторону за каждые 2000кг массы корабля.</Ship_Thruster.description>
 	
-	<Ship_Engine_Interplanetary.label>двигатель Джонсона-Танака</Ship_Engine_Interplanetary.label>
-	<Ship_Engine_Interplanetary.description>Продвинутый двигатель, способный совершать межпланетные и межзвездные путешествия.</Ship_Engine_Interplanetary.description>
+	<Ship_Engine_Interplanetary.label>двигатель Джонсона-Танаки</Ship_Engine_Interplanetary.label>
+	<Ship_Engine_Interplanetary.description>Двигатель, способный совершать межзвездные путешествия.</Ship_Engine_Interplanetary.description>
 	
-	<Ship_Engine_Interplanetary_Large.label>большой Двигатель Джонсона-Танака</Ship_Engine_Interplanetary_Large.label>
-	<Ship_Engine_Interplanetary_Large.description>Большой продвинутый двигатель, способный совершать межпланетные и межзвездные путешествия.</Ship_Engine_Interplanetary_Large.description>
+	<Ship_Engine_Interplanetary_Large.label>большой Двигатель Джонсона-Танаки</Ship_Engine_Interplanetary_Large.label>
+	<Ship_Engine_Interplanetary_Large.description>Большой двигатель, способный совершать межзвездные путешествия.</Ship_Engine_Interplanetary_Large.description>
 	
 	<ShipPilotSeatMini.label>корабельный мостик</ShipPilotSeatMini.label>
 	<ShipPilotSeatMini.description>Центральная командная консоль, откуда осуществляется управление кораблем.</ShipPilotSeatMini.description>
@@ -77,19 +77,19 @@
 	<ShipConsoleTactical.description>Предоставляет дополнительную информацию о целях, такую как расстояние, скорость и уровень бронирования, что помогает оператору использовать орудия с большей эффективностью.\n\nПовышает точность корабельных орудий в зависимости от навыка стрельбы оператора.</ShipConsoleTactical.description>
 	
 	<ShipConsoleScience.label>исследовательская консоль</ShipConsoleScience.label>
-	<ShipConsoleScience.description>Позволяет находить интересные объекты, наблюдать за планетой с орбиты, или сканировать вражеские корабли в бою.</ShipConsoleScience.description>
+	<ShipConsoleScience.description>Позволяет изучать окружающее космическое пространство для поиска интересных объектов, наблюдать за планетой с орбиты, или сканировать вражеские корабли в бою.</ShipConsoleScience.description>
 	
 	<Ship_DroneCore.label>ядро дрона</Ship_DroneCore.label>
-	<Ship_DroneCore.description>Простой компьютер, в котором находится субличный ИИ.\n\nУстройство не способно к творческому мышлению, тем не менее, эффективно для управления кораблём в бою.</Ship_DroneCore.description>
+	<Ship_DroneCore.description>Простой компьютер, в котором находится субличный ИИ.\n\nУстройство не способно к творческому мышлению, тем не менее, эффективно для управления кораблем в бою.</Ship_DroneCore.description>
 
 	<Ship_ComputerCore.label>корабельный компьютер</Ship_ComputerCore.label>
-	<Ship_ComputerCore.description>Компьютер, который содержит ядро ИИ. Он может управлять кораблем, или вести его в межзвездных путешествиях.\n\nИмеет встроенный генератор механитов, благодаря чему, ИИ может взаимодействовать с физическим миром благодаря технологии формгелей.</Ship_ComputerCore.description>
+	<Ship_ComputerCore.description>Корабельный компьютер, в который можно установить ядро ИИ.\n\nИИ может управлять кораблем и вести его в межзвездных путешествиях.\n\nИмеет модуль, который способен воссоздать физическую форму ИИ для взаимодействия с миром.</Ship_ComputerCore.description>
 	
 	<Ship_SensorCluster.label>базовые сенсоры</Ship_SensorCluster.label>
-	<Ship_SensorCluster.description>Базовые сенсоры, необходимые для возможности передвижения корабля. Позволяют кораблю достичь орбиты.</Ship_SensorCluster.description>
+	<Ship_SensorCluster.description>Базовые сенсоры, необходимые для навигации корабля и вывода его на орбиту. Позволяют кораблю достичь орбиты.</Ship_SensorCluster.description>
 	
 	<Ship_SensorClusterAdv.label>продвинутые сенсоры</Ship_SensorClusterAdv.label>
-	<Ship_SensorClusterAdv.description>Продвинутые сенсоры. Автоматически сканируют ближайшие объекты, так-же могут сканировать вражеские корабли в бою.</Ship_SensorClusterAdv.description>
+	<Ship_SensorClusterAdv.description>Автоматически сканируют ближайшие объекты, так-же могут сканировать вражеские корабли в бою.</Ship_SensorClusterAdv.description>
 	
 	<Ship_LifeSupport.label>Система жизнеобеспечения</Ship_LifeSupport.label>
 	<Ship_LifeSupport.description>Обеспечивает поддержание жизнедеятельности экипажа и животных в условиях космического пространства. Система рециркулирует кислород во всех герметичных помещениях корабля, поддерживая необходимый уровень кислорода для дыхания.</Ship_LifeSupport.description>
@@ -116,13 +116,13 @@
 	<ShipShuttleBayLarge.description>Место посадки для шаттлов. Должно быть свободно от препятствий. Эта версия может вмещать большие шаттлы, или несколько малых. Установите рядом маяки для посадки челноков.</ShipShuttleBayLarge.description>
 	
 	<ShipSalvageBay.label>механический захват</ShipSalvageBay.label>
-	<ShipSalvageBay.description>Устройство для сбора предметов и перемещения обломков в космосе. Использует дронов и магнитные импульсы.\n\nМаксимальная перемещаемая масса: 5000кг.</ShipSalvageBay.description>
+	<ShipSalvageBay.description>Система для сбора предметов и перемещения обломков в космосе. Генерирует притягивающий или отталкивающий луч, используя магнитные импульсы.\n\nМаксимальная перемещаемая масса: 5000кг.</ShipSalvageBay.description>
 	
 	<ShipSalvageBayNano.label>лучевой захват</ShipSalvageBayNano.label>
-	<ShipSalvageBayNano.description>Устройство для сбора предметов и перемещения обломков в космосе. Использует тяговый луч, который основан на реверсивном принципе действия двигателя Джонсона-Танака.\n\nМаксимальная перемещаемая масса: 10000кг.</ShipSalvageBayNano.description>
+	<ShipSalvageBayNano.description>Система для сбора предметов и перемещения обломков в космосе. Генерирует мощный тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танаки.\n\nМаксимальная перемещаемая масса: 10000кг.</ShipSalvageBayNano.description>
 	
 	<ShipCloakingDevice.label>маскировочное устройство</ShipCloakingDevice.label>
-	<ShipCloakingDevice.description>Генерирует поле, маскирующее тепловые излучения, скрывая корабль от пассивных сенсоров. Не может защитить от мощных сканеров, используемых охотниками за наградой.\n\nКогда активно, уменьшает теплоемкость корабля.</ShipCloakingDevice.description>
+	<ShipCloakingDevice.description>Генерирует маскировочное поле вокруг корабля, скрывая его тепловые излучение. Это защищает от обнаружения корабля обычными сенсорами, но не может защитить от мощных сканеров охотников за головами.\n\nВ активном состоянии генерирует тепло и уменьшает теплоемкость корабля.</ShipCloakingDevice.description>
 	
 	<Ship_CryptosleepCasket.label>спасательная капсула</Ship_CryptosleepCasket.label>
 	<Ship_CryptosleepCasket.description>Капсула криптосна с несколькими встроенными таймерами и защитными протоколами. Может быть открыта без ручного вмешательства. В случае катастрофической поломки корабля может служить спасательной капсулой.</Ship_CryptosleepCasket.description>
@@ -140,7 +140,7 @@
 	<Cryptonest.description>Инкубатор с автономным питанием, способный содержать до шестнадцати яиц.</Cryptonest.description>
 	
 	<Ship_AvatarCasket.label>хранилище личности</Ship_AvatarCasket.label>
-	<Ship_AvatarCasket.description>Капсула с передовыми механитами, способными разобрать труп и воссоздать его в виде формгеля - роя механитов, имитирующих живое существо.\n\nЛичность переносится с идеальной точностью в искусственный нейро-психический субстрат, и остается в ячейке, дистанционно управляя формгелем с помощью психической связи. В одном хранилище одновременно может находится только одна личность.</Ship_AvatarCasket.description>
+	<Ship_AvatarCasket.description>Капсула с передовыми механитами, способными разобрать погибшего и воссоздать его в виде механитной формы - роя механитов, имитирующих тело.\n\nЛичность переносится с идеальной точностью в искусственный нейро-психический субстрат, и остается в ячейке, дистанционно управляя механитной формой с помощью психической связи. В одном хранилище одновременно может находится только одна личность.</Ship_AvatarCasket.description>
 	
 	<HullFoamDistributor.label>Распределитель пены</HullFoamDistributor.label>
 	<HullFoamDistributor.description>Система для распределения каркасной пены по корпусу корабля. Когда часть корпуса разрушается в бою, эта система автоматически заделывает пробоину каркасной пеной.\n\nНеобходимо заправлять каркасной пеной.</HullFoamDistributor.description>

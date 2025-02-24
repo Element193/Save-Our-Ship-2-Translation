@@ -2,7 +2,7 @@
 <LanguageData>	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipTechArcho.xml-->
 
 	<PsychicFlayer.label>психическая травма</PsychicFlayer.label>
-	<PsychicFlayer.deathMessage>{0} {PAWN_gender ? получил : получила} психическую травму.</PsychicFlayer.deathMessage>
+	<PsychicFlayer.deathMessage>{0} {PAWN_gender ? уничтожен : уничтожена} психическим излучением.</PsychicFlayer.deathMessage>
 
 	<BombMechanite.label>поглощающие механиты</BombMechanite.label>
 	<BombMechanite.deathMessage>{0} {PAWN_gender ? поглощен : поглощена} механитами.</BombMechanite.deathMessage>

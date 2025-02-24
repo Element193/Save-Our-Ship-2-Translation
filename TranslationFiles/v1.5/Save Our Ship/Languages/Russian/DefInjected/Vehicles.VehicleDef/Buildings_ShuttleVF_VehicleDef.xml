@@ -4,8 +4,9 @@
 	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShuttleVF.xml-->
 	
     <SoS2_Shuttle_Personal.label>Персональный шаттл</SoS2_Shuttle_Personal.label>
-    <SoS2_Shuttle_Personal.description>Одноместное судно, способное осуществлять как орбитальные, так и наземные перелёты. В отличие от крупных шаттлов, он работает на химическом топливе.</SoS2_Shuttle_Personal.description>
+    <SoS2_Shuttle_Personal.description>Одноместное судно, способное осуществлять как орбитальные, так и наземные перелёты. В отличие от крупных шаттлов, этот работает на химическом топливе.</SoS2_Shuttle_Personal.description>
     <SoS2_Shuttle_Personal.properties.roles.0.label>Пилот</SoS2_Shuttle_Personal.properties.roles.0.label>
+    <SoS2_Shuttle_Personal.draftLabel>Режим парения</SoS2_Shuttle_Personal.draftLabel>
     <SoS2_Shuttle_Personal.components.0.label>Первый Ускоритель</SoS2_Shuttle_Personal.components.0.label>
     <SoS2_Shuttle_Personal.components.1.label>Второй Ускоритель</SoS2_Shuttle_Personal.components.1.label>
     <SoS2_Shuttle_Personal.components.2.label>Третий Ускоритель</SoS2_Shuttle_Personal.components.2.label>
@@ -14,7 +15,8 @@
     <SoS2_Shuttle_Personal.components.5.label>Корпус</SoS2_Shuttle_Personal.components.5.label>
 	
     <SoS2_Shuttle.label>средний шаттл</SoS2_Shuttle.label>
-    <SoS2_Shuttle.description>Судно, способное осуществлять как орбитальные, так и наземные перелёты, работающее на ядерном топливе.\n\nПоскольку структура основана на базовых уменьшенных корабельных технологиях, этот шаттл может быть улучшен после соответствующих исследований. Большинство улучшений занимают место грузового отсека. У этого шаттла есть одно место для установки турелей.</SoS2_Shuttle.description>
+    <SoS2_Shuttle.description>Судно, способное осуществлять как орбитальные, так и наземные перелёты, использует ядерное топливо.\n\nПоскольку структура основана на базовых уменьшенных корабельных технологиях, этот шаттл может быть улучшен после соответствующих исследований. Большинство улучшений занимают место грузового отсека. У этого шаттла есть одно место для установки турелей.</SoS2_Shuttle.description>
+    <SoS2_Shuttle.draftLabel>Режим парения</SoS2_Shuttle.draftLabel>
     <SoS2_Shuttle.properties.roles.0.label>Пилот</SoS2_Shuttle.properties.roles.0.label>
     <SoS2_Shuttle.properties.roles.1.label>Пассажир</SoS2_Shuttle.properties.roles.1.label>
     <SoS2_Shuttle.components.0.label>Первый Ускоритель</SoS2_Shuttle.components.0.label>
@@ -27,7 +29,8 @@
     <SoS2_Shuttle.components.7.label>Корпус</SoS2_Shuttle.components.7.label>
 	
     <SoS2_Shuttle_Heavy.label>тяжёлый шаттл</SoS2_Shuttle_Heavy.label>
-    <SoS2_Shuttle_Heavy.description>Большое судно, способное осуществлять как орбитальные, так и наземные перелёты, работающее на ядерном топливе.\n\nПоскольку структура основана на базовых уменьшенных корабельных технологиях, этот шаттл может быть улучшен после соответствующих исследований. Большинство улучшений занимают место грузового отсека. У этого шаттла есть два места для установки турелей.</SoS2_Shuttle_Heavy.description>
+    <SoS2_Shuttle_Heavy.description>Большое судно, способное осуществлять как орбитальные, так и наземные перелёты, использует ядерное топливо.\n\nПоскольку структура основана на базовых уменьшенных корабельных технологиях, этот шаттл может быть улучшен после соответствующих исследований. Большинство улучшений занимают место грузового отсека. У этого шаттла есть два места для установки турелей.</SoS2_Shuttle_Heavy.description>
+    <SoS2_Shuttle_Heavy.draftLabel>Режим парения</SoS2_Shuttle_Heavy.draftLabel>
     <SoS2_Shuttle_Heavy.properties.roles.0.label>Пилот</SoS2_Shuttle_Heavy.properties.roles.0.label>
     <SoS2_Shuttle_Heavy.properties.roles.1.label>Пассажир</SoS2_Shuttle_Heavy.properties.roles.1.label>
     <SoS2_Shuttle_Heavy.components.0.label>Первый Ускоритель</SoS2_Shuttle_Heavy.components.0.label>
@@ -40,7 +43,8 @@
     <SoS2_Shuttle_Heavy.components.7.label>Корпус</SoS2_Shuttle_Heavy.components.7.label>
 	
     <SoS2_Shuttle_Superheavy.label>сверхтяжёлый шаттл</SoS2_Shuttle_Superheavy.label>
-    <SoS2_Shuttle_Superheavy.description>Очень крупное судно, способное осуществлять как орбитальные, так и наземные перелёты, работающее на ядерном топливе. Из-за своего размера требует специального сооружения для стыковки.\n\nПоскольку структура основана на базовых уменьшенных корабельных технологиях, этот шаттл может быть улучшен после соответствующих исследований. Большинство улучшений занимают место грузового отсека. У этого шаттла есть три места для установки турелей.</SoS2_Shuttle_Superheavy.description>
+    <SoS2_Shuttle_Superheavy.description>Очень крупное судно, способное осуществлять как орбитальные, так и наземные перелёты, использует ядерное топливо. Из-за своего размера требует специального сооружения для стыковки.\n\nПоскольку структура основана на базовых уменьшенных корабельных технологиях, этот шаттл может быть улучшен после соответствующих исследований. Большинство улучшений занимают место грузового отсека. У этого шаттла есть три места для установки турелей.</SoS2_Shuttle_Superheavy.description>
+    <SoS2_Shuttle_Superheavy.draftLabel>Режим парения</SoS2_Shuttle_Superheavy.draftLabel>
     <SoS2_Shuttle_Superheavy.properties.roles.0.label>Пилот</SoS2_Shuttle_Superheavy.properties.roles.0.label>
     <SoS2_Shuttle_Superheavy.properties.roles.1.label>Пассажир</SoS2_Shuttle_Superheavy.properties.roles.1.label>
     <SoS2_Shuttle_Superheavy.components.0.label>Первый Ускоритель</SoS2_Shuttle_Superheavy.components.0.label>

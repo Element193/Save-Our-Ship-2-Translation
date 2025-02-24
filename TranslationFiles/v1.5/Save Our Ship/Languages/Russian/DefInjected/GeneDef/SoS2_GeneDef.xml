@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <SoS2_VacuumAdapted.label>вакуумная адаптация</SoS2_VacuumAdapted.label>
+    <SoS2_VacuumAdapted.label>адаптация к вакууму</SoS2_VacuumAdapted.label>
     <SoS2_VacuumAdapted.labelShortAdj>космос</SoS2_VacuumAdapted.labelShortAdj>
-    <SoS2_VacuumAdapted.description>Носители этого гена могут пережить прямое воздействие вакуума. Их организм регулирует давление крови, чтобы предотвратить декомпрессионные травмы, и способен анаэробному дыханию при отсутствии кислорода. Отходы метаболизма выводятся через кожу, обеспечивая тягу в открытом космосе. Однако этот ген не защищает от экстремальных температур.</SoS2_VacuumAdapted.description>
-    
-    <SoS2_Cocoon.label>криптосонный кокон</SoS2_Cocoon.label>
-    <SoS2_Cocoon.description>Носители этого гена могут создавать естественный кокон для погружения в состояние криптосна. Этот процесс сильно истощает организм.</SoS2_Cocoon.description>
-    
+    <SoS2_VacuumAdapted.description>Носители этого гена могут пережить прямое воздействие вакуума. Их организм регулирует давление крови, чтобы предотвратить декомпрессионные травмы, и способен анаэробному дыханию при отсутствии кислорода. Отходы метаболизма выводятся через кожу, обеспечивая тягу в открытом космосе. Однако сам по себе этот ген не защищает от экстремальных температур.</SoS2_VacuumAdapted.description>
 
-    <!--///  <SoS2_VacuumAdapted.label>вакуумная адаптация</SoS2_VacuumAdapted.label>
-    <SoS2_VacuumAdapted.description>Носители этого гена могут пережить прямое воздействие вакуума. Их организм регулирует давление крови, чтобы предотвратить декомпрессионные травмы, и способен анаэробному дыханию при отсутствии кислорода. Отходы метаболизма выводятся через кожу, обеспечивая тягу в открытом космосе. Однако этот ген не защищает от экстремальных температур.</SoS2_VacuumAdapted.description>
-    <SoS2_VacuumAdapted.labelShortAdj>космос</SoS2_VacuumAdapted.labelShortAdj>
-    <SoS2_VacuumAdapted.symbolPack.prefixSymbols.0.symbol>космос</SoS2_VacuumAdapted.symbolPack.prefixSymbols.0.symbol>
-    
-    <SoS2_Cocoon.label>кокон криптосна</SoS2_Cocoon.label>
-    <SoS2_Cocoon.description>Носители этого гена могут выращивать естественный кокон криптосна, позволяющий им войти в стазис по желанию. Однако процесс метаболически затратен, и пользователь выйдет из него с сильной истощенностью.</SoS2_Cocoon.description>
-    <SoS2_Cocoon.symbolPack.prefixSymbols.0.symbol>крипто</SoS2_Cocoon.symbolPack.prefixSymbols.0.symbol>
-    <SoS2_Cocoon.symbolPack.suffixSymbols.0.symbol>спящий</SoS2_Cocoon.symbolPack.suffixSymbols.0.symbol>
-    <SoS2_Cocoon.symbolPack.wholeNameSymbols.0.symbol>кокон</SoS2_Cocoon.symbolPack.wholeNameSymbols.0.symbol>  ///-->
+    <SoS2_Cocoon.label>криптосонный кокон</SoS2_Cocoon.label>
+    <SoS2_Cocoon.description>Носители этого гена могут создать кокон для погружения в состояние естественного криптосна. Однако, этот процесс сильно истощает организм.</SoS2_Cocoon.description>
 
 </LanguageData>

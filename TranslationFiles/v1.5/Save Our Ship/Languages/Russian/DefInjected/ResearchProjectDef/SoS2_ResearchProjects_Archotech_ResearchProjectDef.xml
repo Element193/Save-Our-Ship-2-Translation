@@ -2,94 +2,94 @@
 <LanguageData>	<!--1.5\Defs\ResearchProjectDefs\ResearchProjects_Archotech.xml-->
 
 	<ArchotechMechanites.label>инженерные механиты</ArchotechMechanites.label>
-	<ArchotechMechanites.description>Атом за атомом! Разработка инженерных механитов, которые могут быть использованы для создания или ремонта предметов.</ArchotechMechanites.description>
+	<ArchotechMechanites.description>Атом за атомом! Инженерные механиты, которые могут конструировать или ремонтировать предметы.</ArchotechMechanites.description>
 	
 	<ArchotechBioMechanites.label>биоинтеграция механитов</ArchotechBioMechanites.label>
-	<ArchotechBioMechanites.description>Разработка специализированных механизмов, которые позволяют интегрировать механитов в плоть.</ArchotechBioMechanites.description>
+	<ArchotechBioMechanites.description>Создание специализированных механитов для улучшения и модификации биологических существ.</ArchotechBioMechanites.description>
 	
 	<ArchotechBioMechanitesTwo.label>интеллект роя</ArchotechBioMechanitesTwo.label>
-    <ArchotechBioMechanitesTwo.description>Если наделить рой механитов коллективным интеллектом, это позволит им заменять утерянные конечности, или даже воскрешать мертвых.</ArchotechBioMechanitesTwo.description>
+    <ArchotechBioMechanitesTwo.description>Наделение роя механитов гештальт-интеллектом, который позволит им коллективно диагностировать и восстанавливать травмы или даже погибших.</ArchotechBioMechanitesTwo.description>
 	
 	<ArchotechArchites.label>архогенетика</ArchotechArchites.label>
-	<ArchotechArchites.description>Разработка собственного штамма архитов - новые возможности для Архотек Споры.</ArchotechArchites.description>
+	<ArchotechArchites.description>Новые капсулы архитов и архо-гены, это открывает больше возможностей архотек споры.</ArchotechArchites.description>
 	
-    <SoSArchotechOrgans.label>биомодификации</SoSArchotechOrgans.label>
-    <SoSArchotechOrgans.description>Переосмысление биологии на молекулярном уровне, возможность создания более совершенных органов.</SoSArchotechOrgans.description>
+    <SoSArchotechOrgans.label>архо-анатомия</SoSArchotechOrgans.label>
+    <SoSArchotechOrgans.description>Переосмысление биологии на молекулярном уровне, возможность создания совершенных органов.</SoSArchotechOrgans.description>
 	
-    <ArchotechAnimals.label>модификация животных</ArchotechAnimals.label>
-    <ArchotechAnimals.description>Превосходство естественной эволюции с целью создания экосистемы особых существ, которые предоставляют большие преимущества своим хозяевам.</ArchotechAnimals.description>
+    <ArchotechAnimals.label>архо-фауна</ArchotechAnimals.label>
+    <ArchotechAnimals.description>Превосходство естественной эволюции, возможность создания экосистемы совершенных существ, которые могут принести огромную пользу хозяевам.</ArchotechAnimals.description>
     
-    <ArchotechPlants.label>модификация растений</ArchotechPlants.label>
-    <ArchotechPlants.description>Превосходство естественной эволюции с целью создания экосистемы особых растений, которые предоставляют большие преимущества своим хозяевам.</ArchotechPlants.description>
+    <ArchotechPlants.label>архо-флора</ArchotechPlants.label>
+    <ArchotechPlants.description>Превосходство естественной эволюции, возможность создания экосистемы совершенных растений, которые могут принести огромную пользу.</ArchotechPlants.description>
 	
-    <ArchotechMechaniteWeapon.label>разборочные механиты</ArchotechMechaniteWeapon.label>
-    <ArchotechMechaniteWeapon.description>Разработка специализированных механитов для уничтожения атома за атомом. Они могут быть полезны для утилизации ненужных предметов или "переработки" вражеских кораблей.</ArchotechMechaniteWeapon.description>
+    <ArchotechMechaniteWeapon.label>поглощающие механиты</ArchotechMechaniteWeapon.label>
+    <ArchotechMechaniteWeapon.description>Разработка механитов, которые расщепляют материю атом за атомом — это может быть полезно для переработки ненужных предметов или "утилизации" вражеских кораблей.</ArchotechMechaniteWeapon.description>
 	
     <ArchotechHullConversion.label>преобразование материи</ArchotechHullConversion.label>
-    <ArchotechHullConversion.description>Эксперименты с материей, цель которых направлена на конвертацию обычных материалов в аналог архотека. Это позволит начать процесс преобразования корпуса корабля до уровня архотек.</ArchotechHullConversion.description>
+    <ArchotechHullConversion.description>Автоматическое преобразование корпуса корабля до уровня архотеков. Это не повлияет на крупные конструкции, такие как радиаторы или генераторы защитного поля.</ArchotechHullConversion.description>
 	
-	<ArchotechPsychicField.label>психическое поле</ArchotechPsychicField.label>
-	<ArchotechPsychicField.description>Исследование основных принципов формирования пси-поля. Благодаря такой технологии, спора сможет генерировать простые пси-импульсы по вашему желанию.</ArchotechPsychicField.description>
+	<ArchotechPsychicField.label>формирование пси-поля</ArchotechPsychicField.label>
+	<ArchotechPsychicField.description>Открытие основных принципов психического взаимодействия, которые позволяют архо-споре генерировать психическое поле.</ArchotechPsychicField.description>
 	<ArchotechPsychicField.discoveredLetterTitle>Психическое Поле</ArchotechPsychicField.discoveredLetterTitle>
-	<ArchotechPsychicField.discoveredLetterText>Теперь спора способна генерировать пси-поле, энергия которого накапливается сама по себе, когда команда медитирует рядом со спорой. Когда будет накоплено достаточно энергии, спора сможет генерировать исследованные пси-импульсы по вашему желанию. Пси-поле может быть значительно усилено монолитами архотека.</ArchotechPsychicField.discoveredLetterText>
+	<ArchotechPsychicField.discoveredLetterText>Архо-спора начала генерировать психическое поле. Как только будет накоплено достаточно силы поля и завершены необходимые исследования, вы можете попросить спору выполнить желаемые действия. Сила поля медленно растет сама по себе, если члены экипажа медитируют поблизости, но ее можно значительно повысить, установив монолиты архотека.</ArchotechPsychicField.discoveredLetterText>
 	
 	<ArchotechPsychicManipulation.label>формирование пси-импульсов</ArchotechPsychicManipulation.label>
-	<ArchotechPsychicManipulation.description>Принцип формирования простых успокаивающих или подавляющих пси-импульсов, используя пси-поле.</ArchotechPsychicManipulation.description>
+	<ArchotechPsychicManipulation.description>Формирование простых успокаивающих или подавляющих пси-импульсов, используя пси-поле.</ArchotechPsychicManipulation.description>
 	
-	<ArchotechBroadManipulation.label>трансляция пси-импульсов</ArchotechBroadManipulation.label>
-	<ArchotechBroadManipulation.description>Принцип, который позволяет на большие расстояния транслировать пси-сигнал, содержащий мысли и мечты, он способен менять поведение и видение живых существ, что может быть полезно при переговорах.</ArchotechBroadManipulation.description>
+	<ArchotechBroadManipulation.label>широкая манипуляция</ArchotechBroadManipulation.label>
+	<ArchotechBroadManipulation.description>Передача сообщений и снов тысячам существ, влияя на их мнения. Это может быть полезно при переговорах, используя консоль связи.</ArchotechBroadManipulation.description>
 	
 	<ArchotechPsylink.label>формирование пси-связи</ArchotechPsylink.label>
-	<ArchotechPsylink.description>Формирование пси-связи, используя возможности пси-поля Архотек Споры. Это позволит команде получать или повышать уровень пси-связи.</ArchotechPsylink.description>
+	<ArchotechPsylink.description>Возможность архо-споры наделять команду пси-связью. Это потребляет значительное количество силы поля.</ArchotechPsylink.description>
 	
 	<ArchotechPsychicEffectors.label>пси-устройства</ArchotechPsychicEffectors.label>
-	<ArchotechPsychicEffectors.description>Изучение автономных устройств, которые содержат накопленную пси-энергию для генерации заданных пси-импульсов.</ArchotechPsychicEffectors.description>
+	<ArchotechPsychicEffectors.description>Создание автономных портативных устройств, которые содержат пси-энергию и способны генерировать заданные пси-импульсы.</ArchotechPsychicEffectors.description>
 	
-	<ArchotechPsychicWeapon.label>психический подавитель</ArchotechPsychicWeapon.label>
-	<ArchotechPsychicWeapon.description>Разработка корабельного орудия, которое конвертирует энергию в игнорирующий корпус корабля пси-луч, эффективно выводящий из строя экипаж в космических сражениях.</ArchotechPsychicWeapon.description>
+	<ArchotechPsychicWeapon.label>орудие подавления</ArchotechPsychicWeapon.label>
+	<ArchotechPsychicWeapon.description>Разработка корабельного орудия, которое конвертирует энергию в подавляющий луч, он проходит сквозь объекты и эффективно выводит из строя вражеский экипаж.</ArchotechPsychicWeapon.description>
 	
+	<ArchotechPsychicSoulLink.label>пси-реинкарнация</ArchotechPsychicSoulLink.label>
+	<ArchotechPsychicSoulLink.description>Возможность связать существо с архо-спорой. Если телу существа будут нанесены смертельные повреждения, спора мгновенно перенесет его личность в свободное хранилище.</ArchotechPsychicSoulLink.description>
+
 	<ArchotechExotics.label>экзотические частицы</ArchotechExotics.label>
-	<ArchotechExotics.description>Превосходство общепринятых законов физики благодаря множеству частиц с экзотическим поведением.</ArchotechExotics.description>
+	<ArchotechExotics.description>Расширение законов физики множеством частиц с экзотическим поведением.</ArchotechExotics.description>
 	
 	<ArchotechVanometrics.label>ванометрия</ArchotechVanometrics.label>
 	<ArchotechVanometrics.description>Разработка автономных ванометрических генераторов, которые вырабатывают энергию поглощая частицы из окружающего пространства.</ArchotechVanometrics.description>
 	
 	<ArchotechShields.label>экзотические поля</ArchotechShields.label>
-	<ArchotechShields.description>Разработка передовых корабельных генераторов защитного поля, которые работают за счёт экзотических частиц и превосходят базовые аналоги по всем параметрам.</ArchotechShields.description>
+	<ArchotechShields.description>Разработка совершенного защитного поля для корабля, которое превосходит базовые аналоги благодаря использованию экзотических частиц.</ArchotechShields.description>
 	
 	<ArchotechHeatsink.label>антиэнтропия</ArchotechHeatsink.label>
-	<ArchotechHeatsink.description>Разработка передовой системы охлаждения для кораблей на основе экзотических частиц, за счёт этого радиаторы смогут конвертировать тепло в полезную энергию, а не излучать его в космос.</ArchotechHeatsink.description>
+	<ArchotechHeatsink.description>Разработка совершенной системы охлаждения корабля. За счёт экзотических частиц радиаторы могут конвертировать тепло обратно в полезную энергию, а не излучать его в космос.</ArchotechHeatsink.description>
 	
 	<ArchotechAntimatter.label>инверсивная материя</ArchotechAntimatter.label>
-	<ArchotechAntimatter.description>Разработка гранульных боеприпасов, которые основаны на экзотических частицах.</ArchotechAntimatter.description>
+	<ArchotechAntimatter.description>Разработка гранульных боеприпасов, основанных на нестабильном поведении экзотических частиц.</ArchotechAntimatter.description>
 	
 	<ArchotechEngine.label>ускорители антиматерии</ArchotechEngine.label>
-	<ArchotechEngine.description>Разработка передовых корабельных ускорителей, генерируя импульсы огромной силы за счёт возможностей экзотических частиц они полностью превосходят базовые аналоги.</ArchotechEngine.description>
+	<ArchotechEngine.description>Использование экзотических частиц для тяги и получения преимущества в бою.</ArchotechEngine.description>
 	
 	<ArchotechReactor.label>реакторы антиматерии</ArchotechReactor.label>
-	<ArchotechReactor.description>Поиск способа для получения огромного количества энергии из экзотических частиц, что позволит соорудить реактор, превосходящий все известные способы генерации энергии.</ArchotechReactor.description>
-	
-	<ArchotechPsychicSoulLink.label>сохранение личности</ArchotechPsychicSoulLink.label>
-	<ArchotechPsychicSoulLink.description>Принцип переноса личности и формированием взаимосвязи с Архотек Спорой. Это позволит споре сохранять души умерших и переносить их в хранилища личностей.</ArchotechPsychicSoulLink.description>
+	<ArchotechReactor.description>Использование экзотических частиц для быстрой генерации огромного количества энергии.</ArchotechReactor.description>
 
 	<ArchotechPillarA.label>альфа-монолит</ArchotechPillarA.label>
-	<ArchotechPillarA.description>Поиск местонахождения архотек-монолита - альфа.</ArchotechPillarA.description>
+	<ArchotechPillarA.description>Поиск местонахождения альфа-монолита. Конкретно этот монолит расположен где-то на орбите.</ArchotechPillarA.description>
 	<ArchotechPillarA.discoveredLetterTitle>Монолит «Горизонт»</ArchotechPillarA.discoveredLetterTitle>
-	<ArchotechPillarA.discoveredLetterText>Обнаружено местоположение альфа-монолита! Он находиться на борту древней космической станции "Горизонт", которая была создана много веков назад для терраформирования этой планеты.\n\nТочечное сканирование показывает, что купольная часть станции поддерживала функционирующую экосистему на протяжении тысячелетий. Однако в настоящее время её занимает клан космических пиратов, и, учитывая количество тяжелого вооружения, установленного на корпусе станции, они не намерены принимать гостей.\n\nВы можете попытаться атаковать станцию через мостик корабля.</ArchotechPillarA.discoveredLetterText>
+	<ArchotechPillarA.discoveredLetterText>Благодаря точечному сканированию удалось найти местоположение альфа-монолита! Он находиться на борту древней космической станции "Горизонт", которая была создана много веков назад для терраформирования планеты.\n\nКупольная часть станции поддерживает функционирующую экосистему на протяжении тысячелетий. Однако в настоящее время её занял клан космических пиратов, и, учитывая количество установленного ими тяжелого вооружения на корпусе станции, они не намерены принимать гостей.\n\nВы можете попытаться атаковать станцию, отдав приказ с корабельного мостика.</ArchotechPillarA.discoveredLetterText>
 	
 	<ArchotechPillarB.label>бета-монолит</ArchotechPillarB.label>
-	<ArchotechPillarB.description>Поиск местонахождения архотек-монолита - бета.</ArchotechPillarB.description>
+	<ArchotechPillarB.description>Поиск местонахождения бета-монолита. Конкретно этот монолит расположен на одной из лун планеты.</ArchotechPillarB.description>
 	<ArchotechPillarB.discoveredLetterTitle>Монолит «Луна»</ArchotechPillarB.discoveredLetterTitle>
-	<ArchotechPillarB.discoveredLetterText>Обнаружено местоположение бета-монолита! Этот артефакт, по-видимому, анализируется механоидами на одной из лун планеты.\n\nТочечное сканирование показывает, что место защищает огромный боевой корабль механоидов.\n\nИспользуйте мостик корабля, чтобы приблизиться к местоположению монолита.</ArchotechPillarB.discoveredLetterText>
-	
+	<ArchotechPillarB.discoveredLetterText>Благодаря точечному сканированию удалось найти местоположение бета-монолита! Этот артефакт, по-видимому, анализируется механоидами на одной из лун планеты.\n\nСенсоры фиксируют огромный боевой корабль механоидов неподалеку патрулирующий область.\n\nВы можете попытаться приблизится к области, отдав приказ с корабельного мостика</ArchotechPillarB.discoveredLetterText>
+
 	<ArchotechPillarC.label>гамма-монолит</ArchotechPillarC.label>
-	<ArchotechPillarC.description>Поиск местонахождения архотек-монолита - гамма.</ArchotechPillarC.description>
+	<ArchotechPillarC.description>Поиск местонахождения гамма-монолита. Конкретно этот монолит расположен где-то на поверхности планеты.</ArchotechPillarC.description>
 	<ArchotechPillarC.discoveredLetterTitle>Монолит «Звёздный тотем»</ArchotechPillarC.discoveredLetterTitle>
-	<ArchotechPillarC.discoveredLetterText>Обнаружено местоположение гамма-монолита! Этот монолит - священный артефакт племён, называемый Звёздным Тотемом.\n\nКогда-то монолит был священным местом для переговоров, где враждующие племена выступали под знаменем мира, но сейчас он захвачен и осквернен диким кланом аборигенов.\n\nСоюзные племена жаждут вернуть священный артефакт в дружественные руки, они присоединятся к вашей команде после прибытия на место.</ArchotechPillarC.discoveredLetterText>
+	<ArchotechPillarC.discoveredLetterText>Благодаря точечному сканированию удалось найти местоположение гамма-монолита! Это священный артефакт племён, называемый Звёздным Тотемом.\n\nКогда-то область возле монолита была священным местом для переговоров, где враждующие племена выступали под знаменем мира, но сейчас он захвачен и осквернен диким кланом аборигенов.\n\nСоюзные племена жаждут вернуть священный артефакт в дружественные руки, они присоединятся к вашей команде.</ArchotechPillarC.discoveredLetterText>
 	
 	<ArchotechPillarD.label>дельта-монолит</ArchotechPillarD.label>
-	<ArchotechPillarD.description>Поиск местонахождения архотек-монолита - дельта.</ArchotechPillarD.description>
-	<ArchotechPillarD.discoveredLetterTitle>Монолит «Улей»</ArchotechPillarD.discoveredLetterTitle>
-	<ArchotechPillarD.discoveredLetterText>Обнаружено местоположение дельта-монолита! Этот монолит находится глубоко под поверхностью планеты, в центре огромного улья насекомых.\n\nНаблюдения указывают на большую популяцию насекомых, а исследовательское оборудование генерирует аномальные значения - возможно это монстры архотеков, или что-то страшнее.</ArchotechPillarD.discoveredLetterText>
+	<ArchotechPillarD.description>Поиск местонахождения дельта-монолита. Конкретно этот монолит расположен где-то под поверхностью планеты.</ArchotechPillarD.description>
+	<ArchotechPillarD.discoveredLetterTitle>Монолит «Рой»</ArchotechPillarD.discoveredLetterTitle>
+	<ArchotechPillarD.discoveredLetterText>Благодаря точечному сканированию удалось найти местоположение дельта-монолита! Этот монолит находится глубоко под поверхностью планеты, в центре огромного улья насекомых.\n\nНаблюдения через сенсоры фиксируют огромную популяцию насекомых, а исследовательское оборудование генерирует аномальные значения - вероятно это архо-пауки, или что-то более страшное.</ArchotechPillarD.discoveredLetterText>
 
 </LanguageData>

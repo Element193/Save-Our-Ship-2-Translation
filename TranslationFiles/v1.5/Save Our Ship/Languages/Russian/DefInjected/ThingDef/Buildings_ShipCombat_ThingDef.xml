@@ -2,10 +2,10 @@
 <LanguageData>
 	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipCombat.xml-->
 	<ShipCombatShieldGenerator.label>генератор щита</ShipCombatShieldGenerator.label>
-	<ShipCombatShieldGenerator.description>Генерирует импульсное репульсорное поле, которое отталкивает входящие снаряды.\n\nГенерирует тепло при отражении снарядов, выходит из строя при перегреве.\n\nКапитанам рекомендуется отключать щиты, когда уровень нагрева приближается к максимальному.</ShipCombatShieldGenerator.description>
+	<ShipCombatShieldGenerator.description>Генерирует импульсное репульсорное поле, которое отталкивает входящие объекты.\n\nГенерирует тепло при отражении снарядов, выйдет из строя при перегреве.\n\nКапитанам рекомендуется отключать щиты, когда уровень нагрева приближается к максимальному.</ShipCombatShieldGenerator.description>
 	
 	<ShipCombatShieldGeneratorMini.label>малый генератор щита</ShipCombatShieldGeneratorMini.label>
-	<ShipCombatShieldGeneratorMini.description>Генерирует импульсное репульсорное поле, которое отталкивает входящие снаряды.\n\nБлагодаря модифицированной конструкции, этот генератор щита занимает меньше меньше места, однако производит на 25% больше тепла.\n\nГенерирует тепло при отражении снарядов, выходит из строя при перегреве.\n\nКапитанам рекомендуется отключать щиты, когда уровень нагрева приближается к максимальному.</ShipCombatShieldGeneratorMini.description>
+	<ShipCombatShieldGeneratorMini.description>Генерирует импульсное репульсорное поле, которое отталкивает входящие объекты.\n\nБлагодаря модифицированной конструкции, этот генератор щита занимает меньше меньше места, однако производит на 25% больше тепла.\n\nГенерирует тепло при отражении снарядов, выйдет из строя при перегреве.\n\nКапитанам рекомендуется отключать щиты, когда уровень нагрева приближается к максимальному.</ShipCombatShieldGeneratorMini.description>
 	
 	<ShipHeatConduit.label>теплопровод</ShipHeatConduit.label>
 	<ShipHeatConduit.description>Жидкостный канал для передачи тепла по космическому кораблю.</ShipHeatConduit.description>

@@ -2,9 +2,9 @@
 <LanguageData>	<!--1.5\Defs\ResearchProjectDefs\ResearchProjects_Ship.xml-->
 
 	<ShipBasics.label>основы кораблестроения</ShipBasics.label>
-	<ShipBasics.description>Структурные и вспомогательные элементы для строительства космического корабля. Это первый шаг к межзвёздному путешествию.</ShipBasics.description>
+	<ShipBasics.description>Структурные и вспомогательные элементы для строительства космического корабля. Первый шаг к звёздам.</ShipBasics.description>
 	<ShipBasics.discoveredLetterTitle>Запуск корабля</ShipBasics.discoveredLetterTitle>
-	<ShipBasics.discoveredLetterText>Побег с этой планеты - это наконец-то свобода и возможность найти свой дом.\n\nНо прежде чем думать о межзвездных путешествиях, нужно достичь орбиты. Корабль должен быть оборудован ускорителями, мостиком и базовыми сенсорами. Чтобы выжить в космосе, поселенцам также понадобится система жизнеобеспечения или скафандры.\n\nКоличество топлива, необходимое для вывода космического корабля на орбиту, зависит от его размера. Более крупным кораблям может потребоваться несколько ускорителей и больше топлива.</ShipBasics.discoveredLetterText>
+	<ShipBasics.discoveredLetterText>Побег с этой планеты - это наконец-то свобода и возможность найти свой дом.\n\nНо прежде чем думать о путешествиях между звёздами нужно достичь орбиты. Корабль должен быть оборудован ускорителями, мостиком и базовыми сенсорами. Для выживания в космосе, команде также понадобится система жизнеобеспечения или скафандры.\n\nКоличество топлива, необходимое для вывода космического корабля на орбиту, зависит от его размера. Более крупным кораблям может потребоваться несколько ускорителей и больше топлива.</ShipBasics.discoveredLetterText>
 	<ShipBasics.generalRules.rulesStrings>
 		<li>subject->корабельная инженерия</li>
 		<li>subject_story->{PAWN_gender ? был : была} рекрутером космических инженеров для флота из сияющего мира</li>
@@ -38,22 +38,22 @@
 	</ShipEngine.generalRules.rulesStrings>
 
 
-	<SoSJTDrive.label>двигатель Джонсона-Танака</SoSJTDrive.label>
-	<SoSJTDrive.description>Изучение принципа безреакционного двигателя Джонсона-Танака для путешествия к звёздам.</SoSJTDrive.description>
+	<SoSJTDrive.label>двигатель Джонсона-Танаки</SoSJTDrive.label>
+	<SoSJTDrive.description>Изучение принципа безреакционного двигателя Джонсона-Танаки для путешествия к звёздам.</SoSJTDrive.description>
 	<SoSJTDrive.generalRules.rulesStrings>
-		<li>subject->теория Джонсона-Танака</li>
+		<li>subject->теория Джонсона-Танаки</li>
 		<li>subject->экзотический перенос импульса</li>
-		<li>subject_story->{PAWN_gender ? читал : читала} лекции о квантовых эффектах в университете Джонсона-Танака</li>
-		<li>subject_story->{PAWN_gender ? собрал : собрала} двигатель Джонсона-Танака для своей дипломной работы</li>
-		<li>subject_story->{PAWN_gender ? обслуживал : обслуживала} двигатель Джонсона-Танака на протяжении двух десятилетий, пока корабль путешествовал между звездами</li>
+		<li>subject_story->{PAWN_gender ? читал : читала} лекции о квантовых эффектах в университете Джонсона-Танаки</li>
+		<li>subject_story->{PAWN_gender ? собрал : собрала} двигатель Джонсона-Танаки для своей дипломной работы</li>
+		<li>subject_story->{PAWN_gender ? обслуживал : обслуживала} двигатель Джонсона-Танаки на протяжении двух десятилетий, пока корабль путешествовал между звездами</li>
 		<li>subject_gerund->строительство корабельных двигателей</li>
 	</SoSJTDrive.generalRules.rulesStrings>
 
 
 	<ShipSalvageBayGlitter.label>лучевой захват</ShipSalvageBayGlitter.label>
-	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танака. Позволяет извлекать ценные предметы после боя, или перемещать обломки кораблей.</ShipSalvageBayGlitter.description>
+	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танаки. Позволяет извлекать ценные предметы после боя, или перемещать обломки кораблей.</ShipSalvageBayGlitter.description>
 	<ShipSalvageBayGlitter.generalRules.rulesStrings>
-		<li>subject->теория Джонсона-Танака</li>
+		<li>subject->теория Джонсона-Танаки</li>
 		<li>subject->экзотический перенос импульса</li>
 		<li>subject_story->{PAWN_gender ? грабил : грабила} межпланетные перевозки, захватывая малые корабли при помощи тягового луча на астероиде</li>
 		<li>subject_story->{PAWN_gender ? разобрал : разобрала} обломки архотека, который, по-видимому, совершил самоубийство</li>
@@ -74,7 +74,7 @@
 
 
 	<ShipComputerCore.label>корабельный компьютер</ShipComputerCore.label>
-	<ShipComputerCore.description>Позволяет поддерживать ИИ, который может управлять кораблем и вести его в межзвёздных путешествиях. Тело ИИ можно воссоздать в виде формгеля, который способен выполнять любые задачи.</ShipComputerCore.description>
+	<ShipComputerCore.description>Позволяет поддерживать ИИ, который может управлять кораблем и вести его в межзвёздных путешествиях. Тело ИИ можно воссоздать в виде механитной формы, которая способна выполнять любые задачи экипажа.</ShipComputerCore.description>
 	<ShipComputerCore.generalRules.rulesStrings>
 		<li>subject->persona core incentivization</li>
 		<li>subject->поддержка разума ИИ</li>
@@ -87,15 +87,15 @@
 	</ShipComputerCore.generalRules.rulesStrings>
 
 
-	<ShipAvatarCasket.label>хранилища личностей</ShipAvatarCasket.label>
-	<ShipAvatarCasket.description>Системы с передовыми механитами, которые способны воссоздать тело личности в виде формгеля - роя механитов, которые имитируют биологические тела.</ShipAvatarCasket.description>
+	<ShipAvatarCasket.label>хранение личности</ShipAvatarCasket.label>
+	<ShipAvatarCasket.description>Системы с передовыми механитами, которые способны воссоздать тело в виде механитной формы - роя механитов, которые имитируют биологические тела.</ShipAvatarCasket.description>
 	<ShipAvatarCasket.generalRules.rulesStrings>
 		<li>subject->имитация тела механитами</li>
 		<li>subject->реконструкция нервно-психического субстрата</li>
 		<li>subject_story->{PAWN_gender ? служил : служила} на космической станции "Апофеоз" во времена экспериментов доктора Яо</li>
-		<li>subject_story->{PAWN_gender ? управлял : управляла} хранилищем личностей в сияющем мире, где мертвые могли снова жить в виде формгелей</li>
-		<li>subject_story->{PAWN_gender ? прожил : прожила} столетия в виде формгеля после фатального случа, стремясь понять новое существование</li>
-		<li>subject_gerund->оживление мертвых в виде формгелей</li>
+		<li>subject_story->{PAWN_gender ? управлял : управляла} хранилищем личностей в сияющем мире, где мертвые могли снова жить в виде механитной формы</li>
+		<li>subject_story->{PAWN_gender ? прожил : прожила} столетия в виде механитной формы после фатального случа, стремясь понять новое существование</li>
+		<li>subject_gerund->оживление мертвых в виде механитной формы</li>
 	</ShipAvatarCasket.generalRules.rulesStrings>
 	
 
