@@ -28,7 +28,7 @@
 	<ShipPurgePortLarge.label>великий порт швидкого охолодження</ShipPurgePortLarge.label>
 	<ShipPurgePortLarge.description>Збільшена версія системи для відведення тепла в метали з низькою температурою плавлення, такі як срібло. Викид розплавленого срібла в космос - витратний спосіб швидко позбутися накопиченого тепла. Щити будуть вимкнені під час скидання.</ShipPurgePortLarge.description>
 	
-	<ShipTurret_ACI.label>торель автопушки</ShipTurret_ACI.label>
+	<ShipTurret_ACI.label>турель автопушки</ShipTurret_ACI.label>
 	<ShipTurret_ACI.description>Корабельна гармата, яка швидко прискорює уранові снаряди. Вимагає боєприпасів, але при вогні не витрачає енергію та виділяє мало тепла. Корисна лише на близьких дистанціях. Може бути налаштована для перехоплення торпед.</ShipTurret_ACI.description>
 	<ShipTurret_ACI.comps.3.fuelLabel>Пострілів до перезарядки</ShipTurret_ACI.comps.3.fuelLabel>
 	<ShipTurret_ACI.comps.3.fuelGizmoLabel>Уранові снаряди</ShipTurret_ACI.comps.3.fuelGizmoLabel>

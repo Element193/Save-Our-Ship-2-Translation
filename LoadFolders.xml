@@ -1,20 +1,22 @@
 ﻿<loadFolders>
 
-	<!-- RimWorld 1.3 -->
+	<!-- RIMWORLD 1.3 -->
 	<v1.3>
+			<!-- SOS -->
 		<li>TranslationFiles/v1.4/Save Our Ship</li>
 		<li>TextureFiles</li>
 	</v1.3>
 
-	<!-- RimWorld 1.4 -->
+	<!-- RIMWORLD 1.4 -->
 	<v1.4>
+			<!-- SOS -->
 		<li>TranslationFiles/v1.4/Save Our Ship</li>
 		<li>TextureFiles</li>
 	</v1.4>
 
-	<!-- RimWorld 1.5 -->
+	<!-- RIMWORLD 1.5 -->
 	<v1.5>
-			<!-- Save Our Ship -->
+			<!-- SOS -->
 		<li>TranslationFiles/v1.5/Save Our Ship</li>
 		<li>TextureFiles</li>
 

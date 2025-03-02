@@ -590,15 +590,15 @@
 	<ArchotechSporeEvolveDesc>Перетворити спору на справжнього архотека і розпочати нову еру для цього світу.\n\nНа цьому гра закінчиться!</ArchotechSporeEvolveDesc>
 
 	<SoSBreachAirlock>Відкрити шлюз</SoSBreachAirlock>
-	<SoSHackAirlock>Взломати шлюз</SoSHackAirlock>
+	<SoSHackAirlock>Зламати шлюз</SoSHackAirlock>
 	<SoSAttackShip>Атакувати {0}</SoSAttackShip>
 	<SoSAttackShipDesc>Розпочати корабельний бій проти {0}.</SoSAttackShipDesc>
 	<SoSPirateShip>Пограбувати {0}</SoSPirateShip>
 	<SoSPirateShipDesc>Спробуйте здійснити акт космічного піратства проти {0}. Це призведе до початку корабельного бою і збільшить піратський авторитет вашого корабля!</SoSPirateShipDesc>
 	<SoSInvestigateDerelict>Досліджування {0}</SoSInvestigateDerelict>
-	<SoSInvestigateDerelictDesc>Відправитися на дослідження {0}. Ви зможете запустити до уламків шаттл і перемістити їх за допомогою корабельного захоплення, якщо на борту немає ворогів.</SoSInvestigateDerelictDesc>
-	<SoSHackFailed>Взлом мостика не вдався!</SoSHackFailed>
-	<SoSHackBridge>Взломати місток</SoSHackBridge>
+	<SoSInvestigateDerelictDesc>Відправити корабель на дослідження {0}. Ви зможете запустити до уламків шаттл і перемістити їх за допомогою корабельного захоплення, якщо на борту немає ворогів.</SoSInvestigateDerelictDesc>
+	<SoSHackFailed>Не вдалося зламати місток!</SoSHackFailed>
+	<SoSHackBridge>Зламати місток</SoSHackBridge>
 	<SoSCantPlaceCocoon>Неможливо розмістити криптококон!</SoSCantPlaceCocoon>
 	<SoSAlreadyMalnourished>Носій виснажений</SoSAlreadyMalnourished>
 	<SoSToggleShield>Захисне поле</SoSToggleShield>

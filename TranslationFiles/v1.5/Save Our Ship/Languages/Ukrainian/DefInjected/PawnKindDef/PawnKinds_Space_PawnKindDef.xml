@@ -36,30 +36,30 @@
   <SpaceCrewMarineHeavy.labelMalePlural>космічні піхотинці</SpaceCrewMarineHeavy.labelMalePlural>
   <SpaceCrewMarineHeavy.labelFemalePlural>космічні піхотинки</SpaceCrewMarineHeavy.labelFemalePlural>
   
-  <Astromite.label>астроклещ</Astromite.label>
-  <Astromite.labelPlural>астроклещі</Astromite.labelPlural>
-  <Astromite.lifeStages.0.label>астроклещ</Astromite.lifeStages.0.label>
-  <Astromite.lifeStages.0.labelPlural>астроклещі</Astromite.lifeStages.0.labelPlural>
-  <Astromite.lifeStages.0.labelMale>астроклещ</Astromite.lifeStages.0.labelMale>
-  <Astromite.lifeStages.0.labelMalePlural>астроклещі</Astromite.lifeStages.0.labelMalePlural>
-  <Astromite.lifeStages.0.labelFemale>астроклещ</Astromite.lifeStages.0.labelFemale>
-  <Astromite.lifeStages.0.labelFemalePlural>астроклещі</Astromite.lifeStages.0.labelFemalePlural>
-  <Astromite.lifeStages.1.label>астроклещ</Astromite.lifeStages.1.label>
-  <Astromite.lifeStages.1.labelPlural>астроклещі</Astromite.lifeStages.1.labelPlural>
-  <Astromite.lifeStages.1.labelMale>астроклещ</Astromite.lifeStages.1.labelMale>
-  <Astromite.lifeStages.1.labelMalePlural>астроклещі</Astromite.lifeStages.1.labelMalePlural>
-  <Astromite.lifeStages.1.labelFemale>астроклещ</Astromite.lifeStages.1.labelFemale>
-  <Astromite.lifeStages.1.labelFemalePlural>астроклещі</Astromite.lifeStages.1.labelFemalePlural>
-  <Astromite.lifeStages.2.label>астроклещ</Astromite.lifeStages.2.label>
-  <Astromite.lifeStages.2.labelPlural>астроклещі</Astromite.lifeStages.2.labelPlural>
-  <Astromite.lifeStages.2.labelMale>астроклещ</Astromite.lifeStages.2.labelMale>
-  <Astromite.lifeStages.2.labelMalePlural>астроклещі</Astromite.lifeStages.2.labelMalePlural>
-  <Astromite.lifeStages.2.labelFemale>астроклещ</Astromite.lifeStages.2.labelFemale>
-  <Astromite.lifeStages.2.labelFemalePlural>астроклещі</Astromite.lifeStages.2.labelFemalePlural>
-  <Astromite.labelMale>астроклещ</Astromite.labelMale>
-  <Astromite.labelMalePlural>астроклещі</Astromite.labelMalePlural>
-  <Astromite.labelFemale>астроклещ</Astromite.labelFemale>
-  <Astromite.labelFemalePlural>астроклещі</Astromite.labelFemalePlural>
+  <Astromite.label>астрокліщ</Astromite.label>
+  <Astromite.labelPlural>астрокліщі</Astromite.labelPlural>
+  <Astromite.lifeStages.0.label>астрокліщ</Astromite.lifeStages.0.label>
+  <Astromite.lifeStages.0.labelPlural>астрокліщі</Astromite.lifeStages.0.labelPlural>
+  <Astromite.lifeStages.0.labelMale>астрокліщ</Astromite.lifeStages.0.labelMale>
+  <Astromite.lifeStages.0.labelMalePlural>астрокліщі</Astromite.lifeStages.0.labelMalePlural>
+  <Astromite.lifeStages.0.labelFemale>астрокліщ</Astromite.lifeStages.0.labelFemale>
+  <Astromite.lifeStages.0.labelFemalePlural>астрокліщі</Astromite.lifeStages.0.labelFemalePlural>
+  <Astromite.lifeStages.1.label>астрокліщ</Astromite.lifeStages.1.label>
+  <Astromite.lifeStages.1.labelPlural>астрокліщі</Astromite.lifeStages.1.labelPlural>
+  <Astromite.lifeStages.1.labelMale>астрокліщ</Astromite.lifeStages.1.labelMale>
+  <Astromite.lifeStages.1.labelMalePlural>астрокліщі</Astromite.lifeStages.1.labelMalePlural>
+  <Astromite.lifeStages.1.labelFemale>астрокліщ</Astromite.lifeStages.1.labelFemale>
+  <Astromite.lifeStages.1.labelFemalePlural>астрокліщі</Astromite.lifeStages.1.labelFemalePlural>
+  <Astromite.lifeStages.2.label>астрокліщ</Astromite.lifeStages.2.label>
+  <Astromite.lifeStages.2.labelPlural>астрокліщі</Astromite.lifeStages.2.labelPlural>
+  <Astromite.lifeStages.2.labelMale>астрокліщ</Astromite.lifeStages.2.labelMale>
+  <Astromite.lifeStages.2.labelMalePlural>астрокліщі</Astromite.lifeStages.2.labelMalePlural>
+  <Astromite.lifeStages.2.labelFemale>астрокліщ</Astromite.lifeStages.2.labelFemale>
+  <Astromite.lifeStages.2.labelFemalePlural>астрокліщі</Astromite.lifeStages.2.labelFemalePlural>
+  <Astromite.labelMale>астрокліщ</Astromite.labelMale>
+  <Astromite.labelMalePlural>астрокліщі</Astromite.labelMalePlural>
+  <Astromite.labelFemale>астрокліщ</Astromite.labelFemale>
+  <Astromite.labelFemalePlural>астрокліщі</Astromite.labelFemalePlural>
   
   <Stellapede.label>астрожук</Stellapede.label>
   <Stellapede.labelPlural>астрожуки</Stellapede.labelPlural>
