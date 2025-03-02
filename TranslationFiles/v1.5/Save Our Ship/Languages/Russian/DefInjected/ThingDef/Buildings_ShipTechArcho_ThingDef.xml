@@ -32,7 +32,7 @@
 	<ShipInside_PassiveVentArchotech.description>Охлаждает или нагревает помещения корабля до нужной температуры.\n\nМожет нагревать помещения с помощью электричества.</ShipInside_PassiveVentArchotech.description>
 	
 	<ShipAirlockArchotech.label>корабельный шлюз архотек</ShipAirlockArchotech.label>
-	<ShipAirlockArchotech.description>Позволяет получить доступ к кораблю или разделять помещения внутри него. Энергетические плазменные барьеры препятствуют выходу газов.</ShipAirlockArchotech.description>
+	<ShipAirlockArchotech.description>Позволяет получать доступ к кораблю или разделять помещения внутри него. Энергетические плазменные барьеры препятствуют выходу газов.</ShipAirlockArchotech.description>
 	
 	<ShipHullTileArchotech.label>обшивка корпуса архотек</ShipHullTileArchotech.label>
 	<ShipHullTileArchotech.description>Высокотехнологичная обшивка корпуса, разработанная архотеком.</ShipHullTileArchotech.description>

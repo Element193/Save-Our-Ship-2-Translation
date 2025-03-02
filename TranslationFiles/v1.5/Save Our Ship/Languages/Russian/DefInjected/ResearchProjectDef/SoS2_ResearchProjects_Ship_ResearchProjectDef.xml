@@ -51,7 +51,7 @@
 
 
 	<ShipSalvageBayGlitter.label>лучевой захват</ShipSalvageBayGlitter.label>
-	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танаки. Позволяет извлекать ценные предметы после боя, или перемещать обломки кораблей.</ShipSalvageBayGlitter.description>
+	<ShipSalvageBayGlitter.description>Тяговый луч, основанный на реверсивном принципе действия двигателя Джонсона-Танаки. Позволяет извлекать ценные предметы, или перемещать обломки кораблей.</ShipSalvageBayGlitter.description>
 	<ShipSalvageBayGlitter.generalRules.rulesStrings>
 		<li>subject->теория Джонсона-Танаки</li>
 		<li>subject->экзотический перенос импульса</li>
@@ -167,8 +167,8 @@
 	</Crittersleep.generalRules.rulesStrings>
 	
 
-	<ShipCryptosleep.label>спасательные капсулы</ShipCryptosleep.label>
-	<ShipCryptosleep.description>Космическая версия саркофага криптосна, оборудована передовыми автоматизированными системами, что освобождает от необходимости ручного управления. Эти капсулы при необходимости способны выдерживать вход в атмосферу. Было бы неплохо иметь как минимум одну на борту.</ShipCryptosleep.description>
+	<ShipCryptosleep.label>космические саркофаги</ShipCryptosleep.label>
+	<ShipCryptosleep.description>Космическая версия саркофагов криптосна, которые оборудованы передовыми автоматизированными системами, что освобождает от необходимости ручного управления. Эти капсулы при необходимости способны выдержать вход в атмосферу. Было бы неплохо иметь как минимум одну на борту.</ShipCryptosleep.description>
 	<ShipCryptosleep.generalRules.rulesStrings>
 		<li>subject->космические саркофаги криптосна</li>
 		<li>subject_story->{PAWN_gender ? he : she} заменил нерабочие саркофаги криптосна на новые, улучшив корабль старого поколения</li>
@@ -190,7 +190,7 @@
 	
 
 	<ShipSalvageBay.label>механический захват</ShipSalvageBay.label>
-	<ShipSalvageBay.description>Устройство, использующее дронов и магнитные импульсы для перемещения объектов в космосе. Позволяет извлекать ценные предметы после боя, или перемещать обломки кораблей.</ShipSalvageBay.description>
+	<ShipSalvageBay.description>Отсек с генератором мощных магнитных импульсов для перемещения обьектов в космосе. Позволяет извлекать ценные предметы, или перемещать обломки кораблей.</ShipSalvageBay.description>
 	<ShipSalvageBay.generalRules.rulesStrings>
 		<li>subject->космические спасательные операции</li>
 		<li>subject_story->{PAWN_gender ? he : she} управлял флотом стервятников в сером поле, подбирая обломки после сражений</li>
@@ -223,7 +223,7 @@
 	
 
 	<ShipCloaking.label>корабельная маскировка</ShipCloaking.label>
-	<ShipCloaking.description>Технология для формирования поля, которое маскирует тепловые излучения корабля. Препятствует обнаружению корабля обычными и продвинутыми сенсорами, но не влияет на более мощные сканеры охотников за головами.</ShipCloaking.description>
+	<ShipCloaking.description>Технология формирования поля, маскирующего тепловые излучения корабля. Скрывает область от обычных и продвинутых сенсоров, но мощные сканеры охотников за головами всё-же проходят через этот барьер.</ShipCloaking.description>
 	<ShipCloaking.generalRules.rulesStrings>
 		<li>subject->технология маскировки</li>
 		<li>subject_story->{PAWN_gender ? he : she} помог тысячам беженцев прорваться через имперскую блокаду</li>
@@ -233,10 +233,10 @@
 	</ShipCloaking.generalRules.rulesStrings>
 	
 	<ShipShuttleBay.label>посадочные платформы</ShipShuttleBay.label>
-	<ShipShuttleBay.description>Герметичные платформы для шаттлов, нужны чтобы безопасно переправлять грузы на корабль и обратно.</ShipShuttleBay.description>
+	<ShipShuttleBay.description>Герметичные отсеки для безопасной заправки, посадки и запуска шаттлов.</ShipShuttleBay.description>
 	<ShipShuttleBay.generalRules.rulesStrings>
 		<li>subject->стыковка в космосе</li>
-		<li>subject_story->{PAWN_gender ? he : she} получил декомпрессионные травмы из-за неисправности плазменного барьера шлюза</li>
+		<li>subject_story->{PAWN_gender ? he : she} получил декомпрессионные травмы из-за неисправности плазменного барьера посадочной платформы</li>
 		<li>subject_story->{PAWN_gender ? he : she} работал в сфере "торговли" у орбитального работорговца</li>
 		<li>subject_story->{PAWN_gender ? he : she} потратил огромное состояние на коллекцию гоночных шаттлов</li>
 		<li>subject_gerund->посадка шаттлов на борт корабля</li>

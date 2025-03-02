@@ -11,7 +11,7 @@
 
 	<!-- SpaceSiteQuest -->
 
-	<SpaceSiteQuest.questDescriptionRules.rulesStrings.0>questDescription-&gt;Сканируя окружающее пространство при помощи корабельных сенсоров, [worker_definite] обнаруживает [site_label] на близлежащей орбите.\n\nК сожалению орбита [site_label] нестабильна, это приведет к тому, что объект сгорит в атмосфере через [timeoutTicks_duration].\n\n[allSitePartsDescriptionsExceptFirst]</SpaceSiteQuest.questDescriptionRules.rulesStrings.0>
+	<SpaceSiteQuest.questDescriptionRules.rulesStrings.0>questDescription-&gt;Сканируя окружающее пространство с помощью корабельных сенсоров, [worker_definite] обнаруживает [site_label] на близлежащей орбите.\n\n[site_label] находится на нестабильной орбите, это приведет к тому, что объект сгорит в атмосфере через [timeoutTicks_duration].\n\n[allSitePartsDescriptionsExceptFirst].</SpaceSiteQuest.questDescriptionRules.rulesStrings.0>
 
 	<SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время истекло: [resolvedQuestName]</SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
 	<SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Начертив полосу в верхних слоях атмосферы, [site_label] рухнул на планету. Все, что представляло ценность уничтожено.</SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>

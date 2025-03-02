@@ -32,7 +32,7 @@
 	<ShipInside_PassiveVentMechanoid.description>Охлаждает или нагревает помещения корабля до нужной температуры.\n\nМожет нагревать помещения с помощью электричества.</ShipInside_PassiveVentMechanoid.description>
 	
 	<ShipAirlockMech.label>шлюз корабля механоидов</ShipAirlockMech.label>
-	<ShipAirlockMech.description>Позволяет получить доступ к кораблю или разделять помещения внутри него. Энергетические плазменные барьеры препятствуют выходу газов.</ShipAirlockMech.description>
+	<ShipAirlockMech.description>Позволяет получать доступ к кораблю или разделять помещения внутри него. Энергетические плазменные барьеры препятствуют выходу газов.</ShipAirlockMech.description>
 	
 	<ShipHullTileMech.label>обшивка корпуса механоидов</ShipHullTileMech.label>
 	<ShipHullTileMech.description>Крепкая обшивка корпуса, построенная механоидами.</ShipHullTileMech.description>
