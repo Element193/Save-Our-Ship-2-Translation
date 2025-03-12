@@ -11,7 +11,7 @@
 	<SoS2ShuttleUpgradeTree.nodes.1.description>Модификация обшивки шаттла. Дополнительный слой тяжелой брони.\n\n&lt;color=#bb8f04&gt;+40% броня (удар), +40% броня (проникновение), -6 скорость полёта, -250 вместимость, +10 расход топлива&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.1.description>
 	
 	<SoS2ShuttleUpgradeTree.nodes.2.label>Реактивный нано-слой</SoS2ShuttleUpgradeTree.nodes.2.label>
-	<SoS2ShuttleUpgradeTree.nodes.2.description>Слой легких вибрирующих механитных цепей, которые поглощают и рассеивают удары.\n\n&lt;color=#bb8f04&gt;+30% броня (удар), +10% броня (проникновение), -50 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.2.description>
+	<SoS2ShuttleUpgradeTree.nodes.2.description>Слой лёгких вибрирующих механитных цепей, которые поглощают и рассеивают удары.\n\n&lt;color=#bb8f04&gt;+30% броня (удар), +10% броня (проникновение), -50 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.2.description>
 	
 	<SoS2ShuttleUpgradeTree.nodes.3.label>Архо-обшивка</SoS2ShuttleUpgradeTree.nodes.3.label>
 	<SoS2ShuttleUpgradeTree.nodes.3.description>[ЧЕЛОВЕЧЕСКИЙ ПАНЦИРЬ. ИЗ ЭТОГО КОКОНА Я РОЖДАЮСЬ, ЧТОБЫ СПЛЕСТИ ЕЩЁ БОЛЕЕ КРЕПКИЙ.]\n\n&lt;color=#bb8f04&gt;+50% броня (удар), +50% броня (проникновение)&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.3.description>
@@ -31,22 +31,22 @@
 	<SoS2ShuttleUpgradeTree.nodes.7.description>[КАКОЙ ПАРУС ТЕБЯ НЕСЁТ? ПРОТИВ КАКОЙ ЗВЕЗДЫ? ОТВЕТ: ДА.]\n\n&lt;color=#bb8f04&gt;+12 скорость, +15% шанс уклонения, +100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.7.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.8.label>Генератор щита</SoS2ShuttleUpgradeTree.nodes.8.label>
-	<SoS2ShuttleUpgradeTree.nodes.8.description>Миниатюрный генератор защитного поля с баком охлаждающей жидкости.\n\n&lt;color=#bb8f04&gt;+200 теплоемкость, -250 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.8.description>
+	<SoS2ShuttleUpgradeTree.nodes.8.description>Миниатюрный генератор защитного поля с дополнительным баком охлаждающей жидкости.\n\n&lt;color=#bb8f04&gt;+200 теплоёмкость, -250 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.8.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.9.label>Тяжелый генератор щита</SoS2ShuttleUpgradeTree.nodes.9.label>
-	<SoS2ShuttleUpgradeTree.nodes.9.description>Эффективный генератор защитного поля с баком охлаждающей жидкости.\n\n&lt;color=#bb8f04&gt;+400 теплоемкость, -500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.9.description>
+	<SoS2ShuttleUpgradeTree.nodes.9.description>Эффективный генератор защитного поля с дополнительным баком охлаждающей жидкости.\n\n&lt;color=#bb8f04&gt;+400 теплоёмкость, -500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.9.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.10.label>Защитное архо-поле</SoS2ShuttleUpgradeTree.nodes.10.label>
-	<SoS2ShuttleUpgradeTree.nodes.10.description>[МЕНЬШЕ, ЧЕМ ПЕСЧИНКИ В СРАВНЕНИИ С ЗВЁЗДАМИ. СТРЕЛЯЙТЕ ВО ЧТО-НИБУДЬ ДРУГОЕ, ПОЖАЛУЙСТА.]\n\n&lt;color=#bb8f04&gt;+500 теплоемкость, -100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.10.description>
+	<SoS2ShuttleUpgradeTree.nodes.10.description>[МЕНЬШЕ, ЧЕМ ПЕСЧИНКИ В СРАВНЕНИИ С ЗВЁЗДАМИ. СТРЕЛЯЙТЕ ВО ЧТО-НИБУДЬ ДРУГОЕ, ПОЖАЛУЙСТА.]\n\n&lt;color=#bb8f04&gt;+500 теплоёмкость, -100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.10.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.11.label>Медицинский модуль</SoS2ShuttleUpgradeTree.nodes.11.label>
-	<SoS2ShuttleUpgradeTree.nodes.11.description>Автономные медицинские манипуляторы, могут остановить кровотечение или обработать раны с минимальным качеством.\n\n&lt;color=#bb8f04&gt;-250 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.11.description>
+	<SoS2ShuttleUpgradeTree.nodes.11.description>Автономные медицинские манипуляторы, которые могут остановить кровотечение или обработать раны с минимальным качеством.\n\n&lt;color=#bb8f04&gt;-250 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.11.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.12.label>Маскировочное устройство</SoS2ShuttleUpgradeTree.nodes.12.label>
-	<SoS2ShuttleUpgradeTree.nodes.12.description>Миниатюрное маскировочное устройство, повышает шанс уклонения в бою. Встроенные баки охлаждающей жидкости также немного увеличат тепловую емкость.\n\n&lt;color=#bb8f04&gt;+25% шанс уклонения, +50 теплоемкость, -500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.12.description>
+	<SoS2ShuttleUpgradeTree.nodes.12.description>Миниатюрное маскировочное устройство, которое повышает шанс уклонения в бою. Дополнительные баки с охлаждающей жидкостью также немного увеличивают теплоёмкость.\n\n&lt;color=#bb8f04&gt;+25% шанс уклонения, +50 теплоёмкость, -500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.12.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.13.label>Тепловой бак</SoS2ShuttleUpgradeTree.nodes.13.label>
-	<SoS2ShuttleUpgradeTree.nodes.13.description>Дополнительный бак с охлаждающей жидкостью для увеличения теплоемкости.\n\n&lt;color=#bb8f04&gt;+200 теплоемкость, -100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
+	<SoS2ShuttleUpgradeTree.nodes.13.description>Дополнительный бак с охлаждающей жидкостью для увеличения теплоёмкости.\n\n&lt;color=#bb8f04&gt;+200 теплоёмкость, -100 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.13.description>
 
 	<SoS2ShuttleUpgradeTree.nodes.14.label>Пространственное скольжение</SoS2ShuttleUpgradeTree.nodes.14.label>
 	<SoS2ShuttleUpgradeTree.nodes.14.description>[КОРОБКА ВНУТРИ КОРОБКИ. ПОВТОРЕНИЕ ДО БЕСКОНЕЧНОСТИ. СЕРИЯ СХОДИТСЯ.]\n\n&lt;color=#bb8f04&gt;+500 вместимость&lt;/color&gt;</SoS2ShuttleUpgradeTree.nodes.14.description>

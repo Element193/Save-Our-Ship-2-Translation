@@ -34,7 +34,7 @@
 	<SoS.CombatAbandonPawns>ВНИМАНИЕ!\n\nДружественный экипаж на борту вражеского корабля будет оставлен на произвол судьбы!</SoS.CombatAbandonPawns>
 	<SoS.CombatShieldBroken>Генератор щита выведен из строя от перегрева!</SoS.CombatShieldBroken>
 	<SoS.CombatShieldBrokenEnemy>Вражеский генератор щита выведен из строя от перегрева!</SoS.CombatShieldBrokenEnemy>
-	<SoS.CombatPodDestroyedPlayer>Шаттл был уничтожен вражеским орудием точечной обороны! Выжившие члены экипажа вернутся на борт в спасательных капсулах.</SoS.CombatPodDestroyedPlayer>
+	<SoS.CombatPodDestroyedPlayer>Шаттл был уничтожен вражеским орудием точечной обороны! Выжившие члены экипажа вернутся в спасательных капсулах.</SoS.CombatPodDestroyedPlayer>
 	<SoS.CombatPodDestroyedEnemy>Вражеский шаттл был уничтожен орудием точечной обороны!</SoS.CombatPodDestroyedEnemy>
 	<SoS.WithdrawShip>Отозвать корабль</SoS.WithdrawShip>
 	<SoS.WithdrawShipDesc>Отозвать корабль в безопасное место?</SoS.WithdrawShipDesc>
@@ -62,7 +62,7 @@
 	<SoS.OnUnstableMap>корабль на нестабильной орбите.</SoS.OnUnstableMap>
 	<SoS.EnemyShipRetreating>Вражеский корабль пытается отступить!</SoS.EnemyShipRetreating>
 	<SoS.EnemyShipRetreated>Вражеский корабль покинул область!</SoS.EnemyShipRetreated>
-	<SoS.EnemyShipAdrift>Вражеский корабль дрейфует и теряет орбиту!</SoS.EnemyShipAdrift>
+	<SoS.EnemyShipAdrift>Вражеский корабль дрейфует в направлении планеты!</SoS.EnemyShipAdrift>
 	<!-- salvage/capture -->
 	<SoS.ReturnShip>Стабилизировать</SoS.ReturnShip>
 	<SoS.ReturnShipDesc>Вывести корабль на стабильную орбиту</SoS.ReturnShipDesc>
@@ -97,11 +97,11 @@
 	<SoS.RemoveWrecksCommand>Убрать обломки</SoS.RemoveWrecksCommand>
 	<SoS.RemoveWrecksCommandDesc>Убрать все обломки в области.</SoS.RemoveWrecksCommandDesc>
 	<!-- placeworkers -->
-	<SoS.PlaceOnShipHull>Необходимо размещать на корпусе своего корабля.</SoS.PlaceOnShipHull>
+	<SoS.PlaceOnShipHull>Необходимо размещать внутри корпуса своего корабля.</SoS.PlaceOnShipHull>
 	<SoS.EnginePlaceRotation>Ускорители корабля должны быть направлены в одну сторону!</SoS.EnginePlaceRotation>
 	<!-- comms/trade -->
 	<SoS.TradeComms>Торговать с </SoS.TradeComms>
-	<SoS.TradeTradeWith>запросить информацию о грузе для торговли.</SoS.TradeTradeWith>
+	<SoS.TradeTradeWith>Запросить информацию о грузе для торговли</SoS.TradeTradeWith>
 	<SoS.TradeTradeDecline>Капитан корабля {0} отказывается предоставлять информацию о грузе, опасаясь вашего пиратского рейтинга.</SoS.TradeTradeDecline>
 	<SoS.PirateTradeDemand>Требовать сбросить груз</SoS.PirateTradeDemand>
 	<SoS.TradeTryingToFlee>Корабль {0} закрывает канал связи и пытается уйти!</SoS.TradeTryingToFlee>
@@ -109,18 +109,18 @@
 	<SoS.TradeFlee>Дать им уйти</SoS.TradeFlee>
 	<SoS.TradePayBounty>Оплатить награду за голову: {0} серебра</SoS.TradePayBounty>
 	<SoS.NotEnoughForBounty>Необходимо {0} серебра возле торговых маяков</SoS.NotEnoughForBounty>
-	<SoS.PirateHail>Приближаются пираты.\n</SoS.PirateHail>
-	<SoS.PirateHailPirate>Вероятно, они знают о вашем авторитете.</SoS.PirateHailPirate>
-	<SoS.PirateHailNormal>Капитан пиратского судна пытается выйти на связь. Вероятно, он нападет в случае отказа.</SoS.PirateHailNormal>
-	<SoS.PirateTalk>Связь с пиратским кораблем\n\n\n</SoS.PirateTalk>
+	<SoS.PirateHail>Приближаются пираты.\n\n</SoS.PirateHail>
+	<SoS.PirateHailPirate>Вероятно они знают о вашем авторитете.</SoS.PirateHailPirate>
+	<SoS.PirateHailNormal>Их капитан пытается выйти на связь. Скорее всего они нападут в случае отказа.</SoS.PirateHailNormal>
+	<SoS.PirateTalk>Связь с пиратским кораблём.\n\n\n</SoS.PirateTalk>
 	<SoS.PirateTalkPirate>Пираты знают о вашем авторитете, их капитан запрашивает разрешение для торговли.</SoS.PirateTalkPirate>
 	<SoS.PirateTalkParley>Получены торговые данные, судно готово к обмену.</SoS.PirateTalkParley>
 	<SoS.PirateTalkPaid>Нет ответа.</SoS.PirateTalkPaid>
-	<SoS.PirateTalkNormal>Пираты требуют {0} серебра, угрожая нападением.\n\nКапитан этого судна открыл канал связи для переговоров.</SoS.PirateTalkNormal>
-	<SoS.PirateTrade>Запросить информацию о грузе для торговли</SoS.PirateTrade>
-	<SoS.PirateDemand>Связаться с капитаном для выплаты</SoS.PirateDemand>
+	<SoS.PirateTalkNormal>Пираты требуют выплаты в размере {0} серебра.</SoS.PirateTalkNormal>
+	<SoS.PirateTrade>Запросить информацию о грузе для торговли.</SoS.PirateTrade>
+	<SoS.PirateDemand>Принять требование</SoS.PirateDemand>
 	<SoS.PirateDemandFail>Недостаточно серебра: {0}</SoS.PirateDemandFail>
-	<SoS.PirateParley>Связаться с капитаном для переговоров</SoS.PirateParley>
+	<SoS.PirateParley>Вести переговоры</SoS.PirateParley>
 	<SoS.PirateParleyFail>Неудачные переговоры</SoS.PirateParleyFail>
 	<SoS.PirateParleyFailDesc>Капитан пиратского судна не желает вести переговоры, он прерывает связь и направляется к вам.</SoS.PirateParleyFailDesc>
 	<SoS.PirateParleyWin>Успешные переговоры</SoS.PirateParleyWin>
@@ -151,15 +151,15 @@
 	<SoS.NeedsMorePower>Корабль требует {0} Вт накопленной энергии.</SoS.NeedsMorePower>
 	<SoS.NeedsMoreJTEngines>Корабль требует больше двигателей Джонсона-Танаки для своей массы.</SoS.NeedsMoreJTEngines>
 	<SoS.PlanetLeave>Покинуть планету</SoS.PlanetLeave>
-	<SoS.PlanetLeaveDesc>Отправится в межзвёздное путешествие в поисках блестящего мира.</SoS.PlanetLeaveDesc>
+	<SoS.PlanetLeaveDesc>Отправится в путешествие к звёздам, покинув этот мир.</SoS.PlanetLeaveDesc>
 	<SoS.ToggleScanShips>Поиск кораблей</SoS.ToggleScanShips>
-	<SoS.ToggleScanShipsDesc>Сканировать пространство для поиска других кораблей.</SoS.ToggleScanShipsDesc>
-	<SoS.ToggleScanSites>Поиск обьектов</SoS.ToggleScanSites>
-	<SoS.ToggleScanSitesDesc>Сканировать пространство для поиска орбитальных обьектов.</SoS.ToggleScanSitesDesc>
+	<SoS.ToggleScanShipsDesc>Сканировать космическое пространство в поисках других кораблей.</SoS.ToggleScanShipsDesc>
+	<SoS.ToggleScanSites>Поиск объектов</SoS.ToggleScanSites>
+	<SoS.ToggleScanSitesDesc>Сканировать космическое пространство в поисках орбитальных объектов.</SoS.ToggleScanSitesDesc>
 	<SoS.ToggleShields>Защитное поле</SoS.ToggleShields>
-	<SoS.ToggleShieldsDesc>Активировать корабельные генераторы защитного поля.</SoS.ToggleShieldsDesc>
+	<SoS.ToggleShieldsDesc>Активировать генераторы защитного поля для поддержки купола вокруг корабля, который будет отражать входящие объекты.</SoS.ToggleShieldsDesc>
 	<SoS.ToggleCloak>Маскировка</SoS.ToggleCloak>
-	<SoS.ToggleCloakDesc>Активировать маскировочное устройство корабля.</SoS.ToggleCloakDesc>
+	<SoS.ToggleCloakDesc>Активировать маскировочное устройство чтобы скрыть корабль от обнаружения и избежать космических сражений.</SoS.ToggleCloakDesc>
 	<SoS.ShipInfo>Статистика корабля</SoS.ShipInfo>
 	<SoS.ShipInfoDesc>Показать статистику корабля и готовность оборудования к межзвёздному путешествию.</SoS.ShipInfoDesc>
 	<SoS.Rename>Название корабля</SoS.Rename>
@@ -215,10 +215,10 @@
     <SoS.HeatStored>Накоплено: {0} Те / {1} Те ({2})</SoS.HeatStored>
 	<SoS.HeatWithPower>Использовать энергию</SoS.HeatWithPower>
 	<SoS.HeatWithPowerDesc>Использовать энергию для обогрева, когда в системе нет лишнего тепла.</SoS.HeatWithPowerDesc>
-	<SoS.PurgeHeat>Сбросить тепло</SoS.PurgeHeat>
-	<SoS.PurgeHeatDesc>Сбросить расплавленное серебро в космос, чтобы быстро снизить накопленное тепло.\n\nЭто приведет к отключению защитного поля!</SoS.PurgeHeatDesc>
-	<SoS.HeatPurge>Сбросить жидкость</SoS.HeatPurge>
-	<SoS.HeatPurgeDesc>Начать сброс охлаждающей жидкости из радиаторов. Радиаторы будут работать в 5 раз эффективнее, пока нагрев не достигнет минимального значения. Генераторы щитов и орудия будут отключены во время сброса.\n\nЭтот процес нельзя отменить, после его завершения будет потеряно некоторое количество охлаждающей жидкости, она будет восстановлена после боя.</SoS.HeatPurgeDesc>
+	<SoS.PurgeHeat>Сбросить серебро</SoS.PurgeHeat>
+	<SoS.PurgeHeatDesc>Сбросить раскалённое серебро в космос, чтобы быстро снизить нагрев охлаждающей жидкости.\n\nЭто приведет к отключению щитов, они не активируются автоматически!</SoS.PurgeHeatDesc>
+	<SoS.HeatPurge>Сбросить нагрев</SoS.HeatPurge>
+	<SoS.HeatPurgeDesc>Начать сброс охлаждающей жидкости из радиаторов. Радиаторы будут охлаждать корабль в 5 раз эффективнее, пока нагрев не достигнет минимального значения. Генераторы защитного поля и орудия будут отключены во время сброса, после чего автоматически продолжат работу.\n\nЭтот процес нельзя отменить, после его завершения будет потеряно некоторое количество охлаждающей жидкости, она восстановится со временем после окончания боя.</SoS.HeatPurgeDesc>
 	<SoS.HeatPurgeVenting>жидкость уже сбрасывается.</SoS.HeatPurgeVenting>
 	<SoS.HeatPurgeNotEnough>слишком слабый нагрев для охлаждения.</SoS.HeatPurgeNotEnough>
 	<SoS.CloakBroken>Маскировка отключена из-за перегрева.</SoS.CloakBroken>
@@ -286,12 +286,12 @@
 	<SoS.DespawnHologramDesc>Уничтожить форму, контролируемую этим устройством. Восстановление механитов займёт 1 день.</SoS.DespawnHologramDesc>
 	<SoS.RenameAI>Имя ИИ</SoS.RenameAI>
 	<SoS.RenameAIDesc>Дать этому ИИ новое имя.</SoS.RenameAIDesc>
-	<SoS.InstallConsciousness>Перенести личность</SoS.InstallConsciousness>
+	<SoS.InstallConsciousness>Загрузить личность</SoS.InstallConsciousness>
 	<SoS.InstallConsciousnessThisOne>Перенести личность: {0}</SoS.InstallConsciousnessThisOne>
-	<SoS.InstallConsciousnessDesc>Загрузить личность в это устройство.</SoS.InstallConsciousnessDesc>
+	<SoS.InstallConsciousnessDesc>Перенести или загрузить личность в это устройство.</SoS.InstallConsciousnessDesc>
 	<SoS.InstallCore>Установить ядро ИИ</SoS.InstallCore>
 	<SoS.InstallCoreDesc>Установить ядро ИИ в это устройство.</SoS.InstallCoreDesc>
-	<SoS.NoBrains>Личность отсутствует</SoS.NoBrains>
+	<SoS.NoBrains>личность отсутствует.</SoS.NoBrains>
 	<SoS.NoCores>Отсутствует ядро ИИ</SoS.NoCores>
 	<SoS.SpawnHologramDelay>восстановление механитов {0}</SoS.SpawnHologramDelay>
 	<SoS.HologramColor>Цвет формы</SoS.HologramColor>
@@ -302,7 +302,7 @@
 	<SoS.EquipMeleeDesc>Оснастить эту форму клинком и энергетическим щитом.</SoS.EquipMeleeDesc>
 	<SoS.ResurrectBrain>Воскресить</SoS.ResurrectBrain>
 	<SoS.ResurrectBrainDesc>Использовать сыворотку воскрешения, чтобы создать новое тело для этой личности.</SoS.ResurrectBrainDesc>
-	<SoS.ArchoGift>Открыть дары архотека</SoS.ArchoGift>
+	<SoS.ArchoGift>Открывает дары архотека</SoS.ArchoGift>
 	<SoS.ArchotechGoodwillPlus>Увеличить отношения (+10, требует {0} силы поля)</SoS.ArchotechGoodwillPlus>
 	<SoS.ArchotechGoodwillMinus>Ухудшить отношения (-10, требует {0} силы поля)</SoS.ArchotechGoodwillMinus>
 	<SoS.ArchotechFieldStrengthLow>Insufficient field strength</SoS.ArchotechFieldStrengthLow>
@@ -319,7 +319,7 @@
 	<SoS.ArchotechSoulDownload>Загрузить личность ({0})</SoS.ArchotechSoulDownload>
 	<SoS.ArchotechSoulDownloadDesc>Загрузить паттерн {0} в свободное хранилище личности.</SoS.ArchotechSoulDownloadDesc>
 	<SoS.ArchotechOptimizeMatter>Преобразование материи</SoS.ArchotechOptimizeMatter>
-	<SoS.ArchotechOptimizeMatterDesc>Преобразует стандартный корабельный корпус в вариант архотека с медленно расширяющимся радиусом. Это не повлияет на крупные конструкции, такие как радиаторы или генераторы защитного поля.</SoS.ArchotechOptimizeMatterDesc>
+	<SoS.ArchotechOptimizeMatterDesc>Преобразовывать стандартный корабельный корпус до уровня архотек в медленно расширяющемся радиусе. Это не повлияет на крупные конструкции, такие как радиаторы или генераторы защитного поля.</SoS.ArchotechOptimizeMatterDesc>
 	<SoS.ArchotechGiftParticles>Конвертация даров</SoS.ArchotechGiftParticles>
 	<SoS.ArchotechGiftParticlesDesc>Автоматически принимать и конвертировать дары споры в экзотические частицы.</SoS.ArchotechGiftParticlesDesc>
 	<SoS.ArchotechDemandGift>Требовать подарок</SoS.ArchotechDemandGift>
@@ -391,7 +391,7 @@
 	<SoS.ToggleField>Переключить доступ к корпусу</SoS.ToggleField>
 	<SoS.ToggleFieldDesc>Позволить экипажу и транспортным средствам проходить через эту область проницаемого корпуса.</SoS.ToggleFieldDesc>
 	<!-- Temporary fix for VehFW to show fule cost. This key wa missing, also resulting strin is crooped, so got to have the number at the start so it is not lost -->
-	<VF_VehicleFuelCost>стоимость :{0} топлива</VF_VehicleFuelCost>
+	<VF_VehicleFuelCost>Требуется: {0} топлива</VF_VehicleFuelCost>
 	<!-- Temporary fix for Vehicke Framework message-->
 	<VF_Fix_CannotLaunchRotated>{0} нужно повернуть в горизонтальном или вертикальном направлении.</VF_Fix_CannotLaunchRotated>
 	<SoSRestoreHull>Восстановить корпус</SoSRestoreHull>
@@ -401,7 +401,7 @@
 	<SoS.UnDockWarning>Предупреждение: перемещение корабля в пристыкованном состоянии приведет к отсоединению всех стыковочных узлов.</SoS.UnDockWarning>
 	<SoS.ExpelSuperheatedAir>Эжекция</SoS.ExpelSuperheatedAir>
 	<SoS.ExpelSuperheatedAirDesc>Использовать вентиляцию для поглощения перегретого воздуха. Этот процесс создаст вакуум и нарушит работу систем жизнеобеспечения в зависимости от размера комнаты.\n\nСущества, которые не способны выйти в открытый космос будут страдать от взрывной декомпрессии!</SoS.ExpelSuperheatedAirDesc>
-	<SoS.AirNotSuperheated>Воздух не перегрет</SoS.AirNotSuperheated>
+	<SoS.AirNotSuperheated>воздух не перегрет</SoS.AirNotSuperheated>
 	<SoS.NoLifeSupport>Нет активной системы жизнеобеспечения</SoS.NoLifeSupport>
 	<SoS.HeatDepletionLevel>Уровень нагрева: {0}</SoS.HeatDepletionLevel>
 	<SoS.BreakCloakAtHeat>Отключить маскировку при нагреве.</SoS.BreakCloakAtHeat>
@@ -418,7 +418,7 @@
 	<SoSInvestigateDerelict>Приблизится к {0}</SoSInvestigateDerelict>
 	<SoSInvestigateDerelictDesc>Приблизится для исследования обломков {0}. Вы сможете отправить команду к заброшенному объекту и переместить его после зачистки от врагов.</SoSInvestigateDerelictDesc>
 	<SoSHackFailed>Взлом мостика не удался!</SoSHackFailed>
-	<SoSHackBridge>Взломать мостик</SoSHackBridge>
+	<SoSHackBridge>Взломать</SoSHackBridge>
 	<SoSCantPlaceCocoon>Невозможно разместить криптококон!</SoSCantPlaceCocoon>
 	<SoSAlreadyMalnourished>Невозможно из-за истощения</SoSAlreadyMalnourished>
 	<SoSToggleShield>Защитное поле</SoSToggleShield>

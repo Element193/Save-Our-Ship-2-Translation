@@ -2,7 +2,7 @@
 <LanguageData>	<!--1.5\Defs\JobDefs\Jobs.xml-->
 
 	<CarryToCryptonest.reportString>переносит яйца в инкубатор.</CarryToCryptonest.reportString>
-	<OperateScannerSpace.reportString>сканирует через TargetA.</OperateScannerSpace.reportString>
+	<OperateScannerSpace.reportString>сканирует космическое пространство.</OperateScannerSpace.reportString> <!--TargetA = Исследовательская консоль-->
 	<HackSatellite.reportString>взламывает TargetA.</HackSatellite.reportString>
 	<RepairSatellite.reportString>восстанавливает TargetA.</RepairSatellite.reportString>
 	<PersuadeAI.reportString>переубеждает TargetA.</PersuadeAI.reportString>
@@ -17,8 +17,8 @@
 	<RepairItemWithGel.reportString>ремонтирует TargetA.</RepairItemWithGel.reportString>
 	<SacrificeToArchotech.reportString>жертвует TargetA.</SacrificeToArchotech.reportString>
 	<FleeVacuum.reportString>спасается от вакуума.</FleeVacuum.reportString>
-	<InstallConsciousness.reportString>переносит личность TargetB.</InstallConsciousness.reportString>
-	<MergeWithSpore.reportString>сливается с архотек спорой.</MergeWithSpore.reportString>
-	<ResurrectHologram.reportString>переносит личность в TargetA.</ResurrectHologram.reportString>
+	<InstallConsciousness.reportString>загружает личность TargetB.</InstallConsciousness.reportString>
+	<MergeWithSpore.reportString>сливается с Архотек Спорой.</MergeWithSpore.reportString>
+	<ResurrectHologram.reportString>загружает личность в TargetA.</ResurrectHologram.reportString>
 
 </LanguageData>

@@ -3,6 +3,6 @@
 	
 	<RecyclotronRecipe.label>утилизировать</RecyclotronRecipe.label>
 	<RecyclotronRecipe.description>Разобрать предмет на составляющие части при помощи механитов, с почти идеальной эффективностью.</RecyclotronRecipe.description>
-	<RecyclotronRecipe.jobString>Разбирает предмет.</RecyclotronRecipe.jobString>
+	<RecyclotronRecipe.jobString>Утилизирует предмет.</RecyclotronRecipe.jobString>
 
 </LanguageData>

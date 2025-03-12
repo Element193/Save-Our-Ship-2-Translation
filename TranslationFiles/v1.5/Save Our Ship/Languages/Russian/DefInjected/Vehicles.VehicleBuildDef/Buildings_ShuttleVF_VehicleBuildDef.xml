@@ -2,14 +2,14 @@
 <LanguageData>
 	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShuttleVF.xml-->
 	<SoS2_Shuttle_Personal_Blueprint.label>персональный шаттл</SoS2_Shuttle_Personal_Blueprint.label>
-	<SoS2_Shuttle_Personal_Blueprint.description>Одноместное судно, способное осуществлять как орбитальные, так и наземные перелёты. В отличие от крупных шаттлов, он использует химическое топливо.</SoS2_Shuttle_Personal_Blueprint.description>
+	<SoS2_Shuttle_Personal_Blueprint.description>Небольшой одноместный шаттл на химическом топливе, способен совершать как орбитальные, так и наземные перелёты.</SoS2_Shuttle_Personal_Blueprint.description>
 	
 	<SoS2_Shuttle_Standard_Blueprint.label>средний шаттл</SoS2_Shuttle_Standard_Blueprint.label>
-	<SoS2_Shuttle_Standard_Blueprint.description>Судно, которое способно осуществлять как орбитальные, так и наземные перелёты. Требует капсул с ядерным топливом.\n\nШаттлы основаны на базовых корабельных технологиях, их уменьшенное оборудование менее эффективно и может быть модифицировано. Этот шаттл имеет одно место для крепления турелей.</SoS2_Shuttle_Standard_Blueprint.description>
+	<SoS2_Shuttle_Standard_Blueprint.description>Средний шаттл на ядерном топливе, способен совершать как орбитальные, так и наземные перелёты.\n\nОборудование шаттла основано на миниатюризации базовых корабельных систем, оно менее эффективно, но может быть улучшено. На этот вариант шаттла можно установить только одну турель.</SoS2_Shuttle_Standard_Blueprint.description>
 	
 	<SoS2_Shuttle_Heavy_Blueprint.label>тяжёлый шаттл</SoS2_Shuttle_Heavy_Blueprint.label>
-	<SoS2_Shuttle_Heavy_Blueprint.description>Судно, которое способно осуществлять как орбитальные, так и наземные перелёты. Требует капсул с ядерным топливом.\n\nШаттлы основаны на базовых корабельных технологиях, их уменьшенное оборудование менее эффективно и может быть модифицировано. Этот шаттл имеет два места для крепления турелей.</SoS2_Shuttle_Heavy_Blueprint.description>
+	<SoS2_Shuttle_Heavy_Blueprint.description>Тяжёлый шаттл на ядерном топливе, способен совершать как орбитальные, так и наземные перелёты.\n\nОборудование шаттла основано на миниатюризации базовых корабельных систем, оно менее эффективно, но может быть улучшено. На этот вариант шаттла можно установить две турели.</SoS2_Shuttle_Heavy_Blueprint.description>
 	
 	<SoS2_Shuttle_Superheavy_Blueprint.label>сверхтяжёлый шаттл</SoS2_Shuttle_Superheavy_Blueprint.label>
-	<SoS2_Shuttle_Superheavy_Blueprint.description>Судно, которое способно осуществлять как орбитальные, так и наземные перелёты. Требует капсул с ядерным топливом.\n\nШаттлы основаны на базовых корабельных технологиях, их уменьшенное оборудование менее эффективно и может быть модифицировано. Этот шаттл имеет три места для крепления турелей.</SoS2_Shuttle_Superheavy_Blueprint.description>
+	<SoS2_Shuttle_Superheavy_Blueprint.description>Сверхтяжёлый шаттл на ядерном топливе, способен совершать как орбитальные, так и наземные перелёты.\n\nОборудование шаттла основано на миниатюризации базовых корабельных систем, оно менее эффективно, но может быть улучшено. На этот вариант шаттла можно установить три турели.</SoS2_Shuttle_Superheavy_Blueprint.description>
 </LanguageData>

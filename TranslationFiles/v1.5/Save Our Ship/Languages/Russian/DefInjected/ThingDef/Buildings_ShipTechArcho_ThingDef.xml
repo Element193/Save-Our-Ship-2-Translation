@@ -2,34 +2,34 @@
 <LanguageData>
 	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipTechArcho.xml-->
 	<Ship_BeamArchotech_Unpowered.label>корпус корабля архотек (без питания)</Ship_BeamArchotech_Unpowered.label>
-	<Ship_BeamArchotech_Unpowered.description>Внешние структурные элементы корпуса космического корабля, разработанного по технологии архотек. Не включает теплопроводы и кабели.</Ship_BeamArchotech_Unpowered.description>
+	<Ship_BeamArchotech_Unpowered.description>Внешние структурные элементы корпуса космического корабля, разработаны по технологиям архотек. Не включает теплопроводы и кабели.</Ship_BeamArchotech_Unpowered.description>
 	
 	<Ship_BeamArchotech.label>корпус корабля архотек</Ship_BeamArchotech.label>
-	<Ship_BeamArchotech.description>Внешние структурные элементы корпуса космического корабля, разработанного по технологии архотек. Включает трубопроводы и кабели.</Ship_BeamArchotech.description>
+	<Ship_BeamArchotech.description>Внешние структурные элементы корпуса космического корабля, разработаны по технологиям архотек. Включает трубопроводы и кабели.</Ship_BeamArchotech.description>
 	
 	<Ship_Corner_Archo_OneOne.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_Archo_OneOne.description>
 	<Ship_Corner_Archo_OneOne.label>угол корпуса архотек (1x1)</Ship_Corner_Archo_OneOne.label>
 	
-	<Ship_Corner_Archo_OneOneFlip.description>Угловая броня для внешнего корпуса корабля, разработано по технологиям архотек.</Ship_Corner_Archo_OneOneFlip.description>
+	<Ship_Corner_Archo_OneOneFlip.description>Угловая броня для внешнего корпуса корабля, разработана по технологиям архотек.</Ship_Corner_Archo_OneOneFlip.description>
 	<Ship_Corner_Archo_OneOneFlip.label>угол корпуса архотек (1x1) перевернутый</Ship_Corner_Archo_OneOneFlip.label>
 	
-	<Ship_Corner_Archo_OneTwo.description>Угловая броня для внешнего корпуса корабля, разработано по технологиям архотек.</Ship_Corner_Archo_OneTwo.description>
+	<Ship_Corner_Archo_OneTwo.description>Угловая броня для внешнего корпуса корабля, разработана по технологиям архотек.</Ship_Corner_Archo_OneTwo.description>
 	<Ship_Corner_Archo_OneTwo.label>угол корпуса архотек (1x2)</Ship_Corner_Archo_OneTwo.label>
 	
-	<Ship_Corner_Archo_OneTwoFlip.description>Угловая броня для внешнего корпуса корабля, разработано по технологиям архотек.</Ship_Corner_Archo_OneTwoFlip.description>
+	<Ship_Corner_Archo_OneTwoFlip.description>Угловая броня для внешнего корпуса корабля, разработана по технологиям архотек.</Ship_Corner_Archo_OneTwoFlip.description>
 	<Ship_Corner_Archo_OneTwoFlip.label>угол корпуса архотек (1x2) перевернутый</Ship_Corner_Archo_OneTwoFlip.label>
 	
-	<Ship_Corner_Archo_OneThree.description>Угловая броня для внешнего корпуса корабля, разработано по технологиям архотек.</Ship_Corner_Archo_OneThree.description>
+	<Ship_Corner_Archo_OneThree.description>Угловая броня для внешнего корпуса корабля, разработана по технологиям архотек.</Ship_Corner_Archo_OneThree.description>
 	<Ship_Corner_Archo_OneThree.label>угол корпуса архотек (1x3)</Ship_Corner_Archo_OneThree.label>
 	
-	<Ship_Corner_Archo_OneThreeFlip.description>Угловая броня для внешнего корпуса корабля, разработано по технологиям архотек.</Ship_Corner_Archo_OneThreeFlip.description>
+	<Ship_Corner_Archo_OneThreeFlip.description>Угловая броня для внешнего корпуса корабля, разработана по технологиям архотек.</Ship_Corner_Archo_OneThreeFlip.description>
 	<Ship_Corner_Archo_OneThreeFlip.label>угол корпуса архотек (1x3) перевернутый</Ship_Corner_Archo_OneThreeFlip.label>
 	
 	<ShipInside_SolarGeneratorArchotech.label>солнечная батарея архотек</ShipInside_SolarGeneratorArchotech.label>
-	<ShipInside_SolarGeneratorArchotech.description>Использует фотоны, чтобы запутаться в фотосфере звезды, поглощая больше энергии, чем мог бы дать солнечный свет. Вырабатывает до 1200 Вт в космосе и до 600 Вт на поверхности планеты. Не работает в темноте или при искусственном освещении.</ShipInside_SolarGeneratorArchotech.description>
+	<ShipInside_SolarGeneratorArchotech.description>Использует фотоны, чтобы запутаться в фотосфере звезды, поглощая больше энергии, чем мог бы дать солнечный свет. Вырабатывает до 1200 Вт в космосе, до 600 Вт на поверхности планеты. Не работает в темноте и от искусственного освещения.</ShipInside_SolarGeneratorArchotech.description>
 	
 	<ShipInside_PassiveVentArchotech.label>корабельная вентиляция архотек</ShipInside_PassiveVentArchotech.label>
-	<ShipInside_PassiveVentArchotech.description>Охлаждает или нагревает помещения корабля до нужной температуры.\n\nМожет нагревать помещения с помощью электричества.</ShipInside_PassiveVentArchotech.description>
+	<ShipInside_PassiveVentArchotech.description>Охлаждает или нагревает комнаты внутри корабля до нужной температуры.\n\nМожет использовать электричество для отопления, если в тепловых баках недостаточно нагрева.</ShipInside_PassiveVentArchotech.description>
 	
 	<ShipAirlockArchotech.label>корабельный шлюз архотек</ShipAirlockArchotech.label>
 	<ShipAirlockArchotech.description>Позволяет получать доступ к кораблю или разделять помещения внутри него. Энергетические плазменные барьеры препятствуют выходу газов.</ShipAirlockArchotech.description>
@@ -41,48 +41,48 @@
 	<Ship_Engine_Archotech.description>Усовершенствованное боевое устройство, способное развивать огромную скорость. Потребляет экзотические частицы в качестве топлива.\n\nНе подходит для использования в атмосфере.\n\nТяга: 6000кг\nРасход экзотических частиц: 1ед/с</Ship_Engine_Archotech.description>
 	
 	<ArchotechAntimatterReactor.label>реактор антиматерии</ArchotechAntimatterReactor.label>
-	<ArchotechAntimatterReactor.description>Аннигилирует экзотические частицы, вырабатывая огромное количество энергии. Лучше не допускать повреждения этого реактора.</ArchotechAntimatterReactor.description>
+	<ArchotechAntimatterReactor.description>Аннигилирует экзотические частицы, вырабатывая огромное количество энергии. Рекомендуется не допускать повреждений этого реактора.</ArchotechAntimatterReactor.description>
 	
-	<ShipHeatsinkAntiEntropy.label>анти-энтропический радиатор</ShipHeatsinkAntiEntropy.label>
-	<ShipHeatsinkAntiEntropy.description>Усовершенствованный радиатор, разработанный архотеком. Использует экзотические частицы для преобразования избыточного тепла обратно в энергию. Медленно отводит тепло, даже при активной маскировке.\n\nТеплоемкость: 200 Те\nПреобразование тепла: 5 Те/с в 1000 Вт/с</ShipHeatsinkAntiEntropy.description>
+	<ShipHeatsinkAntiEntropy.label>антиэнтропический радиатор</ShipHeatsinkAntiEntropy.label>
+	<ShipHeatsinkAntiEntropy.description>Усовершенствованный радиатор, разработанный архотеком. Использует экзотические частицы для преобразования избыточного тепла обратно в полезную энергию. Медленно отводит тепло, даже при активной маскировке.\n\nТеплоёмкость: 200 Те\nПреобразование тепла: 5 Те/с в 1000 Вт/с</ShipHeatsinkAntiEntropy.description>
 	
 	<ArchotechShieldGenerator.label>генератор щита архотек</ArchotechShieldGenerator.label>
 	<ArchotechShieldGenerator.description>Генерирует импульсное репульсорное поле, которое отталкивает входящие снаряды.\n\nБлагодаря модифицированной технологии, этот генератор щита производит на 25% меньше тепла.\n\nГенерирует тепло при отражении снарядов, выходит из строя при перегреве.\n\nКапитанам рекомендуется отключать щиты, когда уровень нагрева приближается к максимальному.</ArchotechShieldGenerator.description>
 
 	<ShipArchotechSpore.label>Архотек Спора</ShipArchotechSpore.label>
-	<ShipArchotechSpore.description>Инкубатор для человеческого или машинного разума, который начал процесс эволюции в архотека.\n\nВнутри сосредоточена огромная вычислительная мощность, которая размышляет о собственной структуре и других непознанных тайнах.\n\nПосле соответствующих исследований, спора может генерировать пси-поле, или предоставлять уникальные дары. Создание более чем одной споры не приведет к частому появлению даров, но они будут формировать пси-поле независимо друг от друга.\n\nПри слишком низком настроении, спора может решить устроить "розыгрыш" над экипажем корабля.\n\nНастроение споры можно улучшить, если команда будет медитировать рядом или принести ей в жертву пленников.</ShipArchotechSpore.description>
+	<ShipArchotechSpore.description>Инкубатор для человеческого или машинного разума с целью эволюции в архотека.\n\nВнутри сосредоточена огромная вычислительная сеть, которая анализирует собственную структуру и другие непознанные тайны.\n\nПосле соответствующих исследований, спора может генерировать пси-поле, или предоставлять уникальные награды. Создание более чем одной споры не приведет к частому появлению наград, но они будут формировать пси-поле независимо друг от друга.\n\nПри слишком низком настроении спора может решить устроить "розыгрыш" над экипажем корабля.\n\nНастроение споров можно поднять, медитируя поблизости или принеся в жертву пленника.</ShipArchotechSpore.description>
 	
-	<ArchotechUplink.label>Архо-линк</ArchotechUplink.label>
-	<ArchotechUplink.description>Позволяет исследователям взаимодействовать с частью сознания споры. Поместите его рядом с высокотехнологичным исследовательским столом, чтобы исследовать проекты архотека.\n\nИсследовательский стол может взаимодействовать только с одним маяком.</ArchotechUplink.description>
+	<ArchotechUplink.label>Архолинк</ArchotechUplink.label>
+	<ArchotechUplink.description>Позволяет исследователям взаимодействовать с частью разума Архотек Споры, чтобы изучать технологии архотека.\n\nУскоряет изучение технологий. Должен быть размещён рядом со столом для исследований. Один стол может быть соединён только с одним архолинком.</ArchotechUplink.description>
 	
-	<ShipArchotechPillarA.description>Сложное и непонятное устройство, которое не служит никакой понятной для человека цели, но по-видимому, каким-то образом важно для архотек споры.\n\nНет необходимости в создании более одной копии этого монолита.</ShipArchotechPillarA.description>
-	<ShipArchotechPillarA.label>альфа-монолит "Горизонт"</ShipArchotechPillarA.label>
+	<ShipArchotechPillarA.description>Загадочная конструкция в виде тотема, которая не служит никакой понятной для человека цели, но по-видимому важна для Архотек Споры.\n\nНет необходимости в создании более одной копии этого монолита.</ShipArchotechPillarA.description>
+	<ShipArchotechPillarA.label>монолит "Горизонт"</ShipArchotechPillarA.label>
 	
-	<ShipArchotechPillarB.description>Сложное и непонятное устройство, которое не служит никакой понятной для человека цели, но по-видимому, каким-то образом важно для архотек споры.\n\nНет необходимости в создании более одной копии этого монолита.</ShipArchotechPillarB.description>
-	<ShipArchotechPillarB.label>бета-монолит "Луна"</ShipArchotechPillarB.label>
+	<ShipArchotechPillarB.description>Загадочная конструкция в виде тотема, которая не служит никакой понятной для человека цели, но по-видимому важна для Архотек Споры.\n\nНет необходимости в создании более одной копии этого монолита.</ShipArchotechPillarB.description>
+	<ShipArchotechPillarB.label>монолит "Луна"</ShipArchotechPillarB.label>
 	
-	<ShipArchotechPillarC.description>Сложное и непонятное устройство, которое не служит никакой понятной для человека цели, но по-видимому, каким-то образом важно для архотек споры.\n\nНет необходимости в создании более одной копии этого монолита.</ShipArchotechPillarC.description>
-	<ShipArchotechPillarC.label>гамма-монолит "Звёздный тотем"</ShipArchotechPillarC.label>
+	<ShipArchotechPillarC.description>Загадочная конструкция в виде тотема, которая не служит никакой понятной для человека цели, но по-видимому важна для Архотек Споры.\n\nНет необходимости в создании более одной копии этого монолита.</ShipArchotechPillarC.description>
+	<ShipArchotechPillarC.label>монолит "Звёздный тотем"</ShipArchotechPillarC.label>
 	
-	<ShipArchotechPillarD.description>Сложное и непонятное устройство, которое не служит никакой понятной для человека цели, но по-видимому, каким-то образом важно для архотек споры.\n\nНет необходимости в создании более одной копии этого монолита.</ShipArchotechPillarD.description>
-	<ShipArchotechPillarD.label>дельта-монолит "Рой"</ShipArchotechPillarD.label>
+	<ShipArchotechPillarD.description>Загадочная конструкция в виде тотема, которая не служит никакой понятной для человека цели, но по-видимому важна для Архотек Споры.\n\nНет необходимости в создании более одной копии этого монолита.</ShipArchotechPillarD.description>
+	<ShipArchotechPillarD.label>монолит "Рой"</ShipArchotechPillarD.label>
 	
-	<ShipSpinalBarrelPsychic.label>психический подавитель</ShipSpinalBarrelPsychic.label>
-	<ShipSpinalBarrelPsychic.description>Финальный сегмент модульного орудия, чем больше усилителей к нему подключено, тем выше его мощность.\n\nВыпускает луч направленной пси-энергии, который оглушает экипаж, и может вызывать повреждения мозга. Игнорирует корпус, но не щиты. В отличие от других видов вооружения, психический подавитель не влияет на собственный корабль.\n\nТребует связи с системами корабля по тепловой сети. Для работы нужна энергия и тепловая вместимость.</ShipSpinalBarrelPsychic.description>
+	<ShipSpinalBarrelPsychic.label>линейный пси-подавитель</ShipSpinalBarrelPsychic.label>
+	<ShipSpinalBarrelPsychic.description>Финальный сегмент линейного орудия — психический подавитель.\n\nГенерирует луч направленной пси-энергии, который оглушает экипаж, может вызывать повреждения мозга. Луч не проходит сквозь щит корабля, но игнорирует его корпус. В отличие от других видов корабельного вооружения, психический подавитель не влияет на собственный корабль.\n\nДля функционирования требуется энергия и тепловая вместимость, также связь с корабельным мостиком или компьютером по теплопроводу.</ShipSpinalBarrelPsychic.description>
 
-	<ShipTurret_SpinalMountTopPsychic.label>модульное орудие</ShipTurret_SpinalMountTopPsychic.label>
-	<ShipTurret_SpinalMountTopPsychic.description>Вооружение продвинутых кораблей.</ShipTurret_SpinalMountTopPsychic.description>
+	<ShipTurret_SpinalMountTopPsychic.label>линейное орудие</ShipTurret_SpinalMountTopPsychic.label>
+	<ShipTurret_SpinalMountTopPsychic.description>Продвинутое корабельное вооружение.</ShipTurret_SpinalMountTopPsychic.description>
 	<ShipTurret_SpinalMountTopPsychic.verbs.0.label>стреляет</ShipTurret_SpinalMountTopPsychic.verbs.0.label>
 	
 	<Bullet_Fake_Psychic.label>пси-луч</Bullet_Fake_Psychic.label>
 	
 	<Proj_ShipTurretPsychic.label>пси-луч</Proj_ShipTurretPsychic.label>
 	
-	<ShipSpinalBarrelMechanite.label>модульный поглотитель</ShipSpinalBarrelMechanite.label>
-	<ShipSpinalBarrelMechanite.description>Финальный сегмент модульного орудия, чем больше усилителей к нему подключено, тем выше его мощность. Следует устанавливать снаружи корабля, если вы конечно не хотите новой дыры в корпусе.\n\nОрудие, запускающее пучки механитов, которые поглощают любые твердые вещества.\n\nТребует связи с системами корабля по тепловой сети. Для работы нужна энергия и тепловая вместимость.</ShipSpinalBarrelMechanite.description>
+	<ShipSpinalBarrelMechanite.label>линейный разборщик</ShipSpinalBarrelMechanite.label>
+	<ShipSpinalBarrelMechanite.description>Финальный сегмент линейного орудия — разборщик.\n\nЗапускает пучки разборочных механитов, которые способны поглощать любые твёрдые вещества. Следует устанавливать снаружи, если вы конечно не хотите пробить дыру в корпусе корабля.\n\nДля функционирования требуется энергия и тепловая вместимость, также связь с корабельным мостиком или компьютером по теплопроводу.</ShipSpinalBarrelMechanite.description>
 	
-	<ShipTurret_SpinalMountTopMechanite.label>модульное орудие</ShipTurret_SpinalMountTopMechanite.label>
-	<ShipTurret_SpinalMountTopMechanite.description>Вооружение продвинутых кораблей.</ShipTurret_SpinalMountTopMechanite.description>
+	<ShipTurret_SpinalMountTopMechanite.label>линейное орудие</ShipTurret_SpinalMountTopMechanite.label>
+	<ShipTurret_SpinalMountTopMechanite.description>Продвинутое корабельное вооружение.</ShipTurret_SpinalMountTopMechanite.description>
 	<ShipTurret_SpinalMountTopMechanite.verbs.0.label>стреляет</ShipTurret_SpinalMountTopMechanite.verbs.0.label>
 	
 	<Bullet_Fake_Mechanite.label>пучок механитов</Bullet_Fake_Mechanite.label>
@@ -94,11 +94,11 @@
 	<MechaniteSpark.label>разборочные механиты</MechaniteSpark.label>
 	
 	<Weapon_GrenadeMechanite.label>коктейли механитов</Weapon_GrenadeMechanite.label>
-	<Weapon_GrenadeMechanite.description>Ёмкость с разборочными механитами. Излюбленное оружие продвинутых хулиганов.</Weapon_GrenadeMechanite.description>
+	<Weapon_GrenadeMechanite.description>Бутылка, наполненная разборочными механитами. Излюбленное оружие продвинутых хулиганов.</Weapon_GrenadeMechanite.description>
 	<Weapon_GrenadeMechanite.verbs.0.label>бросить</Weapon_GrenadeMechanite.verbs.0.label>
 	
 	<Proj_GrenadeMechanite.label>механиты</Proj_GrenadeMechanite.label>
 	
 	<ArchoRecycler.label>рециклотрон</ArchoRecycler.label>
-	<ArchoRecycler.description>Использует механитов, чтобы разобрать любой предмет на составляющие материалы с почти идеальной эффективностью.</ArchoRecycler.description>
+	<ArchoRecycler.description>Разбирает практически любые предметы на составляющие материалы с почти идеальной эффективностью.</ArchoRecycler.description>
 </LanguageData>

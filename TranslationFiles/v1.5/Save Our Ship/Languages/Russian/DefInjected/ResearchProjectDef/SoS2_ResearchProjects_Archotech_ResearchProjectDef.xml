@@ -11,7 +11,7 @@
     <ArchotechBioMechanitesTwo.description>Наделение роя механитов гештальт интеллектом, который позволит им коллективно диагностировать и восстанавливать травмы или даже погибших.</ArchotechBioMechanitesTwo.description>
 	
 	<ArchotechArchites.label>архогенетика</ArchotechArchites.label>
-	<ArchotechArchites.description>Новые капсулы архитов и архогены, это открывает больше возможностей для архотек споры.</ArchotechArchites.description>
+	<ArchotechArchites.description>Новые капсулы архитов и архогены, это открывает больше возможностей для Архотек Споры.</ArchotechArchites.description>
 	
     <SoSArchotechOrgans.label>архоанатомия</SoSArchotechOrgans.label>
     <SoSArchotechOrgans.description>Переосмысление биологии на молекулярном уровне, возможность создания совершенных органов.</SoSArchotechOrgans.description>
@@ -23,15 +23,15 @@
     <ArchotechPlants.description>Превосходство естественной эволюции, возможность создания экосистемы совершенных растений, которые могут принести огромную пользу.</ArchotechPlants.description>
 	
     <ArchotechMechaniteWeapon.label>поглощающие механиты</ArchotechMechaniteWeapon.label>
-    <ArchotechMechaniteWeapon.description>Разработка механитов, которые расщепляют материю атом за атомом — это может быть полезно для переработки ненужных предметов или "утилизации" вражеских кораблей.</ArchotechMechaniteWeapon.description>
+    <ArchotechMechaniteWeapon.description>Атом за атомом! Механиты, которые расщепляют материю. Это может быть полезно для утилизации ненужных предметов, или "переработки" вражеских кораблей.</ArchotechMechaniteWeapon.description>
 	
     <ArchotechHullConversion.label>преобразование материи</ArchotechHullConversion.label>
-    <ArchotechHullConversion.description>Автоматическое преобразование корпуса корабля до уровня архотеков. Это не повлияет на крупные конструкции, такие как радиаторы или генераторы защитного поля.</ArchotechHullConversion.description>
+    <ArchotechHullConversion.description>Преобразование корпуса корабля до уровня архотек в медленно расширяющемся радиусе. Это не повлияет на крупные конструкции, такие как радиаторы или генераторы защитного поля.</ArchotechHullConversion.description>
 	
 	<ArchotechPsychicField.label>формирование пси-поля</ArchotechPsychicField.label>
-	<ArchotechPsychicField.description>Открытие основных принципов психического взаимодействия, которые позволяют архо-споре генерировать психическое поле.</ArchotechPsychicField.description>
+	<ArchotechPsychicField.description>Открытие основных принципов психического взаимодействия, которые позволят Архотек Споре начать генерировать психическое поле.ы</ArchotechPsychicField.description>
 	<ArchotechPsychicField.discoveredLetterTitle>Психическое Поле</ArchotechPsychicField.discoveredLetterTitle>
-	<ArchotechPsychicField.discoveredLetterText>Спора начала генерировать психическое поле. Как только будет накоплено достаточно силы поля и завершены необходимые исследования, вы можете попросить спору выполнить желаемые действия. Сила поля медленно растет сама по себе, если члены экипажа медитируют поблизости, но ее можно значительно повысить, установив монолиты архотека.</ArchotechPsychicField.discoveredLetterText>
+	<ArchotechPsychicField.discoveredLetterText>Архотек Спора начала генерировать психическое поле. Как только будет накоплено достаточно силы поля и завершены необходимые исследования, вы можете попросить спору выполнить желаемые действия. Сила поля медленно растет сама по себе, если члены экипажа медитируют поблизости, но её можно значительно повысить, установив монолиты архотека.</ArchotechPsychicField.discoveredLetterText>
 	
 	<ArchotechPsychicManipulation.label>формирование пси-импульсов</ArchotechPsychicManipulation.label>
 	<ArchotechPsychicManipulation.description>Формирование простых успокаивающих или подавляющих пси-импульсов, используя пси-поле.</ArchotechPsychicManipulation.description>
@@ -40,13 +40,13 @@
 	<ArchotechBroadManipulation.description>Передача сообщений и снов тысячам существ, влияя на их мнения. Это может быть полезно при переговорах, используя консоль связи.</ArchotechBroadManipulation.description>
 	
 	<ArchotechPsylink.label>формирование пси-связи</ArchotechPsylink.label>
-	<ArchotechPsylink.description>Возможность для Архотек Споры наделять команду пси-связью. Это потребляет значительное количество силы поля.</ArchotechPsylink.description>
+	<ArchotechPsylink.description>Возможность для Архотек Споры наделять команду пси-связью, используя накопленную силу пси-поля.</ArchotechPsylink.description>
 	
 	<ArchotechPsychicEffectors.label>пси-устройства</ArchotechPsychicEffectors.label>
-	<ArchotechPsychicEffectors.description>Создание автономных портативных устройств, которые содержат пси-энергию и способны генерировать заданные пси-импульсы.</ArchotechPsychicEffectors.description>
+	<ArchotechPsychicEffectors.description>Создание автономных портативных устройств, которые содержат накопленную пси-энергию и способны генерировать заданные пси-импульсы.</ArchotechPsychicEffectors.description>
 	
 	<ArchotechPsychicWeapon.label>орудие подавления</ArchotechPsychicWeapon.label>
-	<ArchotechPsychicWeapon.description>Разработка корабельного орудия, которое конвертирует энергию в подавляющий луч, он проходит сквозь объекты и эффективно выводит из строя вражеский экипаж.</ArchotechPsychicWeapon.description>
+	<ArchotechPsychicWeapon.description>Разработка корабельного орудия, которое конвертирует энергию в подавляющий луч, который проходит сквозь объекты и эффективно выводит из строя вражеский экипаж.</ArchotechPsychicWeapon.description>
 	
 	<ArchotechPsychicSoulLink.label>пси-реинкарнация</ArchotechPsychicSoulLink.label>
 	<ArchotechPsychicSoulLink.description>Возможность связать существо с Архотек Спорой. Если телу существа будут нанесены смертельные повреждения, спора мгновенно перенесет его личность в свободное хранилище.</ArchotechPsychicSoulLink.description>
@@ -58,13 +58,13 @@
 	<ArchotechVanometrics.description>Разработка автономных ванометрических генераторов, которые вырабатывают энергию поглощая частицы из окружающего пространства.</ArchotechVanometrics.description>
 	
 	<ArchotechShields.label>экзотические поля</ArchotechShields.label>
-	<ArchotechShields.description>Разработка совершенного защитного поля для корабля, которое превосходит базовые аналоги благодаря использованию экзотических частиц.</ArchotechShields.description>
+	<ArchotechShields.description>Разработка совершенного генератора защитного поля для корабля, который превосходит базовые поля благодаря использованию экзотических частиц.</ArchotechShields.description>
 	
 	<ArchotechHeatsink.label>антиэнтропия</ArchotechHeatsink.label>
-	<ArchotechHeatsink.description>Разработка совершенной системы охлаждения корабля. За счёт экзотических частиц радиаторы могут конвертировать тепло обратно в полезную энергию, а не излучать его в космос.</ArchotechHeatsink.description>
+	<ArchotechHeatsink.description>Физические свойства экзотических частиц позволяют создавать совершенные радиаторы, которые не излучают тепло, а конвертируют его обратно в полезную энергию.</ArchotechHeatsink.description>
 	
 	<ArchotechAntimatter.label>инверсивная материя</ArchotechAntimatter.label>
-	<ArchotechAntimatter.description>Разработка гранульных боеприпасов, основанных на нестабильном поведении экзотических частиц.</ArchotechAntimatter.description>
+	<ArchotechAntimatter.description>Использование экзотических частиц для создания сверхвысокотехнологичных снарядов, используемых в утопических мирах. При детонации гранула антиматерии в боевой части способна создать взрыв большой силы с последующим возгоранием. Такие снаряды могут быть использованы для изготовления мощных корабельных торпед.</ArchotechAntimatter.description>
 	
 	<ArchotechEngine.label>ускорители антиматерии</ArchotechEngine.label>
 	<ArchotechEngine.description>Использование экзотических частиц для тяги и получения преимущества в бою.</ArchotechEngine.description>

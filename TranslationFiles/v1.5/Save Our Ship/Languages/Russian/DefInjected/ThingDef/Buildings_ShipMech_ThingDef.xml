@@ -25,11 +25,11 @@
 	<Ship_Corner_OneThreeFlip_Mech.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneThreeFlip_Mech.description>
 	<Ship_Corner_OneThreeFlip_Mech.label>угол корпуса (1x3) перевернутый</Ship_Corner_OneThreeFlip_Mech.label>
 	
-	<ShipInside_SolarGeneratorMech.label>солнечная панель механоидов</ShipInside_SolarGeneratorMech.label>
-	<ShipInside_SolarGeneratorMech.description>Производит электричество из солнечного света. До 750 Вт в космосе, до 375 Вт на планете. Не работает в темноте или при искусственном освещении.</ShipInside_SolarGeneratorMech.description>
+	<ShipInside_SolarGeneratorMech.label>солнечная батарея механоидов</ShipInside_SolarGeneratorMech.label>
+	<ShipInside_SolarGeneratorMech.description>Производит электричество из солнечного света. До 750 Вт в космосе, до 375 Вт на поверхности планеты. Не работает в темноте и от искусственного освещения.</ShipInside_SolarGeneratorMech.description>
 	
 	<ShipInside_PassiveVentMechanoid.label>корабельная вентиляция механоидов</ShipInside_PassiveVentMechanoid.label>
-	<ShipInside_PassiveVentMechanoid.description>Охлаждает или нагревает помещения корабля до нужной температуры.\n\nМожет нагревать помещения с помощью электричества.</ShipInside_PassiveVentMechanoid.description>
+	<ShipInside_PassiveVentMechanoid.description>Охлаждает или нагревает комнаты внутри корабля до нужной температуры.\n\nМожет использовать электричество для отопления, если в тепловых баках недостаточно нагрева.</ShipInside_PassiveVentMechanoid.description>
 	
 	<ShipAirlockMech.label>шлюз корабля механоидов</ShipAirlockMech.label>
 	<ShipAirlockMech.description>Позволяет получать доступ к кораблю или разделять помещения внутри него. Энергетические плазменные барьеры препятствуют выходу газов.</ShipAirlockMech.description>

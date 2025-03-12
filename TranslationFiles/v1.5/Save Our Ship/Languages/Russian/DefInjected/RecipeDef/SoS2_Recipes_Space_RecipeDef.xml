@@ -3,6 +3,6 @@
 
 	<MakeHullFoam.label>изготовить каркасную пену</MakeHullFoam.label>
 	<MakeHullFoam.description>Изготовить канистру каркасной пены.</MakeHullFoam.description>
-	<MakeHullFoam.jobString>Изготавливать каркасную пену.</MakeHullFoam.jobString>
+	<MakeHullFoam.jobString>Изготавливает каркасную пену.</MakeHullFoam.jobString>
 	
 </LanguageData>

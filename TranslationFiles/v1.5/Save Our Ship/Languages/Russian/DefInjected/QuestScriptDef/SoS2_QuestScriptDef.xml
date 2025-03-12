@@ -4,7 +4,7 @@
 	<!-- SoSMayday -->
 
 	<SoSMayday.questNameRules.rulesStrings.0>questName-&gt;Сигнал Бедствия</SoSMayday.questNameRules.rulesStrings.0>
-	<SoSMayday.questDescriptionRules.rulesStrings.0>questDescription-&gt;"Просим помощи... ошибка содержания... пираты... нет ответа... удар..." Беспорядочный радиосигнал сопровождается огненной полосой в небе. Судя по всему, корабль потерпит крушение неподалеку от [map_definite].\n\nПодбитый корабль привлечет пиратов, мародеров и охотников за сокровищами в большом радиусе. Даже если вы прибудете вовремя, предстоит сражаться, чтобы заполучить ценный груз корабля.\n\nПохоже, что [allSitePartsDescriptionsExceptFirst]</SoSMayday.questDescriptionRules.rulesStrings.0>
+	<SoSMayday.questDescriptionRules.rulesStrings.0>questDescription-&gt;"Просим помощи... ошибка содержания... пираты... нет ответа... удар..." Беспорядочный радиосигнал сопровождается огненной полосой в небе. Судя по всему, космический корабль потерпит крушение неподалеку от поселения [map_definite].\n\nПодбитый корабль привлечёт пиратов, мародёров и охотников за сокровищами в большом радиусе. Даже если вы прибудете вовремя, предстоит сражаться за уцелевший груз корабля.\n\nПохоже, что [allSitePartsDescriptionsExceptFirst].</SoSMayday.questDescriptionRules.rulesStrings.0>
 
 	<SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Время истекло: [resolvedQuestName]</SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
 	<SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Перехваченные сообщения указывают на то, что корабль лишился всех ценностей. Теперь [resolvedQuestName] не актуален.</SoSMayday.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>

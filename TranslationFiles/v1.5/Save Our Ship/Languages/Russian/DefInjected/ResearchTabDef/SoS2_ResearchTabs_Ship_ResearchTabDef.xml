@@ -2,11 +2,11 @@
 <LanguageData>	<!--1.5\Defs\ResearchProjectDefs\ResearchTabs_Ship.xml-->
 
 	<ResearchTabShip.label>Корабль</ResearchTabShip.label>
-	<ResearchTabShip.generalTitle>Исследования корабля</ResearchTabShip.generalTitle>
+	<ResearchTabShip.generalTitle>Проекты корабля</ResearchTabShip.generalTitle>
 	<ResearchTabShip.generalDescription>Разблокируйте компоненты корабля и другие космические технологии.</ResearchTabShip.generalDescription>
 	
 	<ResearchTabArchotech.label>Архотек</ResearchTabArchotech.label>
-	<ResearchTabArchotech.generalTitle>Ультратехнологичные проекты архотека</ResearchTabArchotech.generalTitle>
+	<ResearchTabArchotech.generalTitle>Проекты архотека</ResearchTabArchotech.generalTitle>
 	<ResearchTabArchotech.generalDescription>[ЛЮБАЯ ПРЕДЕЛЬНО РАЗВИТАЯ ТЕХНОЛОГИЯ НЕОТЛИЧИМА ОТ МЕНЯ]</ResearchTabArchotech.generalDescription>
 	
 </LanguageData>

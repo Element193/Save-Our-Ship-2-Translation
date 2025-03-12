@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!--1.5\Defs\RecipeDefs\Recipes_Shuttle.xml-->
-	<MakeShuttleFuelPods.label>виготовити паливні капсули</MakeShuttleFuelPods.label>
-	<MakeShuttleFuelPods.description>Виготовити 100 паливних капсул.</MakeShuttleFuelPods.description>
-	<MakeShuttleFuelPods.jobString>Виготовляє паливні капсули.</MakeShuttleFuelPods.jobString>
-</LanguageData>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-	<!--1.5\Defs\RecipeDefs\Recipes_Space.xml-->
-	<MakeHullFoam.label>создать канистру каркасной пены</MakeHullFoam.label>
-	<MakeHullFoam.description>Создайте канистру каркасной пены.</MakeHullFoam.description>
-	<MakeHullFoam.jobString>Создает каркасную пену.</MakeHullFoam.jobString>
-</LanguageData>

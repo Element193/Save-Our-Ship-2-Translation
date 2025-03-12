@@ -3,26 +3,26 @@
 
 	<!--1.5\Defs\WorldObjectDefs\WorldObjects.xml-->
 
-	<ShipOrbiting.label>Орбитальный корабль</ShipOrbiting.label>
-    <ShipOrbiting.description>Корабль, который вы запустили на орбиту.</ShipOrbiting.description>
+	<ShipOrbiting.label>Корабль</ShipOrbiting.label>
+    <ShipOrbiting.description>Корабль одной из фракций на планетарной орбите.</ShipOrbiting.description>
 	
     <ShipEnemy.label>Вражеский Корабль</ShipEnemy.label>
-    <ShipEnemy.description>Вражеский корабль поблизости.</ShipEnemy.description>
+    <ShipEnemy.description>Космический корабль на планетарной орбите.</ShipEnemy.description>
 	
-    <WreckSpace.label>Орбитальный объект</WreckSpace.label>
-    <WreckSpace.description>Орбитальный объект поблизости.</WreckSpace.description>
+    <WreckSpace.label>Объект</WreckSpace.label>
+    <WreckSpace.description>Объект на планетарной орбите.</WreckSpace.description>
 	
-    <ShipEngineImpactSite.label>место падения</ShipEngineImpactSite.label>
-    <ShipEngineImpactSite.description>Место падения древнего корабельного двигателя.</ShipEngineImpactSite.description>
+    <ShipEngineImpactSite.label>древний обломки</ShipEngineImpactSite.label>
+    <ShipEngineImpactSite.description>Место падения кормовой части древнего космического корабля на котором был установлен двигатель Джонсона-Танаки.</ShipEngineImpactSite.description>
 
     <MoonPillarSite.label>лунная база</MoonPillarSite.label>
-    <MoonPillarSite.description>База механоидов на Луне, где изучается монолит архотека.</MoonPillarSite.description>
+    <MoonPillarSite.description>Исследовательская база на поверхности луны, в которой механоиды анализируют монолит архотека.</MoonPillarSite.description>
 	
     <TribalPillarSite.label>звёздный тотем</TribalPillarSite.label>
-    <TribalPillarSite.description>Святое место для племён этой планеты: место падения монолита архотека.</TribalPillarSite.description>
+    <TribalPillarSite.description>Местоположение архотек монолита, который считается святым для всех аборигенов этой планеты. Захвачен враждебным племенем берсерков.</TribalPillarSite.description>
 	
     <InsectPillarSite.label>материнский улей</InsectPillarSite.label>
-    <InsectPillarSite.description>Местоположение самого большого на этой планете скопления насекомых, видимо, построенного вокруг монолита архотека.</InsectPillarSite.description>
+    <InsectPillarSite.description>Местоположение архотек монолита в центре самого большого улья насекомых.</InsectPillarSite.description>
 
 
 </LanguageData>

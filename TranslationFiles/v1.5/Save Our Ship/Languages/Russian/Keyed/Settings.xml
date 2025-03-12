@@ -14,13 +14,13 @@
 	<SoS.Settings.OffsetUIy>Смещение интерфейса по Y</SoS.Settings.OffsetUIy>
 	<SoS.Settings.OffsetUIy.Desc>Смещение корабельного интерфейса по вертикальной оси.</SoS.Settings.OffsetUIy.Desc>
 	<SoS.Settings.ShuttlesToDisplay>Отображение шаттлов</SoS.Settings.ShuttlesToDisplay>
-	<SoS.Settings.ShuttlesToDisplay.Desc>Максимальное количество шаттлов, отображаемых в бою. Наиболее поврежденные шаттлы имеют приоритет отображения. Если 0, будет отображаться столько, сколько может вместить экран.</SoS.Settings.ShuttlesToDisplay.Desc>
+	<SoS.Settings.ShuttlesToDisplay.Desc>Максимальное количество шаттлов, отображаемых в бою. Наиболее повреждённые шаттлы имеют приоритет отображения. Если 0, будет отображаться столько, сколько может вместить экран.</SoS.Settings.ShuttlesToDisplay.Desc>
 	
 	<SoS.Settings.Misc>Разные настройки</SoS.Settings.Misc>
 	<SoS.Settings.EasyMode>Спасательные капсулы</SoS.Settings.EasyMode>
 	<SoS.Settings.EasyMode.Desc>При уничтожении шаттла, его экипаж вернется на борт корабля в спасательных капсулах.\n\nПо умолчанию: отключено</SoS.Settings.EasyMode.Desc>
 	<SoS.Settings.ShipMapPhysics>Физика корабля</SoS.Settings.ShipMapPhysics>
-	<SoS.Settings.ShipMapPhysics.Desc>Во время движения корабля существа и предметы за бортом будут утеряны. Это также ограничит количество места для посадки шаттлов на вражеском корабле.\n\nПо умолчанию: отключено</SoS.Settings.ShipMapPhysics.Desc>
+	<SoS.Settings.ShipMapPhysics.Desc>Во время движения корабля существа и предметы за бортом останутся позади. Это также ограничит доступные места для посадки шаттлов на вражеском корабле.\n\nПо умолчанию: отключено</SoS.Settings.ShipMapPhysics.Desc>
 	<SoS.Settings.ArchoRemove>Архо-жизнь</SoS.Settings.ArchoRemove>
 	<SoS.Settings.ArchoRemove.Desc>Удаляет архо-существ, если они появляются из-за других модификаций до прохождения нужных событий в SOS2.\n\nПо умолчанию: отключено</SoS.Settings.ArchoRemove.Desc>
 	<SoS.Settings.ArchoKill>Связь архо-жизни</SoS.Settings.ArchoKill>
