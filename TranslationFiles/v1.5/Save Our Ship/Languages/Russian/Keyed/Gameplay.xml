@@ -100,7 +100,7 @@
 	<SoS.PlaceOnShipHull>Необходимо размещать внутри корпуса своего корабля.</SoS.PlaceOnShipHull>
 	<SoS.EnginePlaceRotation>Ускорители корабля должны быть направлены в одну сторону!</SoS.EnginePlaceRotation>
 	<!-- comms/trade -->
-	<SoS.TradeComms>Торговать с </SoS.TradeComms>
+	<SoS.TradeComms>Связь с </SoS.TradeComms>
 	<SoS.TradeTradeWith>Запросить информацию о грузе для торговли</SoS.TradeTradeWith>
 	<SoS.TradeTradeDecline>Капитан корабля {0} отказывается предоставлять информацию о грузе, опасаясь вашего пиратского рейтинга.</SoS.TradeTradeDecline>
 	<SoS.PirateTradeDemand>Требовать сбросить груз</SoS.PirateTradeDemand>
