@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--1.5\Defs\WorldObjectDefs\WorldObjects.xml-->
+
+    <ShipOrbiting.label>Орбитальный корабль</ShipOrbiting.label>
+    <ShipOrbiting.description>Корабль одной из фракций, находящийся на планетарной орбите.</ShipOrbiting.description>
+	
+    <ShipEnemy.label>Вражеский Корабль</ShipEnemy.label>
+    <ShipEnemy.description>Враждебный космический корабль на планетарной орбите.</ShipEnemy.description>
+	
+    <WreckSpace.label>Обломки</WreckSpace.label>
+    <WreckSpace.description>Обломки корабля на планетарной орбите.</WreckSpace.description>
+	
+    <ShipEngineImpactSite.label>древние обломки</ShipEngineImpactSite.label>
+    <ShipEngineImpactSite.description>Место падения кормовой части древнего космического корабля, где располагался двигатель Джонсона-Танаки.</ShipEngineImpactSite.description>
+
+    <MoonPillarSite.label>лунная база</MoonPillarSite.label>
+    <MoonPillarSite.description>Исследовательская база на поверхности луны, где механоиды изучают архотек колонну.</MoonPillarSite.description>
+	
+    <TribalPillarSite.label>звёздный тотем</TribalPillarSite.label>
+    <TribalPillarSite.description>Местоположение архотек колонны, которая считается святыней для всех аборигенов этой планеты. В настоящее время захвачена враждебным племенем берсерков.</TribalPillarSite.description>
+	
+    <InsectPillarSite.label>материнский улей</InsectPillarSite.label>
+    <InsectPillarSite.description>Местоположение архотек колонны в центре самого большого улья насекомых.</InsectPillarSite.description>
+
+
+</LanguageData>

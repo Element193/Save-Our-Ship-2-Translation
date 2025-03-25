@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>	<!--1.5\Defs\Storyteller\Incidents_Space.xml-->
+	
+	<ShipCombat.label>Корабельный бой!</ShipCombat.label>
+	
+	<SpacePirates.label>Пираты</SpacePirates.label>
+	<SpacePirates.letterLabel>Пираты!</SpacePirates.letterLabel>
+	
+	<SpaceDebris.label>космические обломки</SpaceDebris.label>
+	<SpaceDebris.letterLabel>Космические обломки</SpaceDebris.letterLabel>
+	<SpaceDebris.letterText>Корабль вошёл в скопление космических обломков. Используйте двигатели для уклонения, или готовьтесь к столкновению!</SpaceDebris.letterText>
+	
+	<SpacePodFound.label>транспортная капсула</SpacePodFound.label>
+	<SpacePodFound.letterLabel>Транспортная капсула</SpacePodFound.letterLabel>
+	<SpacePodFound.letterText>Неподалёку обнаружена транспортная капсула. Хотите ли вы забрать её?</SpacePodFound.letterText>
+
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--1.5\Defs\Misc\Bleuprintdefs\Blueprint Piercer Corvette.xml-->
+  <ShipBPPiCv.label>проект корабля (Корвет Пиршн)</ShipBPPiCv.label>
+  <ShipBPPiCv.description>Многоразовый проект космического корабля, который строится в 3 этапа при наличии нужных технологий. Проект можно изменять в процессе строительства, но его следующий этап будет размещён только после постройки всех сооружений.</ShipBPPiCv.description>
+</LanguageData>

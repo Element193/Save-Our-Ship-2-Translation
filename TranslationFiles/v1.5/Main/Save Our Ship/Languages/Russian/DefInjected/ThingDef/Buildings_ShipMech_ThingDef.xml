@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--1.5\Defs\ThingDefs_Buildings\Buildings_ShipMech.xml-->
+	<Ship_BeamMech_Unpowered.label>корпус корабля механоидов (без питания)</Ship_BeamMech_Unpowered.label>
+	<Ship_BeamMech_Unpowered.description>Внешние структурные элементы корпуса корабля механоидов. Не включает теплопроводы и кабели.</Ship_BeamMech_Unpowered.description>
+	
+	<Ship_BeamMech.label>корпус корабля механоидов</Ship_BeamMech.label>
+	<Ship_BeamMech.description>Внешние структурные элементы корпуса корабля механоидов. Включает трубопроводы и кабели.</Ship_BeamMech.description>
+	
+	<Ship_Corner_OneOne_Mech.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneOne_Mech.description>
+	<Ship_Corner_OneOne_Mech.label>угол корпуса (1x1)</Ship_Corner_OneOne_Mech.label>
+	
+	<Ship_Corner_OneOne_MechFlip.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneOne_MechFlip.description>
+	<Ship_Corner_OneOne_MechFlip.label>угол корпуса (1x1) перевёрнутый</Ship_Corner_OneOne_MechFlip.label>
+	
+	<Ship_Corner_OneTwo_Mech.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneTwo_Mech.description>
+	<Ship_Corner_OneTwo_Mech.label>угол корпуса (1x2)</Ship_Corner_OneTwo_Mech.label>
+	
+	<Ship_Corner_OneTwoFlip_Mech.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneTwoFlip_Mech.description>
+	<Ship_Corner_OneTwoFlip_Mech.label>угол корпуса (1x2) перевёрнутый</Ship_Corner_OneTwoFlip_Mech.label>
+	
+	<Ship_Corner_OneThree_Mech.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneThree_Mech.description>
+	<Ship_Corner_OneThree_Mech.label>угол корпуса (1x3)</Ship_Corner_OneThree_Mech.label>
+	
+	<Ship_Corner_OneThreeFlip_Mech.description>Угловая броня для внешнего корпуса корабля.</Ship_Corner_OneThreeFlip_Mech.description>
+	<Ship_Corner_OneThreeFlip_Mech.label>угол корпуса (1x3) перевёрнутый</Ship_Corner_OneThreeFlip_Mech.label>
+	
+	<ShipInside_SolarGeneratorMech.label>солнечная батарея механоидов</ShipInside_SolarGeneratorMech.label>
+	<ShipInside_SolarGeneratorMech.description>Производит электричество из солнечного света. До 750 Вт в космосе, до 375 Вт на поверхности планеты. Не работает в темноте и от искусственного освещения.</ShipInside_SolarGeneratorMech.description>
+	
+	<ShipInside_PassiveVentMechanoid.label>корабельная вентиляция механоидов</ShipInside_PassiveVentMechanoid.label>
+	<ShipInside_PassiveVentMechanoid.description>Охлаждает или нагревает комнаты внутри корабля до нужной температуры.\n\nМожет использовать электричество для отопления, если в тепловых баках недостаточно нагрева.</ShipInside_PassiveVentMechanoid.description>
+	
+	<ShipAirlockMech.label>шлюз корабля механоидов</ShipAirlockMech.label>
+	<ShipAirlockMech.description>Позволяет получать доступ к кораблю или разделять помещения внутри него. Энергетические плазменные барьеры препятствуют выходу газов.</ShipAirlockMech.description>
+	
+	<ShipHullTileMech.label>обшивка корпуса механоидов</ShipHullTileMech.label>
+	<ShipHullTileMech.description>Крепкая обшивка корпуса, построенная механоидами.</ShipHullTileMech.description>
+</LanguageData>
