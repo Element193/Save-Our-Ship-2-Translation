@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SoS.SpinalEngines.FuelRate>Расход топлива в секунду: {0} из {1} возможных</SoS.SpinalEngines.FuelRate>
+  <SoS.SpinalEngines.Thrust>Тяга: {0}</SoS.SpinalEngines.Thrust>
+  <SoS.SpinalEngines.NoAccelerator>Нет топливных ускорителей!</SoS.SpinalEngines.NoAccelerator>
+  <SoS.SpinalEngines.NoFuelSupport>Нет модульного бака; Убедитесь, что топливные ускорители подключены к выходу модульного бака!</SoS.SpinalEngines.NoFuelSupport>
+  <SoS.SpinalEngines.NoFuelSupportEnd>Модульный бак имеет неполную структуру: отсутствует основа бака?</SoS.SpinalEngines.NoFuelSupportEnd>
+  <SoS.SpinalEngines.InSufficientFuelSupport>Бак может обеспечить расход {1} топлива в секунду, требуется {0}.</SoS.SpinalEngines.InSufficientFuelSupport>
+  <SoS.SpinalEngines.DefaultError>Двигатель собран не полностью! Проверьте наличие всех модулей!</SoS.SpinalEngines.DefaultError>
+  <SoS.SpinalEngines.BackwardsSpinal>Один из модулей размещен в обратном направлении!</SoS.SpinalEngines.BackwardsSpinal>
+  <SoS.SpinalEngines.ComponentRemoved>Удален компонент {0} модульного двигателя!</SoS.SpinalEngines.ComponentRemoved>
+</LanguageData>

@@ -4,7 +4,7 @@
 	<SoS.Settings.RenderPlanet>Динамическое отображение планеты</SoS.Settings.RenderPlanet>
 	<SoS.Settings.RenderPlanet.Desc>Улучшенное отображение планеты из космоса, цикл дня и ночи. Сильно влияет на производительность.\n\nПо умолчанию: отключено</SoS.Settings.RenderPlanet.Desc>
 	
-	<SoS.Settings.UI>Настройки интерфейса:</SoS.Settings.UI>
+	<SoS.Settings.UI>Настройки интерфейса</SoS.Settings.UI>
 	<SoS.Settings.UseSplashScreen>Фон в главном меню</SoS.Settings.UseSplashScreen>
 	<SoS.Settings.UseSplashScreen.Desc>Фон SOS2 в главном меню.\n\nНеобходим перезапуск.\nПо умолчанию: включено</SoS.Settings.UseSplashScreen.Desc>
 	<SoS.Settings.PersistShipUI>Интерфейс корабля</SoS.Settings.PersistShipUI>
@@ -20,13 +20,13 @@
 	<SoS.Settings.EasyMode>Спасательные капсулы</SoS.Settings.EasyMode>
 	<SoS.Settings.EasyMode.Desc>При уничтожении шаттла, его экипаж вернется на борт корабля в спасательных капсулах.\n\nПо умолчанию: отключено</SoS.Settings.EasyMode.Desc>
 	<SoS.Settings.ShipMapPhysics>Физика корабля</SoS.Settings.ShipMapPhysics>
-	<SoS.Settings.ShipMapPhysics.Desc>Во время движения корабля существа и предметы за бортом останутся позади. Это также ограничит доступные места для посадки шаттлов на вражеском корабле.\n\nПо умолчанию: отключено</SoS.Settings.ShipMapPhysics.Desc>
-	<SoS.Settings.ArchoRemove>Архо-жизнь</SoS.Settings.ArchoRemove>
-	<SoS.Settings.ArchoRemove.Desc>Удаляет архо-существ, если они появляются из-за других модификаций до прохождения нужных событий в SOS2.\n\nПо умолчанию: отключено</SoS.Settings.ArchoRemove.Desc>
+	<SoS.Settings.ShipMapPhysics.Desc>Во время движения корабля, существа и предметы за бортом останутся позади. Это также ограничит доступные места для посадки шаттлов на вражеском корабле.\n\nПо умолчанию: отключено</SoS.Settings.ShipMapPhysics.Desc>
+	<SoS.Settings.ArchoRemove>Удаление архо-жизни</SoS.Settings.ArchoRemove>
+	<SoS.Settings.ArchoRemove.Desc>Удаляет существа архотека, если они появляются из-за других модификаций до прохождения нужных событий в SOS2.\n\nПо умолчанию: отключено</SoS.Settings.ArchoRemove.Desc>
 	<SoS.Settings.ArchoKill>Связь архо-жизни</SoS.Settings.ArchoKill>
-	<SoS.Settings.ArchoKill.Desc>Если Спора уничтожена, существа, которые она создала погибнут.\n\nПо умолчанию: отключено.</SoS.Settings.ArchoKill.Desc>
+	<SoS.Settings.ArchoKill.Desc>Существа архотека погибнут после разрушения Архотек-Споры, которая их создала.\n\nПо умолчанию: отключено.</SoS.Settings.ArchoKill.Desc>
 	<SoS.Settings.Debug>Режим отладки</SoS.Settings.Debug>
-	<SoS.Settings.Debug.Desc>Отображение области корабля и списка всех кораблей/обломков на карте. При наведении на некоторые объекты будет отображаться дополнительная информация. Также будет больше записей в журнале.\n\nПо умолчанию: отключено.</SoS.Settings.Debug.Desc>
+	<SoS.Settings.Debug.Desc>Отображение областей всех кораблей и обломков на карте. При наведении на некоторые объекты будет отображаться дополнительная информация. Также будет больше записей в журнале.\n\nПо умолчанию: отключено.</SoS.Settings.Debug.Desc>
 	
 	<!--SoS.Settings.UseVacuumPathfinding>Use vacuum pathfinding</SoS.Settings.UseVacuumPathfinding>
 	<SoS.Settings.UseVacuumPathfinding.Desc>If checked, pawns without EVA gear will attempt to avoid vacuum areas. This can break compatibility with other mods which alter pathfinding. Restart the game after changing this setting.</SoS.Settings.UseVacuumPathfinding.Desc-->
@@ -41,11 +41,11 @@
 	<SoS.Settings.FleetChance>Шанс случайного флота: {3}. Мин: {0} Макс: {1} Стандарт: {2}</SoS.Settings.FleetChance>
 	<SoS.Settings.FleetChance.Desc>Вероятность, что случайные корабли или торговцы будут флотами. Не работает при низком или высоком уровне боевого рейтинга.</SoS.Settings.FleetChance.Desc>
 	
-	<SoS.Settings.Travel>Настройки путешествия:</SoS.Settings.Travel>
+	<SoS.Settings.Travel>Настройки путешествия</SoS.Settings.Travel>
 	<SoS.Settings.MinTravelTime>Минимальное время путешествия: {3}. Мин: {0} Макс: {1} Стандарт: {2}</SoS.Settings.MinTravelTime>
-	<SoS.Settings.MinTravelTime.Desc>Минимальное количество лет, которое проходит при путешествии в новый мир.</SoS.Settings.MinTravelTime.Desc>
+	<SoS.Settings.MinTravelTime.Desc>Минимальное количество лет, которые проходят в межзвёздном путешествии.</SoS.Settings.MinTravelTime.Desc>
 	<SoS.Settings.MaxTravelTime>Максимальное время путешествия: {3}. Мин: {0} Макс: {1} Стандарт: {2}</SoS.Settings.MaxTravelTime>
-	<SoS.Settings.MaxTravelTime.Desc>Максимальное количество лет, которое проходит при путешествии в новый мир.</SoS.Settings.MaxTravelTime.Desc>
+	<SoS.Settings.MaxTravelTime.Desc>Максимальное количество лет, которые проходят в межзвёздном путешествии.</SoS.Settings.MaxTravelTime.Desc>
 	
 	<SoS.Settings.Danger>Экспериментальные настройки</SoS.Settings.Danger>
 	<SoS.Settings.EnemyMapSize>Размер карты: {3}. Мин: {0} Макс: {1} Стандарт: {2}</SoS.Settings.EnemyMapSize>

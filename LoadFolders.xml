@@ -33,4 +33,21 @@
 	</v1.5>
 
 
+	<!-- RimWorld 1.6 -->
+	<v1.6>
+		<!-- SOS -->
+		<li>TranslationFiles/v1.6/Main/Save Our Ship</li>
+		<li>TextureFiles</li>
+
+		<!-- DLC -->
+		<li IfModActive="Ludeon.RimWorld.Royalty">TranslationFiles/v1.6/Main/Royalty</li>
+		<li IfModActive="Ludeon.RimWorld.Anomaly">TranslationFiles/v1.6/Main/Anomaly</li>
+
+		<!-- MOD -->
+		<li IfModActive="kentington.saveourshipck">TranslationFiles/v1.6/Mods/Save Our Ship Creation Kit</li>
+		<li IfModActive="TheCafFiend.SOS2SpinalEngines">TranslationFiles/v1.6/Mods/Spinal Engines for SOS2</li>
+		<li IfModActive="carl.outlanderships">TranslationFiles/v1.6/Mods/Low-Tech Ship pack for SOS2</li>
+	</v1.6>
+
+
 </loadFolders>

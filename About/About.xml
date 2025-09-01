@@ -8,9 +8,10 @@
         <li>1.3</li>
         <li>1.4</li>
         <li>1.5</li>
+        <li>1.6</li>
     </supportedVersions>
 
-    <description>Неофициальное дополнение для RimWorld. Постройте пригодный для жизни корабль и продолжите историю своих колонистов в космосе — участвуйте в корабельных боях с пиратами, ищите сокровища среди заброшенных кораблей или откройте одну-две величайших космических тайн!\n\nSoS2 включает две концовки: постройте двигатель Джонсона-Танаки, чтобы отправиться в новый мир, или превратите кого-то из своего экипажа в бога-машину с помощью Архотек Споры.\n\nПеревод:\nSave Our Ship 2\nSave Our Ship Creation Kit\nSpinal Engines for SOS2\nLow-Tech Ship pack for SOS2</description>
+    <description>Неофициальное дополнение для RimWorld. Постройте пригодный для жизни корабль и продолжите историю своих колонистов в космосе — участвуйте в корабельных боях с пиратами, ищите сокровища среди заброшенных кораблей или откройте одну-две величайших космических тайн!\n\nSoS2 включает две концовки: постройте двигатель Джонсона-Танаки, чтобы отправиться в новый мир, или превратите кого-то из своего экипажа в бога-машину с помощью Архотек-Споры.\n\nПеревод 1.6:\nSave Our Ship 2\n\nПеревод 1.5 (используется для 1.6):Save Our Ship Creation Kit\nSpinal Engines for SOS2\nLow-Tech Ship pack for SOS2</description>
 
     <modDependencies>
     <li><packageId>kentington.saveourship2</packageId><displayName>Save Our Ship 2</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/1909914131</steamWorkshopUrl></li>
